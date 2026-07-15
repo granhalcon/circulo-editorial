@@ -21,17 +21,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install and Build Zola
-        uses: shalzz/zola-deploy-action@v0.19.2
-        env:
-          BUILD_DIR: .
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_ONLY: true
-        with:
-          # Forzamos tu versión exacta de producción
-          version: '0.22.1'
-          # Le indicamos el archivo de configuración correcto
-          config: zola.toml
+      # 1. Instalar la versión exacta de Zola que usas en tu máquina
+      - name: Install Zola
+        run: |
+          HEX_VERSION="v0.22.1"
+          curl -sSL "https://github.com/getzola/zola/releases/download/${HEX_VERSION}/zola-${HEX_VERSION}-x86_64-unknown-linux-gnu.tar.gz" | tar -xz
+          sudo mv zola /usr/local/bin/
+
+      # 2. Compilar el sitio usando Zola de forma nativa
+      - name: Build Site
+        run: zola build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
