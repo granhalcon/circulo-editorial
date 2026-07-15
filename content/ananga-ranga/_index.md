@@ -1,14 +1,4 @@
 +++
-" Configuración específica para Markdown
-autocmd FileType markdown
-    \ setlocal spell spelllang=es,en |      " Corrector ortográfico (español + inglés)
-    \ setlocal wrap |                       " Salto de línea visual (sin romper la línea)
-    \ setlocal linebreak |                  " No cortar palabras en medio
-    \ setlocal textwidth=80 |               " Ancho máximo para formateo
-    \ setlocal colorcolumn=80 |             " Línea vertical de guía
-    \ setlocal conceallevel=2 |             " Oculta marcadores de negrita/cursiva/etc.
-    \ setlocal tabstop=2 shiftwidth=2 softtabstop=2
-
 title = "Ananga Ranga"
 description = "Tratado clásico de la literatura hindú sobre sensualidad, erotismo y la ciencia del amor. El Ananga Ranga es un compendio de técnicas y filosofía amatoria que explora la intimidad desde perspectivas tántricas y sexuales, considerado un precursor del Kamasutra. Esta versión completa ofrece una visión profunda sobre energía sexual, conexión y la expresión erótica en las relaciones humanas."
 weight = 5
