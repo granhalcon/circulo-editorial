@@ -3,7 +3,7 @@ name: Deploy Zola site to Pages
 on:
   push:
     branches:
-      - main  # Se ejecutará cada vez que subas cambios a la rama main
+      - main
 
 permissions:
   contents: read
@@ -24,11 +24,14 @@ jobs:
       - name: Install and Build Zola
         uses: shalzz/zola-deploy-action@v0.19.2
         env:
-          # Esto compila tu sitio usando la URL correcta de tu GitHub Pages
           BUILD_DIR: .
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Si tienes un dominio personalizado, puedes quitar esta línea o cambiarla
-          BUILD_ONLY: true 
+          BUILD_ONLY: true
+        with:
+          # Forzamos tu versión exacta de producción
+          version: '0.22.1'
+          # Le indicamos el archivo de configuración correcto
+          config: zola.toml
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
