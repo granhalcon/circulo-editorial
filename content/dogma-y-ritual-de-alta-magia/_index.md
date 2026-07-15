@@ -43,7 +43,7 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 # Dogma y Ritual de la Alta Magia
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-000.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-000.webp)
 
 ##### Eliphas Levi
 
@@ -116,7 +116,7 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 ## DOGMA
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-001.webp)          |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-001.webp)          |
 | ---------------------------------- |
 | Fig.1 El esoterismo sacerdotal[^1] |
 
@@ -539,7 +539,7 @@ Nuestra obra tiene dos partes. En una establecemos el dogma cabalístico y mági
 
 **ELIPHAS LÉVI**
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-002.webp)             |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-002.webp)             |
 | ------------------------------------- |
 | Fig. 2 El Gran Símbolo de Salomon[^5] |
 
@@ -747,7 +747,7 @@ La inserción del falo vertical en el _cteis_ horizontal forma el _stauros_ de l
 
 En los tetragramas de Fohi, la unidad es el yang; el binario es el _yin_.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-003.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-003.webp)
 
 Bohas y Jakin son los nombres de dos columnas simbólicas que estaban delante de la puerta principal del templo cabalístico de Salomón.
 
@@ -777,7 +777,7 @@ La unidad no puede manifestarse más que por el binario; la unidad por sí sola 
 
 La unidad del macrocosmo se revela por los dos vértices opuestos de los dos triángulos.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-004.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-004.webp)
 
 Fig.3 El Triángulo de Salomón
 
@@ -923,7 +923,7 @@ Como Espíritu Santo, regenera y fecunda a la humanidad.
 
 Por esto en los trigramas de Fohi a los tres _yang_ superiores corresponden los tres yig inferiores, porque los trigramas de Fohi son un pantáculo semejante a los dos triángulos de Salomón, pero con una interpretación ternaria de seis puntos de la estrella brillante:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-005.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-005.webp)
 
 El dogma no es divino en tanto que no es verdaderamente humano, es decir, que reúna la más elevada razón de la humanidad; así el maestro, a quien llamamos el hombre-Dios; se llamaba a sí mismo el hijo del hombre.
 
@@ -951,8 +951,8 @@ Nada es, pues, indiferente en la vida, y nuestras más sencillas determinaciones
 
 Siendo lo ternario el principio fundamental de toda la cábala o tradición sagrada de nuestros padres, ha debido ser el dogma fundamental del cristianismo, del que explica el dualismo aparente por la intervención de una armoniosa y toda poderosa unidad. El Cristo no ha escrito su dogma y no lo ha revelado en secreto más que a su discípulo favorito, el único cabalista, y gran cabalista entre los apóstoles. Así el Apocalipsis es el libro de la gnosis o doctrina secreta de los primeros cristianos, doctrina cuya clave esta indicada en un versículo secreto de Pater, que la vulgata no traduce y el rito griego (conservador de las tradiciones de San Juan) no permite más que a los sacerdotes pronunciar. Este versículo completamente cabalista se encuentra en el texto griego del evangelio, según San Mateo y en muchos ejemplares hebraicos. Helo aquí en las dos lenguas sagradas:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-006.webp)
-![](@/media/dogma-y-ritual-de-alta-magia/media-007.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-006.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-007.webp)
 
 La palabra sagrada de _Malkout_, empleada _por Keter_, que es su correspondiente cabalístico, y la balanza de Géburah y de Chesed, repitiéndose en los círculos o ciclos que los gnósticos llamaban _Eones_, dan en este versículo oculto la clave de la bóveda de todo el templo cristiano. Los protestantes lo han traducido y conservado en su Nuevo Testamento, sin encontrar la elevada y maravillosa inteligencia que les hubiera desvelado todos los misterios del Apocalipsis; pero es una tradición en la Iglesia que la revelación de esos misterios está reservada para la consumación de los tiempos.
 
@@ -1018,7 +1018,7 @@ El secreto absoluto de esta dirección ha sido poseído por algunos hombres y pu
 
 El axioma incomunicable está encerrado cabalísticamente en las cuatro letras del tetragrámaton, dispuestas del modo que muestra la figura:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-008.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-008.webp)
 
 Fig.4 Los cuatro grandes nombres cabalísticos
 
@@ -1047,7 +1047,7 @@ Así la profecía cristiana contiene una cuádruple revelación:
 
 Esta cuádruple profecía contiene, como puede verse, dos afirmaciones y dos negaciones; la idea de dos ruinas o muertes universales y de dos renacimientos; porque a toda idea que aparece en el horizonte social, se le puede asignar, sin temores a incurrir en error, un Oriente y un Occidente, un cenit y un nadir. Así es cómo la cruz filosófica es ¡a llave de la profecía y cómo se puede abrir todas las puertas de la ciencia con el pantáculo de Ezequiel, cuyo centro es una estrella formada por el cruzamiento de dos cruces.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-009.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-009.webp)
 
 ¿No se forma la vida humana también de estas tres fases o transformaciones sucesivas: nacimiento, vida, muerte e inmortalidad? Y advertir aquí que la inmortalidad del alma, necesitada como complemento del cuaternario y cabalísticamente probada por la analogía, que es el dogma único de la religión verdaderamente universal, es la llave de la ciencia y la ley inviolable de la Naturaleza.
 
@@ -1065,7 +1065,7 @@ En ciencia mágica sabido es que el agua no es el agua común; que el fuego no e
 
 Lo sutil y lo espeso; el disolvente rápido y el disolvente lento, o los instrumentos en caliente y en frío, forman en física oculta los dos principios positivos y los dos principios negativos del cuaternario, y deben figurarse así:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-010.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-010.webp)
 
 Así la tierra y el aire representan el principio masculino; el fuego y el agua se refieren al principio femenino, puesto que la cruz filosófica de los pantáculos es, como ya lo hemos dicho, un jeroglífico primitivo y elemental del _lingam_ de los _gimnosofistas_
 
@@ -1106,7 +1106,7 @@ Hasta aquí hemos expuesto el dogma mágico en su parte más árida y más abstr
 
 El pentagrama expresa la dominación del espíritu sobre los elementos y es por medio de este signo como se encadena a los demonios del aire, a los espíritus del fuego a los espectros del agua y a los fantasmas de la tierra.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-011.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-011.webp)
 
 Fig. 5. El Pentagrama de Fausto
 
@@ -1220,7 +1220,7 @@ Paracelso este innovador de la Magia, que ha excedido a todos los demás iniciad
 
 Si se nos pregunta cómo un signo puede tener tanto poder sobre los espíritus, nosotros preguntaremos a nuestra vez por qué el mundo cristiano se ha prosternado ante el signo de la cruz. El signo no es nada por sí mismo, y no tiene fuerza sino por el dogma de que es resumen y verbo. Ahora bien, un signo que resume expresándolas, todas las fuerzas ocultas de la naturaleza, un signo que siempre a manifestado a los espíritus elementales y a otros un poder superior a su naturaleza les infunde temor y respeto y les obliga a obedecer, por el imperio de la ciencia y de la voluntad sobre la ignorancia y la debilidad.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-012.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-012.webp)
 
 El sello de Salomon
 
@@ -1523,7 +1523,7 @@ Estas diez primeras nociones unidas a los diez primeros caracteres del alfabeto 
 
 El tetragrámaton sagrado, trazado de esta manera:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-013.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-013.webp)
 
 Fig. 6 Tetragrama del Zohar
 
@@ -1544,7 +1544,7 @@ Los cabalistas, multiplicando los nombres divinos, los han ligado todos, o a la 
 
 Triángulo que puede traducirse así en letras romanas.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-014.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-014.webp)
 
 El conjunto de todos estos nombres divinos formados del único tetragrámaton, pero fuera del propio teiragrámaton, es una de las bases del Ritual hebreo y compone la fuerza oculta que los rabinos cabalistas invocan con el nombre de _Semhamphoras_.
 
@@ -1856,7 +1856,7 @@ Experimenté una sensación de frío extraordinaria, y cuando abrí la boca para
 
 Entonces la forma se hizo más confusa y desapareció de repente. Le ordené que volviera; entonces sentí pasar cerca de mí como un soplo, y que algo me había tocado en la mano que sustentaba la espada, sintiendo inmediatamente el brazo como entumecido hasta el hombro. Creí comprender que esa espada ofendía al espíritu y la hinqué por la punta dentro del círculo, cerca de mí.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-015.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-015.webp)
 
 La figura humana reaprecio inmediatamente; pero sentí una debilidad tan grande en todos mis miembros y un desfallecimiento tan repentino que de mí se apoderaba, que di dos pasos para sentarme. En cuanto me senté, caí en una especie de profundo sopor, acompañado de ensueños, de los que no me quedaron, al despertarme, más que un recuerdo confuso y vago.
 
@@ -2157,7 +2157,7 @@ Superstición, procede de una palabra latina que significa sobrevivir. Es el sig
 
 Entonces es cuando la religión, siempre una como la razón suprema, cambia de vestiduras y abandona los antiguos ritos ala codicia ya la farsa de los sacerdotes convertidos, metamorfoseados, por su maldad y su ignorancia, en charlatanes y juglares.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-016.webp)                            |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-016.webp)                            |
 | ---------------------------------------------------- |
 | Fig. 7 Los pantáculos de Ezequiel y Pitágoras[^37-1] |
 
@@ -2388,7 +2388,7 @@ El demonio es la muerte que se disfraza con las vestiduras usadas de la vida; es
 
 ## FIN DEL PRIMER VOLUMEN
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-017.webp)                   |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-017.webp)                   |
 | ------------------------------------------- |
 | Fig. 8 Addhanari, gran pantáculo indio[^42] |
 
@@ -2396,7 +2396,7 @@ El demonio es la muerte que se disfraza con las vestiduras usadas de la vida; es
 
 ## RITUAL
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-018-019.webp)                                  |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-018-019.webp)                                  |
 | -------------------------------------------------------------- |
 | Fig.1 Macho cabrio del Sabbat (Sábado) Baphomet de Mendés[^43] |
 
@@ -2528,7 +2528,7 @@ En ninguna parte del génesis se habla del demonio. Es una serpiente alegórica 
 
 Ha aquí lo que dice Moisés:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-020.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-020.webp)
 
 Esto es, de acuerdo a Fabre d'Olivet:
 
@@ -2536,7 +2536,7 @@ _"La atracción original era la pasión arrastradota de toda la vida elemental (
 
 Pero, aquí Frabre d'Olivet esta fuera de la verdadera interpretación, porque ignoraba las grandes llaves de la Cabala. La palabra Nahasch, explicada por las tres letras simbólicas del Taro, significa rigurosamente:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-021.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-021.webp)
 
 La palabra empleada por Moisés, leída cabalísticamente, nos da pues, la descripción y definición de este agente mágico universal, simbolizado en todas las teogonías por la serpiente y al igual que los hebreos daban también el nombre de Od, cuando manifiesta su parte activa; el nombre de Ob cuando muestra su parte pasiva, y de Aur cuando se revela enteramente su poder equilibrado, productor de la luz en el cielo y del oro entre los metales.
 
@@ -2642,7 +2642,7 @@ Existe otra firma que representa también los misterios de la luz: es la firma d
 
 Los talismanes de Salomón traían, de un lado, la impresión de su sello, cuya figura dimos al final de quinto capitulo de nuestro dogma (véase pag 69). Del otro lado, estaba la firma, cuya forma esta mostrada en la figura que se detalla a continuación.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-022.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-022.webp)
 
 Esta figura es la teoría hieroglífica de la composición de los imanes y representa la ley circular del rayo.
 
@@ -2756,7 +2756,7 @@ Existen también sustancias que producen el éxtasis y predisponen al sueño mag
 
 Aquel que quiere entregarse seriamente a la obra mágica después de haber afirmado su espíritu contra todo peligro de alucinación o de espanto, debe —purificarse interior y exteriormente durante cuarenta días. El número cuarenta es sagrado y hasta su misma figura es mágica. En cifras árabes, se compone del círculo, imagen de lo infinito y del 4 que resume el ternario por la unidad. En cifras romanas, dispuestas de la siguiente manera, representa el signo fundamental de Hermes y el carácter del sello de Salomón[^45].
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-023.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-023.webp)
 
 La purificación del mago debe consistir en la abstinencia de las voluptuosidades brutales en un régimen vegetariano y dulce, en la privación de licores fuertes y en la reglamentación de las horas de sueño. Esta preparación a sido indicada y representada en todo los cultos por un tiempo de penitencia y de pruebas que precede a las fiestas simbólicas de la renovación de la vida
 
@@ -2856,7 +2856,7 @@ Siendo el ternario la base del dogma mágico, debe observarse éste en las evoca
 
 La letra **ש** está ordinariamente trazada en los pantáculos cabalísticos que tienen por objeto el cumplimiento de un deseo. Esta letra es también la marca del macho cabrío emisario en la Cábala mística, y San Martín observa que esa letra, intercalada en el tetragrama incomunicable, ha formado el nombre del redentor de los hombres **הןשהי**. Estos es lo que representan los mistagogos de la edad media, cuando en sus asambleas nocturnas, exhibían un macho cabrío simbólico, llevando sobre la cabeza, entre los dos cuernos, una antorcha encendida. Este animal monstruoso, del cual hacemos, en el capítulo XV de este Ritual, la descripción de las formas alegóricas y el raro culto, representa la naturaleza entregada al anatema, pero compensado por el signo de la luz. Los ágapes gnósticos y las priapeas paganas que sucedían en su honor, revelan bastante la consecuencia moral que los adeptos querían sacar de esta exhibición. Todo esto será explicado con los ritos, descritos y considerados ahora como fabulosos, del gran sábado de la magia negra.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-024.webp)    |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-024.webp)    |
 | ---------------------------- |
 | Fig. 2 Triangulo de Salomón. |
 
@@ -2864,11 +2864,11 @@ En el gran círculo de las evocaciones se traza un triangulo y es preciso observ
 
 Independientemente de estos signos, los antiguos hacían uso en sus evocaciones de combinaciones místicas de nombres divinos que ya hemos dado en el Dogma, según los cabalistas hebreos. El triángulo mágico de los teósofos paganos es el célebre ABRACADABRA, al que atribuían virtudes extraordinarias, y que figuraban así:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-025.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-025.webp)
 
 Esta combinación de letras, es una clave del pentagrama. La A inicial se repite en la primera línea cinco veces, y treinta veces en todo, lo que da los elementos y los números de estas dos figuras:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-026.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-026.webp)
 
 La A aislada, representa la unidad del primer principio o del agente intelectual o activo. La A unida a la B, representa la fecundación del binario por la unidad. La R es el signo del ternario, porque representa, jeroglíficamente la efusión que resulta de la unión de los principios. El número u de las letras de la palabra agrega la unidad del iniciado al denario de Pitágoras; y el número 66 total de todas las letras adicionadas, forma cabalísticamente el número 12 que es cuadrado del temario, y por consecuencia, la cuadratura mística del círculo. Advirtamos, de paso, que el autor del Apocalipsis, esa clavícula de la Cábala cristiana, ha compuesto el número de la bestia, es decir, de la idolatría, agregando un 6 al doble senario del ABRACADABRA: lo queda da cabalísticamente 18, número asignado en el Tarot al signo jeroglífico de la noche y de los profanos, la luna con las torres, el perro, el lobo y el cangrejo: número misterioso y oscuro, cuya clave cabalística es nueve, el número de la iniciación.
 
@@ -2886,7 +2886,7 @@ A las combinaciones triangulares se unían en las ceremonias mágicas, las repet
 
 El tridente[^47] de Paracelso, es un pantáculo manifestando el resumen del ternario en la unidad que completa así el cuaternario sagrado. Atribuía a esta figura todas virtudes que los cabalistas hebreos atribuían al nombre de Jehová, y las propiedades taumatúrgicas del Abracadabra de los hierofantes de Alejandría. Reconozcamos aquí que es un pantáculo, y, por consiguiente, un signo concreto y absoluto de toda una doctrina que ha sido la de un círculo magnético inmenso tanto para los filósofos antiguos, cuanto para los adeptos -de la Edad Media. Al exponer en la época actual su valor primitivo por la inteligencia de sus misterios, ¿no podríamos darle toda su virtud milagrosa y todo su poder contra las enfermedades humanas?
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-027.webp)         |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-027.webp)         |
 | --------------------------------- |
 | Fig. 3 Tridente de Paracelso[^48] |
 
@@ -3080,7 +3080,7 @@ Se consagra el pentagrama con los cuatro elemento es; se sopla cinco veces sobre
 
 El pentagrama debe colocarse sobre el altar de los perfumes y sobre el trípode de las evocaciones. EL operador debe llevar consigo la figura del mismo, conjuntamente con la del macrocosmos, es decir, la estrella de seis rayos, compuesta de dos triángulos, cruzados y superpuestos.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-028.webp)                   |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-028.webp)                   |
 | ------------------------------------------- |
 | Fig. 4 INSTRUMENTOS MAGICOS                 |
 | La lámpara, la varita, la espada y la falce |
@@ -3101,7 +3101,7 @@ La G que los masones colocan en medio de la estrella flameante significa: GNOSIS
 
 Disponiéndole de modo que dos de sus puntas estén arriba y una sola abajo, pueden verse en él los cuernos, las orejas y la barba del macho cabrío hierático de Méndez, convirtiéndose entonces en el signo de las evocaciones infernales.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-029.webp) |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-029.webp) |
 | ------------------------- |
 | Fig. 5 El Pentagrama.     |
 
@@ -3293,7 +3293,7 @@ La manera de transmitir la varita, es uno de los arcanos de la ciencia que no es
 
 Su longitud no debe exceder la del brazo del operador El mago no debe servirse de ella sino cuando esté solo, y ni aun debe tocarla sin necesidad. Algunos magos de la antigüedad la hacían del tamaño de la longitud de su antebrazo y la ocultaban entre las amplias mangas de su túnica, exhibiendo en público, la simple varita adivinatoria, o algún cetro alegórico hecho de marfil o de ébano, según la naturaleza de las obras.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-030-031.webp) |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-030-031.webp) |
 
 El cardenal Richeliu, que ambicionaba todos los poderes, buscó toda su vida sin poder conseguirlo, la transmisión de la varita mágica Su cabalista Gaffarel no pudo darle más que la espada y los talismanes; tal fue, quizás, el motivo de su terrible odio contra Urbano Grandier, que sabía algo de las debilidades del cardenal. La larga conversación secreta de Laubardemont con el desgraciado sacerdote, algunas horas antes de su último suplicio, y las palabras de un amigo y confidente de este último, cuando iban morir, «Señor, sois hábil y no os perderéis», dan que pensar sobre el particular.
 
@@ -3507,7 +3507,7 @@ De modo que la obra, es algo más que una operación química; es una creación 
 
 Este texto hebreo[^54], que transcribimos como prueba de la autenticidad y de la realidad de nuestro descubrimiento, es del rabino judío Abraham, maestro de Nicholas Flamel, y que se halla en su comentario oculto sobre el SepherJezirah, el libro sagrado de la Cábala. Este comentario es muy raro; pero las potencias simpáticas de nuestra cadena; nos hicieron encontrar un ejemplar que ha sido conservado hasta 1643 en la iglesia protestante de Rouen. En él se lee en la primera página: Ex dono; después un nombre ilegible: Dei magni.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-032.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-032.webp)
 
 La creación del oro en la gran obra, se hace por transmutación y por multiplicación.
 
@@ -3591,7 +3591,7 @@ Las evocaciones de ciencia y de inteligencia se hacen con ceremonias más solemn
 
 Se comenzará por una plegaria apropiada al genio del espíritu que quiere evocarse y que pudiera aprobarla él mismo, si viviese. Así, no se evocaría nunca a Voltaire, por ejemplo, recitando oraciones del gusto de las de Santa Brígida. Para los grandes hombres de los tiempos antiguos, se recitarán los himnos de Cleantheo o de Orfeo, con el juramento que termina los versos dorados de Pitágoras. Cuando nuestra evocación a Apolonio, habíamos adoptado como ritual la magia filosófica de Patricius, conteniendo los dogmas de Zoroastro y las obras de Hermes Trismegisto. Leímos en alta voz el Nuctamerón de Apolonio en griego y agregamos la conjuración siguiente:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-033.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-033.webp)
 
 Para la evocación de los espíritus pertenecientes a las religiones emanadas del judaísmo, es preciso decir la invocación cabalística de Salomón, sea en hebreo sea en otra lengua cualquiera que se sepa haya sido familiar al espíritu que se evoca.
 
@@ -3647,7 +3647,7 @@ Así, pues, se puede realmente cambiar a los hombres en animales y a los animale
 
 Se puede igualmente, a voluntad, hacerse visible o invisible, y vamos a explicar aquí los misterios del anillo de Gyges.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-034.webp) |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-034.webp) |
 | ------------------------- |
 | Fig. 6 Llave del Taro     |
 
@@ -3691,7 +3691,7 @@ El toro, el perro y el macho cabrío son los tres animales simbólicos de la mag
 
 En Judea se consagraban dos machos cabríos, el uno puro el otro impuro. El puro, era sacrificado en expiación de los pecados; el otros, cargado por imprecaciones de esos mismos pecados, era enviando en libertad al desierto. ¡Cosa extraña, pero de un simbolismo profundo! ¡La reconciliación por la abnegación y la expiación por la libertad! Pues bien; todos los sacerdotes que se han ocupado del simbolismo judío, han reconocido en el macho cabrío inmolado, la figura de aquel que ha tomado —dicen ellos— la propia forma del pecado. Luego los gnósticos no estaban fuera de las tradiciones simbólicas, cuando daban al Cristo libertador la figura mística del macho cabrío.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-035-036.webp)                      |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-035-036.webp)                      |
 | -------------------------------------------------- |
 | Macho cabrio del Sabbat (Sábado) Baphomet y Mendés |
 
@@ -3782,7 +3782,7 @@ Es preciso proveerse de un sayo negro, sin costuras y sin mangas, de un capacete
 
 Se traza un círculo perfecto con la espada, reservándose, sin embargo, una ruptura para salir, o un camino de salida; en el círculo se inscribe un triángulo, se colora con la sangre el pantáculo trazado con la espada; después, en uno de los ángulos se coloca el trípode, que también debemos contar entre los objetos indispensables; en la base opuesta del triángulo se hacen tres pequeño círculos, para el operador y sus dos ayudantes, y detrás del círculo del operador, se traza, no con la sangre de la víctima, sino con la misma sangre del operador, la propia insignia del lábaro, o el monograma de Constantino. El operador, o sus acólitos deben tenerlos pies desnudos y la cabeza cubierta.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-037.webp)                                     |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-037.webp)                                     |
 | ------------------------------------------------------------- |
 | Fig. 7 Circulo goético de las evocaciones negras y los pactos |
 
@@ -3808,11 +3808,11 @@ La grande y suprema llamada, según Pedro de Apono, es esta:
 
 He aquí los signos y firmas ordinarias de los demonios:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-038.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-038.webp)
 
 Estas son las firmas de los demonios simples; he aquí las signaturas oficiales de los príncipes del infierno:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-039.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-039.webp)
 
 Firmas comprobadas jurídicamente (¡jurídicamente! ¡Oh, señor conde de Mirvillel) y conservadas en los archivos judiciarios, como piezas de convicción en el proceso del desgraciado Urbano Grandier.
 
@@ -3928,7 +3928,7 @@ El cabalista Gaffarel, a quien ya hemos citado más de una vez, trazó un planis
 
 Por otra parte, los sabios no están de acuerdo acerca de la configuración de las letras del alfabeto primitivo. El Tarot italiano, del que es de aplaudir que los tipos góticos se hayan conservado, se refiere, por la disposición de sus figuras, al alfabeto hebreo, que ha estado en uso después de la cautividad, y al que se llama alfabeto asirio; pero existen fragmentos de otros Tarots, anteriores a éste en que la disposición no es ya la misma Como no es posible aventurar nada en materias de erudición nos atendremos para fijar nuestro juicio, de nuevos y más concluyentes descubrimientos.
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-040.webp)            |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-040.webp)            |
 | ------------------------------------ |
 | Fig. 10 Signos cabalísticos de Orión |
 
@@ -3944,7 +3944,7 @@ Gaffarel agrega algunos pronósticos sacados de las estrellas, como, por ejemplo
 
 He aquí el cuadro de los caracteres mágicos que fueron trazados por los antiguos astrólogos, según las constelaciones zodiacales; cada uno de esos caracteres representa el nombre de un genio, bueno o malo. Sabido es que los signos del zodíaco se refieren a diversas influencias celestes, y por consecuencia, expresan una alternativa anual de bien o de mal.
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-041.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-041.webp)
 
 Los nombres de los genios designados por esos caracteres, son:
 
@@ -4360,7 +4360,7 @@ Vemos, pues, de acuerdo a este calculo, que en 1879, esto es, en 24 años, se fo
 
 Talvez tendrá que sufrir, para eso, en una cruz y un martirio análogo a los del Hombre-Dios; sin embargo, muera o viva entre las naciones, su espíritu triunfara y todos los pueblos del mundo reconocerán, en 24 años, la bandera de Francia, siempre victoriosa o milagrosamente resucitada. Tal es la profecía de Trithemo, confirmada por todas nuestras previsiones y apoyada por todos nuestros deseos[^63].
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-042-043.webp)                       |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-042-043.webp)                       |
 | --------------------------------------------------- |
 | Fig. 12 EL CARRO DE HERMES, Séptima clave del Tarot |
 
@@ -4410,7 +4410,7 @@ Los verdaderos iniciados, contemporáneos de Etteilla, los Rosacruces, por ejemp
 
 Los verdaderos iniciados—repetimos— que tenían el secreto del Tarot entre sus mayores misterios, se guardaron bien de protestar contra los errores de Etteilla y le dejaron, no revelarlo, sino velar el arcano de las verdaderas clavículas de Salomón. Tampoco es sin un profundo asombro como hemos encontrado intacta e ignorada aún esa clave de todos los dogmas y de todas las filosofías del antiguo mundo. Digo una clave, y una es verdaderamente, teniendo un círculo de cuatro décadas por anillo, y por fuste o sea por un cuerpo, la escala de los 22 caracteres girando los tres grados del ternario, como lo comprendió Guillermo Postel en su Llave de las cosas ocultas desde el comienzo del mundo, clave que indica el nombre oculto y solo conocido de los iniciados:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-044.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-044.webp)
 
 palabra que puede leerse Rota y que significa la rueda de Ezequiel, o Taro, que entonces es sinónimo del Azoe de los filósofos herméticos. Es una palabra que manifiesta cabalísticamente lo absoluto dogmático y natural; está formada con caracteres del monograma de Cristo, según los griegos y los hebreos.
 
@@ -4605,7 +4605,7 @@ En los versículos 18 y 19 del éxodo, es preciso traducir el texto hebreo así:
 
 Los querubes o esfinges estaban efectivamente acoplados de a dos a cada lado del arca, y sus cabezas se volvían hacia los cuatro rincones del propiciatorio, al que cubrían con sus alas redondeadas en forma de bóveda, sombreando también la corona de la mesa de oro que sostenían sobre sus espaldas y se miraban el uno al otro, por parejas. Tal como muestra la figura:
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-045.webp) |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-045.webp) |
 | ------------------------- |
 | Fig. 14 El arca           |
 
@@ -4615,7 +4615,7 @@ San Martin, en su «Tabla natural de las relaciones que existen entre Dios, el h
 
 Hemos encontrado, de una manera bastante extraordinaria, una medalla del siglo XVI, que es una clave del Tarot. Nosotros no sabríamos decir que esta medalla, y el lugar en donde hubimos de hallarla, nos había sido exhibida en sueños por el divino Paracelso; sea lo que fuere, la medalla está en poder nuestro. Representa, de un lado el batelero, en traje alemán del siglo XVI, teniendo en una mano su cinturón y en la otra el pentagrama; tiene ante sí, sobre la mesa, entre un libro abierto y una bolsa cerrada, diez dineros o talismanes, dispuestos en dos líneas de tres cada uno y en un cuadrado de cuatro; las patas de la mesa forman dos **ה** y los del batelero dos **ד** invertidos de esta manera L7. El reverso de la medalla contiene las letras del alfabeto, dispuestas en cuadrado mágico, dé este modo:
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-046.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-046.webp)
 
 Puede advertirse que este alfabeto no tiene más que 22 letras, puesto que la V y la N están dos veces, y que está compuesto por cuatro quinarios y un cuaternario por clave y por base. Las cuatro letras finales son dos combinaciones del binario y del temario, leídas cabalísticamente forman la palabra AZOTH, dando a las configuraciones de las letras su valor en hebreo primitivo y tomando N por **א**, Z por lo que ella es en latín, V por la vau **ו** hebrea que se pronuncia O entre dos vocales o letras que tienen de ella el valor y la X por la tau primitiva que tenía exactamente esa figura. Todo el Tarot está, pues, explicado en esta maravillosa medalla, digna, en efecto, de Paracelso, y que nosotros ponemos a disposición de los curiosos. Las letras dispuestas por cuatro veces cinco, tienen por suma la palabra **חו**Z**א**, análoga a las de **הוהי** de INRI, y conteniendo todos los misterios de la
 
@@ -4715,7 +4715,7 @@ A él solo le pertenece un Verbo perfecto de conveniencia, de propiedad, de flex
 
 A él sólo le pertenece la luz, la ciencia, la verdad, porque la imaginación, limitada a su papel pasivo secundario, no domina nunca la razón, la lógica natural que resulta de la comparación de las ideas; que estas nacen, se multiplican, se extienden en las misma proporción que sus necesidades y que el círculo de sus conocimientos se ensanche también por grados, sin mezcla de juicios falsos de errores. »Para él sólo una luz infinitamente progresiva, porque la multiplicación rápida de la población, según las renovaciones terrestres, combina en pocos siglos la sociedad nueva en todas las relaciones imaginables de su destino, sean morales, sean políticas.»
 
-| ![](@/media/dogma-y-ritual-de-alta-magia/media-047-048.webp)                            |
+| ![](../media/dogma-y-ritual-de-alta-magia/media-047-048.webp)                            |
 | -------------------------------------------------------- |
 | Fig. 15 CLAVE APOCALÍPTICA[^66] Los 7 sellos de San Juan |
 
@@ -4803,69 +4803,69 @@ Este monumento de la alta magia de los sirios es muy curioso para no hacer sobre
 
 Primera hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-049.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-049.webp)
 
 En la unidad, los demonios cantan loores de Dios, pierden su malicia y su cólera.
 
 Segunda hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-050.webp) Por el binario, los peces del zodiaco, cantan loores a Dios, las serpientes del fuego se entrelazan alrededor del caduceo y el rayo se torna harmonioso.
+![](../media/dogma-y-ritual-de-alta-magia/media-050.webp) Por el binario, los peces del zodiaco, cantan loores a Dios, las serpientes del fuego se entrelazan alrededor del caduceo y el rayo se torna harmonioso.
 
 Tercera hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-051.webp) Las serpientes del caduceo de Hermes, se entrelazan tres veces. El cerebro abre su triple soldadura y el fuego canta loores a Dios mediante las 3 lenguas del rayo.
+![](../media/dogma-y-ritual-de-alta-magia/media-051.webp) Las serpientes del caduceo de Hermes, se entrelazan tres veces. El cerebro abre su triple soldadura y el fuego canta loores a Dios mediante las 3 lenguas del rayo.
 
 Cuarta hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-052.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-052.webp)
 
 En la cuarta hora el alma vuelve a su sepulcro, es el momento en que se encienden las lámparas mágicas en los cuatro cantos de los círculos, es la hora de los encantamientos y presagios.
 
 Quinta hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-053.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-053.webp)
 
 A la voz de lasss grandes aguas canta el Dios de las esferas celeste.
 
 Sexta hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-054.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-054.webp)
 
 El espíritu queda inmóvil, ve los monstruos infernales caminando contra si y queda sin temor.
 
 Séptima hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-055.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-055.webp)
 
 Un fuego que da la vida a todos los seres animados es dirigido por la voluntad de los hombres puros. El iniciado extiende la mano y los sufrimientos cesan.
 
 Octava hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-056.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-056.webp)
 
 Las estrellas se hablan, las almas de los solitarios corresponden a los suspiros de las flores, cadenas de armonía hacen corresponder entre si a todos los seres de la naturaleza.
 
 Nona hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-057.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-057.webp)
 
 El numero que no debe ser revelado.
 
 Décima hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-058.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-058.webp)
 
 Es la llave del ciclo astronómico y del movimiento circular de la vida de los hombres.
 
 Undécima hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-059.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-059.webp)
 
 Las alas de los genios se agitan con un ruido misterioso, ellos vuelan de una esfera a otra y llevan, de mundo en mundo, los mensajes de Dios.
 
 Decimosegunda hora
 
-![](@/media/dogma-y-ritual-de-alta-magia/media-060.webp)
+![](../media/dogma-y-ritual-de-alta-magia/media-060.webp)
 
 Aquí se realizan por el fuego las obras de la eterna luz.
 

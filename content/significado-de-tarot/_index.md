@@ -639,7 +639,7 @@ Pero nada es permanente y el Ser (El Loco originario) pronto lo olvidará todo y
 
 ## O- El loco
 
-![](@/media/significado-de-tarot/image1.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image1.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Loco, representado por Dionisio, es la libertad de espíritu, el ser libre e indómito en esencia, sin ataduras materiales ni místicas. Es simple, natural. El Loco es el bohemio por excelencia, es quien, como un niño, busca sin conciencia de si mismo.
 
@@ -697,7 +697,7 @@ El loco lleva una rosa blanca en la mano izquierda símbolo de pureza, una vara 
 
 ## I- El mago
 
-![](@/media/significado-de-tarot/image2.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image2.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Mago representado por Mercurio, manifiesta la inteligencia creativa y practica que alienta la audacia y conduce al éxito, otorga valor y fuerza. Para El Mago la verdad nunca puede ser absoluta porque siempre incluye un elemento de ilusión.
 
@@ -751,7 +751,7 @@ Escogiendo a diario entre el bien y el mal el individuo elabora su karma que det
 
 ## II- La Suma Sacerdotisa
 
-![](@/media/significado-de-tarot/image3.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image3.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Suma Sacerdotisa es la guardiana de los Misterios, Sabiduría, conocimiento firme y sereno. Es sagaz, intuitiva, con capacidad para enseñar a los demás. La Suma Sacerdotisa se encarga de guardar la puerta por donde la Energía de la Sabiduría fluye.
 
@@ -803,7 +803,7 @@ La verdadera lucha de la vida, es entenderla y encontrar en ella un sentido, tod
 
 ## III- La Emperatriz
 
-![](@/media/significado-de-tarot/image4.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image4.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Emperatriz encarna y rige la feminidad en todas sus manifestaciones. La Emperatriz esta representada por Venus, máxima expresión de amor, sabiduría. La fuerza de la Emperatriz radica en la sinergia entre los ideales y valores espirituales mas elevados.
 
@@ -853,7 +853,7 @@ Apunte R.H WILSON
 
 ## IV- El Emperador
 
-![](@/media/significado-de-tarot/image5.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image5.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Emperador, esta representado por Marte que es la energía que desborda sabiduría creativa, liderazgo, valentía, espíritu aventurero y autoridad. El Emperador es el gobernante ideal, siempre dispuesto a sacrificarse a sí mismo por el bien de todos
 
@@ -903,7 +903,7 @@ Mi capacidad de construir y dar forma a los proyectos me permite avanzar y crece
 
 ## V- El Sumo Sacerdote
 
-![](@/media/significado-de-tarot/image6.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image6.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Este arcano, El Sumo Sacerdote, no hace referencia a un dignatario de la iglesia, describe a alguien que ha sido consagrado e inspirado, es inteligente. En presencia del hierofante, Sumo Sacerdote, todos los mecanismos de defensa deben abandonarse.
 
@@ -955,7 +955,7 @@ Dejo fluir mi esencia más espiritual a fin de conectarme con la creación, con 
 
 ## VI- Los Amantes
 
-![](@/media/significado-de-tarot/image7.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image7.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Los Amantes son la expresión de dos seres opuestos que se desean y se atraen mutuamente. La dualidad reflejada en todos los aspectos de la vida. El regente de la carta de los Amantes es Géminis y el color el naranja que lo relaciona con el Emperador.
 
@@ -1011,7 +1011,7 @@ ANGEL A NO SER A TRAVÉS DE LA MUJER. La carta simboliza el amor puro, la concie
 
 ## VII- El Carro
 
-![](@/media/significado-de-tarot/image8.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image8.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 El Carro representa el camino real que debemos hacer en la búsqueda de nuestra propia metamorfosis interior, presagia triunfo, control y conquistas. El Carro no nos plantea solo un viaje exterior, sino un viaje hacia nuestro si mismo interior.
 
@@ -1079,7 +1079,7 @@ Voy hacia delante y soy guiado. Mi ego no se interpone entre mi guía interior y
 
 ## VIII- La Fuerza
 
-![](@/media/significado-de-tarot/image9.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image9.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Este arcano, La Fuerza, simboliza el impulso interior que mueve al espíritu; la confianza en la razón, el optimismo del que sabe que los Dioses lo protegen. La energía que vemos en La Fuerza equivale al poder sin frenos del orden creativo original.
 
@@ -1131,7 +1131,7 @@ La debilidad del hombre estriba en su falta de fe, dotado de fe es casi un dios.
 
 ## XII- EL Ermitaño
 
-![](@/media/significado-de-tarot/image10.jpg){width="1.2166666666666666in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image10.jpg){width="1.2166666666666666in" height="1.823611111111111in"}
 
 El Ermitaño es tan feliz con las riquezas del mundo espiritual, que el universo material, concreto y tangible, le parece descolorido e insignificante. El Ermitaño representa la búsqueda de la realización interior y el encuentro con la luz, es modestia.
 
@@ -1179,7 +1179,7 @@ un hombre maduro, de pie encima de una montaña cubierta de nieves, es el faro q
 
 ## X- La Rueda de la Fortuna
 
-![](@/media/significado-de-tarot/image11.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image11.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Rueda de Fortuna es el símbolo de la totalidad, que a pesar de su movimiento constante, no cambia. La rueda gira en medio de una vorágine de energía. La Rueda de la Fortuna manifiesta evolución, éxito, buena fortuna, destino y abundancia.
 
@@ -1229,7 +1229,7 @@ Representa el Kismet de los árabes y la fortuna a la vez, en realidad, es la ú
 
 ## XI- La Justicia
 
-![](@/media/significado-de-tarot/image12.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image12.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Justicia mantiene en su mano izquierda una balanza en posición de equilibrio, que representa la justicia, el juicio equilibrado, la equidad y la lealtad. La Justicia nos invita a una reflexión interior. La Justicia esta relacionada con el signo Libra.
 
@@ -1287,7 +1287,7 @@ La utilización de la palabra SHALOM en hebreo y SALAAM en árabe es frecuente d
 
 ## XII- El colgado
 
-![](@/media/significado-de-tarot/image13.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image13.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Colgado representa el sufrimiento interior, la lucha que estremece las creencias y vivencias del sujeto, el sacrificio del que no desea herir a nadie. El Colgado nos recuerda que la mejor manera de encarar un problema no es siempre la más obvia.
 
@@ -1341,7 +1341,7 @@ El halo o aureola que rodea a la cabeza del ahorcado representa la vibración de
 
 ## XIII- La Muerte
 
-![](@/media/significado-de-tarot/image14.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image14.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Muerte nos habla de polaridad, pero su manera de mostrarla es muy particular y sutil. Su nombre es femenino, pero esta representada por un esqueleto. La Muerte es la condición forzosa para la resurrección, es transformación, cambio, renovación.
 
@@ -1403,7 +1403,7 @@ en el hogar- Para los ocultistas la muerte física es simplemente la exterioriza
 
 ## XIV- La Templanza
 
-![](@/media/significado-de-tarot/image15.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image15.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Templanza simboliza continuidad entre el pasado, el presente y el futuro y corresponde a la idea de la reencarnación o la creación continua de la vida. La Templanza representa el concepto de la justa medida. Habla de cultivar nuestros puntos débiles.
 
@@ -1461,7 +1461,7 @@ El Gran Arquitecto es un término masónico para Dios creador y gobernador, la p
 
 ## XV- El Diablo
 
-![](@/media/significado-de-tarot/image16.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image16.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Diablo no es sólo el mal, sino que la tradición más bien lo ha relacionado con la estupidez y la ignorancia, así como con la mediocridad y la tibieza. El Diablo representa a la energía sexual y a la pasión o fuego interno, magnetismo, deseos.
 
@@ -1511,7 +1511,7 @@ o demonio, en forma de macho cabrío Bafomet, está sentado en una piedra cúbic
 
 ## XVI- La Torre
 
-![](@/media/significado-de-tarot/image17.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image17.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Torre es uno de los Arcanos en el Tarot más determinante. Suele simbolizar cambios súbitos y violentos que dan lugar a cambios en el entorno del consultante. La Torre pone a prueba los cimientos de nuestras vidas y nos insta a tomar precauciones.
 
@@ -1577,7 +1577,7 @@ Apunte R.H.WILSON
 
 El relámpago simboliza el poder de arriba, el poder del espíritu, la destrucción visible simboliza la destrucción de las formas. El conjunto de fuego y relámpago es símbolo de iluminación súbita. La corona es símbolo de poder terrenal y gobierno. Es curioso notar que uno de los hombres se ha arrojado al abismo de la noche para escapar del fuego, sigue con la corona en la cabeza, a pesar de tener la cabeza hacia abajo. Tal vez sugiere que su orgullo y egoísmo son tan profundamente arraigados que no quiere abandonarlos ni frente a la destrucción. La costumbre humana de levantar monumentos para perpetuar su memoria es una enfermedad muy típica de los benefactores de la sociedad que se cura muy bien con el tiempo **[XVII- La Estrella]{.underline}**
 
-![](@/media/significado-de-tarot/image18.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image18.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Estrella representa el destino, momento de la verdad, donde se obtendrá aquello que se merece, si se es capaz de defenderlo. Simboliza la luz. La Estrella muestra el proceso de recepción de las inspiraciones cósmicas mas elevadas, claridad mental.
 
@@ -1635,7 +1635,7 @@ Apunte R.H.WILSON
 
 ## XVIII- La Luna
 
-![](@/media/significado-de-tarot/image19.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image19.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Esta carta, la Luna es profundamente simbólica, aunque siempre en forma negativa, cambia al hombre a una mayor aplicación en la búsqueda de la verdad. La Luna simboliza el proceso de adentrarse en lo más profundo del alma, es un periodo de pruebas.
 
@@ -1693,7 +1693,7 @@ Un perro y un lobo o un chacal, cada uno a un lado del sendero, están aullando 
 
 ## XIX- El Sol
 
-![](@/media/significado-de-tarot/image20.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image20.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Sol representa la protección feliz; la dicha en este mundo, la felicidad de vivir, de sentir paz y alegría; aún sabiendo que no es para siempre. El Sol brilla en mitad del cielo y nos baña con la luz de la claridad y de la conciencia más absoluta.
 
@@ -1749,7 +1749,7 @@ Apunte R.H.WILSON
 
 ## XX- El Juicio
 
-![](@/media/significado-de-tarot/image21.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image21.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Este arcano, el Juicio representa la claridad de ideas y el momento de la verdad, relacionado también con el karma. Simboliza la justicia de los dioses. El Juicio supone un cambio radical, voluntad para iniciar algo nuevo, poder creativo y buen juicio.
 
@@ -1803,7 +1803,7 @@ En el juicio el Arcángel Gabriel, toca la trompeta de la resurección, llamando
 
 **[XXI- El Mundo]{.underline}**
 
-![](@/media/significado-de-tarot/image22.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image22.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Mundo es el último de los arcanos mayores, cierra el circulo que empezó \"El Loco\"; la gran obra a llegado a su fin, retorna a la inocencia del comienzo. El Mundo es la soledad en la paz, el saber vivir con lo necesario, el control de lo mundano.
 
@@ -1899,7 +1899,7 @@ Los Ases se presentan como Basto, Oro, Espada y Copa, como símbolo de los eleme
 
 ### As de Bastos
 
-![](@/media/significado-de-tarot/image23.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image23.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La mano divina sostiene la vara en posición vertical. En el paisaje se observa un castillo sobre la cima de una montaña, lo cual indica que se trata de una energía constructiva que ha superado los retos. La vara tiene un aspecto fálico, al ser esencialmente una fuerza de naturaleza masculina.
 
@@ -1909,7 +1909,7 @@ La mano divina sostiene la vara en posición vertical. En el paisaje se observa 
 
 ### As de Oros
 
-![](@/media/significado-de-tarot/image24.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image24.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 La mano divina sostiene una moneda de oro en la cual se ve una estrella de cinco puntas que representa al hombre, con sus extremidades extendidas y su cabeza dirigida hacia lo superior. Se ve un jardín de rosas y de lirios, los deseos y los pensamientos puros. Al igual que en la carta del Mago, el As de Oros confirma que lo concreto es la materialización de los deseos y pensamientos, expresados en lo tangible.
 
@@ -1921,7 +1921,7 @@ No es un jardín natural, sino creado por la mano humana, donde hay un camino qu
 
 ### As de Espadas
 
-![](@/media/significado-de-tarot/image25.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image25.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La mano divina empúñala espada, símbolo del aire, que posee un filo claro y otro oscuro, pues la mente es poderosa y dual. Esta espada penetra en una corona que representa el poder y nos recuerda que, también por la mente, se puede trascender la dualidad y alcanzar la corona de la Sabiduría (Kether de los cabalistas). De esta corona surgen una rama de acebo, femenino, y otra de palma, masculino, las corrientes activa y pasiva (Yin y Yang) que actúan en el universo. A cada lado de la espada se ven tres Yods, letra hebrea en forma de llama, que significa la chispa de vida, primera letra del nombre de Dios (Yavé). El número 6 evoca a Los Enamorados, puesto que son necesarios tanto el amor como la discriminación (las elecciones) para alcanzar el dominio de la mente.
 
@@ -1931,7 +1931,7 @@ La mano divina empúñala espada, símbolo del aire, que posee un filo claro y o
 
 ### El As de Copas
 
-![](@/media/significado-de-tarot/image26.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image26.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La copa reposa sobre la mano divina, mientras mana agua, el néctar de la vida. Encima de ella desciende el Espíritu Santo -la Fuerza Creadora del Amor- llevando en su pico la Sagrada Hostia, símbolo de la semilla. La copa es tanto el receptáculo, como el útero fecundado y la mente subconsciente, expresiones de lo femenino, que reciben la semilla masculina y ponen en marcha procesos generadores de vida nueva. Los cinco chorros de agua (los cinco sentidos) señalan la manifestación sensible del amor.
 
@@ -1947,7 +1947,7 @@ Los Arcanos de número 2: el número 2 es el número del equilibrio y de los opu
 
 ### Dos de Bastos
 
-![](@/media/significado-de-tarot/image27.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image27.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre joven se apoya en una vara (o bastón) que sujeta en posición vertical con su mano izquierda, mientras sostiene un globo terráqueo con su mano derecha. Se encuentra sobre la almena de un castillo y mira al horizonte. La segunda vara está prendida a la estructura mediante una pieza metálica. A la izquierda de la escena, hay dos rosas y dos lirios en forma de cruz griega (en X) símbolo de equilibrio perfecto.
 
@@ -1957,7 +1957,7 @@ Un hombre joven se apoya en una vara (o bastón) que sujeta en posición vertica
 
 ### Dos de Oros
 
-![](@/media/significado-de-tarot/image28.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image28.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un hombre joven mantiene dos pentáculos en ambas manos y parece hacer malabarismos con ellos, mientras se balancea sobre sus piernas como en una suerte de danza. Entre las monedas de oro se dibuja una lemniscata o símbolo de infinito. A la distancia se ve el océano, cuyas ondas dibujan sucesivas curvas que impulsan dos barcos, uno grande y otro pequeño, indicando los altibajos de la economía.
 
@@ -1967,7 +1967,7 @@ Un hombre joven mantiene dos pentáculos en ambas manos y parece hacer malabaris
 
 ### Dos de Espadas
 
-![](@/media/significado-de-tarot/image29.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image29.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Una mujer sostiene dos espadas que inclina en direcciones opuestas: la de la mano derecha apunta a la izquierda, la de la mano izquierda apunta a la derecha. En el gesto, sus brazos se cruzan justo sobre su corazón. Está sentada sobre un cubo y sus ojos están vendados. A sus espaldas se ve un lago de aguas rizadas en tensa calma y en el cielo hay una luna creciente.
 
@@ -1977,7 +1977,7 @@ Una mujer sostiene dos espadas que inclina en direcciones opuestas: la de la man
 
 ### Dos de Copas
 
-![](@/media/significado-de-tarot/image30.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image30.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre y una mujer, vestidos con ropas nupciales, elevan sus copas en brindis bajo la imagen de un león rojo alado. Es el león que vimos en el Arcano Mayor VIII La Fuerza, con las alas del Arcano XIV La Templanza: los deseos sublimados. Entre las copas a punto de chocar, se ve el caduceo de Mercurio, indicando el perfecto complemento yin yang.
 
@@ -1991,7 +1991,7 @@ Los Arcanos de número 3: Se dice que el número 3 es el número de la divinidad
 
 ### Tres de Bastos
 
-![](@/media/significado-de-tarot/image31.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image31.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 La carta presenta a un hombre que viene de un largo recorrido y ha llegado a lo alto de una colina. Desde allí contempla el horizonte. El cielo y el mar se ven de color amarillo y denotan acciones inteligentes. En el mar se ven dos embarcaciones: una grande y otra pequeña que significan los altibajos del comercio, el ir y venir de la vida, etc. El hombre ha plantado tres varas (bastos) en la tierra virgen para iniciar un proyecto.
 
@@ -2001,7 +2001,7 @@ La carta presenta a un hombre que viene de un largo recorrido y ha llegado a lo 
 
 ### Tres de Oros
 
-![](@/media/significado-de-tarot/image32.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image32.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un maestro elabora un trabajo de mampostería (en sus manos se ven un cincel y en mazo) y está subido en un banquillo. Dos personajes traen los planos de la obra. Se trata de un sacerdote y un bufón con caperuza de lunares rojizos. Ellos le expresan al maestro sus necesidades y éste las toma en cuanta para la elaboración del trabajo. Acá están representados el poder de quien conoce la técnica, la parte más formal y la más informal de la sociedad a la cual va dirigido la obra que se crea.
 
@@ -2011,7 +2011,7 @@ Un maestro elabora un trabajo de mampostería (en sus manos se ven un cincel y e
 
 ### Tres de Espadas
 
-![](@/media/significado-de-tarot/image33.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image33.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un corazón, que parece flotar en el espacio, se ve atravesado por tres espadas bajo en cielo tormentoso. Oscuros nubarrones lo rodean.
 
@@ -2023,7 +2023,7 @@ Un corazón, que parece flotar en el espacio, se ve atravesado por tres espadas 
 
 ### Tres de Copas
 
-![](@/media/significado-de-tarot/image34.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image34.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Tres jóvenes danzan y brindan rodeadas de frutas u flores. Realizan una coreografía perfecta en un ambiente de felicidad y armonía. Los colores de sus trajes denotan pureza (blanco), entusiasmo (rojo) e inteligencia (amarillo).
 
@@ -2039,7 +2039,7 @@ El número cuatro es el número de lo estable y sólido. Pero también lo es de 
 
 ### Cuatro de Bastos
 
-![](@/media/significado-de-tarot/image35.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image35.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Una pareja (hombre y mujer) celebran bajo una guirnalda de flores y frutos que ha sido colocada sobre 4 varas bien plantadas. Detrás de ellos se ve un majestuoso castillo y el resto de la familia que se reúne alrededor de la mesa. Ésta bien podría ser la celebración de un contrato, la fiesta de la vendimia, una graduación o la celebración de una boda.
 
@@ -2049,7 +2049,7 @@ Una pareja (hombre y mujer) celebran bajo una guirnalda de flores y frutos que h
 
 ### Cuatro de Oros
 
-![](@/media/significado-de-tarot/image36.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image36.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre con corona real y harapos está sentado de espaldas a la ciudad. Es la única ciudad industrial que vemos en este tarot y él parece darle la espalda al progreso mientras se aferra a una moneda que prende a nivel de su corazón, pisa con cada pié un par de monedas más y una cuarta está apoyada sobre su cabeza. Parece estar aferrado a lo que le queda del pasado.
 
@@ -2059,7 +2059,7 @@ Un hombre con corona real y harapos está sentado de espaldas a la ciudad. Es la
 
 ### Cuatro de Espadas
 
-![](@/media/significado-de-tarot/image37.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image37.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un soldado descansa en un recinto que bien puede ser una iglesia o un palacio. Se ha retirado para reflexionar, evaluar sus acciones y decidir futuras estrategias. Ha buscado este espacio de paz y quietud, fuera del campo de batalla, para hallar las respuestas a sus dudas y decidir sus próximas acciones. Ha colgado tres espadas ordenadamente en la pared, y a su lado ha dejado una cuarta espada que utilizará en cuanto sea necesario.
 
@@ -2069,7 +2069,7 @@ Un soldado descansa en un recinto que bien puede ser una iglesia o un palacio. S
 
 ### Cuatro de Copas
 
-![](@/media/significado-de-tarot/image38.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image38.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre joven (con aspecto incluso de adolescente) se ha apartado de todos y se ha sentado en un montículo bajo un arbusto. Sus brazos cruzados sobre el corazón denotan que está bloqueado emocionalmente, disgustado, rencoroso, malcriado e incluso encerrado en una posición de sólo ver las tres copas que tiene enfrente, mientras el universo le ofrece una cuarta copa que ignora o parece ignorar.
 
@@ -2085,7 +2085,7 @@ El arcano número 5 es la quinta esencia de la vida.En numerología, el 5 se aso
 
 ### Cinco de Bastos
 
-![](@/media/significado-de-tarot/image39.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image39.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Cinco hombres combaten uno contra otro. Para ello utilizan varas de similares dimensiones, pero en sus rostros se ve diferentes actitudes y sus ropas indican que ellos pertenecen a distintos niveles sociales y tienen diferentes motivaciones. Se trata de individualidades que luchan y no de equipos.
 
@@ -2095,7 +2095,7 @@ Cinco hombres combaten uno contra otro. Para ello utilizan varas de similares di
 
 ### Cinco de Oros
 
-![](@/media/significado-de-tarot/image40.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image40.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Dos indigentes, en harapos y enfermos, transitan desolados en medio de una noche invernal. Han pasado frente a un palacio del cual se ve un vitral con el emblema de un árbol formado por pentáculos, que denota riqueza. No obstante, ellos no advierten la posibilidad de ayuda y cobijo y siguen su camino.
 
@@ -2105,7 +2105,7 @@ Dos indigentes, en harapos y enfermos, transitan desolados en medio de una noche
 
 ### Cinco de Espadas
 
-![](@/media/significado-de-tarot/image41.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image41.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 En esta carta vemos la escena de una lucha que acaba de concluir. En ella ha habido un espadachín vencedor que se queda con 3 espadas y sus contrincantes se alejan derrotados. En el suelo yacen 2 espadas más. El cielo tormentoso comienza a despejarse y el mar, a lo lejos, se ve ensangrentado.
 
@@ -2115,7 +2115,7 @@ En esta carta vemos la escena de una lucha que acaba de concluir. En ella ha hab
 
 ### Cinco de Copas
 
-![](@/media/significado-de-tarot/image42.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image42.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Una figura cabizbaja envuelta en una capa negra parece absorta contemplando, caídas sobre el suelo, tres copas cuyo contenido se ha derramado. A sus espaldas hay otras dos copas en pie, pero no parece advertirlo. Un manso río sigue su curso bajo el cielo gris.
 
@@ -2131,7 +2131,7 @@ Sus palabras claves son responsabilidad, protección, nutrición, maternidad, co
 
 ### Seis de Bastos
 
-![](@/media/significado-de-tarot/image43.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image43.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un guerreo, sobre su cabalgadura, llega triunfante a la ciudad, rodeado de varios soldados a pié que tiene una actitud vigilante. Su vara (basto), al igual que su cabeza, está adornada con una corona de laureles, símbolo de triunfo.
 
@@ -2141,7 +2141,7 @@ Un guerreo, sobre su cabalgadura, llega triunfante a la ciudad, rodeado de vario
 
 ### Seis de Oros
 
-![](@/media/significado-de-tarot/image44.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image44.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un hombre rico está de pié entre dos mendigos postrados en actitud suplicante. Sujeta con su mano izquierda una balanza en perfecto equilibrio (sopesa sus actos y actúa en justicia) y con su mano derecha da una limosna al mendigo de rodillas de ese lado.
 
@@ -2151,7 +2151,7 @@ Un hombre rico está de pié entre dos mendigos postrados en actitud suplicante.
 
 ### Seis de Espadas
 
-![](@/media/significado-de-tarot/image45.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image45.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Una familia en actitud taciturna navega en pos de mejores condiciones de vida. Dejan atrás un mal revuelto y se dirigen hacia aguas más tranquilas, hacia espacios seguros y apacibles.
 
@@ -2161,7 +2161,7 @@ Una familia en actitud taciturna navega en pos de mejores condiciones de vida. D
 
 ### Seis de Copas
 
-![](@/media/significado-de-tarot/image46.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image46.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Dos niños juegan en el jardín de una vieja casa. Las 6 copas presentan lirios que parecen haber sido plantados allí. Los lirios denotan la pureza de los corazones infantiles, en tanto que la vieja casa, cuyos techos están deteriorados, indican el paso de los años, el lar natal.
 
@@ -2179,7 +2179,7 @@ En el número 7 se concreta la unidad en mente y materia (3+4), el libertad y eq
 
 ### Siete de Bastos
 
-![](@/media/significado-de-tarot/image47.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image47.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre de aspecto sencillo lucha contra algo o alguien impreciso. Sólo se ven las puntas de 6 varas que lo atacan. Se ha subido a lo alto de un montículo, buscado una posición de ventaja ante tal embestida. Su expresión es severa y firme.
 
@@ -2189,7 +2189,7 @@ Un hombre de aspecto sencillo lucha contra algo o alguien impreciso. Sólo se ve
 
 ### Siete de Oros
 
-![](@/media/significado-de-tarot/image48.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image48.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un campesino se dispone a cosechar los frutos de la vid, pero en ella encuentra 7 pentáculos y no uvas. Su frustración es evidente, pues no ha logrado la meta esperada, aunque bien podría disfrutar de lo que se le ofrece.
 
@@ -2199,7 +2199,7 @@ Un campesino se dispone a cosechar los frutos de la vid, pero en ella encuentra 
 
 ### Siete de Espadas
 
-![](@/media/significado-de-tarot/image49.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image49.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un soldado moro roba 7 espadas en el campamento cristiano, mientras los soldados, lejos de las tiendas, descansan alrededor de la hoguera. El cielo amarillo (color de la agudeza mental) indica la astucia y los pasos ágiles del protagonista, denotan acciones oportunas y rápidas.
 
@@ -2209,7 +2209,7 @@ Un soldado moro roba 7 espadas en el campamento cristiano, mientras los soldados
 
 ### Siete de Copas
 
-![](@/media/significado-de-tarot/image50.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image50.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 En el 7 de Copas vemos la figura en silueta de un hombre frente a 8 copas envueltas en nubes (denota lo que está en la mente) dentro de las cuales se dibujan 8 sueños arquetípicos: el amor, el conocimiento de lo oculto, larga vida, poder, riqueza, el triunfo sobre la muerte y sobre los enemigos.
 
@@ -2225,7 +2225,7 @@ El número 8 se asocia con equidad, justicia y equilibrio. Su trazo, hecho con d
 
 ### Ocho de Bastos
 
-![](@/media/significado-de-tarot/image51.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image51.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Ocho Bastos (o varas) han sido lanzados al mismo tiempo y se desplazan en el aire. Están a punto de caer y nos recuerdan que toda acción tiene un efecto: lo que hicimos en el pasado repercute en el presente e induce cambios y movimiento.
 
@@ -2235,7 +2235,7 @@ Ocho Bastos (o varas) han sido lanzados al mismo tiempo y se desplazan en el air
 
 ### Ocho de Oros
 
-![](@/media/significado-de-tarot/image52.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image52.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un obrero o artesano trabaja diligentemente en la elaboración de 8 pentáculos de oro. Está sentado en la banqueta que ya vimos en el 3 de Oros, como señal de apoyo en conocimientos y pericia. Sin embargo, este hombre trabaja con recursos escasos y en condiciones precarias. Refleja una contradicción: sus ropas se ven raídas, mientras genera riqueza.
 
@@ -2245,7 +2245,7 @@ Un obrero o artesano trabaja diligentemente en la elaboración de 8 pentáculos 
 
 ### Ocho de Espadas
 
-![](@/media/significado-de-tarot/image53.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image53.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Una mujer vestida de rojo (color de actividad) se encuentra maniatada y vendada, mientras 8 espadas clavadas en el suelo parecen cercarla, aunque no completamente. Su actividad está suspendida y trata de caminar, temerosa, sobre el suelo fangoso (el agua está presente como símbolo de lo emocional).
 
@@ -2255,7 +2255,7 @@ Una mujer vestida de rojo (color de actividad) se encuentra maniatada y vendada,
 
 ### Ocho de Copas
 
-![](@/media/significado-de-tarot/image54.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image54.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un hombre de aspecto vital y decidido se aleja apoyado en un bastón. Ha atravesado el río y deja atrás 8 copas muy bien alineadas. La luna (intuición) muestras sus fases en el cielo despejado. Se dice que es el Ermitaño que ha iniciado su búsqueda espiritual, conectado con su voz interior.
 
@@ -2273,7 +2273,7 @@ El número 9 es el número maestro. Finaliza la secuencia de los números natura
 
 ### Nueve de Bastos
 
-![](@/media/significado-de-tarot/image55.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image55.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El 9 de Bastos muestra a un hombre con aspecto cansado, incluso parece estar herido. Está a punto de terminar de plantar las 9 varas, de las cuales solo resta una, pero muestra no tener energía o decisión para hacerlo. Él está rompiendo sus propias barreras. Necesita aprender a delegar, confiar y apoyarse en los demás. Aprender que no se puede hacer todo solo, hay que compartir la carga. ¿De qué sirve un gerente sin equipo?
 
@@ -2283,7 +2283,7 @@ El 9 de Bastos muestra a un hombre con aspecto cansado, incluso parece estar her
 
 ### Nueve de Oros
 
-![](@/media/significado-de-tarot/image56.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image56.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Una mujer con aspecto de noble, luce majestuosa rodeada de frutos, lujos y parras de donde salen 9 pentáculos de oro. En su mano enguantada se posa un halcón. Rodeada de abundancia y una tonalidad amarilla (inteligencia), la imagen sugiere discernimiento, fama, jerarquía, premio, éxito, abundancia. Un caracol camina lentamente frente a la dama de izquierda a derecha (del pasado al futuro).
 
@@ -2293,7 +2293,7 @@ Una mujer con aspecto de noble, luce majestuosa rodeada de frutos, lujos y parra
 
 ### Nueve de Espadas
 
-![](@/media/significado-de-tarot/image57.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image57.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Una figura -de hombre o mujer- despierta con angustia en medio de la noche. Se ven 9 espadas suspendidas en el aire que semejan una persiana. El personaje se ve aislado, desesperado, atrapado en sus propios pensamientos que son como una cárcel que él (o ella) se ha creado.
 
@@ -2303,7 +2303,7 @@ Una figura -de hombre o mujer- despierta con angustia en medio de la noche. Se v
 
 ### Nueve de Copas
 
-![](@/media/significado-de-tarot/image58.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image58.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre con una clara actitud de satisfacción, espera sentado la llegada de los invitados para un banquete. Sobre la gran mesa, hay 9 copas alineadas. Todo está apunto para la gran celebración.
 
@@ -2321,7 +2321,7 @@ En numerología, el número 10 marca el final de un ciclo, de modo que al llegar
 
 ### Diez de Bastos
 
-![](@/media/significado-de-tarot/image59.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image59.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un hombre lleva la pesada carga de 10 varas o bastos, con lo cual su espalda luce encorvada, se le ve avanzar, pero agobiado por sus responsabilidades, intentando mantener la dirección. Pero, atrapado por la circunstancia, los mismos bastos le impide ver el camino, por lo que parece haber perdido el rumbo, pues no camina en el sentido del camino, sino desviándose de él. Las cosas escapan de su control.
 
@@ -2331,7 +2331,7 @@ Un hombre lleva la pesada carga de 10 varas o bastos, con lo cual su espalda luc
 
 ### Diez de Oros
 
-![](@/media/significado-de-tarot/image60.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image60.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La familia disfruta del patrimonio construido y de la vida de hogar. El anciano patriarca, con una capa estampada con racimos de uva (prosperidad y abundancia), contempla satisfecho los logros de toda una vida. Dos generaciones más lo acompañan, como promesa de continuidad y futuro. A su lado dos perros de raza bien entrenados indican los instintos bajo el control de la experiencia y la sabiduría. Hay paz y movimiento armónico. Todo fluye. Los 10 pentáculos que parecen flotar en un primer plano describe la forma del Árbol de la Vida cabalístico, pues estas personas reciben bendiciones a través del mundo que los rodea.
 
@@ -2341,7 +2341,7 @@ La familia disfruta del patrimonio construido y de la vida de hogar. El anciano 
 
 ### Diez de Espadas
 
-![](@/media/significado-de-tarot/image61.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image61.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un hombre yace boca abajo en una playa. Se ven clavadas 10 espadas a lo largo de su columna vertebral. A pesar de lo crudo de la imagen, no indica muerte, pues las espadas aluden al elemento aire (ideas, conceptos, percepciones) y no son espadas reales. El personaje, más bien, está se siente traicionado, derrotado, acabado. Un cielo tormentoso y oscuro parece abrirse en el horizonte para dejar ver los primeros rayos de la aurora. Los problemas podrían tener solución o no son tan dramáticos como parecen.
 
@@ -2351,7 +2351,7 @@ Un hombre yace boca abajo en una playa. Se ven clavadas 10 espadas a lo largo de
 
 ### Diez de Copas
 
-![](@/media/significado-de-tarot/image62.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image62.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La familia disfruta de las bondades de una vida sencilla pero armónica y segura. El arco iris indica el júbilo por los sentimientos colmados. El hombre y la mujer se abrazan seguros de su relación, mientras agradecen a lo alto por los dones recibidos; en tanto que los niños danzan y juegan inocentemente, disfrutando de lo que la vida les ofrece: felicidad, un espacio seguro y la confianza de que seres que los aman ven por ellos.
 
@@ -2401,7 +2401,7 @@ De allí que los Pajes o Sotas del tarot se refieren a niños y jóvenes en gene
 
 ### Paje o Sota de Bastos
 
-![](@/media/significado-de-tarot/image63.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image63.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un joven atraviesa un paisaje desértico, cálido. Parece estar emprendiendo un viaje. Se apoya en su vara en actitud resuelta. El estampado de su traje muestra dibujos de salamandras, símbolo esotérico de elemento fuego (Bastos). En su sombrero se ve una pluma roja en forma de llama. Al ser la Sota de fuego indica inicio activo, el \"despegue\" de algo, la chispa que pone las cosas en marcha.
 
@@ -2411,7 +2411,7 @@ Un joven atraviesa un paisaje desértico, cálido. Parece estar emprendiendo un 
 
 ### Paje o Sota de Oros
 
-![](@/media/significado-de-tarot/image64.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image64.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 Un joven sostiene el pentáculo o menoda de oro bajo un cielo amarillo, que denota el uso de la mente en un sentido práctico. Bajo sus pies se observa un terreno fértil, lleno de verdor, como sus ropas, que muestra prosperidad y abundancia. A lo lejos un trozo de campo labrado denota el comienzo de una etapa fértil.
 
@@ -2421,7 +2421,7 @@ Un joven sostiene el pentáculo o menoda de oro bajo un cielo amarillo, que deno
 
 ### Paje o Sota de Espadas
 
-![](@/media/significado-de-tarot/image65.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image65.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un joven, en lo alto de un montículo, sostiene una espada en alto, mientras que observa hacia otro lado. Parece estar vigilando, listo para atacar, o simplemente no fijar la atención en el símbolo de su elemento (en esta caso aire) como sí lo hacen los otros pajes. El viento se ve soplar con fuerza y varias aves vuelan en forma desordenada, indicando lo volátil y perturbado de los pensamientos de este personaje.
 
@@ -2433,7 +2433,7 @@ Un joven, en lo alto de un montículo, sostiene una espada en alto, mientras que
 
 ### Paje o Sota de Copas
 
-![](@/media/significado-de-tarot/image66.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image66.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un joven con ropas estampadas en flores de lis de color blanco y rosa sobre fondo azul, contempla una copa o cáliz del cual sobresale un pez.
 
@@ -2457,7 +2457,7 @@ Los Caballeros cumplían en las cortes funciones diversas, pero siempre como hom
 
 ### Caballero de Bastos
 
-![](@/media/significado-de-tarot/image67.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image67.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Éste es el caballero más enérgico y vital por ser el basto representativo del fuego. Su brioso caballo es rojizo como el fuego. Sus ropa parece desprender llamas por todas partes y sus actitud es la de quien emprende el ataque. Como en la Sota o Paje, hay salamandras (símbolo del fuego), en el estampado de su vestimenta. Ellas giran como si intentaran morder sus colas aun sin lograrlo, pero hay más orden en el movimiento, respecto a las del Paje, están en movimiento, pues él avanza en sus propósitos.
 
@@ -2469,7 +2469,7 @@ Los Caballeros cumplían en las cortes funciones diversas, pero siempre como hom
 
 ### Caballero de Oros
 
-![](@/media/significado-de-tarot/image68.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image68.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un caballero, cubierto por una armadura, contempla los campos arados que se extienden hasta las montañas. Adelantar esta labor ha requerido un gran esfuerzo y constancia. Está absorto en su cabalgadura, un caballo de faena al divisar el paisaje desde lo alto de una colina verde y fresca. Ambos tienen ramas de muérdago sobre sus cabezas, el noble en su yelmo, el animal en las bridas. El caballero sujeta en su mano derecha el disco dorado que se confunde con lo amarillo del cielo. Todo indica prosperidad y abundancia.
 
@@ -2479,7 +2479,7 @@ Un caballero, cubierto por una armadura, contempla los campos arados que se exti
 
 ### Caballero de Espadas
 
-![](@/media/significado-de-tarot/image69.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
+![](../media/significado-de-tarot/image69.jpg){width="1.2180555555555554in" height="1.823611111111111in"}
 
 El Caballero monta su brioso caballo de carrera que galopa al máximo de su capacidad, exigido por el jinete. Van al ataque en una loca carrera contra el viento. El Caballero blande su espada en actitud decidida y llena de coraje. Parece dispuesto a dar la vida por sus ideales y enfrentarse a sus enemigos. Su capa y las plumas de su yelmo, ambas de color rojo, muestran su valor y la pasión con que defiende su causa. Está dispuesto a todo por defender sus ideas, valores y creencias.
 
@@ -2491,7 +2491,7 @@ El Caballero monta su brioso caballo de carrera que galopa al máximo de su capa
 
 ### Caballero de Copas
 
-![](@/media/significado-de-tarot/image70.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image70.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Un caballero monta un caballo de paso. Se dispone a cruzar un riachuelo (las aguas simbolizan emociones, en este caso bien dirigidas) y mira de frente mientras eleva su copa. Se dirige al encuentro del amor o asociaciones constructivas. Las alas de Mercurio, en su yelmo y en sus talones indican que él trae noticias, proposiciones u oportunidades. Los peces rojos de sus ropas señalan que es sensible y apasionado.
 
@@ -2511,7 +2511,7 @@ En ciertos casos puede aparecer para representar a un hombre en cuyo caso puede 
 
 ### Reina de Bastos
 
-![](@/media/significado-de-tarot/image71.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image71.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Vemos una reina fuerte e independiente. Su ropa es algo tosca, como ella, pero cómoda. Ostenta la vara como signo de poder y su corona de oro está rematada en hojas verdes, que indican la fecundidad de su energía Yin, creadora, fértil. En su mano izquierda tiene un girasol, símbolo de prosperidad y de vinculación con la naturaleza. Su trono decorado con leones (Leo, signo de fuego) le añade connotaciones de poder, liderazgo e inclinación al cuidado de la familia y el territorio. Frente a su pedestal, un gato negro pone en evidencia la intuición de esta mujer, sus cualidades chamánicas. Ella denota fuerza, sencillez, profunda relación con la naturaleza, la tradición y la familia.
 
@@ -2521,7 +2521,7 @@ Vemos una reina fuerte e independiente. Su ropa es algo tosca, como ella, pero c
 
 ### Reina de Oros
 
-![](@/media/significado-de-tarot/image72.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image72.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Reina sostiene en su regazo un pentáculo de oro. En su atuendo muestra los colores rojo y verde, señal de actividad fecunda. El trono es de piedra tallada con símbolos de prosperidad: frutos, vegetación y cabezas de carnero (Capricornio. Sobre el trono se despliegan ramas frondosas con flores rojas, similares a las de la carta de El Mago, por la capacidad de materialización de esta reina. Todo a su alrededor es abundancia.
 
@@ -2533,7 +2533,7 @@ La Reina sostiene en su regazo un pentáculo de oro. En su atuendo muestra los c
 
 ### Reina de Espadas
 
-![](@/media/significado-de-tarot/image73.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image73.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Reina empuña la espada en gesto duro. Aunque permanece sentada (actitud pasiva), su gesto es combativo, directivo y autoritario. Eleva su mano izquierda de manera impositiva, es un ademán de mando. En el horizonte densas nubes denotan pensamientos estancados, fijos. Un ave solitaria surca el cielo pues, por una parte esta reina está solitaria; por otra, sus pensamientos son obsesivos. La espada en posición vertical señala la integridad de sus principios. Puede ser definida como una mujer independiente, pero también sugiere rectitud y don de mando que la alejan de los afectos. Se siente sola.
 
@@ -2543,7 +2543,7 @@ La Reina empuña la espada en gesto duro. Aunque permanece sentada (actitud pasi
 
 ### Reina de Copas
 
-![](@/media/significado-de-tarot/image74.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image74.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 La Reina de Copas tiene un aspecto distinguido. Su perfil griego denota amabilidad, refinamiento y belleza. En un gesto meditativo, sostiene la copa, símbolo de amor y espiritualidad. Es la única copa tapada de este tarot, para indicar secreto: ella es prudente o confidente, puede ser ocultista, meditadora o sanadora. Su sólido trono, con seres elementales del agua, parece flotar en una isla que se desplaza en el movido mar de las emociones. Maneja su propio mundo afectivo y es capaz de \"sentir\" lo que pasa en su entorno sin que ello la afecte.
 
@@ -2565,7 +2565,7 @@ Puede ser el padre, esposo o consejero. Si aparece en la posición del consultan
 
 ### Rey de Bastos
 
-![](@/media/significado-de-tarot/image75.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image75.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El rey domina desde su trono decorado con leones (nobleza, liderazgo) y salamandras que se muerden la cola. La salamandra, símbolo de fuego, en este caso señala logros, ciclo cerrado. El león también es símbolo de fuego y actividad permanente. Aunque el Rey está sentado, su actitud es de alerta, su aspecto seguro y parece estar dispuesto a ponerse de pie en cualquier momento. Él muestra autoridad para realizar proyectos.
 
@@ -2575,7 +2575,7 @@ El rey domina desde su trono decorado con leones (nobleza, liderazgo) y salamand
 
 ### Rey de Oros
 
-![](@/media/significado-de-tarot/image76.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image76.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 Rodeado de riqueza y abundancia, el Rey de Oros dirige magnánimo desde su trono. Ve los frutos de sus esfuerzos: el castillo, en cuya almena se encuentra instalado, y la exuberante vegetación a su alrededor. La capa real está estampada de múltiples racimos de uva, símbolo de prosperidad. Su trono, suntuosamente tallado, lo relaciona con la abundancia de la naturaleza, los frutos de la tierra y el signo de Tauro, el trabajador constante y paciente, quien disfruta de los placeres de la vida y avanza siempre hacia el éxito y la concreción de los planes.
 
@@ -2585,7 +2585,7 @@ Rodeado de riqueza y abundancia, el Rey de Oros dirige magnánimo desde su trono
 
 ### Rey de Espadas
 
-![](@/media/significado-de-tarot/image77.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image77.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El Rey eleva la espada de la justicia con gesto firme y decidido. Dos aves vuelan juntas en un cielo apacible, para señalar la capacidad de Rey de Espadas para armonizar con los demás, negociar, ponerse en el lugar del otro y compartir. Su mirada franca, frontal denota sinceridad, capacidad de diálogo. No obstante, su gesto adusto también advierte que puede ser implacable en el cumplimiento de lo que él considera justo.
 
@@ -2595,7 +2595,7 @@ El Rey eleva la espada de la justicia con gesto firme y decidido. Dos aves vuela
 
 ### Rey de Copas
 
-![](@/media/significado-de-tarot/image78.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
+![](../media/significado-de-tarot/image78.jpg){width="1.2180555555555554in" height="1.8222222222222222in"}
 
 El rey tiene un aspecto maduro y su trono de piedra sólida parece flotar sobre las aguas movidas de sus emociones. Su aspecto adusto y seguro esconde un alma sensible. Sus ropas azules denotan un fuerte liderazgo moral y conexión con lo espiritual, mientras la pesada capa amarilla enfatiza su inteligencia, capacidad lógica, racional. No obstante, el forro de la capa es rojo, como muestra de un intenso mundo emocional, sensual y apasionado que el rey modera con inteligencia, pues el amarillo prevalece. Así conserva el equilibrio sobre aguas turbulentas, corrientes encontradas entre las cuales se vislumbran tonalidades amarillas: su madurez le permite penetrar en las emociones con inteligencia. El Rey tiene la copa en su mano derecha (dominio sobre el elemento agua), y en la izquierda un cetro (símbolo de mando), cuya forma recuerda las columnas de la Suma
 
@@ -2871,7 +2871,7 @@ Estas y otras tiradas serán incluidas periódicamente y esperamos que sean de m
 
 #### Cruz celta
 
-![](@/media/significado-de-tarot/image79.jpg){width="2.375in" height="2.7916666666666665in"}
+![](../media/significado-de-tarot/image79.jpg){width="2.375in" height="2.7916666666666665in"}
 
 **Cruz Celta:**
 
@@ -2927,7 +2927,7 @@ Otra forma:
 
 ## Tirada cabaalah
 
-![](@/media/significado-de-tarot/image80.jpg){width="3.113888888888889in" height="4.104166666666667in"}
+![](../media/significado-de-tarot/image80.jpg){width="3.113888888888889in" height="4.104166666666667in"}
 
 2.  Situación actual del consultante
 
@@ -2943,7 +2943,7 @@ Otra forma:
 
 ## Tirada astrológica
 
-![](@/media/significado-de-tarot/image81.jpg){width="3.988888888888889in" height="4.166666666666667in"}
+![](../media/significado-de-tarot/image81.jpg){width="3.988888888888889in" height="4.166666666666667in"}
 
 - CASA 1.- Es la Casa de Aries. Esta Casa representa el interrogador o consultante y su presente actual, es decir sus problemas más acuciantes en el aquí y ahora, en esta etapa de vida presente.
 

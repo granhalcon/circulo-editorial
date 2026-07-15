@@ -46,7 +46,7 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 **Instrucciones al cocinero**典座教訓
 
-> ![](@/media/instrucciones-al-cocinero/image1.jpg){width="4.725in" height="7.075in"}**Eihei Dōgen**
+> ![](../media/instrucciones-al-cocinero/image1.jpg){width="4.725in" height="7.075in"}**Eihei Dōgen**
 >
 > Traducción para uso privado, no comercial, realizada por Carlos Collar Menéndez
 
@@ -600,7 +600,7 @@ Aquí encontramos una diferencia entre la manera de ver la vida según la Vía d
 
 Nuestra exposición ha cambiado un poco desde que empezamos hablando de pedos. Por favor, echad un vistazo al diagrama 1.
 
-> ![](@/media/instrucciones-al-cocinero/image2.png){width="3.94in" height="1.89in"}
+> ![](../media/instrucciones-al-cocinero/image2.png){width="3.94in" height="1.89in"}
 
 **Diagrama 1**. En la vida no hay posibilidad de intercambiar nada.
 
@@ -608,7 +608,7 @@ Pido disculpas por no ser más elegante, pero he de volver al ejemplo de los ped
 
 Ahora, veamos el diagrama 2
 
-> ![](@/media/instrucciones-al-cocinero/image3.jpg){width="3.936111111111111in" height="1.7013888888888888in"}
+> ![](../media/instrucciones-al-cocinero/image3.jpg){width="3.936111111111111in" height="1.7013888888888888in"}
 
 **Diagrama 2**. Cada uno puede comunicarse con los demás a través del lenguaje.
 
@@ -616,7 +616,7 @@ A diferencia del diagrama anterior, en el que la naturaleza absoluta de la vida 
 
 Profundizando aún más, veamos el diagrama 3
 
-> ![](@/media/instrucciones-al-cocinero/image4.jpg){width="3.936111111111111in" height="1.8472222222222223in"}
+> ![](../media/instrucciones-al-cocinero/image4.jpg){width="3.936111111111111in" height="1.8472222222222223in"}
 >
 > **Diagrama 3**. Podemos abrirnos a un mundo de comunicación basado en el pensamiento.
 
@@ -630,7 +630,7 @@ En el mundo de la comunicación, el dinero es la unidad de medida de intercambio
 
 El diagrama 4 es un ejemplo de esto que acabo de decir:
 
-> ![](@/media/instrucciones-al-cocinero/image5.jpg){width="3.936111111111111in" height="1.7083333333333333in"}
+> ![](../media/instrucciones-al-cocinero/image5.jpg){width="3.936111111111111in" height="1.7083333333333333in"}
 
 **Diagrama 4**. Dado que dirigimos nuestras vidas en un mundo creado por la mente, huimos de la pobreza y la desgracia para correr tras la felicidad y la abundancia.
 
@@ -646,7 +646,7 @@ Cuando naces, tu mundo nace contigo y cuando mueres, muere tu mundo entero conti
 
 A pesar del hecho de que poseemos una mente capaz de discriminar, como se muestra en los diagramas 2 y 3, con la que incluso somos capaces de comunicarnos con los demás de manera general a través del lenguaje, lo hacemos de una forma muy limitada. Incluso aquellos aspectos de nuestra experiencia que ocurren gracias al lenguaje son inevitablemente experiencias totalmente personales. El buddhadharma nos muestra que la totalidad de la vida es como el diagrama 5. Tú y la totalidad del mundo en el que vives constituyen juntos lo que llamo la vida del sí mismo.
 
-> ![](@/media/instrucciones-al-cocinero/image6.png){width="2.76in" height="2.756666666666667in"}
+> ![](../media/instrucciones-al-cocinero/image6.png){width="2.76in" height="2.756666666666667in"}
 
 **Diagrama 5**. Nosotros y el mundo en el que vivimos, juntos hacen el sí mismo.
 

@@ -345,7 +345,7 @@ En los mejores tiempos de Apolo en Delfos, la Pitia era una joven, escogida entr
 
 En rigor, al echar mano de este procedimiento, sus iniciadores no hicieron otra cosa que situar la predicción en su punto de partida, retrotrayéndola a las épocas lejanas en que el hombre rodeado de una naturaleza hostil, buscaba el auxilio de potencias superiores para solucionar sus problemas, y alegrándose cuando lo conseguía, repetía las prácticas con que la vez anterior obtuviera éxito. Con una inteligencia más desarrollada ahora y aplicando el mismo principio, fueron convirtiéndose en rituales específicos las prácticas que mejores resultados daban, y asociando esos rituales a una deidad y un objetivo, se concluyó por identificar la consecución de cierto bien con los poderes que propician los unos y las gracias que otorgan las otras, apareciendo así numerosos dioses y diosas como dadores de lo que se pide y múltiples rituales para demandarlo y conseguirlo. Los templos,
 
-![](../media/media-001.webp)
+![](media/media-001.webp)
 
 Fig 1.— Oráculo de Apolo, según está representado en una cista encontrada en Prenesta.
 
