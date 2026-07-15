@@ -44,11 +44,16 @@ license = "CC BY-NC-SA 4.0"
 license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 +++
 
-**Instrucciones al cocinero**典座教訓
+典座教訓
 
-> ![](../media/instrucciones-al-cocinero/image1.jpg){width="4.725in" height="7.075in"}**Eihei Dōgen**
->
-> Traducción para uso privado, no comercial, realizada por Carlos Collar Menéndez
+Instrucciones al cocinero
+
+**Eihei Dōgen**
+
+Comentadas por
+Kōshō Uchiyama
+Traducción para uso privado, no comercial,
+realizada por Carlos Collar Menéndez
 
 ## Índice
 
@@ -72,39 +77,21 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 ### _Eihei Dōgen_
 
-Desde tiempos remotos, en las comunidades en las que se practica la Vía del Buddha^1^, hay seis oficios establecidos para supervisar los asuntos de la comunidad[^1]. Aquellos monjes que se ocupan de tales oficios son discípulos de Buddha y todos realizan las actividades de un buddha[^2] a través de sus respectivos oficios. Entre estos oficios se encuentra el del tenzo, que tiene la responsabilidad de preparar la comida para la comunidad.
+Desde tiempos remotos, en las comunidades en las que se practica la Vía del Buddha[^u1], hay seis oficios establecidos para supervisar los asuntos de la comunidad[^1]. Aquellos monjes que se ocupan de tales oficios son discípulos de Buddha y todos realizan las actividades de un buddha[^2] a través de sus respectivos oficios. Entre estos oficios se encuentra el del tenzo, que tiene la responsabilidad de preparar la comida para la comunidad.
 
 Se dice en el Chanyuan Qinggui[^3] que "la función del tenzo es preparar la comida a los monjes." Esta obra siempre ha sido guardada por los maestros que practicaban la Vía y por aquellos que habían despertado en ellos mismos su espíritu de bodhisattvas. Tal y como la práctica requiere, pon en marcha toda tu energía[^4]. Si un hombre al que se le ha confiado esta labor carece de tal espíritu, en ese caso simplemente padecerá dificultades innecesarias y sufrimiento sin valor alguno en su transcurrir por la Vía.
 
-El Chanyuan Qinggui dice además: "Pon tu mente despierta[^5] a trabajar,
-
-1 Vía de buddha, en japonés, butsudō. En primer lugar, vivir la propia vida como la vía del buddha significa vivir constantemente asentando la propia vida. En el capítulo titulado Kie Buppōsō-hō (Confiar en los tres tesoros) del Shōbōgenzō dice: "¿Por qué deberíamos tener fe en los tres tesoros?" La respuesta es: "porque los tres tesoros son el propio refugio final, que capacita a los seres humanos a ir más allá del nacimiento y la muerte y a realizar el gran despertar." (Este fragmento fue traducido del Kōhōn Kōtei Shōbōgenzō, publicado por Chikuma Shobō y editado por Ōkubo Dōshū, en 1971. Una explicación más extensa de este comentario puede encontrarse en el capítulo 12).
-
-haciendo un esfuerzo constante para servir comidas lo suficientemente variadas, que sean apropiadas a las necesidades de cada ocasión y que capaciten a todos a practicar con sus cuerpos y mentes con los menores obstáculos posibles."
+El Chanyuan Qinggui dice además: "Pon tu mente despierta[^5] a trabajar, haciendo un esfuerzo constante para servir comidas lo suficientemente variadas, que sean apropiadas a las necesidades de cada ocasión y que capaciten a todos a practicar con sus cuerpos y mentes con los menores obstáculos posibles."
 
 A lo largo de los tiempos, numerosos grandes maestros y patriarcas, tales como Guishan Lingyou y Dingshan Shouchu, han servido como tenzos. Aunque el trabajo es simplemente el de preparar comidas, se realiza con un espíritu diferente al del trabajo de un cocinero ordinario o al de un pinche.
 
-Cuando estuve en China, hablé durante mi tiempo libre con muchos monjes ancianos que tenían varios años de experiencia en desempeñar distintos oficios. Me enseñaron algo de lo que habían aprendido en sus trabajos. Lo que tenían que decir debe de ser seguramente el tuétano de lo que ha sido transmitido por los anteriores buddhas y patriarcas^7^ de la Vía^8^.
+Cuando estuve en China, hablé durante mi tiempo libre con muchos monjes ancianos que tenían varios años de experiencia en desempeñar distintos oficios. Me enseñaron algo de lo que habían aprendido en sus trabajos. Lo que tenían que decir debe de ser seguramente el tuétano de lo que ha sido transmitido por los anteriores buddhas y patriarcas[^u7] de la Vía[^u8].
 
 Debemos estudiar completamente el Chanyuan Qinggui en lo referente al trabajo como tenzo y, sobre todo, escuchar atentamente qué nos tienen que decir aquellos que han realizado este trabajo acerca de observar los detalles.
 
-Trataré ahora sobre el trabajo del tenzo a lo largo de un día completo. Después de la comida del mediodía el tenzo debería ir al tsūsu y al kansu para coger el arroz, las verduras y el resto de ingredientes necesarios para el desayuno y la comida del día siguiente^9^. Una vez que los tiene los debe manejar con tanto cuidado como si se tratase de sus propios ojos. Renyong de Baoneng decía: "Usa los bienes y propiedades de la comunidad tan cuidadosamente como si fueran tus propios ojos." El tenzo debería manejar todos los alimentos que recibe con respeto, como si los fuera a utilizar para
+Trataré ahora sobre el trabajo del tenzo a lo largo de un día completo. Después de la comida del mediodía el tenzo debería ir al tsūsu y al kansu para coger el arroz, las verduras y el resto de ingredientes necesarios para el desayuno y la comida del día siguiente[^u9]. Una vez que los tiene los debe manejar con tanto cuidado como si se tratase de sus propios ojos. Renyong de Baoneng decía: "Usa los bienes y propiedades de la comunidad tan cuidadosamente como si fueran tus propios ojos." El tenzo debería manejar todos los alimentos que recibe con respeto, como si los fuera a utilizar para una comida para el emperador. Tanto la comida cocinada como la que aún no lo está deben de ser tratadas de la misma manera.
 
-> agradecido por haber sido capaz de perseguir la cultura, la forma de vida más elevada, que es solamente hacer zazen, a pesar de ser materialmente pobre. Dōgen Zenji mismo escribió: \'perseguir la más refinada cultura llevando una vida de pobreza es la meta más valiosa que podamos emprender en este mundo.\' Al manifestar que he sido capaz, he tomado estas palabras como el ideal para mi vida." En la traducción de Uchiyama Rōshi después de "carece de tal espíritu" hay una frase añadida : "y es indiferente sobre su vida." El término dōshin tiene dos aspectos. Uno apunta a la idea de que ya estamos totalmente despiertos y el otro, que debemos perseguir una continua o permanente búsqueda de la vía. En nuestras actividades cotidianas no tiene ningún sentido decir simplemente que estamos despiertos a menos que practiquemos tal condición del despertar a través de cada una de nuestras actividades. Este aspecto dual de nuestro ser despierto es explicado íntegramente en el Daijō Kishin Ron (Discurso del Despertar de la Fe) y es también el punto al que se refiere Dōgen Zenji en la historia del monje y Hōtetsu sobre el abanico y el viento. No basta con saber que la naturaleza del viento se encuentra en todas partes (despertar), debemos además practicar ese despertar (usar el abanico).
->
-> (Este caso se puede encontrar en el Shōbōgenzō Genjōkōan.)
-
-7.  "Buddhas y patriarcas." Esta expresión deriva de la palabra busso. Históricamente, hace referencia a los buddhas de la India y al linaje de los patriarcas chinos. No obstante, hay otra forma de interpretar esta palabra que es igualmente válida y, religiosamente, mucho más importante, que es como buddha-patriarcas. En otras palabras, los buddhas no existen al margen de los patriarcas. Otra explicación sería que la palabra buddha implica completud o absoluto, mientras que la palabra patriarca tiene un sentido más dinámico, continuo o relacionado con estar alerta.
-
-8.  Uchiyama Rōshi traduce la expresión japonesa udō como: "aquellos que han buscado vivir sus vidas de la forma más asentada."
-
-9.  Antiguamente solo servían dos comidas al día en los monasterios.
-
-una comida para el emperador. Tanto la comida cocinada como la que aún no lo está deben de ser tratadas de la misma manera.
-
-A continuación, todos los oficiales se reúnen en la cocina o en la despensa y deciden la comida que debe prepararse para el día siguiente, como, por ejemplo, cómo se hará el arroz o cómo se aliñarán las verduras. En el Chanyuan Qinggui se dice: "Cuando se ha decidido sobre la cantidad de comida y el número de platos para el desayuno y la comida, el tenzo debería consultar con los otros oficiales. Es decir, con el tsūsu, kansu, fūsu, ino y
-
-shissui. Cuando han elegido las comidas, los menús deberían ser publicados en el tablón de anuncios delante de la habitación del abad así como delante de la sala de estudios."[^6]
+A continuación, todos los oficiales se reúnen en la cocina o en la despensa y deciden la comida que debe prepararse para el día siguiente, como, por ejemplo, cómo se hará el arroz o cómo se aliñarán las verduras. En el Chanyuan Qinggui se dice: "Cuando se ha decidido sobre la cantidad de comida y el número de platos para el desayuno y la comida, el tenzo debería consultar con los otros oficiales. Es decir, con el tsūsu, kansu, fūsu, ino y shissui. Cuando han elegido las comidas, los menús deberían ser publicados en el tablón de anuncios delante de la habitación del abad así como delante de la sala de estudios."[^6]
 
 Una vez hecho, pueden comenzar los preparativos para la comida de la mañana siguiente. No debes dejar lavar el arroz ni preparar las verduras en manos de los demás, sino que debes realizar este trabajo con tus propias manos. Pon toda tu atención en tu trabajo, observando qué requiere cada situación[^7]. No estés distraído en tus tareas, ni tan concentrado en un aspecto como para que te equivoques a la hora de observar los demás aspectos. No subestimes ni tan siquiera una gota del océano de virtud (por confiar el trabajo a otros). Cultivad un espíritu que persiga incrementar la fuente de bondad más allá de la montaña de bondad[^8].
 
@@ -114,9 +101,7 @@ Cuando laves el arroz, aparta la arena que encuentres. Al hacerlo, no pierdas ni
 
 Xuefeng Yicun fue en una ocasión tenzo bajo la dirección de Dongshan Liangjie. Un día mientras Xuefeng estaba lavando el arroz pasó Dongshan por allí y le dijo: "¿Lavas la arena y apartas el arroz o lavas el arroz y apartas la arena?"[^10] "Lavo y aparto a la vez tanto la arena como el arroz." Respondió Xuefeng. "Entonces, ¿qué comerán los residentes?" Inquirió Dongshan de nuevo. Como respuesta, Xuefeng puso el cubo del arroz boca abajo. Al verlo, Dongshan le dijo: "Llegará el día en el que practicarás bajo otro maestro."[^11]
 
-Del mismo modo, los grandes maestros de los tiempos antiguos que alcanzaron la vía han realizado su trabajo con sus propias manos. ¡Cómo podemos ser tan inmaduros los practicantes como para ser tan negligentes con nuestra práctica! Aquellos que nos precedieron dijeron: "la mente del
-
-tenzo que busca la vía se actualiza arremangándose."
+Del mismo modo, los grandes maestros de los tiempos antiguos que alcanzaron la vía han realizado su trabajo con sus propias manos. ¡Cómo podemos ser tan inmaduros los practicantes como para ser tan negligentes con nuestra práctica! Aquellos que nos precedieron dijeron: "la mente del tenzo que busca la vía se actualiza arremangándose."
 
 Teniendo en cuenta que no queremos perder ni un grano de arroz cuando apartamos la arena, manéjalo cuidadosamente con tus manos. Una vez más, en el Chanyuan Quinggui encontramos: "Pon toda tu atención en tu trabajo al preparar la comida, cuida de cada detalle por ti mismo de tal modo que se termine correctamente de forma natural."
 
@@ -128,27 +113,15 @@ Limpia los palillos, cucharones y demás utensilios. Maneja con el mismo cuidado
 
 Después de que el trabajo se haya hecho es hora de preparar la comida del mediodía siguiente. En primer lugar has de comprobar si hay algún insecto, guisante, cáscara o alguna chinita en el arroz y, si es así, sepáralos cuidadosamente.
 
-Cuando elegimos el arroz y las verduras que debemos utilizar, aquellos que trabajan bajo la guía del tenzo deben ofrecer los sutra al espíritu del kamado^17^. Luego, prepara los ingredientes para la guarnición, así como también para la sopa correspondiente y limpia cuidadosamente todo de cualquier resto que pueda tener de suciedad o insectos.
+Cuando elegimos el arroz y las verduras que debemos utilizar, aquellos que trabajan bajo la guía del tenzo deben ofrecer los sutra al espíritu del kamado[^u17]. Luego, prepara los ingredientes para la guarnición, así como también para la sopa correspondiente y limpia cuidadosamente todo de cualquier resto que pueda tener de suciedad o insectos.
 
-Cuando el tenzo recibe la comida del kusu^18^, nunca debe quejarse acerca de su calidad ni de su cantidad, antes bien debe manejarla con el mayor cuidado y la mayor atención. Nada podría ser peor que quejarse por tener o demasiado o poco de algo, o porque algo es de inferior calidad.
+Cuando el tenzo recibe la comida del kusu[^u18], nunca debe quejarse acerca de su calidad ni de su cantidad, antes bien debe manejarla con el mayor cuidado y la mayor atención. Nada podría ser peor que quejarse por tener o demasiado o poco de algo, o porque algo es de inferior calidad.
 
-Tanto de día como de noche, permite que todas las cosas se presenten y residan en tu mente. Permite que tu mente (sí mismo) y todas las cosas funcionen juntas, como un todo^19^. Antes de medianoche dedica tu atención a organizar las tareas del día siguiente, después de medianoche prepara la comida de la mañana siguiente.
+Tanto de día como de noche, permite que todas las cosas se presenten y residan en tu mente. Permite que tu mente (sí mismo) y todas las cosas funcionen juntas, como un todo[^u19]. Antes de medianoche dedica tu atención a organizar las tareas del día siguiente, después de medianoche prepara la comida de la mañana siguiente.
 
 Después del desayuno, lava las ollas y cuece el arroz y la sopa para el mediodía. Cuando ponga en remojo el arroz y tenga calculada el agua necesaria el tenzo debería dirigirse a continuación al fregadero.
 
-Mantén los ojos abiertos. No permitas que se pierda ni tan siquiera un grano
-
-> Huiji. La historia dice: Un día Guishan y Yangshan fueron a hacer un nuevo arrozal. Yangshan dijo: "Está demasiado bajo por este lado y bastante alto por allí, ¿no te parece?" Guishan respondió: "Podemos medir el nivel con agua." Yangshan replicó: "¡No podemos depender del agua como nivel, maestro! Un lugar alto es un nivel como lugar alto y uno bajo lo es como bajo."
-
-17. Un kamado es un horno de leña hecho con adobe, piedras o ladrillos usado para cocinar tanto en China como en Japón.
-
-18. En el Chanyuan Qinggui, el kusu es el encargado de los asuntos generales de la comunidad. Más tarde, este cargo fue compartido por tres oficiales: el tsūsu, el kansu y el
-
-> fūsu. Los tres oficiales juntos actuaban como el kusu.
-
-19. La traducción moderna de Uchiyama Rōshi dice: "Tanto de día como de noche todo lo que encontramos es nuestra vida. Según esto, ponemos nuestra vida en cada cosa que hacemos. Nuestra vida y lo que nos sucede se convierten en uno. Volcamos de tal modo nuestra fuerza vital que nuestra vida y lo que ocurre funcionan como deberían." El fragmento anterior parece circular y, de hecho, de algún modo es así. Al arrojarnos nosotros mismos en nuestra tarea, deja de haber una brecha" o dualidad entre nuestra fuerza vital y la cosa" o tarea" que nos ocupa, por lo que los significados enfrentados de todos los términos dualistas habituales (nuestra", vida" o fuerza" por un lado y cosa" o tarea" por el otro) desaparecen.
-
-de arroz. Lava el arroz hasta el más pequeño detalle, ponlo en la olla, enciende el fuego y cuécelo. Un viejo dicho dice: "Mira la olla como si fuera tu propia cabeza, mira el agua como si fuera tu propia sangre".
+Mantén los ojos abiertos. No permitas que se pierda ni tan siquiera un grano de arroz. Lava el arroz hasta el más pequeño detalle, ponlo en la olla, enciende el fuego y cuécelo. Un viejo dicho dice: "Mira la olla como si fuera tu propia cabeza, mira el agua como si fuera tu propia sangre".
 
 Coloca el arroz cocinado en una cesta de bambú en verano o en un bol de madera en invierno y a continuación sírvelos en la mesa. Prepara el arroz, la sopa y la guarnición a la vez.
 
@@ -178,13 +151,11 @@ Si alguien realiza una donación para comprar comida, consulta a los otros ofici
 
 Después de que se haya preparado cuidadosamente cada comida, colócala en la mesa. Ponte el kesa[^19] y extiende tu zagu[^20]. Dirígite al sōdō, donde todos hacen zazen, ofrece incienso y póstrate nueve veces. Después, lleva la comida al sōdō.
 
-El tenzo tiene que llevar a cabo estos preparativos y preparar las comidas sin perder un solo momento. Si pone toda su energía en aquello que realmente lo requiera en cada momento, en ese caso tanto la actividad como la destreza para realizarla actuarán con naturalidad para nutrir las semillas del
-
-buddhadharma. Llevar con atención la tarea del tenzo permite que todos los residentes sostengan su práctica de la manera más estable posible[^21].
+El tenzo tiene que llevar a cabo estos preparativos y preparar las comidas sin perder un solo momento. Si pone toda su energía en aquello que realmente lo requiera en cada momento, en ese caso tanto la actividad como la destreza para realizarla actuarán con naturalidad para nutrir las semillas del buddhadharma. Llevar con atención la tarea del tenzo permite que todos los residentes sostengan su práctica de la manera más estable posible[^21].
 
 Han pasado varios siglos desde que el buddhadharma fue introducido en Japón. Aún así, nadie ha escrito nunca sobre cómo preparar y servir las comidas como expresión del buddhadharma, ni tampoco ningún maestro enseñó sobre estos asuntos. Menos aún ha habido mención alguna acerca del postrarse nueve veces al ofrecer la comida a los residentes. Tal práctica nunca ha entrado en las mentes de la gente de este país. Aquí la gente no piensa en otra cosa que en comer como animales sin preocuparse de la forma en que lo hacen. Realmente es una situación patética. Verdaderamente, me entristece ver las cosas de esta manera. ¿Por qué tiene que ocurrir así?
 
-Cuando estaba en el monte Tiantong, un monje llamado Lu de Qingyuan Fu estaba sirviendo como tenzo. Una vez, después de la comida del mediodía, estaba yendo a otro edificio del recinto cuando me di cuenta que Lu estaba secando champiñones al sol delante del butsuden^29^. Llevaba un palo de bambú pero no se había puesto el sombrero. Los rayos del sol golpeaban tan ardientemente que los adoquines del camino quemaban los propios pies. Lu estaba trabajando duro e iba empapado en sudor. No podía dejar de pensar que el trabajo era una enorme carga para él. Su espalda era como un arco tenso y sus largas cejas eran grullas blancas.
+Cuando estaba en el monte Tiantong, un monje llamado Lu de Qingyuan Fu estaba sirviendo como tenzo. Una vez, después de la comida del mediodía, estaba yendo a otro edificio del recinto cuando me di cuenta que Lu estaba secando champiñones al sol delante del butsuden[^u29]. Llevaba un palo de bambú pero no se había puesto el sombrero. Los rayos del sol golpeaban tan ardientemente que los adoquines del camino quemaban los propios pies. Lu estaba trabajando duro e iba empapado en sudor. No podía dejar de pensar que el trabajo era una enorme carga para él. Su espalda era como un arco tenso y sus largas cejas eran grullas blancas.
 
 Me acerqué junto a él y le pregunté su edad. Respondió que tenía 68 años. A continuación le pregunté que por qué no usaba asistentes y me respondió: "Los demás no son yo."
 
@@ -196,13 +167,7 @@ Respondió: "Si no lo hago ahora, ¿cuándo si no?"
 
 No supe decir nada más. Después de haber realizado una larga odisea, empezaba a sentir internamente el auténtico significado del rol de tenzo.
 
-Había llegado a China en abril de 1223 pero fui incapaz de desembarcar inmediatamente, por lo que permanecí en el barco en el puerto de Ningbo. Un día de mayo, mientras estaba charlando con el capitán, un viejo monje de unos sesenta años vino directamente al barco a comprar champiñones de los comerciantes japoneses. Le invité a tomar té y le pregunté de dónde era. Dijo que era el tenzo del monte Ayuwang y prosiguió: "Soy de Xishu, aunque me fui de allí hará ya unos cuarenta años. Ahora voy a hacer 61 y he practicado zazen en muchos monasterios del país. En el último año, cuando vivía en Guyun, visité el monasterio del monte Ayuwang aunque pasé allí todo mi tiempo absolutamente confundido sobre lo que estaba haciendo^30^. Después,
-
-> poner tu cuerpo a funcionar. Anraku implica no fantasear ni con el cuerpo ni con la mente. Anraku es además la transcripción china del sánscrito nirvāna.
-
-29. El butsuden es uno de los edificios o grandes salas en las que se coloca una estatua de buddha o de algún boddhisattva.
-
-30. "Pasé el tiempo absolutamente confundido sobre lo que estaba haciendo." Este fragmento debería entenderse como una muestra de modestia por parte del monje.
+Había llegado a China en abril de 1223 pero fui incapaz de desembarcar inmediatamente, por lo que permanecí en el barco en el puerto de Ningbo. Un día de mayo, mientras estaba charlando con el capitán, un viejo monje de unos sesenta años vino directamente al barco a comprar champiñones de los comerciantes japoneses. Le invité a tomar té y le pregunté de dónde era. Dijo que era el tenzo del monte Ayuwang y prosiguió: "Soy de Xishu, aunque me fui de allí hará ya unos cuarenta años. Ahora voy a hacer 61 y he practicado zazen en muchos monasterios del país. En el último año, cuando vivía en Guyun, visité el monasterio del monte Ayuwang aunque pasé allí todo mi tiempo absolutamente confundido sobre lo que estaba haciendo[^u30]. Después,
 
 tras el período de práctica veraniego del año pasado[^22], empecé a desempeñar el papel de tenzo. Mañana es 5 de mayo[^23], pero no tengo nada especial que ofrecer a los monjes. Me gustaría prepararles una sopa de fideos pero como no tenía champiñones vine hasta aquí para comprarlos."
 
@@ -244,9 +209,9 @@ Le pregunté de nuevo: "¿Qué son los caracteres?" "Uno, dos, tres, cuatro, cin
 
 "¿Qué es la práctica?"
 
-"No hay nada escondido."^37^
+"No hay nada escondido."[^u37]
 
-Aunque charlamos sobre muchas otras cosas, no las mencionaré por ahora. Si algo he aprendido sobre los fenómenos y la práctica se lo debo en gran medida a este tenzo. Cuando me encontré de nuevo con mi maestro Myōzen^38^, que después murió en China, y le conté mi encuentro con el tenzo del monte Ayuwang, estaba lleno de alegría al escuchar mis palabras. Más tarde, me topé con un gāthā que Xuedou^39^ había escrito a uno de sus discípulos:
+Aunque charlamos sobre muchas otras cosas, no las mencionaré por ahora. Si algo he aprendido sobre los fenómenos y la práctica se lo debo en gran medida a este tenzo. Cuando me encontré de nuevo con mi maestro Myōzen[^u38], que después murió en China, y le conté mi encuentro con el tenzo del monte Ayuwang, estaba lleno de alegría al escuchar mis palabras. Más tarde, me topé con un gāthā que Xuedou[^u39] había escrito a uno de sus discípulos:
 
 Uno, siete, tres, cinco
 
@@ -258,21 +223,11 @@ Las joyas del dragón se encuentran en cada ola.
 
 Buscando la luna, está aquí,
 
-> acerca del asunto más vital sobre el buddhadharma, entonces eso en sí mismo es comprender los caracteres, eso es la práctica."
-
-37. "No hay nada en el mundo que esté escondido." Proviene de la expresión hengai fuzōzō, que quiere decir que la verdad de la vida se manifiesta en todos los lugares y en todas las cosas, tal y como son. Cuando el tenzo cuenta hasta cinco, quiere decir que "cualquier cosa" es la respuesta, es decir que todo en nuestra vida es práctica.
-
-38. Myōzen era un antiguo discípulo de Eisai Zenji cuando este era abad de Kenninji en Kyoto. Históricamente, no está claro si Dōgen conoció o no realmente a Eisai Zenji. Por otro lado, Dōgen estudió varios años con Myōzen antes de acompañarlo a China. Myōzen murió mientras estaban en China a la edad de 42 años.
-
-39. Gāthā, o ju en japonés, son poemas que elogian el buddhadharma. Xuedou Zongxian (9801052) fue un maestro de la dinastía Song famoso por su poesía, que fue compilada posteriormente y comentada por Yuanwu Keqin. La poesía y sus comentarios se conocen como Recopilación de la Montaña Azul.
-
 en esta ola, en la siguiente.[^28]
 
-Me di cuenta, entonces, de que lo que me dijo el tenzo que había conocido el año anterior coincidía perfectamente con lo que Xuedou quería decir con el
+Me di cuenta, entonces, de que lo que me dijo el tenzo que había conocido el año anterior coincidía perfectamente con lo que Xuedou quería decir con el gāthā. Me di cuenta fuera de toda duda de que el tenzo era un hombre que vivía totalmente el buddhadharma.
 
-gāthā. Me di cuenta fuera de toda duda de que el tenzo era un hombre que vivía totalmente el buddhadharma.
-
-Solía ver los caracteres como uno, dos, tres, cuatro y cinco; ahora también los veo como seis, siete, ocho, nueve y diez^40^. Los futuros estudiantes deben ser capaces de ver aquel lado desde este, tan bien como este lado desde aquel. Practicando con un esfuerzo intenso, usando todo tu ingenio, serás capaz de alcanzar el auténtico zen que va más allá de la superficie de los caracteres. De otro modo, solo acabarás siendo guiado por los distintos tipos de zen contaminados que te dejarán incapaz de preparar hábilmente la comida para la comunidad[^29].
+Solía ver los caracteres como uno, dos, tres, cuatro y cinco; ahora también los veo como seis, siete, ocho, nueve y diez[^u40]. Los futuros estudiantes deben ser capaces de ver aquel lado desde este, tan bien como este lado desde aquel. Practicando con un esfuerzo intenso, usando todo tu ingenio, serás capaz de alcanzar el auténtico zen que va más allá de la superficie de los caracteres. De otro modo, solo acabarás siendo guiado por los distintos tipos de zen contaminados que te dejarán incapaz de preparar hábilmente la comida para la comunidad[^29].
 
 Al estudiar el oficio de tenzo, historias como la que he contado previamente entre Guishan y Dongshan habían pasado de una generación a otra a través de los años. Además de los monjes del monte Tiantong y el monte Ayuwang, conocí y charlé con otros monjes que habían servido como tenzos en otros monasterios. Si miramos con detenimiento algunas de estas historias, nos daremos cuenta del significado de los caracteres y la naturaleza de la práctica. Realmente, solo trabajar como tenzo es la práctica incomparable de los Buddhas. Incluso aquel que accede a la cabeza de la comunidad debería tener esta misma actitud.
 
@@ -310,67 +265,25 @@ Como dijo un antiguo maestro:
 >
 > Tal es así que lo rechazamos dando la espalda incluso cuando nos llaman.
 >
-> ¡Qué lamentable!^50^
+> ¡Qué lamentable![^u50]
 
-El no encontrar a un auténtico maestro conducirá a que seamos guiados por nuestros sentimientos y emociones. La historia del hijo tonto del hombre rico, que abandona la casa con el tesoro de la familia y lo arroja como si fuera basura, es realmente patética^51^. Del mismo modo, al llegar a familiarizarnos con el trabajo de tenzo no deberíamos desperdiciarlo.
+El no encontrar a un auténtico maestro conducirá a que seamos guiados por nuestros sentimientos y emociones. La historia del hijo tonto del hombre rico, que abandona la casa con el tesoro de la familia y lo arroja como si fuera basura, es realmente patética[^u51]. Del mismo modo, al llegar a familiarizarnos con el trabajo de tenzo no deberíamos desperdiciarlo.
 
-Al fijarnos en aquellos que han trabajado como tenzo con la actitud de practicar la vía, observamos que en cada circunstancia la forma en la que desempeñan su trabajo coincide exactamente con las virtudes de su carácter. La realización de Daigui ocurrió cuando estaba trabajando con Baizhang^52^. La anécdota de las tres libras de sésamo de Dongshan pasó cuando era tenzo[^38].
+Al fijarnos en aquellos que han trabajado como tenzo con la actitud de practicar la vía, observamos que en cada circunstancia la forma en la que desempeñan su trabajo coincide exactamente con las virtudes de su carácter. La realización de Daigui ocurrió cuando estaba trabajando con Baizhang[^u52]. La anécdota de las tres libras de sésamo de Dongshan pasó cuando era tenzo[^38].
 
 ¿Puede haber algo de mayor valor que la realización de lo que es la vía? ¿Puede haber tiempo más precioso que el tiempo de la realización?[^39].
 
-Podríamos poner como ejemplo de alguien deseoso de la vía, el del chico que ofreció arena como si fuera un gran tesoro[^40]. El ejemplo de la buena fortuna
+Podríamos poner como ejemplo de alguien deseoso de la vía, el del chico que ofreció arena como si fuera un gran tesoro[^40]. El ejemplo de la buena fortuna que tuvo aquel que hacía esculturas de Buddha y mostraba una actitud de reverencia ante ellas, ilustra además este mismo espíritu[^u56]. Las obligaciones del oficio de tenzo son las mismas que hace cientos de años. Si ni la actitud ni las tareas han cambiado, ¿cómo podemos fallar a la hora de trabajar como tenzo para actualizar su maravillosa naturaleza y la vía de la misma manera que lo hacían los ancestros?
 
-50. Este poema se atribuye a Xuedou.
+En realidad, cuando actuamos con algún cargo de responsabilidad, no solo el de tenzo, sino también el de cualquier oficial o asistente, hay que esforzarse por mantener un espíritu de alegría y magnanimidad, mientras mantenemos al mismo tiempo la actitud cuidadosa de un padre[^u57].
 
-51. Este historia del hijo pródigo puede encontrarse en el Sutra del Loto
-
-> (Saddharmapundarīka-sutra) al igual que en la Biblia.
-
-52. Esta anécdota sobre Daigui aparece en el Jingde Zhuandeng Lu, o en japonés, Keitoku Dentoroku, una crónica de treinta capítulos que cuenta el linaje de la tradición zen. En el capítulo sobre Guishan Lingyou (otro nombre para Daigui) encontramos: «Una vez, cuando Daigui estaba sirviendo como tenzo en el monte Baizhang, fue a entrevistarse con el maestro. Baizhang (Hui Hai) lo llamó, "¿Quién es?" Daigui respondió: Soy yo, "Lingyou." Baizhang dijo: "Ve al brasero y observa las ascuas, a ver si alguna aún está encendida." Daigui cumplió con lo que se le dijo. Cuando volvió, le dijo a Baizhang que el fuego estaba apagado. Este se levantó, fue él mismo al brasero y rastrilló las cenizas. Encontró una pequeña ascua que aún ardía al fondo del brasero la cogió y se la mostró a Daigui en tono burlón. "¿Cómo llamarías a esto?" Entonces Daigui se dio cuenta de lo que Baizhang había estado intentando mostrar y, después de inclinarse respetuosamente en gratitud a su maestro, explicó que lo había entendido. Baizhang respondió: "Tu entendimiento se desvía solo en parte de la forma usual de la comprensión." En el Nirvāna-sūtra hay un fragmento que dice: "Si deseas ver la naturaleza de buddha, deberías contemplar las causas y las circunstancias presentes de todas las cosas. Cuando el momento del despertar viene, es como si de repente aclararas algo que había estado confuso, como si de repente descubrieras algo que habías olvidado. Si reflexionas sobre esto con claridad, no hay nada fuera de ti mismo. Un antiguo patriarca decía que alcanzar el despertar es lo mismo que antes del despertar. Tener no-dharma con no-mente." No hay falsas representaciones en realidad. Tanto los hombres ordinarios como los santos están sin distinción viviendo igualmente la incomparable realidad de la vida. En esencia, no hay nada que carezca de algo. Eres lo que eres ahora. ¡Deberías entender esto con sumo cuidado!»
-
-que tuvo aquel que hacía esculturas de Buddha y mostraba una actitud de reverencia ante ellas, ilustra además este mismo espíritu^56^. Las obligaciones del oficio de tenzo son las mismas que hace cientos de años. Si ni la actitud ni las tareas han cambiado, ¿cómo podemos fallar a la hora de trabajar como tenzo para actualizar su maravillosa naturaleza y la vía de la misma manera que lo hacían los ancestros?
-
-En realidad, cuando actuamos con algún cargo de responsabilidad, no solo el de tenzo, sino también el de cualquier oficial o asistente, hay que esforzarse por mantener un espíritu de alegría y magnanimidad, mientras mantenemos al mismo tiempo la actitud cuidadosa de un padre^57^.
-
-El espíritu alegre es el de la gratitud y el optimismo. Deberías considerar esto atentamente. Si hubieras nacido en algún reino celestial, probablemente estarías aferrado a los placeres de ese reino, sin tener ni el tiempo ni la oportunidad de hacer surgir el espíritu del despertar, ni tendrías una particular necesidad de practicar el buddhadharma. Mucho menos aún serías capaz de preparar comida para los Tres Tesoros, a pesar de ser lo más grande y lo más valioso de entre todas las cosas. Ni ser un sakro-devānām-indrah ni un cakravartin se puede comparar con los Tres Tesoros^58^.
+El espíritu alegre es el de la gratitud y el optimismo. Deberías considerar esto atentamente. Si hubieras nacido en algún reino celestial, probablemente estarías aferrado a los placeres de ese reino, sin tener ni el tiempo ni la oportunidad de hacer surgir el espíritu del despertar, ni tendrías una particular necesidad de practicar el buddhadharma. Mucho menos aún serías capaz de preparar comida para los Tres Tesoros, a pesar de ser lo más grande y lo más valioso de entre todas las cosas. Ni ser un sakro-devānām-indrah ni un cakravartin se puede comparar con los Tres Tesoros[^u58].
 
 En el Chanyuan Qinggui encontramos este fragmento: "El samgha es lo más precioso de todas las cosas. Aquellos que viven en esta comunidad no están limitados por la mezquindad de los asuntos sociales. Tal comunidad manifiesta una postura refinada desprovista de las maquinaciones mundanas."
 
 ¡Cuán afortunados somos de haber nacido como humanos, lo cual nos permite preparar la comida para los Tres Tesoros! Nuestra actitud debería ser verdaderamente de alegría y gratitud.
 
-Deberíamos también reflexionar sobre lo que nuestras vidas podrían haber
-
-> cuando pasó Shakyamuni pidiendo limosnas. El niño le ofreció arena como si fuera arroz hervido y a continuación se inclinó. En consecuencia, Shakyamuni predijo que en una vida futura el niño sería un gran rey y protector del budismo. Al volver al hogar aquel día, Shakyamuni entregó la arena a Ananda y este la esparció en el camino por el que Shakyamuni paseaba durante el kinhin; que es, los períodos de andar despacio entre los períodos de zazen. La anécdota anterior puede encontrarse en el Ayuwang Jing Zhuyinyuan Pinlue, o en japonés, Aikuō Kyō Shoinnen Bonryaku.
-
-56. En el Zuoxaing Yinyuan Jing, o en japonés, Sakuzō Innen Kyō, se encuentra esta historia sobre el rey Uten: «El rey Uten se acercó y preguntó al Buddha: "Tras la muerte del Tathagata (Shakyamuni Buddha), me gustaría dedicar mi vida a esculpir estatuas suyas. ¿Cuántos méritos se podría obtener de tal acción?" (Shakyamuni) Buddha respondió: "En generaciones venideras, como recompensa, te reencarnarás en un cuerpo de sonido y más allá de la muerte, volverás a nacer en un reino celestial."»
-
-57. "Un espíritu de gozo y magnanimidad, unido a la actitud cuidadosa de un padre." Esta es una traducción de la expresión japonesa sanshin o, literalmente, las tres mentes o actitudes. Kishin es la mente alegre, rōshin es la mente o actitud de los padres hacia su hijo, mientras que daishin es una mente magnánima o mente grande.
-
-58. Sakro-devānām-indrah es una de las dos deidades tutelares del budismo. Cakravartin es un término técnico sánscrito que significa literalmente "aquel que se caracteriza por girar la rueda" o, en resumen, "un rey que gira la rueda." Así se consideraba a Asoka. Tener la oportunidad de vivir y trabajar en un samgha como tenzo es más favorable que ser un rey o un dios (deva).
-
-sido si hubiéramos nacido en uno de los reinos del infierno, como un espíritu insaciable o como un animal inferior o como un demonio^59^. Cuán difíciles se presentarían nuestras vidas si sufriéramos las desgracias de esas cuatro circunstancias o cualquier otra de las ocho condiciones desfavorables^60^. Seríamos incapaces de practicar el dharma con la fuerza de la comunidad, incluso aunque tuviéramos una mente para hacerlo. Menos aún seríamos capaces de preparar comida con nuestras propias manos y ofrecérsela a los Tres Tesoros. Nuestros cuerpos y mentes estarían impedidos por las limitaciones y aflicciones de estos mundos y tendrían que sufrir sus cargas.
-
-59. " En uno de los reinos del infierno, como un espíritu insaciable, como algún bajo animal o como un demonio". Aquí "infierno, espíritu insaciable, animal y demonio" son traducciones libres de las palabras sánscritas naraka, preta, tiryañc y asura. Hacen referencia a varios lugares o formas de reencarnación para los seres vivos, y corresponden en japonés a
-
-> jigoku, gaki, chikushō y shura.
->
-> En su "Despedida de Antaiji", el teishō (lección dharma) final de Uchiyama Rōshi antes de retirarse de Antaiji como abad, entra en detalle sobre lo que se conoce como rokudō zen, es decir, zen de seis tipos:
->
-> «A medida que uno práctica se da cuenta de que la profundidad del propio zazen viene determinado por la actitud con la que uno se sienta. El conocido como rokudō zen no tiene vinculación alguna con shikantaza. Es mejor alejarse de estos tipos de zen. Reparemos en ellos por un instante. En primer lugar, jigoku zen. Algunas personas, con solo oír la palabra zazen se ponen nerviosas. Curiosamente, algunos a los que les pasa esto ¡son sacerdotes! Hablo de la clase de sacerdotes que deciden vivir un tiempo en un sōdō oficial para poder recibir los papeles que los capacitan como sacerdotes y poder ponerse al cargo de un templo. En primer lugar, odian estar allí pero no tienen forma de evitarlo y además se sienten obligados a hacer zazen. Hacer zazen bajo estas condiciones se conoce como
->
-> jigoku zen o, "zen infernal."
->
-> Luego vendría el gaki zen. Es el tipo de zen que hacen aquellos que van tras el despertar de manera codiciosa.
->
-> A continuación vendría el chikushō zen. Chikushō en japonés hace referencia a un animal que puede ser domesticado, como un perro, un gato o, quizás, una vaca. Del mismo modo, algunas personas entran en un monasterio porque oyeron que no les faltará comida mientras sigan las reglas. De vez en cuando. tenemos a alguna persona de este tipo en Antaiji. Se imaginan que por estar aquí y sentarse durante las sesshin, serán capaces de permanecer en el templo. Cuando esta clase de personas se deja caer por aquí, simplemente les invito a que se marchen. Hay una expresión que dice "yoraba taiju no
->
-> kage." Significa buscar descanso o protección a la sombra de un gran árbol. Cuando la gente intenta buscar sombra bajo un escuálido y pequeño sauce como es Antaiji, están buscando en el lugar equivocado. Lo que quiero decir es que carece de sentido pensar en comer y vivir abundantemente en Antaiji, cuando aquí carecemos de grandes manjares. La única cosa que encontrarás a raudales es el arroz integral y la sopa miso que comemos tres veces al día. Un sacerdote errante que crea que será bien atendido en Antaiji, está cometiendo un tremendo error. Esta categoría, el chikushō zen no es algo bueno tampoco.
->
-> Gente como esta tiene que avergonzarse de sí misma.
->
-> Más tarde tenemos el shura zen. Estas personas son aquellas que se dedican a competir con otras para obtener el satori. O bien, aquellas que compiten con otras para ver quién es capaz de hacerlo de forma más rígida y severa. Algunas llevan el kyōsaku, golpeando a los demás con esta misma actitud. Tal es el shura zen.
->
-> También existe el ningen zen, el zen que practican los seres humanos con fines utilitarios. A este punto me refería anteriormente, esto es, aquellos que hacen zazen para tener sus mentes enderezadas, o bien para tener buena salud o energía sexual, así como fortaleza. En cualquier caso, que hacen zazen para conseguir algo de este. Se pueden encontrar hoy montones de libros sobre zen humanista, o sobre un zen para el cuerpo, o sobre zen y psicología. Estos son claros ejemplos de ningen zen, que buscan algo ventajoso para la humanidad. Dicho de otro modo, es un zen que busca una recompensa de la práctica. Finalmente tenemos el tenjō zen. Este tipo de zen lo practican aquellas personas que
+Deberíamos también reflexionar sobre lo que nuestras vidas podrían haber sido si hubiéramos nacido en uno de los reinos del infierno, como un espíritu insaciable o como un animal inferior o como un demonio[^u59]. Cuán difíciles se presentarían nuestras vidas si sufriéramos las desgracias de esas cuatro circunstancias o cualquier otra de las ocho condiciones desfavorables[^u60]. Seríamos incapaces de practicar el dharma con la fuerza de la comunidad, incluso aunque tuviéramos una mente para hacerlo. Menos aún seríamos capaces de preparar comida con nuestras propias manos y ofrecérsela a los Tres Tesoros. Nuestros cuerpos y mentes estarían impedidos por las limitaciones y aflicciones de estos mundos y tendrían que sufrir sus cargas.
 
 Por consiguiente, alégrate de tu nacimiento en este mundo, en el que eres capaz de usar tu cuerpo libremente para ofrecer comida a los Tres Tesoros: al Buddha, al Dharma y al Samgha. Teniendo en cuenta las infinitas posibilidades en un universo sin tiempo, se nos ha concedido una maravillosa oportunidad. El mérito de trabajar como tenzo nunca disminuirá. Mi más sincero deseo es que agotes toda tu fuerza y todo el esfuerzo de todas tus vidas -pasadas, presentes y futuras- y de cada momento de cada día en tu práctica a través del trabajo de tenzo y así desarrollar una fuerte conexión con el buddhadharma. Ver todas las cosas con esta actitud se conoce como Mente Alegre.
 
@@ -380,51 +293,15 @@ Rōshin es la mente o actitud de un padre. Al igual que un padre cuida de su ni�
 
 ¿Cuán profundo es un amor como este? Solamente un padre puede entenderlo. Un padre protege a sus hijos del frío y los resguarda del ardiente sol sin preocuparse de su propio bienestar personal. Solo alguien en el que ha surgido una mente como esta puede entenderlo, y solo alguien en el que esta actitud se ha llegado a convertir en una segunda piel la puede realizar completamente. Esto es fundamental a la hora de ser padre. De este modo, cuando uses el agua, el arroz o cualquier otra cosa, debes tener el afecto y el cuidado propios de un padre criando a su hijo.
 
-Shakyamuni renunció a veinte años de su esperanza de vida para cuidarnos en
+Shakyamuni renunció a veinte años de su esperanza de vida para cuidarnos en las generaciones futuras. ¿Qué puede significar esto? Fue una sencilla prueba de la Mente Parental. El Tathagata no hizo esto esperando alguna recompensa o la fama. Lo hizo de forma incondicional, sin pensamiento de beneficio o ganancia.
 
-> quieren ser ermitaños. Parece que hay un número significativo de jóvenes americanos a los que les atrae este tipo de zen. Parece como si estos jóvenes estuvieran intentando huir del ruido de la sociedad materialista americana, con lo que deciden huir a las montañas a sumergirse en la tranquilidad del silencio que allí encuentran. O, cuando se aburren de hacer solo esto, se ven atrapados en un zen en el que disfrutan puliendo el cetro que llevan de un sitio a otro algunos sacerdotes. Eso es simplemente practicar zen como un hobby. Naturalmente, esta clase de zen ermitaño no tiene nada que ver con el buddhadharma. Para averiguar si estamos o no practicando un zazen auténtico o no, debemos mirar nuestra práctica desde la perspectiva más amplia posible. Una vez que te veas atrapado en uno de estos seis tipos de zen, no serás capaz de tener una visión global delbuddhadharma.»
+La Mente Magnánima[^u61] es como una montaña, estable e imparcial. Al igual que el océano es tolerante y mira a cada cosa desde la perspectiva más amplia. Tener una Mente Magnánima significa estar sin prejuicios y evitar tomar partido. Cuando llevamos algo que pesa pocos gramos no pensamos que es ligero, al igual que cuando tenemos que llevar algo que pese más de veinte kilos no decimos que es pesado. Ni dejarse llevar por los sonidos de la primavera ni tener un corazón embriagado por los colores del otoño[^u62]. Ver los cambios de las estaciones como un todo y valorar la relatividad de ligero y pesado desde una perspectiva amplia. Es de esta manera en la que deberías escribir, entender y estudiar el carácter para magnánimo.
 
-60 Estas ocho circunstancias o condiciones desafortunadas (astāksanāh en sánscrito), se conocen en japonés como hachi nanjo. Estas consisten en: el llegar a nacer en alguno de los muchos infiernos descritos en la literatura budista, o alguno de los espíritus insaciables o animales domésticos (tres de los cuatro infiernos mencionados en la nota anterior), tener buena salud y abundante riqueza, tener una edad muy avanzada, haber nacido antes o después del Buddha, ser muy listo o sofisticado en aspectos mundanos o estar impedido debido a la ceguera, sordera o necedad.
-
-> Los tres primeros son los tres caminos malvados del propio karma del pasado; el cuarto y el quinto se refiere a aquellos que son tan sanos y ricos, o que han llegado a ser tan mayores, que no tienen ningún interés hacia lo transitorio de la vida; el sexto se refiere al período anterior y posterior a la muerte del Buddha cuando la práctica del Dharma no estaba floreciendo en absoluto; el séptimo describe a la gente que es demasiado hábil o experta en los caminos mundanos; el octavo hace referencia a aquellos que están físicamente impedidos por la ceguera, la sordera y la necedad.
-
-las generaciones futuras. ¿Qué puede significar esto? Fue una sencilla prueba de la Mente Parental. El Tathagata no hizo esto esperando alguna recompensa o la fama. Lo hizo de forma incondicional, sin pensamiento de beneficio o ganancia.
-
-La Mente Magnánima^61^ es como una montaña, estable e imparcial. Al igual que el océano es tolerante y mira a cada cosa desde la perspectiva más amplia. Tener una Mente Magnánima significa estar sin prejuicios y evitar tomar partido. Cuando llevamos algo que pesa pocos gramos no pensamos que es ligero, al igual que cuando tenemos que llevar algo que pese más de veinte kilos no decimos que es pesado. Ni dejarse llevar por los sonidos de la primavera ni tener un corazón embriagado por los colores del otoño^62^. Ver los cambios de las estaciones como un todo y valorar la relatividad de ligero y pesado desde una perspectiva amplia. Es de esta manera en la que deberías escribir, entender y estudiar el carácter para magnánimo.
-
-Si el tenzo de Jiashan^63^ no hubiera sabido de las implicaciones más profundas de la magnanimidad, nunca habría podido ayudar a Fu Shangzuo de Daiyuan en su camino de actualizar la práctica del dharma con ese estallido de risa durante una de las lecciones de Daiyuan^64^. Si Guishan no hubiera sido capaz
-
-61. Mente magnánima es daishin, literalmente "gran mente" en japonés. Dōgen Zenji describe esta mente o actitud como si fuera una montaña o un océano. La montaña es una metáfora de estabilidad y quietud. Es decir, aquel que no se inclina ni por la tentación ni por la represión. La metáfora del océano nos muestra una mente de perspectiva abierta, tolerante. Suele usarse además para hablar del samgha.
-
-62. En una nota al pie de página del Eihei Daishingi Tsūkai, editado y seleccionado por Bun\'ei Andō con la colaboración de Shunko Itō y publicado por Kōmeisha Publishers, aparecen los siguientes comentarios: "Los sonidos de la primavera pueden verse como las palabras de una oración, mientras que los colores del otoño apuntan a aquellas cosas que nos desagradan. Se podría hablar también de los colores de la primavera (las cosas que nos gustan) y de los sonidos del otoño (el exceso o la crítica destructiva)".
-
-63. Jiashan es el nombre de una montaña y un monasterio de la provincia de Hunan, en la China meridional. A menudo, a aquellos monjes que llegaban a ser conocidos durante el transcurso de sus vidas o después de su muerte se les conocía por el nombre de la montaña o del monasterio en el que vivían. En ocasiones, el nombre de la montaña solía indicar donde ocurrió la anécdota o el suceso.
-
-> Algunas fuentes creen que el tenzo del que se habla en el texto es Shanhui, un monje zen que levantó un monasterio en Jiashan, aunque históricamente no parece que esto fuera posible. En cualquier caso, la siguiente historia entre Shanhui y Guishan Lingyou se incluye en las notas de Uchiyama Rōshi a su comentario al tenzo Kyōkun. Jinsei Ryori no Hon (Cómo cocinar tu vida).
->
-> La anécdota ocurrió cuando Shanhui estaba trabajando como tenzo en el monte Guishan mientras Guishan Lingyou era el abad: «Un día, Guishan se aproximó a Shanhui y le preguntó: "¿Qué tendremos hoy de guarnición con el arroz?" A lo que Shanhui respondió: "Lo mismo que tenemos cada primavera."
->
-> Al escuchar esta respuesta, Guishan animó a Shanhui a continuar con su práctica. Shanhui le respondió: "Hay dragones morando en el nido del fénix." \[Los monjes (dragones) que viven aquí (el nido del fénix, o el monasterio del monte Jiashan) están practicando muy duro.\] Guishan pensó que ahí había un monje verdaderamente comprometido.»
->
-> Esta anécdota entre Shanhui de Jiashan y Guishan, aparece en el Linchan Leiju, capítulo 18.
-
-64 Esta historia de Daiyuan Fu Shangzuo, o Daigen-fu Jōza en japonés, aparece en el volumen 17 delWudeng Huiyuan. Daiyuan Fu vivió a mediados del siglo noveno: «Una vez el gran académico budista Daiyuan Fu estaba enseñando el Mahaparinirvāna-sūtra en GuangkaoXiao en Yangzhou, cuando el tenzo de Jiashan, que estaba viajando de templo en templo
-
-de escribir el carácter para magnánimo, sin duda alguna no habría sido capaz de haber demostrado su profunda comprensión ante su maestro al coger los restos de un leño apagado y soplarlo tres veces antes de devolvérselo a su maestro^65^. Ni Dongshan, si no hubiera entendido completamente lo que significa la magnanimidad, hubiera podido responder la pregunta acerca del buddha según su famoso acto de pesar tres libras de sésamo.
+Si el tenzo de Jiashan[^u63] no hubiera sabido de las implicaciones más profundas de la magnanimidad, nunca habría podido ayudar a Fu Shangzuo de Daiyuan en su camino de actualizar la práctica del dharma con ese estallido de risa durante una de las lecciones de Daiyuan[^u64]. Si Guishan no hubiera sido capaz de escribir el carácter para magnánimo, sin duda alguna no habría sido capaz de haber demostrado su profunda comprensión ante su maestro al coger los restos de un leño apagado y soplarlo tres veces antes de devolvérselo a su maestro[^u65]. Ni Dongshan, si no hubiera entendido completamente lo que significa la magnanimidad, hubiera podido responder la pregunta acerca del buddha según su famoso acto de pesar tres libras de sésamo.
 
 Sé muy claro en este asunto. Todos los grandes maestros a través de los años han aprendido el significado de la magnanimidad no solo a través de su carácter, sino a través de los múltiples sucesos y circunstancias de sus vidas. Incluso ahora, podemos escuchar claramente sus voces expresando las verdades más fundamentales y las ramificaciones de estas verdades para nuestras vidas. Fueron hombres cuyos ojos estaban abiertos a lo más vital que hay en una vida de práctica, permitiéndonos contactar con el Buddha (la realidad de la vida). Sus vidas realmente manifestaron el único propósito del auténtico ser. Seas un abad a cargo de un templo o un monje veterano o estés desempeñando cualquier otro cargo o bien seas un simple monje ordinario, no olvides esta actitud a la hora de llevar tu vida con alegría, tener el profundo interés de un padre y realizar todas tus actividades con magnanimidad.
 
 > Escrito por Dōgen en la primavera de 1237 en Kōshōji para los seguidores de la vía en las generaciones venideras.
->
-> (visitando a varios maestros), se estableció allí empujado por una fuerte nevada. El tenzo escuchaba la lección en la que Daiyuan Fu estaba explicando la sección sobre los tres factores de la naturaleza de buddha y las tres virtudes del dharmakāya cuando, de repente, aquel se echó a reír.
->
-> Después de la charla, Daiyuan Fu invitó al tenzo a su habitación y le dijo: "Honestamente, soy una persona muy sencilla y mis comentarios, sobre los sutras que suelo enseñar, son muy literales. Me he dado cuenta de que te has echado a reír cuando hablaba sobre el dharmakāya. Me preguntaba si serías tan amable de decirme dónde se encontraba mi error."
->
-> El tenzo le dijo: "Bien, lo que dices, coincide con lo que está escrito. En ese sentido, no hay error. Es solo que estabas hablando sobre el asunto sin realmente entenderlo."
->
-> Al poco de escuchar las observaciones del tenzo, Daiyuan Fu dejó de dar ninguna charla sobre el dharma, y viajó por todos los rincones, visitando a muchos maestros, preguntando sobre el buddhadharma y practicando con todas sus fuerzas.»
-
-65 Esta anécdota de Guishan aparece en el Chanlin Leiju, capítulo 14. «Cuando Guishan Lingyou vivía en el monte Baizhang, se trasladó al interior de las montañas con su maestro, Baizhang Huihai, a trabajar. Baizhang dijo: "Tráeme algo de leña" Guishan respondió: "De acuerdo, iré a por ella ahora mismo." Cuando Guishan volvió, se le rompió un leño junto a Baizhang, que le preguntó: "Bien, ¿dónde está?" Guishan dio la vuelta al leño roto entre sus manos, sopló sobre él tres veces y se lo entregó a Baizhang. Baizhang tomó el palo de Guishan, reconociendo el acto del monje.»
 
 # El Tenzo Kyōkun y Shikantaza
 
@@ -434,37 +311,19 @@ Esta historia me resulta tan interesante como cercana. Tenemos a Wuzhao trabajan
 
 Fui ordenado como monje el mismo día en que la guerra fue declarada en el Pacífico, el 8 de diciembre de 1941. Durante toda la guerra, viví en la más absoluta pobreza. Más tarde, las cosas comenzaron a arreglarse y junto con otros discípulos de mi maestro, Kōdō Sawaki Rōshi, conseguimos reunirnos de nuevo, restableciendo poco a poco el aspecto de una comunidad. En 1948 y 1949 pasé los años más difíciles de mi vida. A pesar de que me había ordenado monje siete u ocho años atrás, aún no me había percatado de cuál era la finalidad de practicar zazen. Era, además, una época en la que la comida escaseaba en Japón y en la que mucha gente padecía hambre, una circunstancia que la mayoría de la gente de hoy en los países industrializados no puede ni imaginar. Durante esos días creía que sería maravilloso hacer de tenzo, porque podría apartar un poco de comida extra para mí. Aún así, parecía que cada vez que mi turno como tenzo llegaba estaba distraído con la posibilidad de conseguir un poco más de comida. Inevitablemente, claro, acababa provocando un desastre en mi trabajo. En realidad no era solo que algo estuviera mal hecho. Cada vez que reflexionaba sobre lo que más me preocupaba en aquellos días, como cuál debía ser el objetivo de zazen, ¡con total seguridad ocurría un desastre en la cocina! Durante la guerra, no tenía tiempo para leer el Eihei Shingi ni para, como dicen las expresiones de las antiguas instrucciones Zen, sostener mi práctica mientras reflejaba la luz de las antiguas enseñanzas. Al acabar la guerra la única cosa que poseía a raudales era tiempo y, cuando releía el pasaje sobre Wuzhao, este me cuestionaba profundamente sobre mi actitud de cómo ser tenzo. Cuando pensaba atentamente en Wuzhao golpeando a Manjusri cuando este se le apareció sobre una olla y continuaba con lo que estaba cocinando, me sentía miserable sobre mi incapacidad para hacer lo mismo, incluso teniendo en cuenta que todo lo que aparecía sobre mi olla era algún que otro "espíritu hambriento."[^44] Tras aquello trabajé duro para espantar a los fantasmas cada vez que aparecían.
 
-Dōgen Zenji dice que: "El buddhadharma directamente transmitido de los antiguos buddha y patriarcas es solo zazen." Zazen es lo más valioso en nuestra práctica budista. No obstante, en el Tenzo Kyōkun hay tres fragmentos que dicen: "Los Tres Tesoros (Buddha, Dharma y Samgha) son lo más importante y lo más valioso de todas las cosas\...teniendo la oportunidad de preparar comida para los Tres Tesoros,\...nuestra actitud debería ser de alegría y agradecimiento"; y más adelante: "Mi mayor deseo es que involucres toda la energía y esfuerzo de todas tus vidas -pasado, presente y futuro-, y la de cada momento de cada día, en tu práctica a través de tu trabajo como
-
-tenzo."
+Dōgen Zenji dice que: "El buddhadharma directamente transmitido de los antiguos buddha y patriarcas es solo zazen." Zazen es lo más valioso en nuestra práctica budista. No obstante, en el Tenzo Kyōkun hay tres fragmentos que dicen: "Los Tres Tesoros (Buddha, Dharma y Samgha) son lo más importante y lo más valioso de todas las cosas\...teniendo la oportunidad de preparar comida para los Tres Tesoros,\...nuestra actitud debería ser de alegría y agradecimiento"; y más adelante: "Mi mayor deseo es que involucres toda la energía y esfuerzo de todas tus vidas -pasado, presente y futuro-, y la de cada momento de cada día, en tu práctica a través de tu trabajo como tenzo."
 
 Podríais concluir del estudio de estos fragmentos que afrontar el problema del significado de zazen mientras trabajamos como tenzo o, al contrario, reflexionar sobre lo que significa ser tenzo mientras nos sentamos en zazen, sería la manera idónea de practicar. Pero no es así. Cuando os sentáis en zazen, solo os sentáis, y cuando trabajáis como tenzo, solo hacéis eso. Es el espíritu de solo trabajar o solo sentarse lo que es común tanto a zazen como al trabajo de tenzo. Esta idea de concentrarse completamente en una cosa es la piedra de toque de las enseñanzas de Dōgen Zenji. En japonés se dice shikan[^45]y las ramificaciones de la enseñanza de shikan cobran importancia para nuestras vidas.
 
 El propósito de este capítulo inicial es examinar la conexión entre shikantaza (tan solo hacer zazen) y el trabajo como tenzo. Respecto a este último tenemos el Tenzo Kyōkun, que comprende el texto principal de este libro. Pero, a pesar del hecho de que hay grandes textos escritos sobre shikantaza, no existe ningún texto que presente juntos el trabajo de tenzo y shikantaza y ahí se encuentra nuestro problema. Lo qué intentaré hacer es explicar cómo entiendo la enseñanza de Dōgen Zenji sobre shikantaza para, a continuación, observar su conexión con el Tenzo Kyōkun.
 
-Sabemos que shikantaza significa "tan solo hacer zazen". ¿Pero qué significa "tan solo hacer zazen"? Dōgen Zenji describe el tipo de zazen que hacemos como "el Rey de los Samādhis". Podemos averiguar el origen de la palabra "zazen" volviendo a los términos sánscritos dhyāna y samādhi. Samādhi es a veces llamado tōji, tratar o ver todas las cosas por igual, y otras tōji (escrito con diferentes caracteres chinos) o, en sánscrito, samāpatti [^46]. Otra definición de samādhi es que mente y ambiente son uno de manera innata.^72^ Y, por último, se ha definido samādhi así: "El buddhadharma debería entenderse de tal modo que mente y objeto sean uno".^73^
+Sabemos que shikantaza significa "tan solo hacer zazen". ¿Pero qué significa "tan solo hacer zazen"? Dōgen Zenji describe el tipo de zazen que hacemos como "el Rey de los Samādhis". Podemos averiguar el origen de la palabra "zazen" volviendo a los términos sánscritos dhyāna y samādhi. Samādhi es a veces llamado tōji, tratar o ver todas las cosas por igual, y otras tōji (escrito con diferentes caracteres chinos) o, en sánscrito, samāpatti [^46]. Otra definición de samādhi es que mente y ambiente son uno de manera innata.[^u72] Y, por último, se ha definido samādhi así: "El buddhadharma debería entenderse de tal modo que mente y objeto sean uno".[^u73]
 
 El problema gira en torno a la palabra "mente", en japonés, shin. Según cómo entendamos esta palabra, así afectará tal entendimiento a nuestra comprensión de zazen.
 
-Cuando pensamos sobre la mente en sentido ordinario, normalmente pensamos en la mente psicológica o en la consciencia. En sánscrito hablar de mente en este sentido se conoce con el nombre de citta, y en tal caso la expresión shin ikkyōshō significaría unir nuestra mente confundida concentrándola en una cosa. Por definición zazen vendría a ser un tipo de ejercicio mental o concentración psíquica o, tal vez, un método para entrenar la mente con el fin de obtener un estado tal que nuestras ideas o pensamientos sobre un objeto desaparecerían, quedándose la persona completamente imperturbable. Este es el significado superficial de munen
+Cuando pensamos sobre la mente en sentido ordinario, normalmente pensamos en la mente psicológica o en la consciencia. En sánscrito hablar de mente en este sentido se conoce con el nombre de citta, y en tal caso la expresión shin ikkyōshō significaría unir nuestra mente confundida concentrándola en una cosa. Por definición zazen vendría a ser un tipo de ejercicio mental o concentración psíquica o, tal vez, un método para entrenar la mente con el fin de obtener un estado tal que nuestras ideas o pensamientos sobre un objeto desaparecerían, quedándose la persona completamente imperturbable. Este es el significado superficial de munen musō, sin noción ni pensamiento[^u74]. El zazen de la escuela Theravada y de las escuelas no budistas utilizan ese tipo de concentración psíquica. Cualquier tipo de concentración psíquica funciona desde la premisa de que nuestra mente siempre está en desorden y que alcanza la quietud haciendo zazen. Dōgen Zenji, no obstante, no creía que zazen fuese un método simplemente para mejorarse a uno mismo, ni un mero fortalecimiento de la propia vida sin ocuparnos de los demás. Dōgen decía:"¡Incluso si tienes la mente de un astuto zorro, no sigas la vía Theravada solo para intentar mejorarte a ti mismo!"[^u75]
 
-musō, sin noción ni pensamiento^74^. El zazen de la escuela Theravada y de las escuelas no budistas utilizan ese tipo de concentración psíquica. Cualquier tipo de concentración psíquica funciona desde la premisa de que nuestra mente siempre está en desorden y que alcanza la quietud haciendo zazen. Dōgen Zenji, no obstante, no creía que zazen fuese un método simplemente para mejorarse a uno mismo, ni un mero fortalecimiento de la propia vida sin ocuparnos de los demás. Dōgen decía:"¡Incluso si tienes la mente de un astuto zorro, no sigas la vía Theravada solo para intentar mejorarte a ti mismo!"^75^
-
-No quiero decir con esto que cuando la palabra mente se usa en las escrituras budistas nunca se haga hablando de mente psicológica o consciencia, pero en pocas ocasiones es usado en un sentido tan estrecho. Esto es particularmente cierto cuando Dōgen hablaba de "mente" en un párrafo del Sokushin Zebutstu (La mente junto al Buddha) del Shōbōgenzo: "El significado y el objetivo de la
-
-> todas las cosas de la misma forma, mientras el segundo término usa "igual" con "aproximarse", que significa aproximarse a todo de la misma forma.
-
-72. "Mente y objeto son uno de forma innata" es una traducción usual para la expresión shin ikkyōshō. Más adelante Uchiyama Rōshi le da un sentido a la expresión más amplio que el que le da Dōgen Zenji. No hay que tratar la expresión a la ligera por mucho que el significado parezca bastante obvio.
-
-73. "El buddhadharma debería ser entendido de tal modo que mente y objeto sean uno" es una interpretación tradicional de la expresión shin ikkyō ni hō o sessu.
-
-74. Una vez más, el uso común de munen musō supone que el objetivo de zazen es intentar no pensar en nada, pero, por supuesto, este no es el sentido de Dōgen Zenji ni el de Uchiyama Rōshi.
-
-> La dificultad está en darse cuenta de que cuando Uchiyama o Dōgen toman expresiones que han sobrevivido al paso del tiempo o comentan ideas no-budistas, no lo hacen con la idea de mostrar por qué la expresión está "equivocada", dado que rara vez el problema está en la expresión, más bien se valen de ellas para cambiar su significado dándoles una perspectiva más amplia.
-
-75. El lector debe tener cuidado al leer este fragmento, tomado del volumen 5 del Eihei Kōroku. A primera vista parece que Dōgen Zenji critica una escuela budista porque es distinta del Zen, pero no se trata de eso. Sobre lo que nos advierte es acerca de una determinada actitud, a la que llama actitud Theravada (¿similar al "fariseísmo" en el Judaísmo?), que debe ser evitada puesto que no observa la vida desde la perspectiva más amplia.
-
-mente que ha sido directamente transmitida de Buddha a Buddha es que la mente abarca completamente todos los fenómenos y que todos los fenómenos son inseparables de la mente."[^47]
+No quiero decir con esto que cuando la palabra mente se usa en las escrituras budistas nunca se haga hablando de mente psicológica o consciencia, pero en pocas ocasiones es usado en un sentido tan estrecho. Esto es particularmente cierto cuando Dōgen hablaba de "mente" en un párrafo del Sokushin Zebutstu (La mente junto al Buddha) del Shōbōgenzo: "El significado y el objetivo de la mente que ha sido directamente transmitida de Buddha a Buddha es que la mente abarca completamente todos los fenómenos y que todos los fenómenos son inseparables de la mente."[^47]
 
 ¿Cuál es el significado de "mente que abarca completamente todos los fenómenos" o el de "todos los fenómenos están incluidos en la mente"? En primer lugar intentaré hablar desde mi mismo y analizar cómo se aplica esto a mi vida. Estudiando los miles de volúmenes de las enseñanzas budistas, que tuvieron su origen en la India con Shakyamuni y que se fue refinando cada vez más con el paso de los años, las palabras y expresiones que emergieron nunca fueron usadas pobremente, sino que, prácticamente siempre, tenían un profundo sentido con amplias connotaciones. Por ejemplo, cuando la palabra "mente" se usó por primera vez estoy convencido de que se usó con el mismo sentido psicológico con el que la usamos hoy de manera cotidiana. No obstante, cuando usamos la expresión "mente que abarca completamente todos los fenómenos y todos los fenómenos son inseparables de la mente", las connotaciones van más allá de lo psicológico. El significado aquí es completo, no-dual. Va más allá de las connotaciones mentales o psicológicas.
 
@@ -488,23 +347,13 @@ Lo que acabo de explicar es el sentido que tiene el fragmento escrito por Dōgen
 
 Los seres humanos somos criaturas dotadas con cabezas en las que aparecen y desaparecen pensamientos y sensaciones. El que suceda este fenómeno, incluso mientras hacemos zazen, es de lo más normal. Al igual que varias secreciones y hormonas circulan a través de los órganos del cuerpo, los pensamientos pueden ser comparados con secreciones de la mente. Pero ocurre que si no somos cuidadosos -¡o, en ocasiones, incluso aunque lo seamos!- ponemos estas secreciones en movimiento, invertimos toda nuestra energía en ellas y acabamos paralizados, incapaces de actuar o movernos. La cosa más importante a tener en cuenta cuando practicamos zazen es dejar ir completamente todo, dado que toda secreción no es más que una función normal. Cuando lo hacemos, todo lo que surge puede ser visto como el escenario de nuestras vidas. Esto se ha descrito como "la apariencia esencial de las cosas."[^48]Chan, en chino, Zen, en japonés, o Dhyāna, en sánscrito, transmiten este significado, lo cual más tarde, tradicionalmente, se conocería como jōryo.[^49]"El vasto cielo no impide que las blancas nubes floten en él"[^50] es otra expresión para este escenario. Finalmente, una expresión a veces usada para describir el zazen de la tradición Sōtō, mokushō zen [^51], que significa despertar silencioso, alude también a este mismo escenario. Abandonar todo a la postura de zazen es el fundamento del despertar silencioso[^52]; dejar ir todo lo que surge sin intentar encontrar soluciones para lo que hemos de hacer al respecto de esto o aquello. Esto es lo que se conoce como shikantaza. Cuando hacemos zazen con esta actitud ya no existe la intención de realizar alguna fantasía artificial como conseguir la iluminación o mejorar nuestras mentes.
 
-En el Shōbōgenzo Zuimonki Dōgen Zenji dice: "Sentarse es la práctica de la Realidad de la vida. Sentarse es no-actividad. Esta es la forma auténtica del Sí mismo. Más allá de esto, no hay otro lugar en el que buscar el
+En el Shōbōgenzo Zuimonki Dōgen Zenji dice: "Sentarse es la práctica de la Realidad de la vida. Sentarse es no-actividad. Esta es la forma auténtica del Sí mismo. Más allá de esto, no hay otro lugar en el que buscar el buddhadharma."
 
-buddhadharma."
-
-Durante zazen, si no tenemos cuidado, estaremos fácilmente predispuestos a dormirnos o a fantasear sobre cualquier cosa de nuestra vida cotidiana.^82^ Dado que ambas condiciones oscurecen la pureza natural de nuestra fuerza vital, el punto esencial es despertar de ellas y volver a mantener con firmeza la postura de zazen. Esta es la actividad de shikantaza. Esta práctica es en sí misma despertar. Es la práctica del corazón entregado al despertar la que debemos realizar.
+Durante zazen, si no tenemos cuidado, estaremos fácilmente predispuestos a dormirnos o a fantasear sobre cualquier cosa de nuestra vida cotidiana.[^u82] Dado que ambas condiciones oscurecen la pureza natural de nuestra fuerza vital, el punto esencial es despertar de ellas y volver a mantener con firmeza la postura de zazen. Esta es la actividad de shikantaza. Esta práctica es en sí misma despertar. Es la práctica del corazón entregado al despertar la que debemos realizar.
 
 Para terminar, hasta aquí he intentado exponer mi comprensión de shikantaza. El espíritu del Tenzo Kyōkun coincide con lo que he estado diciendo hasta ahora, es decir, vivir la realidad de la pura vida. La actitud del tenzo que Dōgen Zenji describe consiste en vivir cada día la realidad de la pura vida. Como he mencionado, si no somos cuidadosos, podríamos asfixiar la vitalidad de nuestras vidas a través de la fabricación de ideas. La enseñanza del Tenzo Kyōkun actúa desde el origen de la realidad de la vida, para arrancar totalmente las ideas y filosofías propias que, a menudo, creamos en vez de permitir con sinceridad que la realidad actúe en nuestras vidas.
 
-Al comienzo del texto Dōgen señala la importancia del tenzo, rechazando la idea de que este trabajo tenga que ver con el que realiza "un cocinero o un pinche ordinarios", afirmando que "los monjes que atienden cada tarea son todos discípulos de Buddha y realizan las actividades de un buddha." En otras palabras, el texto nos muestra que el tenzo, con su actividad, practica la realidad de la vida tan correctamente como aquellos que practican zazen. En el Zen, a esto se lo conoce como practicar con una sola mente, no dividida, con todas las energías.^83^ Esta actitud es completamente diferente de las ideas preconcebidas que sostiene la gente a la hora de observar el mundo. Vivir a través del orden social o de los valores mundanos es un ejemplo clásico de lo que quiero decir con vivir en un reino de pensamientos e ideas fabricadas, de valores relativos. Es por esto por lo que nuestra práctica consiste en abandonar las normas sociales y los valores de mercado sobre las cosas y las
-
-> postura mental, emocional, actitud.
-
-82. Caer dormido es conocido como konchin, mientras que perseguir los pensamientos es llamado sanran. Sawaki Rōshi solía referirse a estos estados como "estupor somnoliento" y "estupor pensante."
-
-83. "Practicar con una sola mente, no dividida, con todas las energías" es una traducción de la conocida expresión Zen isshiki no bendō. Isshiki significa hacer cualquier cosa comprometido con la mente unificada o con el corazón entregado, sin distracciones. Bendō se compone de dos caracteres: Ben y dō. Ben tiene dos posibles significados: uno sería discriminar o discernir y el otro esforzarse con toda la energía. Dō significa vía, camino.
-
-personas, y en practicar con una actitud vital fundamentada en la realidad de la vida del Sí mismo.
+Al comienzo del texto Dōgen señala la importancia del tenzo, rechazando la idea de que este trabajo tenga que ver con el que realiza "un cocinero o un pinche ordinarios", afirmando que "los monjes que atienden cada tarea son todos discípulos de Buddha y realizan las actividades de un buddha." En otras palabras, el texto nos muestra que el tenzo, con su actividad, practica la realidad de la vida tan correctamente como aquellos que practican zazen. En el Zen, a esto se lo conoce como practicar con una sola mente, no dividida, con todas las energías.[^u83] Esta actitud es completamente diferente de las ideas preconcebidas que sostiene la gente a la hora de observar el mundo. Vivir a través del orden social o de los valores mundanos es un ejemplo clásico de lo que quiero decir con vivir en un reino de pensamientos e ideas fabricadas, de valores relativos. Es por esto por lo que nuestra práctica consiste en abandonar las normas sociales y los valores de mercado sobre las cosas y las personas, y en practicar con una actitud vital fundamentada en la realidad de la vida del Sí mismo.
 
 # Sobre la vida religiosa
 
@@ -600,7 +449,7 @@ Aquí encontramos una diferencia entre la manera de ver la vida según la Vía d
 
 Nuestra exposición ha cambiado un poco desde que empezamos hablando de pedos. Por favor, echad un vistazo al diagrama 1.
 
-> ![](../media/instrucciones-al-cocinero/image2.png){width="3.94in" height="1.89in"}
+> ![](media/image2.png){width="3.94in" height="1.89in"}
 
 **Diagrama 1**. En la vida no hay posibilidad de intercambiar nada.
 
@@ -608,7 +457,7 @@ Pido disculpas por no ser más elegante, pero he de volver al ejemplo de los ped
 
 Ahora, veamos el diagrama 2
 
-> ![](../media/instrucciones-al-cocinero/image3.jpg){width="3.936111111111111in" height="1.7013888888888888in"}
+> ![](media/image3.jpg){width="3.936111111111111in" height="1.7013888888888888in"}
 
 **Diagrama 2**. Cada uno puede comunicarse con los demás a través del lenguaje.
 
@@ -616,7 +465,7 @@ A diferencia del diagrama anterior, en el que la naturaleza absoluta de la vida 
 
 Profundizando aún más, veamos el diagrama 3
 
-> ![](../media/instrucciones-al-cocinero/image4.jpg){width="3.936111111111111in" height="1.8472222222222223in"}
+> ![](media/image4.jpg){width="3.936111111111111in" height="1.8472222222222223in"}
 >
 > **Diagrama 3**. Podemos abrirnos a un mundo de comunicación basado en el pensamiento.
 
@@ -630,7 +479,7 @@ En el mundo de la comunicación, el dinero es la unidad de medida de intercambio
 
 El diagrama 4 es un ejemplo de esto que acabo de decir:
 
-> ![](../media/instrucciones-al-cocinero/image5.jpg){width="3.936111111111111in" height="1.7083333333333333in"}
+> ![](media/image5.jpg){width="3.936111111111111in" height="1.7083333333333333in"}
 
 **Diagrama 4**. Dado que dirigimos nuestras vidas en un mundo creado por la mente, huimos de la pobreza y la desgracia para correr tras la felicidad y la abundancia.
 
@@ -646,13 +495,11 @@ Cuando naces, tu mundo nace contigo y cuando mueres, muere tu mundo entero conti
 
 A pesar del hecho de que poseemos una mente capaz de discriminar, como se muestra en los diagramas 2 y 3, con la que incluso somos capaces de comunicarnos con los demás de manera general a través del lenguaje, lo hacemos de una forma muy limitada. Incluso aquellos aspectos de nuestra experiencia que ocurren gracias al lenguaje son inevitablemente experiencias totalmente personales. El buddhadharma nos muestra que la totalidad de la vida es como el diagrama 5. Tú y la totalidad del mundo en el que vives constituyen juntos lo que llamo la vida del sí mismo.
 
-> ![](../media/instrucciones-al-cocinero/image6.png){width="2.76in" height="2.756666666666667in"}
+> ![](media/image6.png){width="2.76in" height="2.756666666666667in"}
 
 **Diagrama 5**. Nosotros y el mundo en el que vivimos, juntos hacen el sí mismo.
 
-Sin importar dónde nos hallemos, solo encontramos el sí mismo que es
-
-siempre el sí mismo. De ahí la expresión yuiga dokuson: "Solo yo soy reverenciado en el cielo y la tierra."
+Sin importar dónde nos hallemos, solo encontramos el sí mismo que es siempre el sí mismo. De ahí la expresión yuiga dokuson: "Solo yo soy reverenciado en el cielo y la tierra."
 
 "El mundo" no es una entidad que exista independientemente de nosotros, "el mundo" es donde nosotros actuamos. Dicho de otro modo, la vida del auténtico sí mismo no es una entidad independientemente de nuestro actuar y trabajar. Todo aquello con lo que nos encontremos es nuestra vida.
 
@@ -670,9 +517,7 @@ Este trabajo siempre se ha llevado a cabo por maestros asentados en la Vía y po
 
 El Chanyuan Qinggui se dice además: "Pon tu mente despierta a funcionar haciendo un esfuerzo constante por servir comidas llenas de variedad, que sean apropiadas para la necesidad de cada momento y que permitan a todos practicar con sus cuerpos y sus mentes incluso ante el más pequeño obstáculo."
 
-A través de los años, muchos grandes maestros y patriarcas como Guishan
-
-Lingyou y Dongshan Shouchu han servido como tenzo. Aunque el trabajo es tan solo el de preparar comidas, en el espíritu es diferente al del trabajo de un cocinero ordinario o al de un ayudante de cocina.
+A través de los años, muchos grandes maestros y patriarcas como Guishan Lingyou y Dongshan Shouchu han servido como tenzo. Aunque el trabajo es tan solo el de preparar comidas, en el espíritu es diferente al del trabajo de un cocinero ordinario o al de un ayudante de cocina.
 
 Me pregunto si no hay demasiada gente hoy que sufre porque se ven a sí mismos como pobres o desgraciados, o bien porque tienen un complejo de inferioridad porque sienten que pertenecen a la clase social más baja. Esto es estúpido en mi opinión dado que solamente piensan en términos de ser un miembro de la sociedad. Manifestar el auténtico sí mismo significa desechar esas ideas de superior e inferior, éxito y fracaso, y aprender a ver que todo lo que nos encontramos es nuestra vida, nuestro auténtico sí mismo. La expresión "solo yo soy reverenciado en el cielo y la tierra", que generalmente se relaciona con Shakyamuni Buddha, no se limita solo a él. Se aplica por igual a todos nosotros.
 
@@ -684,9 +529,7 @@ Actualmente existen infinidad de argumentos basados en la suposición de que tod
 
 En el budismo este tipo de pensamiento dualista no tiene cabida. En el capítulo anterior he comentado que es imposible compartir con otra persona ni tan siquiera un pedo y que, en última instancia, simplemente vivir tu vida es la realidad absoluta, sin importar las circunstancias. A la hora de manifestar el buddhadharma esta actitud de vida es esencial. Normalmente la gente piensa únicamente en términos de cómo mejorar su situación, aunque solo sea un poco, y evitar el sufrimiento. Ver las cosas desde la perspectiva del buddhadharma, o de la mente grande, significa dejar de involucrarse en este tipo de prejuicios con el pensamiento discriminativo, y estar dispuestos a acoger lo que nos encontremos que es nuestra vida.
 
-Cuando hablo de mente grande lo hago en términos de no seguir más tiempo implicados en el pensamiento discriminativo, pero no quiero decir con ello que uno se vuelva inerte. Simplemente no podemos vivir el día a día sin discriminar. No hay vida humana en la que no se trace una diferencia entre
-
-miso y kuso[^61]. Por ello surge la pregunta en el Tenzo Kyōkun sobre si uno separa la arena del arroz o el arroz de la arena. Al parecer, en China, en la antiguedad, el proceso de limpiar el arroz no era muy eficiente y se colaban con el arroz muchas piedrecitas. La primera cosa que el tenzo tenía que hacer era quitar estas piedrecitas del arroz antes de cocinarlo. En este sentido, no hay duda de que preparar la comida para el consumo humano tiene como base que el arroz tiene que ser separado de las piedras. Por lo cual en nuestras vidas cotidianas tenemos que discriminar, pero no debemos olvidar la actitud fundamental que subyace a esta discriminación: todo lo que encontremos es nuestra vida. Esta es la actitud de la mente grande.
+Cuando hablo de mente grande lo hago en términos de no seguir más tiempo implicados en el pensamiento discriminativo, pero no quiero decir con ello que uno se vuelva inerte. Simplemente no podemos vivir el día a día sin discriminar. No hay vida humana en la que no se trace una diferencia entre miso y kuso[^61]. Por ello surge la pregunta en el Tenzo Kyōkun sobre si uno separa la arena del arroz o el arroz de la arena. Al parecer, en China, en la antiguedad, el proceso de limpiar el arroz no era muy eficiente y se colaban con el arroz muchas piedrecitas. La primera cosa que el tenzo tenía que hacer era quitar estas piedrecitas del arroz antes de cocinarlo. En este sentido, no hay duda de que preparar la comida para el consumo humano tiene como base que el arroz tiene que ser separado de las piedras. Por lo cual en nuestras vidas cotidianas tenemos que discriminar, pero no debemos olvidar la actitud fundamental que subyace a esta discriminación: todo lo que encontremos es nuestra vida. Esta es la actitud de la mente grande.
 
 ¿Pero, en la práctica, cómo se hace esto? Antes cité un fragmento del Tenzo Kyōkun que trata sobre la mente grande: «La mente magnánima es como una montaña, estable e imparcial. Al igual que el océano, es tolerante y ve todas las cosas desde la perspectiva más amplia. Tener una mente magnánima quiere decir no tener prejuicios y evitar tomar partido. Cuando llevamos algo que pesa una onza \[unos 29 gramos, n. d. t.\] no pensamos que es ligero y, del mismo modo, cuando llevéis algo que pese alrededor de 50 libras \[unos 23 kg., n. d. t.\] no penséis que es pesado. No os dejéis llevar por los sonidos de la primavera, ni permitáis que el corazón se vuelva taciturno o melancólico al ver los colores del otoño. Ved los cambios de las estaciones como un conjunto y valorad la relatividad de lo ligero y de lo pesado desde una perspectiva amplia. Es así como deberíais escribir, comprender y estudiar el ideograma para "magnánimo"».
 
@@ -728,9 +571,7 @@ En otras palabras, cuando vivimos nuestras vidas completamente, no hay tal cosa 
 
 # La mente de los padres
 
-En el capítulo anterior hablé sobre la gran mente en la que todo lo que encontramos, en el momento en que dejamos de lado la forma ordinaria de ver las cosas, se convierte inevitablemente en nuestra vida. Habitualmente creamos un mundo en oposición a nosotros mismos y luego nos
-
-desenvolvemos en este tratando de meter en nuestros bolsillos tanta riqueza, poder y felicidad como seamos capaces. Cuando nuestra vida concuerda con el buddhadharma ya no construimos durante más tiempo un mundo en oposición a lo que consideramos nuestro "sí mismo". Antes bien, vemos el mundo entero como nuestro sí mismo. Este camino es la vía del dharma. Dado que ya no hay más un "otro" del que depender, no tenemos necesidad de ser influidos por alguien o algo que creemos existe fuera de nosotros mismos, ni hacemos cosas para obtener algo que proyectamos como fuera de nosotros mismos.
+En el capítulo anterior hablé sobre la gran mente en la que todo lo que encontramos, en el momento en que dejamos de lado la forma ordinaria de ver las cosas, se convierte inevitablemente en nuestra vida. Habitualmente creamos un mundo en oposición a nosotros mismos y luego nos desenvolvemos en este tratando de meter en nuestros bolsillos tanta riqueza, poder y felicidad como seamos capaces. Cuando nuestra vida concuerda con el buddhadharma ya no construimos durante más tiempo un mundo en oposición a lo que consideramos nuestro "sí mismo". Antes bien, vemos el mundo entero como nuestro sí mismo. Este camino es la vía del dharma. Dado que ya no hay más un "otro" del que depender, no tenemos necesidad de ser influidos por alguien o algo que creemos existe fuera de nosotros mismos, ni hacemos cosas para obtener algo que proyectamos como fuera de nosotros mismos.
 
 En el Suttānipata hay un fragmento que dice: "No confiarse en los demás es permanecer aquietado." Aquí es donde encontramos auténtica paz mental. Cuando Shakyamuni llegó a estar totalmente despierto dijo: "He obtenido la vía simultáneamente con el mundo entero y todos los seres sintientes. Todo, montañas, ríos, árboles, hierbas, todo ha obtenido la budeidad."
 
@@ -886,7 +727,7 @@ Recuerdo haber leído que una vez Yasuzaemon Matsunaga fue invitado a una cena c
 
 Si el vapor hubiera salido, cuando la tapa fue levantada del bol de sopa, sin duda alguna ambos se habrían sentido recompensados y exultantes. No obstante, lo que hizo que no diera el resultado deseado fue un error de cálculo, tanto por parte del invitado como por parte del anfitrión.
 
-Cuando se trata con cálculos es normal que haya discrepancias, no se puede hacer nada al respecto. No obstante, un tenzo que se esfuerza en sacar la totalidad de la vida debería pensar cuidadosamente en lo que hace, de tal manera que cuando el arroz haya sido cocinado y cocido lo suficientemente pueda llevarlo al sōdō al mismo tiempo que está lista la sopa. Es en este terreno, en el cual el tenzo debe usar su ingenio y su creatividad, donde hemos de poner en acción la práctica de hacer cálculos válidos en la vida
+Cuando se trata con cálculos es normal que haya discrepancias, no se puede hacer nada al respecto. No obstante, un tenzo que se esfuerza en sacar la totalidad de la vida debería pensar cuidadosamente en lo que hace, de tal manera que cuando el arroz haya sido cocinado y cocido lo suficientemente pueda llevarlo al sōdō al mismo tiempo que está lista la sopa. Es en este terreno, en el cual el tenzo debe usar su ingenio y su creatividad, donde hemos de poner en acción la práctica de hacer cálculos válidos en la vida.
 
 # Trabajar con visión clara
 
@@ -940,9 +781,7 @@ Esta historia por sí misma es muy intrigante. No obstante, si tuviera que resol
 
 En otras palabras, "cuando comes un grano de arroz de Luling podrías ser el monje Guishan." En cierto modo vivimos gracias a que comemos arroz, o lo que sea, que contenga una cierta cantidad de nutrientes y que en el mercado tenga un precio determinado. A la vez, como usamos nuestros cuerpos para practicar la vía del Buddha, damos expresión a la infinitud del Buddha. Pero comer arroz no garantiza que manifestemos la infinitud del Buddha, puesto que si no practicamos nuestros cuerpos serán bultos de carne. O tal y como viene en el fragmento: "cuando añades un grano, puedes ser la vaca." Entonces, ¿qué es este cuerpo? Verdaderamente, ni es una entidad fija ni es algo indefinido. Si comes para hacer zazen, eso es comer para zazen. Si comes para poder dedicarte a robar, eso es comer para sostener a un ladrón. Si comes para acostarte con una prostituta, se convertirá en arroz para ese propósito. Al llevar a zazen lo que haces con tu cuerpo "la vaca se come a Guishan."
 
-Estás equivocado si crees que es mejor deshacerte de tu cuerpo (es decir, la vaca) porque pienses que no tiene valor y solamente dedicarte a practicar zazen (esto es, Guishan). Nuestro zazen se convierte en el buddhadharma precisamente cuando está funcionando como este cuerpo en nuestra vida
-
-cotidiana.
+Estás equivocado si crees que es mejor deshacerte de tu cuerpo (es decir, la vaca) porque pienses que no tiene valor y solamente dedicarte a practicar zazen (esto es, Guishan). Nuestro zazen se convierte en el buddhadharma precisamente cuando está funcionando como este cuerpo en nuestra vida cotidiana.
 
 Siempre habrá un aspecto de queja e insatisfacción con respecto a nuestro sí mismo con el que tendremos que lidiar. El dharma no puede ser manifestado solo después de haber puesto bajo control o de haber arrancado este aspecto de raíz. La función del dharma y de zazen es cuidar de este ruidoso y molesto aspecto de nosotros mismos, del mismo modo que una madre arrulla a su niño para dormir. Dicho con otras palabras, "Guishan saca a pastar a la vaca." No puedo evitar sentir que hay un profundo significado tras la palabra "pastar".
 
@@ -956,13 +795,9 @@ Por último, "en tu vida cotidiana, no lo olvides ni por un momento" implica que
 
 # Vivir la vida del sí mismo
 
-Por resumir brevemente lo que he estado exponiendo desde el principio, tenemos que vivir nuestras propias vidas y aprender a aceptar cualquier cosa que encontremos sin evitar las dificultades, este es el espíritu de magnanimidad al que se refiere Dōgen Zenji como daishin o gran mente. Recibir todas las experiencias de nuestras vidas con los ojos abiertos y actuar con un auténtico sentido de cuidado hacia ellas es lo que se conoce como
+Por resumir brevemente lo que he estado exponiendo desde el principio, tenemos que vivir nuestras propias vidas y aprender a aceptar cualquier cosa que encontremos sin evitar las dificultades, este es el espíritu de magnanimidad al que se refiere Dōgen Zenji como daishin o gran mente. Recibir todas las experiencias de nuestras vidas con los ojos abiertos y actuar con un auténtico sentido de cuidado hacia ellas es lo que se conoce como rōshin o mente de los padres.
 
-rōshin o mente de los padres.
-
-Dōgen Zenji escribió con cuidadoso detalle acerca de este espíritu. Dos de los ejemplos que usa están sacados de sus viajes a China. Uno trata sobre el
-
-tenzo del monte Tiantong y el otro sobre el tenzo de la montaña Ayuwang. Puesto que estos ejemplos son extensos no los citaré aquí, no obstante recomiendo su lectura antes de leer mis comentarios sobre estos. Estas dos historias aparecen a la mitad del Tenzo Kyōkun.
+Dōgen Zenji escribió con cuidadoso detalle acerca de este espíritu. Dos de los ejemplos que usa están sacados de sus viajes a China. Uno trata sobre el tenzo del monte Tiantong y el otro sobre el tenzo de la montaña Ayuwang. Puesto que estos ejemplos son extensos no los citaré aquí, no obstante recomiendo su lectura antes de leer mis comentarios sobre estos. Estas dos historias aparecen a la mitad del Tenzo Kyōkun.
 
 En primer lugar, me gustaría referirme a la historia del tenzo de Tiantong. El núcleo de esta historia se encuentra en dos frases: "Los demás no son yo" y "Si no lo hago ahora (mi trabajo), ¿cuándo si no iba a hacerlo?"
 
@@ -988,7 +823,7 @@ He llevado una vida de takuhatsu[^77] durante muchos años. En una ocasión, en 
 
 Me puse tan malo que no podía tumbarme boca arriba debido al dolor del dedo del pie que se me subía directamente a la cabeza. Amontonaba varios edredones y me tumbaba sobre ellos. Aunque era un noviembre bastante frío no podía echarme ni ropa ni mantas encima, debido a la fiebre y el dolor que atravesaba todo el costado izquierdo de mi cuerpo. Me mantenía desnudo, enfriándome con aire frío y pasé así sin dormir tres días de dolor con sus tres noches. A menudo pensaba: "bien, si voy a morir, en ese caso, simplemente moriré." Pero, de todos modos, no podía ni siquiera acudir a un doctor. Durante aquellos días el dinero recibido de las rondas mendicantes no era suficiente para pagar la factura del médico. No obstante, una anciana que vivía cerca de nosotros me trajo algunas ampollas de licor que había destilado y me dijo que si las machacaba y untaba la mezcla en un trapo para luego aplicarla sobre mi pie, ayudaría a conseguir que la fiebre remitiera. Hice como me sugirió, volviendo a aplicar el ungüento una y otra vez. El siguiente poema es algo que escribí poco después del accidente:
 
-Sufriendo una Herida en el Pie
+### Sufriendo una Herida en el Pie
 
 > Si tuviera una esposa que me cuidara, si mis padres estuvieran cerca, si tuviera dinero, no estaría sufriendo.
 >
@@ -1016,9 +851,7 @@ Sin importar lo que pase en nuestras vidas, no tenemos más alternativa que vivi
 
 # Sobre la fuerza y la actividad vital
 
-A continuación, me gustaría recuperar la historia del tenzo del monte
-
-Ayuwang. El núcleo de esta cuestión gira en torno al mondō[^79] y al célebre gāthā de Xuedou que Dōgen Zenji utiliza para aclarar su significado. Primero,
+A continuación, me gustaría recuperar la historia del tenzo del monte Ayuwang. El núcleo de esta cuestión gira en torno al mondō[^79] y al célebre gāthā de Xuedou que Dōgen Zenji utiliza para aclarar su significado. Primero,
 
 el mondō dice:
 
@@ -1110,9 +943,7 @@ Cualquiera que sea el objetivo que nos propongamos, sea el de acumular dinero o 
 
 Sin embargo, nos encontramos aquí con algunos problemas que aparecen sobre este sí mismo que tiene a zazen como modelo. Cuando empleo el término "sí mismo", no lo hago para referirme a una entidad fija; el sí mismo es la vida y la vida es actuar. Actuar significa actividad que trabaja hacia el mundo en el que mora este sí mismo. Cuando hablo de un "sí mismo estabilizado en el sí mismo", no debéis interpretarlo en el sentido de retirarse y escapar de la sociedad. Al contrario, esta expresión quiere decir que tu vida manifiesta el sí mismo como vida. Es un sí mismo que actúa para estabilizar y poner en orden a todo aquello que encontréis en vuestra vida.
 
-No depender de nada y estar predispuesto a afrontar y aceptar cualquier cosa que ocurra. Esa es la actitud magnánima o, en japonés, daishin.[^84] Además, actuar con la actitud de un padre, ver a todas las personas y situaciones que ocurren en nuestras vidas como a nuestros hijos, es a lo que me he referido anteriormente como mente de los padres. En el texto, esto es conocido como
-
-rōshin.
+No depender de nada y estar predispuesto a afrontar y aceptar cualquier cosa que ocurra. Esa es la actitud magnánima o, en japonés, daishin.[^84] Además, actuar con la actitud de un padre, ver a todas las personas y situaciones que ocurren en nuestras vidas como a nuestros hijos, es a lo que me he referido anteriormente como mente de los padres. En el texto, esto es conocido como rōshin.
 
 Llevando nuestra exposición un paso más allá, descubrir el auténtico significado de nuestras vidas gracias a esta actitud paternal es lo que es definido como kishin o mente alegre. En el tenzo Kyōkun, mente grande, mente de los padres y mente alegre es denominado como las "tres mentes."
 
@@ -1156,9 +987,7 @@ Tener una mente alegre es, por tanto, lo primero para ser claramente conscientes
 
 Una vez, tras una sesshin[^86] de tres días, mientras estábamos tomando té todos juntos, alguien me preguntó qué hacía yo para divertirme. Era una pregunta totalmente inesperada para mí, puesto que el tipo de vida que he estado llevando no contempla tener mucha diversión.
 
-Por una parte tenemos una sesshin de cinco días cada mes en Antaiji. No se permite hablar durante esos días y al mismo tiempo las piernas te duelen cada vez más a medida que pasan los días. Cuando acaba, el único alivio es la noción de que has sido de alguna manera capaz de terminarla. Luego, a mediados de mes, normalmente salgo del templo unos días para hacer una
-
-sesshin en algún otro sitio. En la sesshin de fuera, solo nos sentamos siete u ocho horas al día pero sí que doy dos charlas sobre el dharma diarias y, además, durante el tiempo de descanso recibo invitados que normalmente no pueden visitarme en Antaiji.
+Por una parte tenemos una sesshin de cinco días cada mes en Antaiji. No se permite hablar durante esos días y al mismo tiempo las piernas te duelen cada vez más a medida que pasan los días. Cuando acaba, el único alivio es la noción de que has sido de alguna manera capaz de terminarla. Luego, a mediados de mes, normalmente salgo del templo unos días para hacer una sesshin en algún otro sitio. En la sesshin de fuera, solo nos sentamos siete u ocho horas al día pero sí que doy dos charlas sobre el dharma diarias y, además, durante el tiempo de descanso recibo invitados que normalmente no pueden visitarme en Antaiji.
 
 Cuando no estoy ni en una sesshin ni en otra, intento atender la correspondencia que llega al templo o también recibir invitados. Además de eso dedico todo el tiempo que puedo a estar con mis discípulos, principalmente leyendo y trabajando con diversos manuscritos.
 
@@ -1219,9 +1048,8 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 [^5]:
     El texto usa la expresión dōshin, literalmente, "mente que busca la vía". Uchiyama Rōshi traduce esto al japonés moderno como tener la mente o actitud que busca manifestar aquí
 
-    > y en cada momento la mayor o más refinada vida del ser. Temiendo que el lector pueda malinterpretar la palabra "refinada", que aparece frecuentemente a lo largo del libro, como alguna especie de refinamiento aristocrático o de clase ociosa, me gustaría añadir un fragmento de Dōgen Zenji que Uchiyama Rōshi cita en su propio libro Jiko (ser), publicada por Hakujusha Publishers, Tokyo, 1965: "No pretendo sugerir que haya algo inherentemente virtuoso en el hecho de ser pobre. Lo que quiero decir es que estoy
-
-[^6]: Es una habitación o sala grande (shuryō), usada por la comunidad para estudiar o tomar el té.
+    > y en cada momento la mayor o más refinada vida del ser. Temiendo que el lector pueda malinterpretar la palabra "refinada", que aparece frecuentemente a lo largo del libro, como alguna especie de refinamiento aristocrático o de clase ociosa, me gustaría añadir un fragmento de Dōgen Zenji que Uchiyama Rōshi cita en su propio libro Jiko (ser), publicada por Hakujusha Publishers, Tokyo, 1965: "No pretendo sugerir que haya algo inherentemente virtuoso en el hecho de ser pobre. Lo que quiero decir es que estoy agradecido por haber sido capaz de perseguir la cultura, la forma de vida más elevada, que es solamente hacer zazen, a pesar de ser materialmente pobre. Dōgen Zenji mismo escribió: 'perseguir la más refinada cultura llevando una vida de pobreza es la meta más valiosa que podamos emprender en este mundo.' Al manifestar que he sido capaz, he tomado estas palabras como el ideal para mi vida.” En la traducción de Uchiyama Rōshi después de “carece de tal espíritu” hay una frase añadida : “y es indiferente sobre su vida.” El término dōshin tiene dos aspectos. Uno apunta a la idea de que ya estamos totalmente despiertos y el otro, que debemos perseguir una continua o permanente búsqueda de la vía. En nuestras actividades cotidianas no tiene ningún sentido decir simplemente que estamos despiertos a menos que practiquemos tal condición del despertar a través de cada una de nuestras actividades. Este aspecto dual de nuestro ser despierto es explicado íntegramente en el Daijō Kishin Ron (Discurso del Despertar de la Fe) y es también el punto al que se refiere Dōgen Zenji en la historia del monje y Hōtetsu sobre el abanico y el viento. No basta con saber que la naturaleza del viento se encuentra en todas partes (despertar), debemos además practicar ese despertar (usar el abanico). (Este caso se puede encontrar en el Shōbōgenzō Genjōkōan.)
+    > [^6]: Es una habitación o sala grande (shuryō), usada por la comunidad para estudiar o tomar el té.
 
 [^7]: "Pon tu atención centrada en tu trabajo" es una traducción libre de la expresión shōgon jōshin, mientras que "entender lo que la situación requiere" se refiere a la expresión makoto, es decir, la auténtica situación vista sin prejuicios.
 
@@ -1233,7 +1061,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
 [^11]: Dongshan no está preguntando cuestionando el acto de volcar la olla como expresión de la comprensión de Xuefeng. Simplemente para Dongshan el acto era un tanto melodramático. Xuefeng estudió un tiempo con otro maestro, Deshan, que era famoso por su manera de mostrar su comprensión. Después, estos diferentes estilos se convirtieron en las predominantes escuelas Rinzai y Sōtō.
 
-[^12]: El texto original no es claro acerca del orden en el que las tareas deberían realizarse, lo cual ha dado como resultado varias posibles traducciones de las primeras líneas de este fragmento. He traducido estas líneas como creo que sería el orden más lógico. El fragmento que empieza con: "Pon aquellas cosas que van naturalmente arriba en un lugar alto\..." es una cita que Dōgen Zenji tomó de la historia de Guishan Lingyou y Yanshan
+[^12]: El texto original no es claro acerca del orden en el que las tareas deberían realizarse, lo cual ha dado como resultado varias posibles traducciones de las primeras líneas de este fragmento. He traducido estas líneas como creo que sería el orden más lógico. El fragmento que empieza con: "Pon aquellas cosas que van naturalmente arriba en un lugar alto\..." es una cita que Dōgen Zenji tomó de la historia de Guishan Lingyou y Yanshan Huiji. La historia dice: Un día Guishan y Yangshan fueron a hacer un nuevo arrozal. Yangshan dijo: “Está demasiado bajo por este lado y bastante alto por allí, ¿no te parece?” Guishan respondió: “Podemos medir el nivel con agua.” Yangshan replicó: “¡No podemos depender del agua como nivel, maestro! Un lugar alto es un nivel como lugar alto y uno bajo lo es como bajo.”
 
 [^13]: En la traducción de Uchiyama Rōshi, añade que no debemos perder de vista este espíritu.
 
@@ -1251,7 +1079,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
 [^20]: El zagu es una pieza cuadrada de ropa que se extiende normalmente sobre una superficie o sobre el suelo. El monje se sienta sobre él o lo usa para postrarse según lo requiera la situación.
 
-[^21]: Este fragmento es una traducción libre de la expresión japonesa taiho honshin y anraku. Taiho significa retroceder, que es evitar hacer juicios emocionales o prejuicios, mientras honshin significa mover el propio cuerpo de forma activa, dicho de otro modo,
+[^21]: Este fragmento es una traducción libre de la expresión japonesa taiho honshin y anraku. Taiho significa retroceder, que es evitar hacer juicios emocionales o prejuicios, mientras honshin significa mover el propio cuerpo de forma activa, dicho de otro modo, poner tu cuerpo a funcionar. Anraku implica no fantasear ni con el cuerpo ni con la mente. Anraku es además la transcripción china del sánscrito nirvāna.
 
 [^22]: El período de práctica veraniega", o natsu ango, va oficialmente en la mayoría de monasterios Zen desde el 19 de abril al 15 de julio.
 
@@ -1263,7 +1091,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
 [^26]: "El significado de los caracteres". El tenzo está usando, por supuesto, la palabra caracteres en su sentido habitual, palabras escritas, pero también en un sentido más amplio, haciendo referencia a todos los fenómenos.
 
-[^27]: Uchiyama Rōshi traduce así este fragmento: "Si comprendes con claridad lo que preguntas
+[^27]: Uchiyama Rōshi traduce así este fragmento: "Si comprendes con claridad lo que preguntas acerca del asunto más vital sobre el buddhadharma, entonces eso en sí mismo es comprender los caracteres, eso es la práctica.”
 
 [^28]: ,7,8,9 y 10" Quiere decir que, aunque los fenómenos que encontramos antes y después del despertar son los mismos, su función cambia por completo.
 
@@ -1292,7 +1120,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
     Uchiyama Rōshi va incluso un paso más allá a este respecto en su comentario al Shōbōgenzo Genjōkōan.
 
-[^40]: En una vida anterior del rey Asoka, siendo aún un niño, estaba jugando con la arena
+[^40]: En una vida anterior del rey Asoka, siendo aún un niño, estaba jugando con la arena cuando pasó Shakyamuni pidiendo limosnas. El niño le ofreció arena como si fuera arroz hervido y a continuación se inclinó. En consecuencia, Shakyamuni predijo que en una vida futura el niño sería un gran rey y protector del budismo. Al volver al hogar aquel día, Shakyamuni entregó la arena a Ananda y este la esparció en el camino por el que Shakyamuni paseaba durante el kinhin; que es, los períodos de andar despacio entre los períodos de zazen. La anécdota anterior puede encontrarse en el Ayuwang Jing Zhuyinyuan Pinlue, o en japonés, Aikuō Kyō Shoinnen Bonryaku.
 
 [^41]: Wuzhao, o en japonés Mujaku, vivió entre 820 - 899.
 
@@ -1304,7 +1132,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
 [^45]: Shikan es una palabra usada para enfatizar el hacer solamente aquello a lo cual precede esta palabra, para hacerlo solo tal como se hace. Aquí lleva la connotación adicional de hacer algo involucrándose completamente.
 
-[^46]: Tōji, que puede ser escrito de dos formas en chino, es en sánscrito samāpatti o samādhi. El primer término usa el término "igual" con el término "tratar", lo que significa tratar o ver
+[^46]: Tōji, que puede ser escrito de dos formas en chino, es en sánscrito samāpatti o samādhi. El primer término usa el término "igual" con el término "tratar", lo que significa tratar o ver todas las cosas de la misma forma, mientras el segundo término usa “igual” con “aproximarse”, que significa aproximarse a todo de la misma forma.
 
 [^47]: En japonés, la expresión "mente que abarca completamente todos los fenómenos y todos los fenómenos son inseparables de la mente" es isshin issaiho issaiho isshin.
 
@@ -1319,7 +1147,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
     En aquella época, a mediados del siglo XII, hubo una pequeña respuesta a tal crítica y más tarde Hongzhi Zhengjue escribió un poema titulado Mokushōmei en el que usaba el término en sentido positivo. Tradicionalmente la crítica surgida hacia la escuela Sōtō sostiene que esta fomenta una actitud estrecha, individualista, una forma de Zen hermético despierto solo a uno mismo, mientras que la crítica dirigida al kanna zen, el zazen practicado en la escuela Rinzai, es que simplemente consiste en un medio para obtener algún tipo de satori o experiencia del despertar. Los practicantes de ambas escuelas deben tener cuidado de sendas desviaciones.
 
-[^52]: La palabra "postura" debe entenderse aquí tanto como postura física o corporal, como
+[^52]: La palabra "postura" debe entenderse aquí tanto como postura física o corporal, como postura mental, emocional, actitud.
 
 [^53]: Nishiari Zenji (1821-1910), cuyo nombre budista era Bokusan, era una autoridad en el Shōbōgenzō durante la era Meiji. Daba teishō (charlas dharma) sobre él, sus notas fueron recopiladas, editadas y publicadas con el título de Shōbōgenzō Keiteki.
 
@@ -1369,10 +1197,7 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 
 [^76]: Puesto que es imposible reproducirlo al traducirlo al inglés (y al castellano \[n.d.t.e.\]) se pierde el juego de palabras que existe en el original, puesto que las seis palabras elegidas son homófonas entre sí.
 
-[^77]:
-    Takuhatsu, 托 鉢 es una forma tradicional de dāna o de limosna que realizan los monjes budistas. Uchiyama Rōshi cuenta muchas de sus experiencias ocurridas mientras hacía
-
-    takuhatsu y expone los porqués de una vida mendicante en el capítulo 5 de Godō (el Buscador de la Vía), publicado por Hakujusha Publishers.
+[^77]: Takuhatsu, 托 鉢 es una forma tradicional de dāna o de limosna que realizan los monjes budistas. Uchiyama Rōshi cuenta muchas de sus experiencias ocurridas mientras hacía takuhatsu y expone los porqués de una vida mendicante en el capítulo 5 de Godō (el Buscador de la Vía), publicado por Hakujusha Publishers.
 
 [^78]: "Verdad innegable" y "realidad inevitable" son traducciones de la expresión japonesa zettai shinjitsu. Aunque la expresión podría traducirse más literalmente como "realidad absoluta", el lector podría confundirse a la hora de entender el término con un sentido budista. En otras ocasiones he traducido la expresión como "realidad incomparable", no en un sentido superlativo, sino más bien en el sentido de que está más allá del terreno de las comparaciones, o de no tener relación con las cosas comparables.
 
@@ -1395,3 +1220,67 @@ Este es de hecho el espíritu o actitud esencial de los boddhisattvas que se com
 [^87]: Solamente en la ciudad de Kyoto, hay más de 1.500 monasterios y templos, algunos de los cuales llegan a recibir varios miles de turistas junto a sus puertas al día.
 
 [^88]: En el Prajnāparamita-hrdaya-sūtra, más conocido como el Sutra del Corazón, encontramos la frase: fuzō fugen fuku fujō, o "ni aumento, ni disminución, ni pureza, ni impureza" de la que se ha tomado la cita previamente.
+
+[^u1]: Vía de buddha, en japonés, butsudō. En primer lugar, vivir la propia vida como la vía del buddha significa vivir constantemente asentando la propia vida. En el capítulo titulado Kie Buppōsō-hō (Confiar en los tres tesoros) del Shōbōgenzō dice: “¿Por qué deberíamos tener fe en los tres tesoros?” La respuesta es: “porque los tres tesoros son el propio refugio final, que capacita a los seres humanos a ir más allá del nacimiento y la muerte y a realizar el gran despertar.” (Este fragmento fue traducido del Kōhōn Kōtei Shōbōgenzō, publicado por Chikuma Shobō y editado por Ōkubo Dōshū, en 1971. Una explicación más extensa de este comentario puede encontrarse en el capítulo 12).
+
+[^u7]: “Buddhas y patriarcas.” Esta expresión deriva de la palabra busso. Históricamente, hace referencia a los buddhas de la India y al linaje de los patriarcas chinos. No obstante, hay otra forma de interpretar esta palabra que es igualmente válida y, religiosamente, mucho más importante, que es como buddha-patriarcas. En otras palabras, los buddhas no existen al margen de los patriarcas. Otra explicación sería que la palabra buddha implica completud o absoluto, mientras que la palabra patriarca tiene un sentido más dinámico, continuo o relacionado con estar alerta.
+
+[^u8]: Uchiyama Rōshi traduce la expresión japonesa udō como: “aquellos que han buscado vivir sus vidas de la forma más asentada.”
+
+[^u9]: Antiguamente solo servían dos comidas al día en los monasterios.
+
+[^u17]: Un kamado es un horno de leña hecho con adobe, piedras o ladrillos usado para cocinar tanto en China como en Japón.
+
+[^u18]: En el Chanyuan Qinggui, el kusu es el encargado de los asuntos generales de la comunidad. Más tarde, este cargo fue compartido por tres oficiales: el tsūsu, el kansu y el fūsu. Los tres oficiales juntos actuaban como el kusu.
+
+[^u19]: La traducción moderna de Uchiyama Rōshi dice: “Tanto de día como de noche todo lo que encontramos es nuestra vida. Según esto, ponemos nuestra vida en cada cosa que hacemos. Nuestra vida y lo que nos sucede se convierten en uno. Volcamos de tal modo nuestra fuerza vital que nuestra vida y lo que ocurre funcionan como deberían.” El fragmento anterior parece circular y, de hecho, de algún modo es así. Al arrojarnos nosotros mismos en nuestra tarea, deja de haber una brecha” o dualidad entre nuestra fuerza vital y la cosa” o tarea” que nos ocupa, por lo que los significados enfrentados de todos los términos dualistas habituales (nuestra”, vida” o fuerza” por un lado y cosa” o tarea” por el otro) desaparecen.
+
+[^u29]: El butsuden es uno de los edificios o grandes salas en las que se coloca una estatua de buddha o de algún boddhisattva.
+
+[^u30]: “Pasé el tiempo absolutamente confundido sobre lo que estaba haciendo.” Este fragmento debería entenderse como una muestra de modestia por parte del monje.
+
+[^u37]: “No hay nada en el mundo que esté escondido.” Proviene de la expresión hengai fuzōzō, que quiere decir que la verdad de la vida se manifiesta en todos los lugares y en todas las cosas, tal y como son. Cuando el tenzo cuenta hasta cinco, quiere decir que “cualquier cosa” es la respuesta, es decir que todo en nuestra vida es práctica.
+
+[^u38]: Myōzen era un antiguo discípulo de Eisai Zenji cuando este era abad de Kenninji en Kyoto. Históricamente, no está claro si Dōgen conoció o no realmente a Eisai Zenji. Por otro lado, Dōgen estudió varios años con Myōzen antes de acompañarlo a China. Myōzen murió mientras estaban en China a la edad de 42 años.
+
+[^u39]: Gāthā, o ju en japonés, son poemas que elogian el buddhadharma. Xuedou Zongxian (9801052) fue un maestro de la dinastía Song famoso por su poesía, que fue compilada posteriormente y comentada por Yuanwu Keqin. La poesía y sus comentarios se conocen como Recopilación de la Montaña Azul.
+
+[^u50]: Este poema se atribuye a Xuedou.
+
+[^u51]: Este historia del hijo pródigo puede encontrarse en el Sutra del Loto (Saddharmapundarīka-sutra) al igual que en la Biblia.
+
+[^u52]: Esta anécdota sobre Daigui aparece en el Jingde Zhuandeng Lu, o en japonés, Keitoku Dentoroku, una crónica de treinta capítulos que cuenta el linaje de la tradición zen. En el capítulo sobre Guishan Lingyou (otro nombre para Daigui) encontramos: «Una vez, cuando Daigui estaba sirviendo como tenzo en el monte Baizhang, fue a entrevistarse con el maestro. Baizhang (Hui Hai) lo llamó, “¿Quién es?” Daigui respondió: Soy yo, “Lingyou.” Baizhang dijo: “Ve al brasero y observa las ascuas, a ver si alguna aún está encendida.” Daigui cumplió con lo que se le dijo. Cuando volvió, le dijo a Baizhang que el fuego estaba apagado. Este se levantó, fue él mismo al brasero y rastrilló las cenizas. Encontró una pequeña ascua que aún ardía al fondo del brasero la cogió y se la mostró a Daigui en tono burlón. “¿Cómo llamarías a esto?” Entonces Daigui se dio cuenta de lo que Baizhang había estado intentando mostrar y, después de inclinarse respetuosamente en gratitud a su maestro, explicó que lo había entendido. Baizhang respondió: “Tu entendimiento se desvía solo en parte de la forma usual de la comprensión.” En el Nirvāna-sūtra hay un fragmento que dice: “Si deseas ver la naturaleza de buddha, deberías contemplar las causas y las circunstancias presentes de todas las cosas. Cuando el momento del despertar viene, es como si de repente aclararas algo que había estado confuso, como si de repente descubrieras algo que habías olvidado. Si reflexionas sobre esto con claridad, no hay nada fuera de ti mismo. Un antiguo patriarca decía que alcanzar el despertar es lo mismo que antes del despertar. Tener no-dharma con no-mente.” No hay falsas representaciones en realidad. Tanto los hombres ordinarios como los santos están sin distinción viviendo igualmente la incomparable realidad de la vida. En esencia, no hay nada que carezca de algo. Eres lo que eres ahora. ¡Deberías entender esto con sumo cuidado!»
+
+[^u56]: En el Zuoxaing Yinyuan Jing, o en japonés, Sakuzō Innen Kyō, se encuentra esta historia sobre el rey Uten: «El rey Uten se acercó y preguntó al Buddha: “Tras la muerte del Tathagata (Shakyamuni Buddha), me gustaría dedicar mi vida a esculpir estatuas suyas. ¿Cuántos méritos se podría obtener de tal acción?” (Shakyamuni) Buddha respondió: “En generaciones venideras, como recompensa, te reencarnarás en un cuerpo de sonido y más allá de la muerte, volverás a nacer en un reino celestial.”»
+
+[^u57]: “Un espíritu de gozo y magnanimidad, unido a la actitud cuidadosa de un padre.” Esta es una traducción de la expresión japonesa sanshin o, literalmente, las tres mentes o actitudes. Kishin es la mente alegre, rōshin es la mente o actitud de los padres hacia su hijo, mientras que daishin es una mente magnánima o mente grande.
+
+[^u58]: Sakro-devānām-indrah es una de las dos deidades tutelares del budismo. Cakravartin es un término técnico sánscrito que significa literalmente “aquel que se caracteriza por girar la rueda” o, en resumen, “un rey que gira la rueda.” Así se consideraba a Asoka. Tener la oportunidad de vivir y trabajar en un samgha como tenzo es más favorable que ser un rey o un dios (deva).
+
+[^u59]: “ En uno de los reinos del infierno, como un espíritu insaciable, como algún bajo animal o como un demonio”. Aquí “infierno, espíritu insaciable, animal y demonio” son traducciones libres de las palabras sánscritas naraka, preta, tiryañc y asura. Hacen referencia a varios lugares o formas de reencarnación para los seres vivos, y corresponden en japonés a jigoku, gaki, chikushō y shura. En su “Despedida de Antaiji”, el teishō (lección dharma) final de Uchiyama Rōshi antes de retirarse de Antaiji como abad, entra en detalle sobre lo que se conoce como rokudō zen, es decir, zen de seis tipos: «A medida que uno práctica se da cuenta de que la profundidad del propio zazen viene determinado por la actitud con la que uno se sienta. El conocido como rokudō zen no tiene vinculación alguna con shikantaza. Es mejor alejarse de estos tipos de zen. Reparemos en ellos por un instante. En primer lugar, jigoku zen. Algunas personas, con solo oír la palabra zazen se ponen nerviosas. Curiosamente, algunos a los que les pasa esto ¡son sacerdotes! Hablo de la clase de sacerdotes que deciden vivir un tiempo en un sōdō oficial para poder recibir los papeles que los capacitan como sacerdotes y poder ponerse al cargo de un templo. En primer lugar, odian estar allí pero no tienen forma de evitarlo y además se sienten obligados a hacer zazen. Hacer zazen bajo estas condiciones se conoce como jigoku zen o, “zen infernal.” Luego vendría el gaki zen. Es el tipo de zen que hacen aquellos que van tras el despertar de manera codiciosa. A continuación vendría el chikushō zen. Chikushō en japonés hace referencia a un animal que puede ser domesticado, como un perro, un gato o, quizás, una vaca. Del mismo modo, algunas personas entran en un monasterio porque oyeron que no les faltará comida mientras sigan las reglas. De vez en cuando. tenemos a alguna persona de este tipo en Antaiji. Se imaginan que por estar aquí y sentarse durante las sesshin, serán capaces de permanecer en el templo. Cuando esta clase de personas se deja caer por aquí, simplemente les invito a que se marchen. Hay una expresión que dice “yoraba taiju no kage.” Significa buscar descanso o protección a la sombra de un gran árbol. Cuando la gente intenta buscar sombra bajo un escuálido y pequeño sauce como es Antaiji, están buscando en el lugar equivocado. Lo que quiero decir es que carece de sentido pensar en comer y vivir abundantemente en Antaiji, cuando aquí carecemos de grandes manjares. La única cosa que encontrarás a raudales es el arroz integral y la sopa miso que comemos tres veces al día. Un sacerdote errante que crea que será bien atendido en Antaiji, está cometiendo un tremendo error. Esta categoría, el chikushō zen no es algo bueno tampoco. Gente como esta tiene que avergonzarse de sí misma. Más tarde tenemos el shura zen. Estas personas son aquellas que se dedican a competir con otras para obtener el satori. O bien, aquellas que compiten con otras para ver quién es capaz de hacerlo de forma más rígida y severa. Algunas llevan el kyōsaku, golpeando a los demás con esta misma actitud. Tal es el shura zen. También existe el ningen zen, el zen que practican los seres humanos con fines utilitarios. A este punto me refería anteriormente, esto es, aquellos que hacen zazen para tener sus mentes enderezadas, o bien para tener buena salud o energía sexual, así como fortaleza. En cualquier caso, que hacen zazen para conseguir algo de este. Se pueden encontrar hoy montones de libros sobre zen humanista, o sobre un zen para el cuerpo, o sobre zen y psicología. Estos son claros ejemplos de ningen zen, que buscan algo ventajoso para la humanidad. Dicho de otro modo, es un zen que busca una recompensa de la práctica. Finalmente tenemos el tenjō zen. Este tipo de zen lo practican aquellas personas que quieren ser ermitaños. Parece que hay un número significativo de jóvenes americanos a los que les atrae este tipo de zen. Parece como si estos jóvenes estuvieran intentando huir del ruido de la sociedad materialista americana, con lo que deciden huir a las montañas a sumergirse en la tranquilidad del silencio que allí encuentran. O, cuando se aburren de hacer solo esto, se ven atrapados en un zen en el que disfrutan puliendo el cetro que llevan de un sitio a otro algunos sacerdotes. Eso es simplemente practicar zen como un hobby. Naturalmente, esta clase de zen ermitaño no tiene nada que ver con el buddhadharma. Para averiguar si estamos o no practicando un zazen auténtico o no, debemos mirar nuestra práctica desde la perspectiva más amplia posible. Una vez que te veas atrapado en uno de estos seis tipos de zen, no serás capaz de tener una visión global delbuddhadharma.»
+
+[^u60]: Estas ocho circunstancias o condiciones desafortunadas (astāksanāh en sánscrito), se conocen en japonés como hachi nanjo. Estas consisten en: el llegar a nacer en alguno de los muchos infiernos descritos en la literatura budista, o alguno de los espíritus insaciables o animales domésticos (tres de los cuatro infiernos mencionados en la nota anterior), tener buena salud y abundante riqueza, tener una edad muy avanzada, haber nacido antes o después del Buddha, ser muy listo o sofisticado en aspectos mundanos o estar impedido debido a la ceguera, sordera o necedad. Los tres primeros son los tres caminos malvados del propio karma del pasado; el cuarto y el quinto se refiere a aquellos que son tan sanos y ricos, o que han llegado a ser tan mayores, que no tienen ningún interés hacia lo transitorio de la vida; el sexto se refiere al período anterior y posterior a la muerte del Buddha cuando la práctica del Dharma no estaba floreciendo en absoluto; el séptimo describe a la gente que es demasiado hábil o experta en los caminos mundanos; el octavo hace referencia a aquellos que están físicamente impedidos por la ceguera, la sordera y la necedad.
+
+[^u61]: Mente magnánima es daishin, literalmente “gran mente” en japonés. Dōgen Zenji describe esta mente o actitud como si fuera una montaña o un océano. La montaña es una metáfora de estabilidad y quietud. Es decir, aquel que no se inclina ni por la tentación ni por la represión. La metáfora del océano nos muestra una mente de perspectiva abierta, tolerante. Suele usarse además para hablar del samgha.
+
+[^u62]: En una nota al pie de página del Eihei Daishingi Tsūkai, editado y seleccionado por Bun'ei Andō con la colaboración de Shunko Itō y publicado por Kōmeisha Publishers, aparecen los siguientes comentarios: “Los sonidos de la primavera pueden verse como las palabras de una oración, mientras que los colores del otoño apuntan a aquellas cosas que nos desagradan. Se podría hablar también de los colores de la primavera (las cosas que nos gustan) y de los sonidos del otoño (el exceso o la crítica destructiva)”.
+
+[^u63]: Jiashan es el nombre de una montaña y un monasterio de la provincia de Hunan, en la China meridional. A menudo, a aquellos monjes que llegaban a ser conocidos durante el transcurso de sus vidas o después de su muerte se les conocía por el nombre de la montaña o del monasterio en el que vivían. En ocasiones, el nombre de la montaña solía indicar donde ocurrió la anécdota o el suceso. Algunas fuentes creen que el tenzo del que se habla en el texto es Shanhui, un monje zen que levantó un monasterio en Jiashan, aunque históricamente no parece que esto fuera posible. En cualquier caso, la siguiente historia entre Shanhui y Guishan Lingyou se incluye en las notas de Uchiyama Rōshi a su comentario al tenzo Kyōkun. Jinsei Ryori no Hon (Cómo cocinar tu vida). La anécdota ocurrió cuando Shanhui estaba trabajando como tenzo en el monte Guishan mientras Guishan Lingyou era el abad: «Un día, Guishan se aproximó a Shanhui y le preguntó: “¿Qué tendremos hoy de guarnición con el arroz?” A lo que Shanhui respondió: “Lo mismo que tenemos cada primavera.” Al escuchar esta respuesta, Guishan animó a Shanhui a continuar con su práctica. Shanhui le respondió: “Hay dragones morando en el nido del fénix.” [Los monjes (dragones) que viven aquí (el nido del fénix, o el monasterio del monte Jiashan) están practicando muy duro.] Guishan pensó que ahí había un monje verdaderamente comprometido.» Esta anécdota entre Shanhui de Jiashan y Guishan, aparece en el Linchan Leiju, capítulo 18.
+
+[^u64]: Esta historia de Daiyuan Fu Shangzuo, o Daigen-fu Jōza en japonés, aparece en el volumen 17 delWudeng Huiyuan. Daiyuan Fu vivió a mediados del siglo noveno: «Una vez el gran académico budista Daiyuan Fu estaba enseñando el Mahaparinirvāna-sūtra en GuangkaoXiao en Yangzhou, cuando el tenzo de Jiashan, que estaba viajando de templo en templo (visitando a varios maestros), se estableció allí empujado por una fuerte nevada. El tenzo escuchaba la lección en la que Daiyuan Fu estaba explicando la sección sobre los tres factores de la naturaleza de buddha y las tres virtudes del dharmakāya cuando, de repente, aquel se echó a reír. Después de la charla, Daiyuan Fu invitó al tenzo a su habitación y le dijo: “Honestamente, soy una persona muy sencilla y mis comentarios, sobre los sutras que suelo enseñar, son muy literales. Me he dado cuenta de que te has echado a reír cuando hablaba sobre el dharmakāya. Me preguntaba si serías tan amable de decirme dónde se encontraba mi error.” El tenzo le dijo: “Bien, lo que dices, coincide con lo que está escrito. En ese sentido, no hay error. Es solo que estabas hablando sobre el asunto sin realmente entenderlo.” Al poco de escuchar las observaciones del tenzo, Daiyuan Fu dejó de dar ninguna charla sobre el dharma, y viajó por todos los rincones, visitando a muchos maestros, preguntando sobre el buddhadharma y practicando con todas sus fuerzas.»
+
+[^u65]: Esta anécdota de Guishan aparece en el Chanlin Leiju, capítulo 14. «Cuando Guishan Lingyou vivía en el monte Baizhang, se trasladó al interior de las montañas con su maestro, Baizhang Huihai, a trabajar. Baizhang dijo: “Tráeme algo de leña” Guishan respondió: “De acuerdo, iré a por ella ahora mismo.” Cuando Guishan volvió, se le rompió un leño junto a Baizhang, que le preguntó: “Bien, ¿dónde está?” Guishan dio la vuelta al leño roto entre sus manos, sopló sobre él tres veces y se lo entregó a Baizhang. Baizhang tomó el palo de Guishan, reconociendo el acto del monje.»
+
+[^u72]: “Mente y objeto son uno de forma innata” es una traducción usual para la expresión shin ikkyōshō. Más adelante Uchiyama Rōshi le da un sentido a la expresión más amplio que el que le da Dōgen Zenji. No hay que tratar la expresión a la ligera por mucho que el significado parezca bastante obvio.
+
+[^u73]: “El buddhadharma debería ser entendido de tal modo que mente y objeto sean uno” es una interpretación tradicional de la expresión shin ikkyō ni hō o sessu.
+
+[^u74]: Una vez más, el uso común de munen musō supone que el objetivo de zazen es intentar no pensar en nada, pero, por supuesto, este no es el sentido de Dōgen Zenji ni el de Uchiyama Rōshi. La dificultad está en darse cuenta de que cuando Uchiyama o Dōgen toman expresiones que han sobrevivido al paso del tiempo o comentan ideas no-budistas, no lo hacen con la idea de mostrar por qué la expresión está “equivocada”, dado que rara vez el problema está en la expresión, más bien se valen de ellas para cambiar su significado dándoles una perspectiva más amplia.
+
+[^u75]: El lector debe tener cuidado al leer este fragmento, tomado del volumen 5 del Eihei Kōroku. A primera vista parece que Dōgen Zenji critica una escuela budista porque es distinta del Zen, pero no se trata de eso. Sobre lo que nos advierte es acerca de una determinada actitud, a la que llama actitud Theravada (¿similar al “fariseísmo” en el Judaísmo?), que debe ser evitada puesto que no observa la vida desde la perspectiva más amplia.
+
+[^u82]: Caer dormido es conocido como konchin, mientras que perseguir los pensamientos es llamado sanran. Sawaki Rōshi solía referirse a estos estados como “estupor somnoliento” y “estupor pensante.”
+
+[^u83]: “Practicar con una sola mente, no dividida, con todas las energías” es una traducción de la conocida expresión Zen isshiki no bendō. Isshiki significa hacer cualquier cosa comprometido con la mente unificada o con el corazón entregado, sin distracciones. Bendō se compone de dos caracteres: Ben y dō. Ben tiene dos posibles significados: uno sería discriminar o discernir y el otro esforzarse con toda la energía. Dō significa vía, camino.
+
+[^u40]: _Nota ausente: el número de referencia 40 aparece en el texto original, pero el documento fuente no contiene ningún texto de nota correspondiente a esta llamada (posible omisión en la digitalización original)._
