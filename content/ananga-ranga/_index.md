@@ -1,4 +1,14 @@
 +++
+" Configuración específica para Markdown
+autocmd FileType markdown
+    \ setlocal spell spelllang=es,en |      " Corrector ortográfico (español + inglés)
+    \ setlocal wrap |                       " Salto de línea visual (sin romper la línea)
+    \ setlocal linebreak |                  " No cortar palabras en medio
+    \ setlocal textwidth=80 |               " Ancho máximo para formateo
+    \ setlocal colorcolumn=80 |             " Línea vertical de guía
+    \ setlocal conceallevel=2 |             " Oculta marcadores de negrita/cursiva/etc.
+    \ setlocal tabstop=2 shiftwidth=2 softtabstop=2
+
 title = "Ananga Ranga"
 description = "Tratado clásico de la literatura hindú sobre sensualidad, erotismo y la ciencia del amor. El Ananga Ranga es un compendio de técnicas y filosofía amatoria que explora la intimidad desde perspectivas tántricas y sexuales, considerado un precursor del Kamasutra. Esta versión completa ofrece una visión profunda sobre energía sexual, conexión y la expresión erótica en las relaciones humanas."
 weight = 5
@@ -200,7 +210,7 @@ Los lectores occidentales proclives a buscar recetas para mejorar su vida sexual
 
 La obra del poeta y sabio Kalyana Malla fue escrita, se supone, como respuesta a una sociedad rígida y estricta que permitía el casamiento entre y con adolescentes. Como éstos llegaban a la cámara nupcial absolutamente ignorantes de todo lo que fuera amor sensual, Malla desarrolló este tratado para ofrecer a los jóvenes un sumario de normas y secretos para hacer más plena la unión conyugal.
 
-### La obra de Kalyana Malla
+### _La obra de Kalyana Malla_
 
 A más de cinco siglos de escrito, el _Ananga Ranga_ conserva una lozanía y modernidad asombrosas. Los juegos sexuales previos, ignorados por la cultura oficial occidental hasta el siglo XX, quedan explicitados con singular claridad en este texto: los juegos preliminares "numerosos y variados, tales como los diversos abrazos y besos [...] despiertan los sentidos y ponen el ánimo propicio" Estas "escaramuzas" preparan a los amantes a una grata diversión erótica.
 
@@ -218,7 +228,7 @@ En la presente edición se ha procurado mantener el tono poético de la versión
 
 > **-Guadalupe de la Torre**
 
-## ANANGA RANGA
+## _ANANGA RANGA_
 
 ## _Prefacio_
 
@@ -442,7 +452,7 @@ En el lado opuesto, la quincena oscura o _krisihnapakaha,_ que dura desde la lun
 
 El cambio se opera a través de la acción de la luz y la oscuridad. De otro modo, el asiento de la pasión será siempre el mismo.
 
-##### **_Shuklapakaha o quincena luminosa_ (el lado derecho)**
+#### _Shuklapakaha o quincena luminosa (el lado derecho)_
 
 | Día 15 | Se acarician cabellos y cabeza con la<br>punta de los dedos.                                  |
 | ------ | --------------------------------------------------------------------------------------------- |
@@ -468,7 +478,7 @@ El cambio se opera a través de la acción de la luz y la oscuridad. De otro mod
 
 - Día 2 Se aprietan con suavidad ambos pies. Día 1 Se oprime firmemente el dedo gordo del pie.
 
-##### **_Krisishnapakaha o quincena sombría_ (el lado izquierdo)**
+#### _Krisishnapakaha o quincena sombría (el lado izquierdo)_
 
 - Día 1 Se acarician cabellos y cabeza con la punta de los dedos.
 
@@ -525,7 +535,7 @@ Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado tota
 
 - Pie (se oprime y se rasca)
 
-### **_Chitrini (mujer arte):_**
+### _Chitrini (mujer arte):_
 
 - Cuello (se lo sujeta con fuerza y se rasguña)
 
@@ -557,7 +567,7 @@ Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado tota
 
 - Pie (se oprime y se rasca)
 
-### **_Shankhini (mujer concha):_**
+### _Shankhini (mujer concha):_
 
 - Cuello (se rasguña)
 
@@ -591,7 +601,7 @@ Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado tota
 
 - Pie (se aprieta con firmeza)
 
-### **_Hastini (mujer elefante):_**
+### _Hastini (mujer elefante):_
 
 - Cuello (se sujeta y se golpea)
 
@@ -633,13 +643,11 @@ _de sus túnicas y en su desnudez, vi los destellos de su cuerpo._
 
 27
 
-## **_Capítulo 3_**
+## _Capítulo 3_
 
 _Sus trémulos ojos quedaron azorados por el deleite. Abandonado en el latir de la pasión su cuerpo yacía como un cisne real amando en un estanque de lotos._
 
-## Las diferentes clases de hombres y mujeres
-
-#### **_Hombres_**
+### _Las diferentes clases de hombres y mujeres Hombres_
 
 Los hombres se dividen en tres clases:
 
@@ -673,7 +681,7 @@ Apasionado y competitivo, comilón, voluble y holgazán. Camina lentamente, colo
 
 Tiene su _kama-salila_ abundante y salado como el del macho cabrío.
 
-#### **_Mujeres_**
+### _Mujeres_
 
 Así como los hombres se dividen en tres clases de acuerdo con la longitud de su _linga,_ las cuatro clases de mujeres: _padmini, chitrini, shankhini y hastini,_ se subdividen en tres tipos teniendo en cuenta la profundidad y amplitud de su _yoni._ Éstos son:
 
@@ -721,7 +729,7 @@ Por lo tanto, es necesario un estudio profundo para juzgar por la presencia o au
 
 Por eso advierten los estudiosos que las distinciones entre _padmini, chitrini, shankhini_ y _hastini,_ entre _shasha, vrishabha_ y _ashwa,_ y entre _mrigi (harini), vadava (ashvini)_ y _karini_ es raro encontrarlas en estado de pureza, y que es tarea de cada uno aprender a combinarlas de la manera adecuada.
 
-#### **_La unión amorosa_**
+### _La unión amorosa_
 
 Tan pronto como la mujer comienza a experimentar placer, los ojos se entrecierran y se humedecen ligeramente. El cuerpo se enfría y la respiración, antes fuerte y agitada, deviene en sollozos y suspiros. Tras un tiempo de cierta rigidez, la parte inferior de los muslos se extiende débilmente. Se produce ahora un aumento y efusión de amor y afecto, con besos y gestos expresivos y, al final, parece como si fuera a desmayarse.
 
@@ -749,55 +757,41 @@ Teniendo en cuenta las diferentes dimensiones, la unión sexual se clasifica en 
 
 - _Kanistha,_ la peor.
 
-#### **_Shasha_ u hombre liebre**
+#### _Shasha_ u hombre liebre
 
-##### _Uttama_
+- _Uttama_  
+  _Shasha_ (seis dedos de largo)  
+  _Mrigi_ (seis dedos de profundidad)
+- _Madhayama_  
+  _Shasha_ (seis dedos de largo)  
+  _Vadava_ (nueve dedos de profundidad)
+- _Kanistha_  
+  _Shasha_ (seis dedos de largo)  
+  _Karini_ (doce dedos de profundidad)
 
-_Shasha_ (seis dedos de largo)
+#### _Vrishabha_ u hombre toro
 
-_Mrigi_ (seis dedos de profundidad)
+- _Uttama_  
+  _Vrishabha_ (nueve dedos de largo)  
+  _Vadava_ (nueve, dedos de profundidad)
+- _Madhayama_  
+  _Vrishabha_ (nueve dedos de largo)  
+  _Mrigi_ (seis dedos de profundidad)
+- _Kanistha_  
+  _Vrishabha_ (nueve dedos de largo)  
+  _Karini_ (doce dedos de profundidad)
 
-- _Madhayama_
+#### _Ashwa_ u hombre caballo
 
-- _Shasha_ (seis dedos de largo)
-
-_Vadava_ (nueve dedos de profundidad)
-
-- _Kanistha_
-
-- _Shasha_ (seis dedos de largo)
-
-_Karini_ (doce dedos de profundidad)
-
-#### **_Vrishabha_ u hombre toro**
-
-##### _Uttama_
-
-_Vrishabha_ (nueve dedos de largo)
-
-- _Vadava_ (nueve, dedos de profundidad)
-
-- _Madhayama_
-
-_Vrishabha_ (nueve dedos de largo) _Mrigi_ (seis dedos de profundidad)
-
-_Kanistha_
-
-_Vrishabha_ (nueve dedos de largo) _Karini_ (doce dedos de profundidad)
-
-#### **_Ashwa_ u hombre caballo**
-
-_Uttama_
-
-_Ashwa_ (doce de dedos de largo) _Karini_ (doce dedos de profundidad) _Madhayama_
-
-_Ashwa_ (doce dedos de largo)
-
-_Vadava_ (nueve dedos de profundidad)
-
-_Kanistha_
-
-_Ashwa_ (doce dedos de largo) _Mrigi_ (seis dedos de profundidad)
+- _Uttama_  
+  _Ashwa_ (doce de dedos de largo)  
+  _Karini_ (doce dedos de profundidad)
+- _Madhayama_  
+  _Ashwa_ (doce dedos de largo)  
+  _Vadava_ (nueve dedos de profundidad)
+- _Kanistha_  
+  _Ashwa_ (doce dedos de largo)  
+  _Mrigi_ (seis dedos de profundidad)
 
 Considerando lo dicho, se puede inferir que la máxima felicidad estriba en la correspondencia de las dimensiones, y que el malestar aumenta con la profundización de la diferencia. La explicación de este hecho es evidente.
 
@@ -3091,7 +3085,7 @@ Mueve sus caderas circularmente hasta obtener la mayor satisfacción. El hombre 
 
 Esta posición posibilita que ambos conserven una gran amplitud de movimientos, que no deben desaprovechar. La mujer puede controlar la velocidad, ángulo y cantidad de movimientos de su pelvis.
 
-##### **_Uthita-uttana-bandha_**
+#### _Uthita-uttana-bandha_
 
 La "posición elevada": la mujer, insatisfecha por la unión sexual anterior, pone a su hombre de espaldas y se sienta con las piernas cruzadas sobre sus muslos, aprisiona su _linga,_ la conduce a la inserción y comienza a moverse de arriba hacia abajo y de atrás hacia adelante.
 
