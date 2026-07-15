@@ -59,13 +59,17 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 _Clásicos de Siempre_
 
-**K** ALYANA **M** ALLA ANANGA RANGA
+**K**ALYANA **M**ALLA
+
+**ANANGA RANGA**
 
 VERSIÓN COMPLETA
 
 _Traducción:_ Guadalupe de la Torre
 
 longseller
+
+## Pagina de Respeto
 
 Ananga Ranga. El escenario del amor © longseller, 2004
 
@@ -75,7 +79,7 @@ DIVISION ARTE LONGSELLER DIRECCION DE ARTE: Adriana Llano COORDINACION GENERAL: 
 
 Longseller S.A. Casa matriz: Avda. San Juan 777 (C1147AAF) Buenos Aires República Argentina Internet: www.longseller.com.ar E-mail: ventas@longseller.com.ar
 
-Kalyana Malla Ananga Ranga. -- 1`<sup>`{=html}a`</sup>`{=html} ed.- Buenos Aires: longseller, 2004. 256 p.; 18x11 cm (Clásicos de Siempre) ISBN 987-550-424-6 1. Autoayuda. I. Título CDO 158.1
+Kalyana Malla Ananga Ranga. – 1<sup>a</sup> ed.- Buenos Aires: longseller, 2004. 256 p.; 18x11 cm (Clásicos de Siempre) ISBN 987-550-424-6 1. Autoayuda. I. Título CDO 158.1
 
 Queda hecho el depósito que marca la ley 11.723.
 
@@ -83,213 +87,104 @@ Impreso y hecho en la Argentina. Printed in Argentina.
 
 Esta edición de 3.000 ejemplares se termino de imprimir en la Planta Industrial de Longseller S.A., Buenos Aires, República Argentina, en marzo de 2004.
 
-### **_Indice_**
-
----
-
-PRÓLOGO
-
----
-
-Navegando en el océano
-
-de la sensualidad ....................................... 1`<br>`{=html}
-
-La obra de Kalyana Malla ................... 3
-
-PREFACIO .................................................. 8
-
-CAPITULO 1 ............................................ 12
-
-Acerca de las cuatro clases de mujeres . 12`<br>`{=html}
-
-Características personales
-
-de las cuatro clases .................................. 13
-
-La mujer loto o_padmini\_...................... 13
-
-La mujer_chitrini_o mujer arte ............ 14
-
-La mujer concha o_shankhini\_.............. 15
-
-La mujer elefante o_hastini\_................. 16
-
-Los días del placer ................................... 17
-
-Las horas que proporcionan`<br>`{=html}el mayor placer ......................................... 18
-
-CAPITULO 2 ............................................ 21
-
-Las zonas sensibles de la mujer ............. 21
-
-_Padmini_(mujer loto) ................................ 25
-
-_Chitrini_(mujer arte) ................................. 25
-
-_Shankhini_(mujer concha) ........................ 26
-
-_Hastini_(mujer elefanta) ........................... 26
-
-CAPITULO 3 ............................................ 28
-
-Las diferentes clases de hombres
-
-y mujeres ................................................... 28
-
-Hombres ................................................. 28
-
----
-
----
-
-Mujeres ................................................... 30
-
----
-
-La unión amorosa ................................. 33
-
-Otras características
-
-de la unión amorosa ............................. 36
-
-CAPITULO 4 ............................................ 39
-
-Cualidades, características
-
-y temperamentos de las mujeres ........... 39
-
-CAPITULO 5 ............................................ 51
-
-Características de las mujeres`<br>`{=html}según las diferentes regiones ................. 51
-
-CAPITULO 6 ............................................ 57
-
-Las aplicaciones externas o_prayogas\_..... 57
-
-Cómo acelerar el orgasmo ................. 58
-
-Cómo retrasar la eyaculación ........... 60
-
-Excitar el deseo sexual ....................... 62
-
-Recetas que aumentan
-
-el largo y ancho de la_linga\_................ 64
-
-Recetas que estrechan y cierran
-
-el_yoni\_.................................................... 66
-
-Recetas para perfumar el_yoni\_........... 68
-
-Receta para depilar el vello ............... 68
-
-Recomendación para normalizar`<br>`{=html}el flujo menstrual ................................ 69
-
-Recetas para quedar embarazada .... 70
-
-Prevenciones contra el aborto ........... 71
-
-Un parto sin problemas ..................... 72
-
-Para evitar embarazos indeseables .. 73
-
-Consejos para embellecer
-
-el cabello .............................................. 74
-
-Consejos para teñir el cabello ........... 75
-
----
-
----
-
-Consejos para aclarar el cabello ....... 75
-
----
-
-Consejo para renovar el cabello ........ 76
-
-Consejos para la piel .......................... 76
-
-Senos firmes y lozanos ....................... 77
-
-Recetas para inspirar amor................ 78
-
-Para quitar el olor del cuerpo ........... 78
-
-Recetas para después del baño ......... 80
-
-Para tener la boca perfumada ........... 82
-
-CAPITULO 7 ............................................ 84
-
-Cuando someter a un hombre
-
-o a una mujer es un arte .......................... 84
-
-Para atraer y conservar el amor
-
-de un hombre ........................................... 85
-
-Para el amor y la amistad ....................... 86
-
-Para conseguir amor eterno ................... 87
-
-Mantras ..................................................... 89
-
-CAPITULO 8 ............................................ 92
-
-El matrimonio y otros temas .................. 92
-
-Sobre las características`<br>`{=html}de la mujer ............................................. 92
-
-Sobre las características del hombre........ 94
-
-Sobre las características de un yerno....... 96
-
-Sobre los buenos y malos augurios .... 97
-
-Acerca del adulterio y la seducción . 101
-
-CAPITULO 9 .......................................... 114
-
-Los placeres externos ............................ 114
-
-`<br>`{=html}Los abrazos ............................................. 115
-
-Los besos ................................................. 118
-
-Los rasguños ........................................... 121
-
-`<br>`{=html}Los mordiscos ........................................ 124
-
----
-
-El cabello ................................................. 126
-
----
-
-Los golpes ............................................... 127
-Las expresiones sonoras del goce ........ 129
-La mujer que bien ama\_(nayika)\_........... 131
-CAPITULO 10 ........................................ 134
-Los goces internos ................................. 134
-Las posturas\_(bandhas)\_........................... 135
-La pareja unida ...................................... 160
-
-##### **_Prólogo_**
-
-## **_Navegando en el océano de la sensualidad_**
+## _Indice_
+
+- PRÓLOGO
+- Navegando en el océano de la sensualidad
+  - La obra de Kalyana Malla
+- PREFACIO
+- CAPITULO 1
+- Acerca de las cuatro clases de mujeres
+- Características personales de las cuatro clases
+  - La mujer loto o _padmini_
+  - La mujer _chitrini_ o mujer arte
+  - La mujer concha o _shankhini_
+  - La mujer elefante o _hastini_
+- Los días del placer
+- Las horas que proporcionan el mayor placer
+
+- CAPITULO 2
+- Las zonas sensibles de la mujer
+  - _Padmini_(mujer loto)
+  - _Chitrini_(mujer arte)
+  - _Shankhini_(mujer concha)
+  - _Hastini_(mujer elefanta)
+
+- CAPITULO 3
+- Las diferentes clases de hombres y mujeres
+- Hombres
+- Mujeres
+- La unión amorosa
+- Otras características de la unión amorosa
+
+- CAPITULO 4
+- Cualidades, características y temperamentos de las mujeres
+
+- CAPITULO 5
+- Características de las mujeres<br>según las diferentes regiones
+
+- CAPITULO 6
+- Las aplicaciones externas o _prayogas_
+  - Cómo acelerar el orgasmo
+  - Cómo retrasar la eyaculación
+  - Excitar el deseo sexual
+  - Recetas que aumentan el largo y ancho de la _linga_
+  - Recetas que estrechan y cierran el _yoni_
+  - Recetas para perfumar el _yoni_
+  - Receta para depilar el vello
+  - Recomendación para normalizar el flujo menstrual
+  - Recetas para quedar embarazada
+  - Prevenciones contra el aborto
+  - Un parto sin problemas
+  - Para evitar embarazos indeseables
+  - Consejos para embellecer el cabello
+  - Consejos para teñir el cabello
+  - Consejos para aclarar el cabello
+  - Consejo para renovar el cabello
+  - Consejos para la piel
+  - Senos firmes y lozanos
+  - Recetas para inspirar amo Para quitar el olor del cuerpo
+  - Recetas para después del baño
+  - Para tener la boca perfumada
+
+- CAPITULO 7
+- Cuando someter a un hombre o a una mujer es un arte
+- Para atraer y conservar el amor de un hombre
+- Para el amor y la amistad
+- Para conseguir amor eterno
+- Mantras
+
+- CAPITULO 8
+- El matrimonio y otros temas
+- Sobre las características de la mujer
+- Sobre las características del hombre
+- Sobre las características de un yerno
+- Sobre los buenos y malos augurios
+- Acerca del adulterio y la seducción
+
+- CAPITULO 9
+- Los placeres externos
+- Los abrazos
+- Los besos
+- Los rasguños
+- Los mordiscos
+- El cabello
+- Los golpes
+- Las expresiones sonoras del goce
+- La mujer que bien ama _(nayika)_
+
+- CAPITULO 10
+- Los goces internos
+- Las posturas _(bandhas)_
+- La pareja unida
+
+## _Prólogo_
+
+### _Navegando en el océano de la sensualidad_
 
 Entre las sorprendentes revelaciones que implica para Occidente el siempre atractivo contacto con la cultura Oriental, el mundo de la sensualidad y el erotismo, entendido como vía de integración suprema en el orden universal, ocupa un lugar preponderante. «Los placeres -decía Vatsyáyána, autor del _Kama Sutra-_ son tan necesarios para el bienestar del cuerpo como lo son los alimentos, y por lo tanto, igualmente obligados.»
 
 Esa mística del amor sensual, basada en una larga tradición oral, quedó magníficamente reflejada en dos libros ya clásicos: el popular _Kama Sutra_ **y** el menos conocido _Ananga Ranga,_ ambos libros del amor hindú.
-
-1
-
-##### **_Prólogo_**
 
 Estas obras, que constituyen, sin duda, un patrimonio cultural de la humanidad, ofrecen las claves y secretos del arte del amor a través de un exhaustivo compendio de las prácticas amatorias y las relaciones amorosas forjadas en una cultura radicalmente distinta de la occidental.
 
@@ -299,65 +194,36 @@ En el hinduismo el sexo es casi sacramental; y como componente esencial para la 
 
 Mientras el _Kama Sutra,_ escrito en el siglo II por el sabio Vatsyáyána, goza del privilegio de ser un texto fundante, no menos trascendentes fueron dos textos posteriores y que persiguen, con poesía y sabiduría, el mismo propósito: instruir acerca del amor sensual: _El Jardín perfumado y el Ananga Ranga,_ que se entrega en esta edición.
 
-Subtitulado como _Escenario del amor,_ o más precisamente _El barco sobre el océano del amor,_ el _Ananga Ranga_ fue escrito en el siglo XVI por Kalyana Malla, a no pocos años del desembarco de Cristóbal Colón en América. Esta referencia,
-
-2
-
-##### **_Prólogo_**
-
-por cierto no caprichosa, sirve para hacer un paralelismo entre las férreas conductas sexuales de la sociedad occidental, que no lograba aún desprenderse de la moral medieval, y la visión que se tenía en Oriente acerca del mismo tema.
+Subtitulado como _Escenario del amor,_ o más precisamente _El barco sobre el océano del amor,_ el _Ananga Ranga_ fue escrito en el siglo XVI por Kalyana Malla, a no pocos años del desembarco de Cristóbal Colón en América. Esta referencia, por cierto no caprichosa, sirve para hacer un paralelismo entre las férreas conductas sexuales de la sociedad occidental, que no lograba aún desprenderse de la moral medieval, y la visión que se tenía en Oriente acerca del mismo tema.
 
 Los lectores occidentales proclives a buscar recetas para mejorar su vida sexual sin duda se sentirán defraudados ante el _Ananga Ranga;_ no así los lectores sensibles que han comprendido que los malabarismos sexuales carentes de sentimientos no conducen a una plenitud sexual si no están acompañados de un profundo sentimiento y de comunión de propósitos.
 
 La obra del poeta y sabio Kalyana Malla fue escrita, se supone, como respuesta a una sociedad rígida y estricta que permitía el casamiento entre y con adolescentes. Como éstos llegaban a la cámara nupcial absolutamente ignorantes de todo lo que fuera amor sensual, Malla desarrolló este tratado para ofrecer a los jóvenes un sumario de normas y secretos para hacer más plena la unión conyugal.
 
-## La obra de Kalyana Malla
+### La obra de Kalyana Malla
 
-A más de cinco siglos de escrito, el _Ananga Ranga_ conserva una lozanía y modernidad asombrosas. Los juegos sexuales previos, ignorados por la cultura oficial occidental hasta el siglo XX, quedan explicitados con singular claridad en este texto: los juegos preliminares "numerosos y
-
-3
-
-##### **_Prólogo_**
-
-variados, tales como los diversos abrazos y besos \[...\] despiertan los sentidos y ponen el ánimo propicio" Estas "escaramuzas" preparan a los amantes a una grata diversión erótica.
+A más de cinco siglos de escrito, el _Ananga Ranga_ conserva una lozanía y modernidad asombrosas. Los juegos sexuales previos, ignorados por la cultura oficial occidental hasta el siglo XX, quedan explicitados con singular claridad en este texto: los juegos preliminares "numerosos y variados, tales como los diversos abrazos y besos [...] despiertan los sentidos y ponen el ánimo propicio" Estas "escaramuzas" preparan a los amantes a una grata diversión erótica.
 
 El autor del _Ananga Ranga_ pone singular énfasis no sólo en la transmisión de normas positivas para afrontar la relación ("En tiempos de luna llena, el _yoni_ de la mujer debe ser manipulado y abierto como una flor" afirma) sino también en puntualizar los problemas y defectos de la relación, remarcando los riesgos de ignorar determinadas normas. A diferencia del _Kama Sutra,_ un texto apoyado sobre el valor sagrado del sexo, el _Ananga Ranga_ es un libro "práctico" cuyo único propósito es instruir a la pareja amante (por cierto, al matrimonio) sobre los secretos para un pleno goce sexual.
 
 Por ello es que pone tanto énfasis en combatir la rutina: la "monotonía de la posesión", según señala, "arroja al marido en brazos de mujeres extrañas y a la mujer, en los de hombres extraños". Y a continuación, sentencia: "La monotonía engendra la saciedad, y la saciedad, el disgusto del coito".
 
-Y en este sentido es aleccionadora la advertencia sobre la clásica posición amatoria de la mujer acostada de espaldas y el hombre tendido encima de ella. Esta forma de hacer el amor, señala el autor, no favorece el orgasmo femenino pues ella queda "atrapada", sin la posibilidad de movimiento. Y en ocasiones, incómoda y hasta asfixiada, si el amante "tiene
-
-4
-
-##### **_Prólogo_**
-
-unos kilos de más" Además, insiste, reproduce un modelo de superioridad masculina.
+Y en este sentido es aleccionadora la advertencia sobre la clásica posición amatoria de la mujer acostada de espaldas y el hombre tendido encima de ella. Esta forma de hacer el amor, señala el autor, no favorece el orgasmo femenino pues ella queda "atrapada", sin la posibilidad de movimiento. Y en ocasiones, incómoda y hasta asfixiada, si el amante “tiene unos kilos de más" Además, insiste, reproduce un modelo de superioridad masculina.
 
 Si se lee entre líneas puede desentrañarse un hecho curioso. El _Ananga Ranga_ es, mirado con ojos occidentales, un texto "moralista" en el sentido de que enfatiza las relaciones dentro del matrimonio; es decir, busca instruir para que hombres y mujeres alcancen el pleno placer dentro de las uniones formales. Eso no sucede con el _Kama Sutra,_ que está destinado a los amantes, tanto dentro como fuera del matrimonio. Pero es sabido que los textos no son de quienes los escriben sino de quienes los leen, por lo cual para Occidente adquirió fama como mero texto erótico.
 
 A pesar de la diferencia de casi quince siglos entre los textos mencionados, Occidente los conoció al mismo tiempo merced a la traducción del explorador inglés sir Richard Burton, quien los trajo a Occidente a mediados del siglo XIX. El _Ananga Ranga_ fue publicado conjuntamente con el _Kama Sutra y El Jardín perfumado,_ texto de origen árabe, por la Hindoo Kama Shastra Society, alrededor del año 1887.
 
-En la presente edición se ha procurado mantener el tono poético de la versión original y al mismo tiempo respetar cierto tono ingenuo, cuando no esquemático. Si el lector acepta el desafío de sumergirse en este libro llano y sencillo, encontrará -detrás de su poesía diáfanaelementos que sin dudas vinculará con su propia
+En la presente edición se ha procurado mantener el tono poético de la versión original y al mismo tiempo respetar cierto tono ingenuo, cuando no esquemático. Si el lector acepta el desafío de sumergirse en este libro llano y sencillo, encontrará -detrás de su poesía diáfanaelementos que sin dudas vinculará con su propia vida y que le aportarán no poca enseñanza para alcanzar un mayor goce sensual.
 
-5
+> **-Guadalupe de la Torre**
 
-##### **_Prólogo_**
+## ANANGA RANGA
 
-vida y que le aportarán no poca enseñanza para alcanzar un mayor goce sensual.
+## _Prefacio_
 
-##### **-Guadalupe de la Torre**
-
-6
-
-# **A** NANGA **R** ANGA
-
-7
-
-## **_Prefacio_**
-
-_Desnudé el lazo de sus cabellos y arrojé lejos su guirnalda de flores, luego probé sus labios y el néctar de su sonrisa_ ...
-
-_y besé con arrebato la colina de sus senos._
+> _Desnudé el lazo de sus cabellos y arrojé lejos su guirnalda de flores, luego probé sus labios y el néctar de su sonrisa..._  
+> _y besé con arrebato la colina de sus senos._
 
 ¡Que la dulce esposa de Siva, la hermosa Parvati, te purifique y te haga digno!
 
@@ -367,13 +233,7 @@ _Parvati,_ la misma que coloreó las uñas de sus manos, blancas como las aguas 
 
 ¡Tú que das valor en tiempos de guerra, tú que destruiste a Sambar Asura y a los Rakdhasas; tú que fecundaste a Rati, el principio femenino, y diste cuerpo al amor y a los placeres del mundo!
 
-¡Tú que estás siempre alegre, y la intranquilidad y la angustia alivias con tu
-
-8
-
-##### **_Prefacio_**
-
-ventura; tú que brindas descanso y felicidad a la mente del hombre!
+¡Tú que estás siempre alegre, y la intranquilidad y la angustia alivias con tu ventura; tú que brindas descanso y felicidad a la mente del hombre!
 
 El rey Ahmad fue el adorno de la casa de Lodi. Un mar cuyas aguas no eran sino las lágrimas vertidas por las viudas de sus enemigos muertos, y que se elevó hasta alcanzar fama universal.
 
@@ -387,10 +247,6 @@ Por cierto que en este mundo donde habitamos los mortales ninguna alegría puede
 
 Sin embargo, en segundo lugar y subordinados sólo a ella, se hallan la satisfacción y el placer producidos por la posesión de una mujer hermosa.
 
-9
-
-##### **_Prefacio_**
-
 Es sabido que los hombres se casan para gozar de la unión sexual con libertad, impulsados por el sortilegio del amor, pero también buscando su bienestar.
 
 Muchas veces ocurre que alcanzan esposas deseables y atractivas, pero en muchas ocasiones no saben cómo proporcionarles satisfacción plena ni disfrutar enteramente de sus encantos.
@@ -401,49 +257,36 @@ Necios y sin inteligencia es lo menos que puede decirse de ellos.
 
 Este libro ha sido escrito con el objeto de evitar que vidas y amores sean desperdiciados de manera semejante, y los beneficios que puedan derivarse de su estudio están expuestos en los versículos siguientes:
 
-_«Aquel que domina el arte del amor y vislumbra cuán complejo, cuán distinto, es el goce de la mujer, en el correr de los años, cuando sus pasiones se enfrían, vuelve a los brazos de su Creador, estudia asuntos religiosos y adquiere el conocimiento divino. De esta manera, se libra de transmigraciones ulteriores de su alma, y cuando el libro de su vida concluye, reposa con su amada plácidamente en el Svarga (Paraíso).»_
-
-10
-
-##### **_Prefacio_**
+> _«Aquel que domina el arte del amor y vislumbra cuán complejo, cuán distinto, es el goce de la mujer, en el correr de los años, cuando sus pasiones se enfrían, vuelve a los brazos de su Creador, estudia asuntos religiosos y adquiere el conocimiento divino. De esta manera, se libra de transmigraciones ulteriores de su alma, y cuando el libro de su vida concluye, reposa con su amada plácidamente en el Svarga (Paraíso).»_
 
 Todo aquel que lea este libro, si no lo sabe, lo sabrá: la mujer es un delicioso instrumento si se la toca con arte. Así, puede crear las más exquisitas armonías, ejecutar las más arduas variaciones y proporcionar los más divinos placeres.
 
-Finalmente, es necesario comprender que cada _shioja_ (estrofa) de esta obra tiene --de acuerdo con las enseñanzas del _Vedanta-_ un doble significado y puede ser interpretada de dos maneras: mística o amatoria.
+Finalmente, es necesario comprender que cada _shioja_ (estrofa) de esta obra tiene –de acuerdo con las enseñanzas del _Vedanta-_ un doble significado y puede ser interpretada de dos maneras: mística o amatoria.
 
-_La recuerdo con su caminar_
+> _La recuerdo con su caminar_  
+> _de cisne real, y en sus ojos el brillo de las gacelas. Y su cuerpo leve consumiéndose en mi fuego…_
+> _ella es la bella copa donde bebo mi gozo._
 
-_de cisne real, y en sus ojos el brillo de las gacelas. Y su cuerpo leve consumiéndose en mi fuego_ ... _ella es la bella copa donde bebo mi gozo._
+## _Capítulo 1_
 
-11
-
-## **_Capítulo 1_**
-
-_Si al terminar el día viniese una vez más mi amada, ofreciéndome los desbordantes cántaros de néctar de sus senos_ ...
-
-_renunciaría a las riquezas de un reino y a la eternidad del paraíso._
+> _Si al terminar el día viniese una vez más mi amada, ofreciéndome los desbordantes cántaros de néctar de sus senos..._  
+> _renunciaría a las riquezas de un reino y a la eternidad del paraíso._
 
 ### Acerca de las cuatro clases de mujeres
 
 Según su temperamento, las mujeres pueden dividirse en cuatro clases:
 
-- _•Padmini •Shankhini_
-
-- _•Chitrini •Hastini_
+- _Padmini_
+- _Shankhini_
+- _Chitrini_
+- _Hastini_
 
 Cada clase de mujer se corresponde con las cuatro fases del _moksha,_ o liberación de la transmigración ulterior.
 
 - La primera: _sayujyata_ o absorción en la esencia de la divinidad.
-
 - La segunda: _samipyata_ o proximidad a la divinidad, y refiere al ser nacido en presencia divina.
-
 - La tercera: _sarupata_ o semejanza a la divinidad en miembros y cuerpo material.
-
 - La cuarta: _salokata_ o refugio en el paraíso de algún dios particular.
-
-12
-
-##### **_Ananga Ranga_**
 
 Así la mujer se nombra: _nari_ , que al interpretarse quiere decir _noari_ o enemigo. Del mismo modo lo es el _moksha_ o absorción, puesto que todos lo aman y él ama a todos.
 
@@ -453,19 +296,13 @@ _Shankhini es sauoata-moksha;_ es decir, el hombre que toma la forma de Vishnú 
 
 La _hastini_ es _salokata-moksha,_ paraíso de Vishnú para aquellos de la cuarta clase que tienen atributos y propiedades, figura y propiedades, figura y forma, manos y pies.
 
-## Características personales de las cuatro clases
+### Características personales de las cuatro clases
 
 Conocidas estas palabras, aprenderemos a distinguir entre las cuatro clases de mujeres.
 
-#### **_Así es la mujer loto o padmini:_**
+#### _Así es la mujer loto o padmini:_
 
-Su rostro es delicioso como la luna llena. El cuerpo, armonioso, es suave como el _shira_ (árbol de polen perfumado) y su piel, tersa, tierna y clara como el loto amarillo, nunca de color
-
-13
-
-##### **_Ananga Ranga_**
-
-oscuro. Aunque en la ebullición y la luz carmesí de su juventud se parece al estallar de la nube.
+Su rostro es delicioso como la luna llena. El cuerpo, armonioso, es suave como el _shira_ (árbol de polen perfumado) y su piel, tersa, tierna y clara como el loto amarillo, nunca de color oscuro. Aunque en la ebullición y la luz carmesí de su juventud se parece al estallar de la nube.
 
 Sus ojos, brillantes y expresivos, se asemejan a los del cervatillo, bien dibujados y con extremos rojizos.
 
@@ -479,13 +316,9 @@ Le embelesan las ropas blancas, las alhajas y los vestidos delicados.
 
 Come muy poco y suele tener un sueño liviano. Siendo tan respetable y religiosa como inteligente y amable, está siempre ansiosa por adorar a los dioses y disfrutar de la conversación de los brahmanes.
 
-#### **_Así es la chitrini o mujer arte:_**
+#### _Así es la chitrini o mujer arte:_
 
 La _chitrini,_ o mujer arte, no es baja ni alta. Su cabello es negro como el azabache, su cuello, fino y redondo como una concha marina.
-
-14
-
-##### **_Ananga Ranga_**
 
 Su cuerpo es grácil y su cintura flexible como la de una leona, sus senos bien llenos son duros como sus muslos, bien contorneados; sus caderas son generosas.
 
@@ -499,7 +332,7 @@ Le encantan el placer y la amenidad. Se deleita cantando y también con toda sue
 
 Sus deseos carnales no son intensos; ama a los animales domésticos, preferentemente loros y otras aves.
 
-#### **_Así es la mujer concha o shankhini:_**
+#### _Así es la mujer concha o shankhini:_
 
 Su temperamento es irritable y su piel siempre está caliente y tostada, o azafranada.
 
@@ -509,15 +342,9 @@ Su cabeza, sus manos y sus pies son cortos y delgados, y mira de costado.
 
 Su _yoni_ , siempre húmedo de _kama-salila,_ tiene un marcado sabor salado; además, está cubierto de un vello espeso.
 
-Su voz ronca y ruda es del tipo bajo o contralto; su caminar es precipitado, come
+Su voz ronca y ruda es del tipo bajo o contralto; su caminar es precipitado, come moderadamente y se complace usando ropas delicadas, y flores y adornos de color rojo. Es proclive a arranques de pasión amorosa que incendian su cerebro y enturbian Sus ideas; en el momento de gozar suele clavar sus uñas en las carnes del esposo. Es de corazón pétreo, algo insolente y viciosa, irascible, áspera y dada a los reproches.
 
-15
-
-##### **_Ananga Ranga_**
-
-moderadamente y se complace usando ropas delicadas, y flores y adornos de color rojo. Es proclive a arranques de pasión amorosa que incendian su cerebro y enturbian Sus ideas; en el momento de gozar suele clavar sus uñas en las carnes del esposo. Es de corazón pétreo, algo insolente y viciosa, irascible, áspera y dada a los reproches.
-
-#### **_Así es la mujer elefanta o hastini:_**
+#### _Así es la mujer elefanta o hastini:_
 
 De baja estatura, cuerpo tosco y fornido, tiene su piel, cuando es clara, absolutamente pálida. Su cabello, bermejo y sus labios grandes. Suele tener el cuello siempre inclinado y su voz sale áspera y gutural, algo desagradable.
 
@@ -529,25 +356,39 @@ En el arte del amor es lenta y sólo se satisface tras una unión prolongada. De
 
 Come con exageración, es algo desvergonzada y colérica.
 
-16
-
-##### **_Ananga Ranga_**
-
 ### Los días del placer
 
 Estas cuatro clases de mujeres expuestas tienen días especiales en los que ofrecen una predisposición al disfrute de la unión amorosa.
 
 Es necesario tener en cuenta puntualmente esos períodos y recordar siempre que en los días no señalados, la unión sexual, por intensa y frecuente que sea, no podrá satisfacer la pasión amorosa. Por lo tanto, se debe asimilarlos y dominarlos.
 
-**Satisfacen a la** _padmini: Pratipada_ (1º día) _Dvitiya_ (2º día) _Chaturthi_ (4º día) _Panchami_ (5º día) **Satisfacen a la** _chitrini: Shashati_ (6º día) _Ashtami_ (8º día) _Dashami_ (10º día) _Dwadashi_ (12º día) **Satisfacen a la** _shankhini: Tritiya_ (3º día) _Saptami_ (7º día) _Ekadashi_ (11º día) _Trayodasi_ (13º día) **Satisfacen a la** _hastini:_
+**Satisfacen a la** _padmini_:
 
-_Navami_ (9 º día) _Chaturdashi_ (14º día) _Purnima_ (luna llena)
+- _Pratipada_ (1º día)
+- _Dvitiya_ (2º día)
+- _Chaturthi_ (4º día)
+- _Panchami_ (5º día)
 
-17
+**Satisfacen a la** _chitrini_:
 
-##### **_Ananga Ranga_**
+- _Shashati_ (6º día)
+- _Ashtami_ (8º día)
+- _Dashami_ (10º día)
+- _Dwadashi_ (12º día)
 
-_Armavasya_ (luna nueva)
+**Satisfacen a la** _shankhini_:
+
+- _Tritiya_ (3º día)
+- _Saptami_ (7º día)
+- _Ekadashi_ (11º día)
+- _Trayodasi_ (13º día)
+
+**Satisfacen a la** _hastini_:
+
+- _Navami_ (9 º día)
+- _Chaturdashi_ (14º día)
+- _Purnima_ (luna llena)
+- _Armavasya_ (luna nueva)
 
 ### Las horas que proporcionan el mayor placer
 
@@ -563,51 +404,27 @@ La _hastini_ , particularmente vulgar, ignora todas estas delicadas distinciones
 
 Los hindúes dividían el día y la noche en ocho vigilias: los _pahar._ Las cuatro clases de mujeres obtienen el mayor placer según estos períodos:
 
-##### **_Codificación de las horas nocturnas:_**
+#### _Codificación de las horas nocturnas:_
 
-• 1º _pahar_ (de las 6 de la tarde a las 9 de la noche) la _chitrini_ y la _hastini._
+- 1º _pahar_ (de las 6 de la tarde a las 9 de la noche) la _chitrini_ y la _hastini._
+- 2º _pahar_ (de las 9 de la noche a las 12 de la noche) la _hastini._
+- 3º _pahar_ (de las 12 de la noche a las 3 de la madrugada) la _shankhini_ y la _hastini._
+- 4º _pahar_ (de las 3 de la madrugada a las 6 de la mañana) la _padmini_ y la _hastini._
 
-- 2º _pahar_ (de las 9 de la noche a las 12 de la noche)
+#### _Codificación de las horas diurnas:_
 
-18
-
-##### **_Ananga Ranga_**
-
-la _hastini._
-
-- 3º _pahar_
-
-(de las 12 de la noche a las 3 de la madrugada) la _shankhini_ y la _hastini._
-
-- 4º _pahar_
-
-(de las 3 de la madrugada a las 6 de la mañana)
-
-la _padmini_ y la _hastini._
-
-##### **_Codificación de las horas diurnas:_**
-
-• 1º _pahar_ (de las 6 de la mañana a las 9 de la mañana) la _padmini._
-
-• 2º _pahar_ (de las 9 de la mañana a las 12 del mediodía) la _padmini._
-
-• 3º _pahar_ (de las 12 del mediodía a las 3 de la tarde) la _padmini_ y la _hastini._
-
-• 4º _pahar_ (de las 3 de la tarde a las 6 de la tarde) la _padmini_ y la _hastini._
+- 1º _pahar_ (de las 6 de la mañana a las 9 de la mañana) la _padmini._
+- 2º _pahar_ (de las 9 de la mañana a las 12 del mediodía) la _padmini._
+- 3º _pahar_ (de las 12 del mediodía a las 3 de la tarde) la _padmini_ y la _hastini._
+- 4º _pahar_ (de las 3 de la tarde a las 6 de la tarde) la _padmini_ y la _hastini._
 
 Según estos datos, se puede comprobar que tanto la _chitrini_ como la _shankhini_ no obtienen satisfacción durante la unión diurna.
 
 Así, el archipoeta Kalyana Malla instruye al Rajá Kadhan en las cuatro clases de mujeres, las características particulares de sus almas y cuerpos, y sus diferentes momentos de placer, tanto sea por la luna como por la hora del día o de la noche.
 
-19
+> _Recuerdo cuando al levantarse, corrí su vestido y en sus muslos descubrí la marca de los arañazos que ella se había preferido. Tapó con sus finas manos esas marcas, y se alejó sonrojada y turbada._
 
-##### **_Ananga Ranga_**
-
-_Recuerdo cuando al levantarse, corrí su vestido y en sus muslos descubrí la marca de los arañazos que ella se había preferido. Tapó con sus finas manos esas marcas, y se alejó sonrojada y turbada._
-
-20
-
-## **_Capítulo 2_**
+## _Capítulo 2_
 
 _Si pudiera extasiarme ante su cuerpo exquisito y consumirme en la pasión, en el brillo de sus ojos, me ceñiría fuertemente a su cuerpo y me perdería en su mar de abrazos infinitos._
 
@@ -617,13 +434,7 @@ La pasión se excita a través de distintas partes del cuerpo femenino, y sólo 
 
 Por otra parte, es imprescindible seguir las indicaciones en cuanto a los respectivos días de la quincena lunar; es la manera de llegar a la plena satisfacción.
 
-De otra manera, ambos sentirían la tentación de buscar la satisfacción de su lujuria en brazos extraños y el adulterio los arrastraría a discusiones violentas, a asesinatos y a otros graves actos delictivos, que sólo podrán evitarse
-
-21
-
-##### **_Ananga Ranga_**
-
-a través del estudio y la adecuada aplicación de los _chandrakala._
+De otra manera, ambos sentirían la tentación de buscar la satisfacción de su lujuria en brazos extraños y el adulterio los arrastraría a discusiones violentas, a asesinatos y a otros graves actos delictivos, que sólo podrán evitarse a través del estudio y la adecuada aplicación de los _chandrakala._
 
 En la mujer, durante el _shuklapakaha, la_ sensibilidad reside en el lado derecho los primeros quince días del mes lunar, desde la luna nueva a la luna llena, incluido el decimoquinto día.
 
@@ -633,31 +444,15 @@ El cambio se opera a través de la acción de la luz y la oscuridad. De otro mod
 
 ##### **_Shuklapakaha o quincena luminosa_ (el lado derecho)**
 
----
-
-Día 15 Se acarician cabellos y cabeza con la`<br>`{=html}punta de los dedos.
-
----
-
-Día 14 Se besa y acaricia el ojo derecho.
-
-Día 13 Se besa y mordisquea suavemente el`<br>`{=html}labio inferior.
-
-Día 12 Se besa y luego se muerde dulcemente`<br>`{=html}la mejilla derecha.
-
-Día 11 Se hienden ligeramente las uñas en el`<br>`{=html}cuello hasta dejar una marca.
-
-Día 10 Se hienden ligeramente las uñas en el`<br>`{=html}costado derecho del cuerpo hasta dejar`<br>`{=html}una marca.
-
-Día 9 Con ambas manos se amasan`<br>`{=html}ligeramente los senos.
-
-Día 8 Con las manos, se golpea suavemente
-
----
-
-22
-
-##### **_Ananga Ranga_**
+| Día 15 | Se acarician cabellos y cabeza con la<br>punta de los dedos.                                  |
+| ------ | --------------------------------------------------------------------------------------------- |
+| Día 14 | Se besa y acaricia el ojo derecho.                                                            |
+| Día 13 | Se besa y mordisquea suavemente el<br>labio inferior.                                         |
+| Día 12 | Se besa y luego se muerde dulcemente<br>la mejilla derecha.                                   |
+| Día 11 | Se hienden ligeramente las uñas en el<br>cuello hasta dejar una marca.                        |
+| Día 10 | Se hienden ligeramente las uñas en el<br>costado derecho del cuerpo hasta dejar<br>una marca. |
+| Día 9  | Con ambas manos se amasan<br>ligeramente los senos.                                           |
+| Día 8  | Con las manos, se golpea suavemente                                                           |
 
 - el pecho.
 
@@ -686,10 +481,7 @@ Día 8 Con las manos, se golpea suavemente
 - Día 6 Se hienden ligeramente las uñas en el costado izquierdo del cuerpo hasta dejar una marca.
 
 - Día 7 Con ambas manos se amasan ligeramente los senos.
-
-23
-
-**_Ananga Ranga_** Día 8 Con las manos, se golpea suavemente el pecho. Día 9 Con la palma abierta se pega dulcemente sobre el ombligo. Día 10 Se oprimen y golpean con el puño las nalgas. Día 11 Se apoya y fricciona la _linga so_ bre el _yoni._ Día 12 Se oprimen y golpean con suavidad ambas rodillas. Día 13 Se oprimen y golpean con suavidad ambas pantorrillas. Día 14 Se aprietan con suavidad ambos pies. Día 15 Se oprime firmemente el dedo gordo del pie.
+  Día 8 Con las manos, se golpea suavemente el pecho. Día 9 Con la palma abierta se pega dulcemente sobre el ombligo. Día 10 Se oprimen y golpean con el puño las nalgas. Día 11 Se apoya y fricciona la _linga so_ bre el _yoni._ Día 12 Se oprimen y golpean con suavidad ambas rodillas. Día 13 Se oprimen y golpean con suavidad ambas pantorrillas. Día 14 Se aprietan con suavidad ambos pies. Día 15 Se oprime firmemente el dedo gordo del pie.
 
 A continuación, conocidas ya las generalidades, el archipoeta Kalyana Malla procede a describir en forma particular y dar detalles respecto de las cuatro clases de mujeres.
 
@@ -699,9 +491,7 @@ El esposo ha de continuar sus caricias hasta ver erizarse el vello del cuerpo de
 
 Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado totalmente satisfecha.
 
-24
-
-### **_Ananga Ranga Padmini (mujer loto):_**
+### _Padmini (mujer loto):_
 
 - Cuello (se lo sostiene con fuerza)
 
@@ -756,10 +546,6 @@ Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado tota
 - Muslos (se los oprime y rasguña)
 
 - Vientre (se aprieta y rasguña)
-
-25
-
-##### **_Ananga Ranga_**
 
 - _Yoni_ (se frota suavemente)
 
@@ -817,10 +603,6 @@ Esto le indicará que el orgasmo se ha producido y que su esposa ha quedado tota
 
 - Senos (morderlos hasta dejarles marcas)
 
-26
-
-##### **_Ananga Ranga_**
-
 - Espalda (se golpea con el puño)
 
 - Pecho (se lo oprime con firmeza)
@@ -871,13 +653,7 @@ Se reconoce al _shasha_ porque su _linga_ erecta no sobrepasa aproximadamente lo
 
 Es bajo y magro, pero bien proporcionado. Tiene manos, rodillas, pies, cintura y muslos pequeños, estos últimos más oscuros que el resto de la piel. Sus facciones son claras y correctas. Cara redonda, dientes cortos y menudos, cabello sedoso y ojos grandes y bien abiertos.
 
-Sereno en todos sus actos, hace el bien por amor a la virtud; trata de alcanzar fama. De
-
-28
-
-##### **_Ananga Ranga_**
-
-conducta humilde, come poco y es moderado en sus deseos carnales.
+Sereno en todos sus actos, hace el bien por amor a la virtud; trata de alcanzar fama. De conducta humilde, come poco y es moderado en sus deseos carnales.
 
 Su _kama-salila_ o semen es confiable.
 
@@ -896,10 +672,6 @@ Su mirada, penetrante e invariable, y su voz profunda conforman la imagen de un 
 Apasionado y competitivo, comilón, voluble y holgazán. Camina lentamente, colocando un pie delante del otro. Despreocupado por el contacto amoroso, sólo atiende al tema cuando se aproxima la eyaculación.
 
 Tiene su _kama-salila_ abundante y salado como el del macho cabrío.
-
-29
-
-##### **_Ananga Ranga_**
 
 #### **_Mujeres_**
 
@@ -921,10 +693,6 @@ Su voz suena como la del pájaro _kokila_ y al caminar, tiene el vaivén del ele
 
 Come moderadamente y es muy dada al placer amoroso. Afectuosa pero celosa, tiene la mente alerta cuando no está obnubilada por las pasiones.
 
-30
-
-##### **_Ananga Ranga_**
-
 Su _kama-salila_ huele como la dulce flor del loto.
 
 La _vadava_ o _ashvini_ tiene un _yoni_ nueve dedos de profundidad. Su cuerpo, delicado; sus brazos, rollizos; sus senos y caderas son amplios y carnosos; y su región cerca del ombligo, pronunciada, aunque sin tener el vientre protuberante.
@@ -938,10 +706,6 @@ Le cuesta llegar al orgasmo y su _kama-salila_ es perfumado como el loto.
 El _yoni_ de la _karini_ tiene doce dedos de profundidad.
 
 Poco inclinada al aseo, tiene senos grandes, nariz, orejas y cuello largos y gruesos y sus mejillas rellenas y dilatadas. Sus labios son finos y salidos, sus ojos violentos y amarillentos, su cara ancha y su cabello es tupido y negruzco. Sus pies, manos y brazos, gordos y cortos, y tiene los dientes grandes y agudos como los de un perro.
-
-31
-
-##### **_Ananga Ranga_**
 
 Ruidosa cuando come, su voz es dura y áspera. Come demasiado y cuando camina crujen sus articulaciones.
 
@@ -957,10 +721,6 @@ Por lo tanto, es necesario un estudio profundo para juzgar por la presencia o au
 
 Por eso advierten los estudiosos que las distinciones entre _padmini, chitrini, shankhini_ y _hastini,_ entre _shasha, vrishabha_ y _ashwa,_ y entre _mrigi (harini), vadava (ashvini)_ y _karini_ es raro encontrarlas en estado de pureza, y que es tarea de cada uno aprender a combinarlas de la manera adecuada.
 
-32
-
-##### **_Ananga Ranga_**
-
 #### **_La unión amorosa_**
 
 Tan pronto como la mujer comienza a experimentar placer, los ojos se entrecierran y se humedecen ligeramente. El cuerpo se enfría y la respiración, antes fuerte y agitada, deviene en sollozos y suspiros. Tras un tiempo de cierta rigidez, la parte inferior de los muslos se extiende débilmente. Se produce ahora un aumento y efusión de amor y afecto, con besos y gestos expresivos y, al final, parece como si fuera a desmayarse.
@@ -974,10 +734,6 @@ Entre éstas, hay cuatro condiciones imprescindibles; las otras cinco, en cambio
 - **_Samana:_** si las proporciones de los amantes son parecidas, hay satisfacción plena para ambos.
 
 - **_Uchha:_** un exceso de desproporción en la pareja dificulta la unión amorosa; por lo tanto, la mujer queda insatisfecha.
-
-33
-
-##### **_Ananga Ranga_**
 
 - **_Nichha_** (hueco o bajo): metafóricamente, señala que el hombre de tamaño deficiente es incapaz de brindar satisfacción a su amante.
 
@@ -1023,10 +779,6 @@ _Vrishabha_ (nueve dedos de largo)
 
 - _Madhayama_
 
-34
-
-##### **_Ananga Ranga_**
-
 _Vrishabha_ (nueve dedos de largo) _Mrigi_ (seis dedos de profundidad)
 
 _Kanistha_
@@ -1051,13 +803,7 @@ Considerando lo dicho, se puede inferir que la máxima felicidad estriba en la c
 
 En el _yoni_ hay tres pequeñísimas terminales nerviosas que son: la _sukshma_ (pequeña), _madhayama_ (mediana) o _adhikabala_ (grande). Según sus proporciones producen mayor o menor comezón y un cosquilleo agradable. De estas terminales brota el deseo carnal que se apacigua sólo mediante la unión.
 
-Por esta razón, una _linga_ pequeña no satisface a la mujer; por otra parte, un tamaño exagerado
-
-35
-
-##### **_Ananga Ranga_**
-
-tampoco excita la delicadeza de las partes y produce más daño que placer.
+Por esta razón, una _linga_ pequeña no satisface a la mujer; por otra parte, un tamaño exagerado tampoco excita la delicadeza de las partes y produce más daño que placer.
 
 Entonces la proporción del goce deriva de la adaptación exacta de la _linga,_ especialmente cuando el diámetro concuerda con la longitud.
 
@@ -1073,13 +819,7 @@ A su vez, el deseo carnal o _vega_ tiene tres grados. Éste resulta de la energ�
 
 Sirva de aclaración la siguiente comparación:
 
-Hay hombres que cuando tienen hambre deben satisfacer este deseo de manera diferente. Algunos deben satisfacerlo en el acto, ya que, de no hacerlo, pueden perder la razón. Otros soportan esta necesidad durante un tiempo
-
-36
-
-##### **_Ananga Ranga_**
-
-moderado; y por último están aquellos que casi no experimentan malestar.
+Hay hombres que cuando tienen hambre deben satisfacer este deseo de manera diferente. Algunos deben satisfacerlo en el acto, ya que, de no hacerlo, pueden perder la razón. Otros soportan esta necesidad durante un tiempo moderado; y por último están aquellos que casi no experimentan malestar.
 
 Las _vegas,_ o capacidades de goce, son:
 
@@ -1098,10 +838,6 @@ Los _kriyas,_ actos o procesos que producen orgasmos, son tres:
 - _Madhyodaya:_ el orgasmo se produce en un lapso moderado.
 
 - _Ladhudaya-kriya,_ la excitación llega en poco tiempo.
-
-37
-
-##### **_Ananga Ranga_**
 
 Además, pueden describirse nueve formas de unión sexual según la extensión y profundidad, tanto de la _linga_ como del _yoni._
 
@@ -1131,10 +867,6 @@ _Taruni_ (de 16 a 30 años)
 
 Apta para la unión sexual. Se debe abordar con preferencia durante el día. La seducción es por medio de vestidos, perlas y adornos.
 
-39
-
-##### **_Ananga Ranga_**
-
 _Prandha_ (de 30 a 55 años)
 
 Apta para la unión sexual. Se puede realizar el acto tanto en la oscuridad como en la luz. En este caso las atenciones, la bondad y el amor son las herramientas de seducción.
@@ -1151,10 +883,6 @@ Las señales de _kapha_ (predisposición flemática o linfática) son: ojos, die
 
 Le sigue _pitta_ (o predisposición biliosa). Esta mujer tiene los senos y nalgas fláccidos y colgantes. Su piel, excesivamente blanca; sus ojos y sus uñas, rojos. Su transpiración suele ser agria y su _yoni_ ardiente y distendido.
 
-40
-
-##### **_Ananga Ranga_**
-
 Conocedora de las artes amatorias, sin embargo, no las soporta durante largo rato. Su temperamento es cambiante: pasa en un instante de la alegría a la cólera. Así es la mujer _pitta_ , o de temperamento bilioso.
 
 El temperamento borrascoso es el peor de todos. Reina en aquella mujer cuyo cuerpo es oscuro, tenso -y basto; sus ojos y uñas son negruzcos y su _yoni_ es flexible como la lengua de una vaca; de risa gruesa, suele tener la cabeza puesta en la comida. Es volátil y verborrágica y es virtualmente imposible de ser satisfecha en la unión sexual.
@@ -1165,13 +893,7 @@ La _davasatva-stri,_ que pertenece a los dioses, es alegre y vivaracha, pura y l
 
 Inteligente, generosa y trabajadora, tiene una palabra dulce y benévola; además, disfruta de las buenas obras. Su mente es tan sana como su cuerpo y sus amistades nunca se disgustan o cansan de ella.
 
-De hermosa figura, ideas pacientes y dada a la pureza, la _gandharvasatva-stri_ toma su nombre de los _gandharvas_ o trovadores celestiales. Se siente atraída por los perfumes, las sustancias fragantes y las flores. Ama el canto y la música, los vestidos llamativos y los adornos; también el
-
-41
-
-##### **_Ananga Ranga_**
-
-deporte y los juegos amorosos. Disfruta esencialmente del _vilasa,_ una de las clases de acciones femeninas indicativas de la pasión amorosa.
+De hermosa figura, ideas pacientes y dada a la pureza, la _gandharvasatva-stri_ toma su nombre de los _gandharvas_ o trovadores celestiales. Se siente atraída por los perfumes, las sustancias fragantes y las flores. Ama el canto y la música, los vestidos llamativos y los adornos; también el deporte y los juegos amorosos. Disfruta esencialmente del _vilasa,_ una de las clases de acciones femeninas indicativas de la pasión amorosa.
 
 La _yakshasatva-stri_ que toma su nombre de la semidiosa que preside los jardines y tesoros de _Kuvera,_ tiene senos generosos como la flor del champa blanco. Adora la carne y el licor, ignora la vergüenza y la decencia; apasionada e irascible, desea hacer el amor a todas horas.
 
@@ -1182,10 +904,6 @@ La _pisachasatva-stri_ es de cuerpo menudo) cálido y muy oscuro, con el ceño s
 La _nagasatva-stri_ también llamada mujer serpiente, está siempre apurada y confusa, y sus ojos parecen adormecidos. Se despereza y suspira todo el tiempo. Suele ser olvidadiza y la asaltan las dudas y las sospechas.
 
 La _kakasatva-stri,_ que remite a algunas de las características del cuervo, mueve los ojos como si la afectara un dolor. Sólo piensa en comer. Es boba, algo infeliz y desatinada; y arruina cuanto toca.
-
-42
-
-##### **_Ananga Ranga_**
 
 La _vanarastva-stri,_ que se relaciona con las características del asno, es desprolija, no le gusta bañarse ni lavarse y usa sus ropas desaliñadas. Es incapaz de dar una respuesta directa y habla sin razón, porque tiene la mente torcida. Resulta desagradable para todos.
 
@@ -1200,10 +918,6 @@ Una mujer que come mucho más que un hombre, es cuatro veces más atrevida y mal
 El hombre que conoce detecta a una mujer ansiosa por estas señales:
 
 Peina y alisa permanentemente su cabellera para que luzca mejor.
-
-43
-
-##### **_Ananga Ranga_**
 
 - Llama la atención cómo rasca su cabeza.
 
@@ -1233,10 +947,6 @@ Peina y alisa permanentemente su cabellera para que luzca mejor.
 
 También hay señales de indiferencia. Las ocho que pueden observarse en una mujer son:
 
-44
-
-##### **_Ananga Ranga_**
-
 - Cuando el deseo carnal comienza a atenuarse, la esposa deja de mirar de frente al esposo.
 
 - Cuando se le pregunta algo, contesta de mala gana.
@@ -1264,10 +974,6 @@ La dilatada ausencia de su marido.
 Convivir con hombres mezquinos y lujuriosos.
 
 Precariedad en la buena alimentación y el vestido.
-
-45
-
-##### **_Ananga Ranga_**
 
 - Sufre trastorno mental, preocupación e infelicidad.
 
@@ -1305,10 +1011,6 @@ Hay quince causas que provocan la infelicidad de las mujeres. Éstas son:
 
 - Indolencia al escoger tiempo y lugar para el acto amoroso.
 
-46
-
-##### **_Ananga Ranga_**
-
 Son doce los períodos durante los cuales las mujeres sienten mayor deseo de hacer el amor y, a la vez, se satisfacen con mayor felicidad:
 
 - En el momento en que están cansadas de caminar y o por el ejercicio corporal.
@@ -1339,13 +1041,7 @@ En estas ocasiones las mujeres suelen ceder fácilmente ante los requerimientos 
 
 Existen cuatro clases de _triti,_ o vínculos amorosos entre hombres y mujeres:
 
-- _Naisargiki-triti:_ afecto natural por medio del cual esposo y esposa se unen entre sí como los
-
-47
-
-##### **_Ananga Ranga_**
-
-eslabones de una cadena de hierro. Es una amistad entre lo mejor de ambos sexos.
+- _Naisargiki-triti:_ afecto natural por medio del cual esposo y esposa se unen entre sí como los eslabones de una cadena de hierro. Es una amistad entre lo mejor de ambos sexos.
 
 _Vishaya-triti:_ cariño nacido en la mujer y alimentado por regalos tales como dulces y golosinas, flores, perfumes y preparados de sándalo, almizcle, azafrán, etc. Vinculan la glotonería con la sensualidad y lujuria.
 
@@ -1357,13 +1053,7 @@ Es importante destacar que como los deseos femeninos son más fríos que los mas
 
 Por esa razón, recién en la segunda unión sexual la pasión alcanza la plenitud, experimenta el orgasmo violentamente y queda enteramente satisfecha.
 
-Este estado es inverso en el hombre que acomete el primer acto ardiendo de deseo, se
-
-48
-
-##### **_Ananga Ranga_**
-
-enfría durante el segundo y emprende el tercero con languidez y desgano.
+Este estado es inverso en el hombre que acomete el primer acto ardiendo de deseo, se enfría durante el segundo y emprende el tercero con languidez y desgano.
 
 El amante experimentado nunca duda de que los deseos de la mujer, mientras es joven y fuerte, sean menos reales y urgentes que los del hombre.
 
@@ -1383,13 +1073,7 @@ En el _yoni_ existe una arteria llamada _spanda,_ que al ser excitada por la pre
 
 Ésta se encuentra en el interior y hacia el ombligo, junto a ciertas asperezas (espinas) que, cuando se las frota, son particularmente propensas a inducir el orgasmo.
 
-El _mandanachatra_ (clítoris) sobresale en la parte superior del _yoni,_ como una planta que brota en
-
-49
-
-##### **_Ananga Ranga_**
-
-el jardín, y se halla unido a la _madavahi_ (la arteria que permite que fluya el esperma).
+El _mandanachatra_ (clítoris) sobresale en la parte superior del _yoni,_ como una planta que brota en el jardín, y se halla unido a la _madavahi_ (la arteria que permite que fluya el esperma).
 
 Hay también una arteria llamada _purnachandra,_ que está llena de _kama-salila_ y a la que los sabios de la antigüedad atribuían el flujo menstrual.
 
@@ -1421,13 +1105,7 @@ En la Región del Medio habitan mujeres de uñas rojas, pero su cuerpo es aún m
 
 Excelente ama de casa, está habituada a las tareas domésticas de cualquier tipo; es muy dada a las prácticas religiosas.
 
-Tiene especial predisposición a los juegos amorosos, en los que es experta, pero siente gran
-
-51
-
-##### **_Ananga Ranga_**
-
-aversión por el uso de las uñas y de los dientes (arañar y morder).
+Tiene especial predisposición a los juegos amorosos, en los que es experta, pero siente gran aversión por el uso de las uñas y de los dientes (arañar y morder).
 
 La mujer _maru_ (Malwa) siente la necesidad de que la gocen todos los días y es el tipo ideal para aquellos hombres que disfrutan con una unión extremadamente larga.
 
@@ -1443,13 +1121,7 @@ Cuando ama, sus movimientos de placer son, con mucha frecuencia, continuados y v
 
 Siempre dispuesta a las caricias, puede alcanzar muy rápidamente el orgasmo con la introducción suave de la _linga,_ mediante caricias manuales o mordiéndole los labios.
 
-Tan fascinante es la mujer de Andhra-desha (Telangana) que hechiza a los visitantes en cuanto la ven. De voz melodioso y bello cuerpo, se divierte con chistes y es proclive a las conversaciones pícaras; carece por completo de
-
-52
-
-##### **_Ananga Ranga_**
-
-pudor y constituye uno de los tipos más interesantes del sexo femenino.
+Tan fascinante es la mujer de Andhra-desha (Telangana) que hechiza a los visitantes en cuanto la ven. De voz melodioso y bello cuerpo, se divierte con chistes y es proclive a las conversaciones pícaras; carece por completo de pudor y constituye uno de los tipos más interesantes del sexo femenino.
 
 Extremadamente versátil en el acto sexual, la mujer de Koshalarashtra-desha (audh) es propensa a las picazones y ardores en el _yoni._ Por ellos le agradan las uniones prolongadas, que sólo la satisfacen cuando la _linga_ tiene inusitado vigor.
 
@@ -1461,13 +1133,7 @@ Fatua y voluble, la mujer de Vanga (Bengala) y la de Gaura tiene el talle fino y
 
 Tan bella es la mujer de Utkala-desha (Orissa), que no bien la ven, los hombres se sienten atraídos por ella. Su voz suave y su delicado cuerpo, ligero y licencioso, no hace caso al recato ni al decoro en sus relaciones amorosas. Suele expresarse con violencia, inquietud y gran ardor.
 
-Disfruta en grado sumo al ensayar distintas posturas para experimentar nuevos goces, en especial cuando el amante se coloca debajo de la
-
-53
-
-##### **_Ananga Ranga_**
-
-amada y se satisface con algo tan sencillo como tocarle los senos con la punta de los dedos.
+Disfruta en grado sumo al ensayar distintas posturas para experimentar nuevos goces, en especial cuando el amante se coloca debajo de la amada y se satisface con algo tan sencillo como tocarle los senos con la punta de los dedos.
 
 En Kamarupa-desha (Assam occidental) la mujer tiene un cuerpo muy suave y la voz sumamente dulce. Hábil en las artes amatorias, despliega caricias que durante la unión sexual generan abundante _kama-salila._
 
@@ -1477,13 +1143,7 @@ Inteligente y reflexiva, la mujer de Gurjaradesha (Gujrat o Guzerat) muestra her
 
 En las regiones de Sindhu-desha (Sind), las de Avanti-desha (Punjab o Ujfn) y las de Balhikadesha (Bahawabpur), las mujeres tienen ojos vivaces que prodigan miradas torvas y amorosas; al ser frívolas, excitables y perversas, la violencia y el fuego de sus deseos resultan sumamente difíciles de calmar.
 
-En cambio, la mujer de Tirotpatna (o Tiraldesha, Tirhoot, en la India Central) posee ojos fragantes como las flores del lago, ama a su esposo tiernamente y su pasión se enciende con una simple mirada. Experta en juego sexual, disfruta de varios modos y posturas y, por su
-
-54
-
-##### **_Ananga Ranga_**
-
-delicadeza, no soporta las caricias groseras y bruscas.
+En cambio, la mujer de Tirotpatna (o Tiraldesha, Tirhoot, en la India Central) posee ojos fragantes como las flores del lago, ama a su esposo tiernamente y su pasión se enciende con una simple mirada. Experta en juego sexual, disfruta de varios modos y posturas y, por su delicadeza, no soporta las caricias groseras y bruscas.
 
 Aunque diestras en juegos amatorios, las mujeres de Pushpapura o Madra-desha (India noroccidental) y de Tailangadesha (India Meridional) son sobrias y sólo tienen relaciones con sus esposos. Su forma de pasión es la _chandra-vega_ y su ternura es excesiva. Comunica el deleite por medio del _nakhara,_ arañando, mordiendo y utilizando otras expresiones de ardor.
 
@@ -1494,10 +1154,6 @@ Les placen las ropas limpias y los vestidos distinguidos; sienten placer en la u
 Corpulentas y rollizas de cuerpo, las mujeres de Kamboj (Caboya) y Paundra-desha son altas, dadas al vicio y levemente malintencionadas. Carecen de refinamientos de los juegos previos y sólo les place **la** introducción de una _linga_ robusta.
 
 En las mujeres _mlenchchhas_ (razas que no hablan sánscrito), de Parvata, de Gandhara y de Kashmir (Cachemira), prevalece el mal sabor de su cuerpo. No conocen las delicadezas de los juegos amorosos, de los besos y de los brazos; son indiferentes ante el exceso en las relaciones y se satisfacen con caricias breves.
-
-55
-
-##### **_Ananga Ranga_**
 
 El estudio y la experiencia acerca de las mujeres de diversos países permiten al hombre sabio y prudente clasificar siguiendo sus características a los diferentes tipos de personalidad. También pueden discernir los _chandrakalas_ o toques y caricias preliminares que mejor le viene a cada raza; de esta manera, se hace querer y respetar por las mujeres.
 
@@ -1517,17 +1173,13 @@ A continuación, se brindará un detalle de las drogas, las prescripciones y las
 
 Los ignorantes proliferan. El torpe entendimiento y la poca inteligencia impiden a éstos penetrar en las delicadas sutilezas de las clases, los temperamentos, los _chandrakalas_ y otros estímulos; por eso, lo más aconsejable es que se coloquen bajo la guía de los expertos y los sabios.
 
-Es evidente que por ser la mujer de sangre más fría y menos excitable, su orgasmo nunca precede al del hombre, a menos que merced a
-
-57
-
-##### **_Ananga Ranga_**
-
-algún artificio le sea provocado; pero eso es infrecuente. Por lo tanto, sin estas consideraciones, la unión sexual será en vano, el empeño varonil baldío y la mujer no habrá experimentado placer alguno.
+Es evidente que por ser la mujer de sangre más fría y menos excitable, su orgasmo nunca precede al del hombre, a menos que merced a algún artificio le sea provocado; pero eso es infrecuente. Por lo tanto, sin estas consideraciones, la unión sexual será en vano, el empeño varonil baldío y la mujer no habrá experimentado placer alguno.
 
 De ahí resulta que uno de los principales deberes del hombre en esta vida es el de aprender a retardar su propia eyaculación tanto como le sea posible y, al mismo tiempo, acelerar el orgasmo de su compañera.
 
-#### **_Cómo acelerar el orgasmo_**`<sup>`{=html}**_1_**`</sup>`{=html}
+#### _Cómo acelerar el orgasmo_
+
+Nota [^1]
 
 ##### **• 1º** **_prayoga_**
 
@@ -1538,12 +1190,6 @@ En la unión sexual, se aplica a la _linga_ de modo que penetre en el _yoni_ lo 
 ##### **• 2º** **_prayoga_**
 
 Las semillas del _rui_ (cosmópida gigante, asclepias o _callotropis gigantea),_ molidas, pulverizadas y mezcladas con hojas de _dejai_ (jazmines grandes y
-
-> 1 Estas antiguas recetas no gozan de ninguna comprobación científica ni se pueden garantizar como inocuas. Incluidas en el texto original, simplemente se las consigna como parte de él, aunque el editor no se hace responsable por su eventual aplicación por parte de algún lector.
-
-58
-
-##### **_Ananga Ranga_**
 
 dobles) hasta que se empapen bien del jugo, se aplican de la misma forma que la anterior.
 
@@ -1565,13 +1211,7 @@ Mezclar en partes iguales _gur_ viejo (también llamado melaza o guarapo, depura
 
 ##### **• 7º** **_prayoga_**
 
-Se mezcla en partes iguales miel con _ghee_ (mantequilla derretida), bórax en bruto y jugo de
-
-59
-
-##### **_Ananga Ranga_**
-
-las hojas del árbol del _agasta (eschynomene grandiflora)._ Se aplica como se indicó.
+Se mezcla en partes iguales miel con _ghee_ (mantequilla derretida), bórax en bruto y jugo de las hojas del árbol del _agasta (eschynomene grandiflora)._ Se aplica como se indicó.
 
 #### **_Cómo retrasar la eyaculación_**
 
@@ -1591,10 +1231,6 @@ Se mezclan en partes iguales corteza de _sishu (dalbergia sissoo),_ alcanfor y a
 
 ##### **• 4º** **_prayoga_**
 
-60
-
-##### **_Ananga Ranga_**
-
 La raíz del _kang_ o pánico blanco _(italicum)_ y los filamentos de flores de loto, rociados con miel, surten iguales efectos.
 
 ##### **• 5º** **_prayoga_**
@@ -1613,10 +1249,6 @@ Se toman las semillas de la _anvalli_ anca, en el _ushyanakshatra;_ luego se suj
 
 La semilla de la _tal-makhana,_ rociada con la savia del _banyan (ficus indica)_ y mezclada con las semillas del _karanj (galedupa arborea),_ se coloca en la boca. En muy poco instantes se nota su influencia.
 
-61
-
-##### **_Ananga Ranga_**
-
 #### **_Excitar el deseo sexual_**
 
 Las _vajikarana_ (o excitación del deseo sexual) fueron descubiertas por los _Acharyas_ de la Antigüedad. Su propósito es restaurar la fuerza y el vigor físico.
@@ -1633,13 +1265,7 @@ Se expone al sol hasta que se seque la savia de la corteza del _anvalli_ (nuez a
 
 ##### **• 3º** **_vajikarana_**
 
-Se remojan los granos de la _urid (phaseolus radiata)_ en leche y azúcar, y se exponen durante tres días
-
-62
-
-##### **_Ananga Ranga_**
-
-al sol. Se pulverizan y se hace una torta que se fríe con manteca. Como alimento en las mañanas, aumenta el vigor y permite disfrutar de cien mujeres.
+Se remojan los granos de la _urid (phaseolus radiata)_ en leche y azúcar, y se exponen durante tres días al sol. Se pulverizan y se hace una torta que se fríe con manteca. Como alimento en las mañanas, aumenta el vigor y permite disfrutar de cien mujeres.
 
 ##### **• 4º** **_vajikarana_**
 
@@ -1655,13 +1281,7 @@ El polvo del _kuili_ (picazón de vaca o _dolichos pruriens)_ del _kanta-gokhry 
 
 ##### **• 7º** **_vajikarana_**
 
-Mézclense bien partes iguales del jugo del _kantesevati_ (rosa gandulijera), extraído de las hojas, y mantequilla darificada. Se hierve con tres partes
-
-63
-
-##### **_Ananga Ranga_**
-
-de leche, azúcar y miel. Tomado con asiduidad, ofrece una gran fortaleza de espaldas.
+Mézclense bien partes iguales del jugo del _kantesevati_ (rosa gandulijera), extraído de las hojas, y mantequilla darificada. Se hierve con tres partes de leche, azúcar y miel. Tomado con asiduidad, ofrece una gran fortaleza de espaldas.
 
 ##### **• 8º** **_vajikarana_**
 
@@ -1677,10 +1297,6 @@ Macerar partes iguales de _chikana (hedysarum lagopodioides), kosht (costus spec
 
 ##### **• 2º** **_prayoga_**
 
-64
-
-##### **_Ananga Ranga_**
-
 _Rakta-bol_ en polvo (mirra), _manashil_ (sulfuro rojo de arsénico), _arabicus costos, karvi-dorki_ y bórax, en partes iguales, se trabajan con aceite de sésamo oriental. Con él se unge el miembro y al instante se producirá la erección deseada.
 
 ##### **• 3º** **_prayoga_**
@@ -1693,13 +1309,7 @@ Se toman nueces de marcar _(semicarpus anacardium),_ sal negra y hojas de flor d
 
 ##### **• 5º** **_prayoga_**
 
-Corteza de _ladra, hirakas_ (vitriolo verde o sulfato de hierro), _gajapimpili (photos occialis) y chikaana (heysarum lagopodiodes)_ se mezclan con aceite de
-
-65
-
-##### **_Ananga Ranga_**
-
-sésamo. Se aplica a la _linga_ , que aumenta de tamaño y volumen. En la mujer se obtiene el mismo efecto en los labios mayores y menores.
+Corteza de _ladra, hirakas_ (vitriolo verde o sulfato de hierro), _gajapimpili (photos occialis) y chikaana (heysarum lagopodiodes)_ se mezclan con aceite de sésamo. Se aplica a la _linga_ , que aumenta de tamaño y volumen. En la mujer se obtiene el mismo efecto en los labios mayores y menores.
 
 ##### **• 6º** **_prayoga_**
 
@@ -1716,10 +1326,6 @@ Con los años, y especialmente después de los partos, las mujeres experimentan 
 Macerar el tallo y la flor del loto en leche.
 
 Con esta masa se forman bolitas que se colocan dentro del _yoni._ Con ello se consigue que hasta una mujer de cincuenta años parezca virgen.
-
-66
-
-##### **_Ananga Ranga_**
 
 ##### **• 2º** **_prayoga_**
 
@@ -1741,10 +1347,6 @@ La mezcla de semillas del _karu-bhonpali_ (pompión amargo o calabaza) y la cort
 
 Una receta para usar diariamente: maceración de partes iguales de capullos de _askhand, chikana, onva,_ celodario, loto azul y vala o _khaskhas_ -la hierba cuyas raíces se utilizan como encajes-.
 
-67
-
-##### **_Ananga Ranga_**
-
 Con ella se logra la contracción o estrechez deseada.
 
 ##### **• 7º** **_prayoga_**
@@ -1761,13 +1363,7 @@ De la ebullición de la corteza del árbol de _moh (oassia latifolia)_ se obtien
 
 - Diluir óxido de plomo pulverizado en aceite amargo. Se expone al sol durante siete días y se aplica. En pocos días, desaparece todo el vello indeseable.
 
-- Dejar al sol durante siete días el polvo de una concha marina diluida en jugo de plátano _(musa paradisiaco y sapientum);_ se mezcla con
-
-68
-
-##### **_Ananga Ranga_**
-
-un poco de _harital_ (sulfuro de arsénico) y se aplica al _yoni._ Desaparecerá todo el vello.
+- Dejar al sol durante siete días el polvo de una concha marina diluida en jugo de plátano _(musa paradisiaco y sapientum);_ se mezcla con un poco de _harital_ (sulfuro de arsénico) y se aplica al _yoni._ Desaparecerá todo el vello.
 
 Empapar el _harital_ y la madera del _palasha (bucea frondosa)_ en el jugo del árbol del banano y luego se aplican a las partes pilosas: no volverá a crecer jamás vello alguno.
 
@@ -1781,13 +1377,7 @@ Si la menstruación o flujo mensual se suspende de modo violento, por accidente 
 
 La aparición irregular o una exagerada secreción del flujo también produce trastornos, por lo que se puede apelar a los siguientes remedios:
 
-- La mujer debe tomar partes iguales de una bebida a base de agua donde se sumergen _hidra-dadal_ (corteza del mirobálano amarillo), corteza de _nim_ amarga y _anwalkathi_
-
-69
-
-##### **_Ananga Ranga_**
-
-(mirobálanos secos). Debe beberlo durante seis días seguidos, con lo que conseguirá el efecto deseado.
+- La mujer debe tomar partes iguales de una bebida a base de agua donde se sumergen _hidra-dadal_ (corteza del mirobálano amarillo), corteza de _nim_ amarga y _anwalkathi_ (mirobálanos secos). Debe beberlo durante seis días seguidos, con lo que conseguirá el efecto deseado.
 
 También es muy eficaz tomar, en partes iguales, jugo de la fruta _kapiya_ (manzana elefante) y de la _chiva_ (mabú pequeña) mezcladas con miel; esta receta es realmente eficaz.
 
@@ -1801,10 +1391,6 @@ Para concebir y quedar encinta, estas recetas resultan muy valiosas. Pero primer
 
 - Al cuarto día la mujer deberá tomar un cocimiento de _askhand (physalis flexuosa), gulvel (cocculus cordifolius)_ y resina _laghu-ral._
 
-70
-
-##### **_Ananga Ranga_**
-
 - Ateniéndose también a la dieta de la leche, la mujer ha de tomar con miel la raíz del _jatwand_ (flor de zapato) cortada por su esposo durante el _Pushya Nakshtra._
 
 - También se consigue quedar preñada tomando durante tres días después de la menstruación la raíz del _mahalug_ (limón), hervida en leche durante mucho rato y después untada en mantequilla.
@@ -1816,10 +1402,6 @@ También efectiva es la receta de una bebida hecha con partes iguales de jengibr
 #### **_Prevenciones contra el aborto_**
 
 La mujer embarazada debe protegerse contra los abortos y otros percances. Las siguientes recetas son muy efectivas para la futura madre:
-
-71
-
-##### **_Ananga Ranga_**
 
 - Es muy importante que la mujer tome leche de cabra mezclada con la arcilla fina que adhiere a las manos del alfarero cuando está en plena labor. Esta infusión protege de toda lesión o accidentes.
 
@@ -1835,10 +1417,6 @@ Los siguientes preparados aseguran un trabajo de parto sencillo y un alumbramien
 
 - También facilita este proceso beber agua fría extraída del pozo el día anterior, mezclada con hollín de la chimenea.
 
-72
-
-##### **_Ananga Ranga_**
-
 - También es posible arribar a un parto feliz si se trae a la casa donde vive la embarazada un _gunj_ o árbol _chanoti_ en sábado. Al domingo siguiente se le extrae la raíz que se ata, con una hebra de hilo negro, al cabello y la cintura de la mujer.
 
 - Un hombre sabio o místico recita sobre un recipiente de agua un mantra o salmo de encantamiento con cuyos misterios está familiarizado. Luego la mujer bebe esta agua.
@@ -1851,13 +1429,7 @@ A veces es necesario o aconsejable reducir o limitar el número de nacimientos e
 
 - Evitará el embarazo aquella mujer que durante tres días consecutivos, después del cuarto día o de la purificación, tome un brebaje preparado con la planta _kallambha (nauclea cadamba)_ y patas de mosca selvática.
 
-- Esterilidad definitiva. Se pulverizan veinte _mashas_ de nuez _(semicarpus anacardium)_ y se hierven con _dhun_ o con agua del lavado del arroz. La mujer debe tomar la mezcla durante siete días, en los que debe producirse el flujo
-
-73
-
-##### **_Ananga Ranga_**
-
-menstrual. Cuando éste concluya, quedará estéril de manera irreversible.
+- Esterilidad definitiva. Se pulverizan veinte _mashas_ de nuez _(semicarpus anacardium)_ y se hierven con _dhun_ o con agua del lavado del arroz. La mujer debe tomar la mezcla durante siete días, en los que debe producirse el flujo menstrual. Cuando éste concluya, quedará estéril de manera irreversible.
 
 #### **_Consejos para embellecer el cabello_**
 
@@ -1870,10 +1442,6 @@ Aplicar en el cabello semillas pulverizadas de _croto (tiglium)_ y de _sambhar_ 
 El polvo de las vainas de _gunj (abrus precatorius)_ mezclado con miel se unta en el cabello. Evitará su caída o terminará con la enfermedad conocida como _indra-luptaroga;_ es decir, calvicie de la coronilla.
 
 Se conseguirá que el cabello renazca si se aplica a la cabeza marfil quemado diluido en agua.
-
-74
-
-##### **_Ananga Ranga_**
 
 #### **_Consejos para teñir el cabello_**
 
@@ -1889,10 +1457,6 @@ Tomando diariamente, a lo largo de todo un mes, cuarenta _mashas_ de aceite del 
 
 Se deja en remojo el grano de sésamo con zumo de _vivarung (euphorbia pentagonia)._ Se deja al sol y luego se extrae el aceite. En cualquier zona del cuerpo a la que se aplique esa mezcla, el cabello allí quedará blanco y brillante como el cristal.
 
-75
-
-##### **_Ananga Ranga_**
-
 #### **_Consejo para renovar el cabello_**
 
 Con este propósito, aplicar sobre el pelo una maceración de zumo de _euforbia_ con _pentagonia_ secada al sol.
@@ -1907,13 +1471,7 @@ La espina pulverizada del árbol de algodón _(bombax heptaphyllum)_ mezclada co
 
 Con sal de roca, _shiras_ blancas (mostaza) _y vekhand_ humedecido todo con agua, se forma una pasta, con la que se frota la piel. Es frecuente la aparición de un tinte negro de la epidermis. Estas mezclas le devuelven su antiguo tono claro.
 
-Aplicar en el cuerpo, siete días seguidos, el ungüento formado por semillas de sésamo,
-
-76
-
-##### **_Ananga Ranga_**
-
-coriandro, _shajajire_ (comino) con leche, y las semillas de _shiras._ La piel tomará un aspecto claro y brillante como el de la luna.
+Aplicar en el cuerpo, siete días seguidos, el ungüento formado por semillas de sésamo, coriandro, _shajajire_ (comino) con leche, y las semillas de _shiras._ La piel tomará un aspecto claro y brillante como el de la luna.
 
 Tomar madera de sándalo, _tetvi_ (la madera amarilla de la _bignomia chelonoides),_ raíces bulbáceas de hierba olorosa y dul _ce (cyperus juncisolius), dicoriza, tumérico y zeodaria,_ y mezclar con zumo de bananos frescos o de tallos de esa planta. Se debe aplicar a las zonas negras durante siete días seguidos.
 
@@ -1926,10 +1484,6 @@ Aplicar sobre los senos brotes nuevos de _askhand, vekhand, kosht,_ semillas de 
 También da buenos resultados aplicar sobre los senos partes iguales de los gérmenes del _badri (zizyphus),_ raíz de _oleander_ , grasa de serpiente, _kankol (Myrtus pimienta)_ y el corazón de madera de _jahad,_ debidamente macerados y pulverizados. Los senos caídos se levantan y endurecen si se siguen estos pasos.
 
 Por muy fláccidos que estén al iniciarse el tratamiento dará resultado la aplicación a los senos de un cocimiento del zumo de la planta _narvel (narwelia zeylonica) con_ aceite de sésamo.
-
-77
-
-##### **_Ananga Ranga_**
 
 - No importa la edad de la mujer, los senos pronto se pondrán redondos, firmes y hermosos si se aplica el polvo de la cáscara de la granada hervido en aceite de mostaza.
 
@@ -1945,23 +1499,19 @@ Se puede inspirar amor en forma natural y espontánea. Para ello es necesario se
 
 Seis ungüentos muy útiles para quitar el olor agrio que desprende el cuerpo cuando hay mucho sol:
 
-78
-
-##### **_Ananga Ranga_**
-
-##### **1**`<sup>`{=html}**a**`</sup>`{=html} **receta**
+##### **1**<sup>**a**</sup> **receta**
 
 Hojas de _nim y lodhra,_ mezcladas con cáscara de granada y corteza del _salvani, di_ sueltas en agua de _harda._
 
-##### **2**`<sup>`{=html}**a**`</sup>`{=html} **receta**
+##### **2**<sup>**a**</sup> **receta**
 
 Para refrescar la axila: maceración de semillas de tamarindo y de _karanj (galedupa_ arbórea), con _roxb (pongamia glabra), grati (bonducilla),_ grey y la raíz del árbol del _bel,_ mezclada con agua de _harda._
 
-##### **3**`<sup>`{=html}**a**`</sup>`{=html} **receta**
+##### **3**<sup>**a**</sup> **receta**
 
 Usadas para el mismo fin, hojas de _nim_ , _ladhra,_ raíz de loto y corteza de granado bien macerados.
 
-##### **4**`<sup>`{=html}**a**`</sup>`{=html} **receta**
+##### **4**<sup>**a**</sup> **receta**
 
 Macerar madera de aloe y madera de sándalo en savia extraída de la corteza interior del _jujube._ Ideal para combatir el sudor.
 
@@ -1972,10 +1522,6 @@ Evita el sudor durante el acto amoroso una maceración en partes iguales de las 
 ##### **6ª receta**
 
 La maceración de filamentos de flores del árbol de _shiras (minosa shirisa)_ y de _lodhra_ forma un ungüento para aplicar en el cuerpo o para comer.
-
-79
-
-##### **_Ananga Ranga_**
 
 #### **_Recetas para después del baño_**
 
@@ -1999,10 +1545,6 @@ Macerando partes iguales de madera de sándalo, _eladana_ (semillas de cardamomo
 
 ##### **5ª receta**
 
-80
-
-##### **_Ananga Ranga_**
-
 Mezclar partes iguales de _kapura_ (alcan _for), kunkumager, lodhra, nagar-motha y kalavala_ (variedad oscura de la _andropogon muricatum_ ); luego batir. Se obtiene un maravilloso ungüento.
 
 ##### **6ª receta**
@@ -2020,10 +1562,6 @@ Mezcla de proporciones: una parte de _nagarmotha,_ dos de _costus, lebhan y kapu
 ##### **9ª receta**
 
 Primero, rallar y pulverizar _kasturi_ (mus _go), nagakeshar, vishesha-dhup, shilaras_ (alcanfor), nuez moscada y _lobhan;_ luego mezclar con el zumo de las hojas de betel. Perfume digno de un rajá y, por tanto, conveniente a todos los hombres.
-
-81
-
-##### **_Ananga Ranga_**
 
 #### **_Para tener la boca perfumada_**
 
@@ -2047,10 +1585,6 @@ Para convertir el aliento en perfume de _pandanus odoratissimus,_ se mezclan qui
 
 Después de comer, purificar el aliento con una mezcla de cenizas de la _apamargavriksh (acepranthes aspera)_ con zumo de hojas de mango. Se deja secar al sol, y tras las comidas, se toma reteniendo el líquido en la boca unos instantes.
 
-82
-
-##### **_Ananga Ranga_**
-
 _Allí estaba ella, mi amada, destilando de su cuerpo el licor erótico, y yo... bebiendo sorbo a sorbo en la copa de sus senos._
 
 83
@@ -2065,13 +1599,7 @@ El arte del que se sirve quien desea someter a un hombre o una mujer es el _vash
 
 ##### **• Primera fórmula**
 
-El santo y sabio Vatsyayana Muni dice que aquel que mezcle el polvo de la sensitiva, raíz de las flores del loto verde, la _bassia latifolia_ y la flor de la malta con su propio _kama-salila,_ y luego se lo aplique en forma de marca sectaria sobre la frente, dominará el mundo femenino, y toda
-
-84
-
-##### **_Ananga Ranga_**
-
-mujer que mire sus ojos no podrá evitar sentir por él deseos incontrolables.
+El santo y sabio Vatsyayana Muni dice que aquel que mezcle el polvo de la sensitiva, raíz de las flores del loto verde, la _bassia latifolia_ y la flor de la malta con su propio _kama-salila,_ y luego se lo aplique en forma de marca sectaria sobre la frente, dominará el mundo femenino, y toda mujer que mire sus ojos no podrá evitar sentir por él deseos incontrolables.
 
 ##### **• Segunda fórmula**
 
@@ -2086,10 +1614,6 @@ Finalmente, para dominar y subyugar a las mujeres, el hombre tomará partes igua
 Esta fórmula permite que una mujer atraiga a su esposo y conserve su amor.
 
 Humedecer _gorochana_ en la sangre menstrual y aplicarla con un _tilak_ . Mientras el emplasto persista allí y el hombre la contemple, el esposo estará por completo sujeto a su voluntad.
-
-85
-
-##### **_Ananga Ranga_**
 
 ### Para el amor y la amistad
 
@@ -2107,10 +1631,6 @@ Los ojos de quien se aplique el colirio formado por maná de _mambu, korphad (al
 
 Colocar un buen pedazo de _sede_ sumergida en el agua de la madera de la palma _tad_ y las raíces de _tagar._ Después se convierte ese telar en mechas, con aceite de _shiras,_ se la quema y con las cenizas, regar un cráneo humano que luego se coloca por encima de la antorcha. Todo esto proporcionará colirio para embellecer los ojos, a fin de que cuantos lo vean se conviertan en esclavos o servidores.
 
-86
-
-##### **_Ananga Ranga_**
-
 ##### **• Cuarto**
 
 También incremento decididamente el amor el colirio fabricado con _manshil, kala-umbar_ (frutos del _ficus glomerosa) y_ azúcar de bambú, cuando la _Pushyaasterism_ coincide con el domingo.
@@ -2127,13 +1647,7 @@ Se cubre con tela y arcilla y se guarda en un lugar solitario durante una semana
 
 ##### **• Otro sortilegio**
 
-El hombre, luego de gozar de su esposa, debe tomar un poco de su _kama-salila_ con la mano izquierda y aplicarlo en el pie izquierdo de la
-
-87
-
-##### **_Ananga Ranga_**
-
-cónyuge. Así, la tendrá totalmente rendida a su voluntad.
+El hombre, luego de gozar de su esposa, debe tomar un poco de su _kama-salila_ con la mano izquierda y aplicarlo en el pie izquierdo de la cónyuge. Así, la tendrá totalmente rendida a su voluntad.
 
 ##### **• Otro sortilegio**
 
@@ -2152,10 +1666,6 @@ Se maceran a conciencia la madera de sándalo, _kunku_ o polvo rojo preparado co
 Una vez reducida esta mezcla a polvo muy fino, se le agrega miel y se deja secar.
 
 Este incienso supremo, usado según las ceremonias prescritas, logra someter a todo el mundo.
-
-88
-
-##### **_Ananga Ranga_**
 
 ##### **• Otro incienso**
 
@@ -2177,10 +1687,6 @@ Este encantamiento se debe repetir al menos diez mil veces. Se las cuenta con un
 
 El sacrificio u ofrenda consiste en quemar las mismas clases de flores, contando una décima parte del número que se ha de repetir, esto es, un millar. Así, el _Mantradevata_ se someterá a nuestro poder.
 
-89
-
-##### **_Ananga Ranga_**
-
 Finalmente, se da una de las flores, que ha sido encantada recitando ese verso sobre ella, a la mujer cuyo nombre se ha pronunciado, con lo cual se consigue subyugarla.
 
 ##### **•** **_Chamunda mantra_**
@@ -2195,13 +1701,7 @@ Escribir este _Kameshvara-mantra_ sobre una hoja de betel, con la flor sumergida
 
 ##### **•** **_Mantra que conquista a la_ chitrini**
 
-Entre diez mil y un millón de veces se repite este mantra con _pravana_ hasta que la deidad que contiene quede dominada. Entonces, se humedece polvo de nuez moscada en el zumo extraído de la raíz del banano, se introduce en un
-
-90
-
-##### **_Ananga Ranga_**
-
-rollo de hojas de betel, repitiendo el _mantra_ en domingo y se da a comer a la _chitrini,_ la cual quedará subyugada al instante.
+Entre diez mil y un millón de veces se repite este mantra con _pravana_ hasta que la deidad que contiene quede dominada. Entonces, se humedece polvo de nuez moscada en el zumo extraído de la raíz del banano, se introduce en un rollo de hojas de betel, repitiendo el _mantra_ en domingo y se da a comer a la _chitrini,_ la cual quedará subyugada al instante.
 
 ##### **•** **_Mantra que conquista a la_ shankhini**
 
@@ -2221,7 +1721,7 @@ _entregándose toda._
 
 ## **_Capítulo 8_**
 
-_El balanceo de sus caderas y su mirada prometedora palpitan en mi recuerdo_ ... _también su belleza que me esperaba, lánguida y ansiosa, bajo los fulgores temblorosos de una lámpara._
+_El balanceo de sus caderas y su mirada prometedora palpitan en mi recuerdo_ … _también su belleza que me esperaba, lánguida y ansiosa, bajo los fulgores temblorosos de una lámpara._
 
 ## El matrimonio y otros temas
 
@@ -2233,15 +1733,7 @@ Debe provenir de una familia de rango equivalente a la del marido, de una casa v
 
 La mujer debe estar libre de vicios y disponer de buenas cualidades; su rostro debe ser bello y tener una figura agraciada; debe tener hermanos y parientes y tener experiencia en el _Kama Sutra,_ o Arte del Amor.
 
-Una muchacha en estas condiciones resulta
-
-muy adecuada para el matrimonio. Un hombre
-
-92
-
-##### **_Ananga Ranga_**
-
-sensible debe tomarla sin vacilar, mediante las ceremonias prescritas por la Ley Sagrada. Éste debe aprender las marcas por las cuales se distinguen la belleza y buen modelado del cuerpo, como las que aparecen a continuación.
+Una muchacha en estas condiciones resulta muy adecuada para el matrimonio. Un hombre sensible debe tomarla sin vacilar, mediante las ceremonias prescritas por la Ley Sagrada. Éste debe aprender las marcas por las cuales se distinguen la belleza y buen modelado del cuerpo, como las que aparecen a continuación.
 
 La doncella de piel suave y plácida como la luna, cuyos ojos brillan como los del cervatillo.
 
@@ -2252,10 +1744,6 @@ La doncella de piel suave y plácida como la luna, cuyos ojos brillan como los d
 - Aquella de pies y manos rosados, marcados con el disco o _chakra_ circular; y cuyo vientre es diminuto y con la región umbilical cóncava; cuya figura es sensual en la parte inferior a las caderas.
 
 - Aquella cuyos muslos, proporcionados y firmes como los plátanos, le permiten andar como el elefante, no muy despacio pero tampoco muy rápido; cuya voz dulce es como la del pájaro _kolila_ ; una doncella así, especialmente si tiene afabilidad y naturaleza indulgente, si duerme lo necesario y no es perezosa, debiera ser desposada inmediatamente por el hombre que se precie de inteligente.
-
-93
-
-##### **_Ananga Ranga_**
 
 - La que procede de una mala familia, por el contrario, o tiene un cuerpo demasiado pequeño o demasiado grande; cuya piel es dura y áspera; y cuyos cabellos desordenados se aprecian quebradizos y enredados.
 
@@ -2274,10 +1762,6 @@ El hombre, como el oro, también debe ser probado:
 Mediante la piedra de toque
 
 Cortándolo
-
-94
-
-##### **_Ananga Ranga_**
 
 - Quemándolo
 
@@ -2313,10 +1797,6 @@ El hombre debe reunir varias condiciones, algunas de las cuales son:
 
 - La novena: paciencia y tenacidad en las actividades cotidianas.
 
-95
-
-##### **_Ananga Ranga_**
-
 - La décima, el buen juicio para recoger y almacenar aquello que pudiese llegar a ser necesario.
 
 - La undécima es evitar que la riqueza y el éxito mundano puedan engendrar arrogancia y vanidad.
@@ -2345,10 +1825,6 @@ Aquel que combine estas veintiuna cualidades será, en verdad, un excelente homb
 
 **_Sobre las características de un yerno_**
 
-96
-
-##### **_Ananga Ranga_**
-
 Aquel que debe hacer la selección de un yerno debe fijarse en los aspectos que siguen:
 
 Tiene que provenir de una buena familia, que no ha conocido pecado ni pobreza; debe ser joven, de buen porte, rico, valiente y activo en los negocios; medido en el disfrute de sus bienes, de gestos amables, hábil para sus tareas; hacerle honor a su nombre, fuerte de espíritu, humanitario; que haga filantropía de acuerdo con sus medios.
@@ -2362,10 +1838,6 @@ Aquel hombre nacido en una mala familia; que es vicioso, licencioso, descreído;
 #### **_Sobre los buenos y malos augurios_**
 
 Los _Samadrika-laskshana_ o signos quirománticos, buenos o malos, que afectan la dicha son las siguientes.
-
-97
-
-##### **_Ananga Ranga_**
 
 En primer lugar, trataremos de la duración de la vida de un hombre y de una mujer y de las marcas que la señalan, teniendo en cuenta que sería en vano buscar los detalles de la existencia si la vida fuera corta.
 
@@ -2391,10 +1863,6 @@ Además, el hombre que tiene sobre el pulgar o sobre el pecho una marca que figu
 
 En general, si las líneas de la palma son escasas, el hombre es pobre y sin recursos; si tiene cuatro, es feliz; y si más de cuatro, está amenazado por grandes reveses de la fortuna. En fin, una palma muy rayada señala una naturaleza peleadora.
 
-98
-
-##### **_Ananga Ranga_**
-
 Si los ojos del hombre son rojos, el cuerpo elegante y de buena complexión como el buey, cuyo tronco es firme y cuyos brazos llegan a las rodillas, tendrá siempre riquezas y grandeza, opulencia, pericia y predominio.
 
 El hombre cuyos muslos son grandes adquirirá gran ventura; el de larga talla será bendecido en su familia y con numerosos hijos; el hombre cuyos pies son largos y las manos pulcras vivirá en fidelidad; y el hombre cuya cabeza es fuerte y alargada se elevará al rango de príncipe.
@@ -2407,13 +1875,7 @@ Aquella que tiene señales de mal presagio será o se quedará huérfana, viuda,
 
 Es necesario, pues, estudiar cuidadosamente sus características antes de desposarse con ella.
 
-Debe tenerse en cuenta que la mujer que lleva en la planta del pie izquierdo los signos de _chakra_ (disco particular de Vishnú), del _padma_ (loto), del _ohvaja_ (bandera), del _catra_ (parasol), del _svastika_ místico y el _kamala_ -líneas circulares que formen
-
-99
-
-##### **_Ananga Ranga_**
-
-un concha en la punta de los dedos- será una _Rani_ (reina).
+Debe tenerse en cuenta que la mujer que lleva en la planta del pie izquierdo los signos de _chakra_ (disco particular de Vishnú), del _padma_ (loto), del _ohvaja_ (bandera), del _catra_ (parasol), del _svastika_ místico y el _kamala_ -líneas circulares que formen un concha en la punta de los dedos- será una _Rani_ (reina).
 
 Aun cuando faltara alguna de esas figuras, gozará de toda la felicidad de una cabeza coronada.
 
@@ -2428,10 +1890,6 @@ La mujer de senos carnosos, firmes y bellos, que no tenga vello en el pecho y cu
 La doncella que tenga un lunar sobre el seno izquierdo, la garganta o las orejas se casará y tendrá un hijo que llevará las marcas de buen augurio, y su familia será bendecida.
 
 La muchacha de cuello largo se dará al vicio y la crueldad; la joven que tenga el cuello muy corto será miserable y pobre; la que tenga en el cuello tres líneas o pliegues tendrá buenas intenciones y su vida transcurrirá siempre dichosa.
-
-100
-
-##### **_Ananga Ranga_**
 
 La doncella soltera que lleve sobre la palma de su mano líneas parecidas a muros y a pequeñas ramas de árboles puestas en círculo llegará a ser la esposa del Rey, así haya nacido en la casa de una sirvienta.
 
@@ -2455,10 +1913,6 @@ Las relaciones sexuales con la esposa de otro hombre generan siete clases de dif
 
 - Quinta: su riqueza se verá reducida de manera sensible.
 
-101
-
-##### **_Ananga Ranga_**
-
 Sexta: el adúltero sufre en demasía.
 
 Séptima: y aún sufrirá más en la otra vida.
@@ -2474,10 +1928,6 @@ Vali perdió su vida al intentar tener relaciones con Tara, tal como se describe
 Estas destrucciones en tiempos pasados fueron sufridas por aquellos que desearon a esposas de otros hombres. Que nadie cometa, por tanto, adulterio ni siquiera con sus pensamientos.
 
 Sin embargo, hay cambios en el estado natural del hombre que debería tomar en cuenta.
-
-102
-
-##### **_Ananga Ranga_**
 
 - Primero: cuando no sabe qué hacer, sino pensar en una mujer en particular.
 
@@ -2503,10 +1953,6 @@ Todos estos estados motivados por la pasión sexual pueden ilustrarse mediante u
 
 Había una vez un rey llamado Pururava, creyente y entregado de tal manera a la mortificación y las privaciones que Indra, Señor del Paraíso Inferior, comenzó a temer que pudiera ser depuesto. El dios, por tanto, a fin de detener estas mortificaciones y otros actos religiosos, envió desde el _Svarga_ , su propio cielo, a Urvashi, la más bella de las _apsaras_ (ninfas).
 
-103
-
-##### **_Ananga Ranga_**
-
 Tan pronto como la vio, el rey se enamoró perdidamente de ella, y no hacía otra cosa que pensar en poseerla; cuando por fin lo consiguió, ambos se entregaron durante largo tiempo a los placeres carnales.
 
 Entonces Indra, al acordarse de la _apsara,_ despachó a su mensajero, uno de los trovadores celestiales, al mundo de los mortales para que se la trajese. Después de su partida, la mente de Pururava comenzó a extraviarse; no podía concentrarse en sus deberes religiosos y se sintió morir.
@@ -2519,13 +1965,7 @@ Si se llega a la conclusión de que a menos que goce de la esposa de su prójimo
 
 Sin embargo, si no hay una causa tan apremiante no puede justificarse nunca el goce con la esposa de otra persona, perseguida por el mero objeto de obtener placer y una gratificación lasciva.
 
-El libro de Vatsyayana, el _Rishi,_ enseña esto: supongamos que una mujer, al alcanzar la lozanía de su edad, se inflama tanto de amor por un hombre que, encendida por la pasión, teme caer en uno de los diez estados antes descritos, probablemente conducentes a la muerte por
-
-104
-
-##### **_Ananga Ranga_**
-
-causa del frenesí si su amado rehúsa el trato sexual.
+El libro de Vatsyayana, el _Rishi,_ enseña esto: supongamos que una mujer, al alcanzar la lozanía de su edad, se inflama tanto de amor por un hombre que, encendida por la pasión, teme caer en uno de los diez estados antes descritos, probablemente conducentes a la muerte por causa del frenesí si su amado rehúsa el trato sexual.
 
 Bajo estas circunstancias el hombre, tras haber sido importunado durante algún tiempo, considerará que su negativa podría costarle la vida, y por tanto la gozará en una ocasión, pero no siempre.
 
@@ -2548,10 +1988,6 @@ De la misma manera los hombres se preparan para ir al _Naraka_ (infierno) si se 
 El autor de este libro previene y ordena a sus lectores evitar todos estos pecados mortales.
 
 También existen otras mujeres de las que nunca se debe gozar, por intensa que sea la tentación:
-
-105
-
-##### **_Ananga Ranga_**
 
 - Una doncella, a menos que se la despose.
 
@@ -2597,10 +2033,6 @@ Los _Shastras_ (Escrituras) dicen que el hombre sabio no debe tener relaciones s
 
 A continuación, se ofrece una lista de las mujeres que resultan útiles como intermediarias (en las familias hindúes y musulmanas, las mujeres son vigiladas celosamente, por lo que es muy necesaria esta clase de mujeres).
 
-106
-
-##### **_Ananga Ranga_**
-
 - La mujer de un floricultor.
 
 - Una amiga de la infancia.
@@ -2645,10 +2077,6 @@ Los enamorados deben preferir esta clase de mujeres, porque se les paga convenie
 
 - Una mujer inclinada a la charla.
 
-107
-
-##### **_Ananga Ranga_**
-
 - Una mujer sumergida en la pobreza.
 
 - La esposa de un hombre impotente.
@@ -2687,10 +2115,6 @@ Las siguientes son las señales que siempre da una mujer cuando está enamorada 
 
 - Echa miradas de costado.
 
-108
-
-##### **_Ananga Ranga_**
-
 - Ríe sin razón ante la vista del hombre.
 
 - Aquella que, en lugar de responder a una pregunta, replica con bromas y chanzas.
@@ -2721,10 +2145,6 @@ Las siguientes son las señales que siempre da una mujer cuando está enamorada 
 
 - La que transpira al cruzarse con el hombre accidentalmente.
 
-109
-
-##### **_Ananga Ranga_**
-
 La mujer que presente algunos de estos síntomas está enamorada e intensamente excitada por la pasión.
 
 Todo lo que hay que hacer, si se está versado en el arte del amor, es enviar una intermediaria eficaz.
@@ -2754,10 +2174,6 @@ Por el contrario, es casi imposible seducir a las siguientes mujeres:
 - La mujer que carece de codicia y avaricia.
 
 Estas mujeres no se obtienen fácilmente, y no vale la pena perder el tiempo persiguiéndolas.
-
-110
-
-##### **_Ananga Ranga_**
 
 Hay sitios donde no se debe gozar de una mujer:
 
@@ -2795,10 +2211,6 @@ No sólo provocan infortunios sino que engendran hijos, que se convierten en per
 
 Hay momentos en los que no es aconsejable poseer a una mujer:
 
-111
-
-##### **_Ananga Ranga_**
-
 Durante el día, a menos que su temperamento lo exija. Durante el _Sharad_ o estación fría (de octubre a noviembre).
 
 Durante el _Grishma,_ o estación caliente (de junio a julio).
@@ -2821,13 +2233,7 @@ Según los antiguos sabios, la situación más adecuada para tener relaciones co
 
 Elegir la habitación más grande, atrayente y ventilada de la casa, se la purifica con sahumerios y se decoran sus espaciosos muros con dibujos y otros objetos que permiten a la vista reposar con solaz.
 
-Luego se esparcen instrumentos musicales, especialmente el caramillo y el laúd, junto con refrigerios, como cocos, hojas de betel y leche,
-
-112
-
-##### **_Ananga Ranga_**
-
-útiles para conservar y restaurar el vigor; botellas con agua de rosas y esencias diversas.
+Luego se esparcen instrumentos musicales, especialmente el caramillo y el laúd, junto con refrigerios, como cocos, hojas de betel y leche, útiles para conservar y restaurar el vigor; botellas con agua de rosas y esencias diversas.
 
 Además, debe haber abanicos y _chauris_ para enfriar el aire y libros que contengan canciones y alegren la vista con ilustraciones de posturas eróticas.
 
@@ -2857,10 +2263,6 @@ Esta clase de caricias afectan los sentidos y apartan la mente de la timidez y l
 
 Tras estos juegos y artificios, el amante procederá a tomar posesión de las ansias de su amada.
 
-114
-
-##### **_Ananga Ranga_**
-
 ### Los abrazos
 
 Son ocho las _alinganas,_ o modos de abrazar. A continuación se describen:
@@ -2877,13 +2279,7 @@ Abrazo que representa la unión de la semilla de sésamo con arroz descascarado 
 
 ##### _Lalatika_
 
-Así llamado porque una frente _(lalata)_ toca a la otra. En esta posición se muestra la pasión ciñéndose potentemente por el talle, ambos de
-
-115
-
-##### **_Ananga Ranga_**
-
-pies, y mediante el contacto de frente, mejilla, ojos, boca, pechos y vientre.
+Así llamado porque una frente _(lalata)_ toca a la otra. En esta posición se muestra la pasión ciñéndose potentemente por el talle, ambos de pies, y mediante el contacto de frente, mejilla, ojos, boca, pechos y vientre.
 
 ##### _Jaghan-alingana_
 
@@ -2905,17 +2301,13 @@ Llamado así porque se usan los muslos. Ambos están de pie, se ciñen mutuament
 
 ##### _Dughdanir-alingana_
 
-También llamado "abrazo de leche y agua". En este caso, el esposo yace sobre el lecho, descansando de costado, izquierdo o derecho. La esposa se inclina, con su rostro hacia el suyo, y lo ciñe estrechamente, mientras los miembros de ambos se tocan y, por así decir, se anudan con las partes correspondientes del otro. Deben permanecer así hasta que el deseo haya despertado completamente en ambos.
+También llamado “abrazo de leche y agua". En este caso, el esposo yace sobre el lecho, descansando de costado, izquierdo o derecho. La esposa se inclina, con su rostro hacia el suyo, y lo ciñe estrechamente, mientras los miembros de ambos se tocan y, por así decir, se anudan con las partes correspondientes del otro. Deben permanecer así hasta que el deseo haya despertado completamente en ambos.
 
 ##### V _allari-vreshtita_
 
-"La enredadera que enlaza el tronco de un árbol." Se realiza mientras ambos están de pie: la mujer se aferra a la cintura de su hombre y cruza una pierna sobre su muslo, y lo besa con suavidad; él retiene su respiración como si sintiese frío. Ella se esfuerza por imitar a la enredadera que enlaza al árbol que le sirve de apoyo.
+“La enredadera que enlaza el tronco de un árbol.” Se realiza mientras ambos están de pie: la mujer se aferra a la cintura de su hombre y cruza una pierna sobre su muslo, y lo besa con suavidad; él retiene su respiración como si sintiese frío. Ella se esfuerza por imitar a la enredadera que enlaza al árbol que le sirve de apoyo.
 
 Los abrazos deben estudiarse con detenimiento, y completarse con una comprensión adecuada de los diferentes tipos de beso que acompañan.
-
-117
-
-##### **_Ananga Ranga_**
 
 ### Los besos
 
@@ -2945,13 +2337,7 @@ Existen además diez clases diferentes de besos, cada una de las cuales tiene su
 
 ##### **_Milita_**
 
-Este término significa _mishrita_ (mezcla o conciliación). Cuando la esposa está enfadada, no importa hasta qué punto, el esposo no la debe besar en la cara; por tanto, éste aplicará con fuerza sus labios sobre los de
-
-118
-
-##### **_Ananga Ranga_**
-
-ella y mantendrá las bocas unidas hasta que pase el enfado.
+Este término significa _mishrita_ (mezcla o conciliación). Cuando la esposa está enfadada, no importa hasta qué punto, el esposo no la debe besar en la cara; por tanto, éste aplicará con fuerza sus labios sobre los de ella y mantendrá las bocas unidas hasta que pase el enfado.
 
 ##### **_Sphurita_**
 
@@ -2967,17 +2353,11 @@ También conocido como beso oblicuo; el esposo, situado detrás o al costado de 
 
 ##### **_Uttaroshtha_**
 
-Llamado "beso en el labio superior". Cuando la esposa está llena de deseo, debe tomar el
-
-119
-
-##### **_Ananga Ranga_**
-
-labio inferior del esposo entre sus dientes y morderlo con suavidad, mientras él hace lo mismo con su labio superior. Así ambos alcanzan la cumbre de la pasión.
+Llamado "beso en el labio superior". Cuando la esposa está llena de deseo, debe tomar el labio inferior del esposo entre sus dientes y morderlo con suavidad, mientras él hace lo mismo con su labio superior. Así ambos alcanzan la cumbre de la pasión.
 
 ##### **_Pindita_**
 
-En el "beso del terrón", la esposa toma los labios del esposo con los dedos, pasa su lengua sobre ellos y los muerde.
+En el "beso del terrón”, la esposa toma los labios del esposo con los dedos, pasa su lengua sobre ellos y los muerde.
 
 ##### **_Samputa_**
 
@@ -2989,13 +2369,7 @@ No se besa de inmediato. Se comienza moviendo los labios de manera provocativa, 
 
 ##### **_Pratibodha_**
 
-El llamado "beso despertador" es cuando el esposo, ausente durante largo tiempo, vuelve a su casa y descubre a su esposa durmiendo sobre la alfombra en un dormitorio solitario: aplica sus labios sobre los suyos y aumenta gradualmente la presión hasta que ella despierta. Ésta es, sin lugar a dudas, la clase
-
-120
-
-##### **_Ananga Ranga_**
-
-más encantadora de beso, y deja el más delicioso recuerdo.
+El llamado "beso despertador" es cuando el esposo, ausente durante largo tiempo, vuelve a su casa y descubre a su esposa durmiendo sobre la alfombra en un dormitorio solitario: aplica sus labios sobre los suyos y aumenta gradualmente la presión hasta que ella despierta. Ésta es, sin lugar a dudas, la clase más encantadora de beso, y deja el más delicioso recuerdo.
 
 ##### **_Samaushta_**
 
@@ -3030,10 +2404,6 @@ Las zonas son las siguientes:
 - Ambas mejillas
 
 Estas caricias, sin embargo, tienen que ser ofrecidas en determinados momentos y cierta estación:
-
-121
-
-##### **_Ananga Ranga_**
 
 - Cuando la mujer está exacerbada.
 
@@ -3071,10 +2441,6 @@ Hay siete formas diferentes de aplicar las unas:
 
 **_Anvartha_**
 
-122
-
-##### **_Ananga Ranga_**
-
 Es el nombre que se da a los tres rasguños o marcas hechas con las uñas de los tres prnneros dedos sobre la espalda, los senos Y las partes de alrededor del _yoni._ Este _nakhadana_ es recomendable antes de un viaje a un país distante; sirve como recordatorio.
 
 ##### **_Ardhachandra_**
@@ -3095,10 +2461,6 @@ Consiste en aplicar las uñas durante algún tiempo sobre la cara hasta dejar un
 
 ##### **_Shasha-pluta_**
 
-123
-
-##### **_Ananga Ranga_**
-
 El llamado "salto del conejo" es la marca hecha sobre la parte más oscura del seno cuando ninguna otra porción resulta afectada. Al fijar las uñas con amor y afecto, el hombre experto, enloquecido por la furia de la pasión, proporciona la mayor satisfacción a los deseos sexuales de la mujer.
 
 ##### **_Tarunabhava_**
@@ -3117,10 +2479,6 @@ Los dientes más apreciados en el esposo son aquellos de color rosado, no totalm
 
 Al igual que las uñas, son siete los _dashanas_ o formas de aplicar los dientes.
 
-124
-
-##### **_Ananga Ranga_**
-
 ##### **_Bindu-dashana_**
 
 El "mordisco de la gota" consiste en que los dientes frontales del esposo dejen una marca sobre el labio inferior de la mujer.
@@ -3131,7 +2489,7 @@ Llamado "un rosario de puntos o gotas"; igual al anterior, salvo que se usan tod
 
 ##### **_Gudhaka-dashana_**
 
-El "mordisco oculto", consiste en aplicar los dientes sobre la parte interior de los labios de la mujer sin dejar marca exterior que pueda ser vista por otros.
+El "mordisco oculto”, consiste en aplicar los dientes sobre la parte interior de los labios de la mujer sin dejar marca exterior que pueda ser vista por otros.
 
 ##### **_Khandabhrak_**
 
@@ -3139,13 +2497,7 @@ Ramillete o multitud de marcas formado por las huellas de los dientes sobre la f
 
 ##### **_Koiacharca_**
 
-Nombre dado por los sabios a las marcas penetrantes y duraderas que el esposo, en el ardor de la pasión y el dolor de la separación cuando está por iniciar un viaje hacia tierra lejana, deja sobre el cuerpo de su esposa. Tras
-
-125
-
-##### **_Ananga Ranga_**
-
-su partida, ella mirará esas marcas, y lo recordará con el corazón anhelante.
+Nombre dado por los sabios a las marcas penetrantes y duraderas que el esposo, en el ardor de la pasión y el dolor de la separación cuando está por iniciar un viaje hacia tierra lejana, deja sobre el cuerpo de su esposa. Tras su partida, ella mirará esas marcas, y lo recordará con el corazón anhelante.
 
 ##### **_Pravalamani-dashana_**
 
@@ -3165,17 +2517,11 @@ Hay cuatro clases de _keshagrahana:_
 
 ##### **_Bhujangavallika_**
 
-"La jugada del dragón": cuando el esposo, excitado por la vecindad de la unión sexual, toma con amor el lazo posterior del cabello de
-
-126
-
-##### **_Ananga Ranga_**
-
-su esposa y la abraza estrechamente. Esto se hace de pie y con las piernas entrecruzadas. Es uno de los juegos más excitantes.
+"La jugada del dragón”: cuando el esposo, excitado por la vecindad de la unión sexual, toma con amor el lazo posterior del cabello de su esposa y la abraza estrechamente. Esto se hace de pie y con las piernas entrecruzadas. Es uno de los juegos más excitantes.
 
 ##### **_Kamavatanansa-keshagrahana_**
 
-"Sujetar el mechón del amor": el esposo sujeta con ambas manos el cabello de su esposa por encima de las orejas ella hace lo mismo, intercambiando besos en la boca.
+“Sujetar el mechón del amor": el esposo sujeta con ambas manos el cabello de su esposa por encima de las orejas ella hace lo mismo, intercambiando besos en la boca.
 
 ##### **_Tarangaranga-keshagrahana_**
 
@@ -3189,13 +2535,7 @@ Aquí sólo se mencionan aquellas prácticas ampliamente conocidas. Se han omiti
 
 ### Los golpes
 
-En el combate de los juegos amorosos triunfa el más fuerte. A fin de presentar batalla, hay dos
-
-127
-
-##### **_Ananga Ranga_**
-
-formas de ataque, conocidas como _karatadana y sitkreutodesha._
+En el combate de los juegos amorosos triunfa el más fuerte. A fin de presentar batalla, hay dos formas de ataque, conocidas como _karatadana y sitkreutodesha._
 
 ##### **_Karatadana_**
 
@@ -3223,10 +2563,6 @@ Ahora especificaremos los diversos miembros sobre los cuales se debe operar:
 
 - También con la mano cerrada: la cabeza.
 
-128
-
-##### **_Ananga Ranga_**
-
 La mujer también aplica al hombre otras cuatro prácticas:
 
 ##### **_Bindumala_**
@@ -3251,37 +2587,25 @@ Se llama _sikriti_ a los sonidos inarticulados que se producen al aspirar con lo
 
 ##### **_Bhavakriti_**
 
-Un golpeteo martilleante, como cuando caen grandes gotas de lluvia. Se expresan como "¡Phap! ¡Phap!", y son generados por los labios, aunque sólo se emiten durante la unión
-
-129
-
-##### **_Ananga Ranga_**
-
-sexual. Estos diversos si _kritis_ en boca de la mujer en el momento del goce se asemejarán, respectivamente, al sonido de la codorniz ( _lava_ ), del cuclillo indio _(kokila),_ de la paloma de cuello oscuro _(kapota),_ del ganso _(hansa)_ y del pavo real.
+Un golpeteo martilleante, como cuando caen grandes gotas de lluvia. Se expresan como "¡Phap! ¡Phap!", y son generados por los labios, aunque sólo se emiten durante la unión sexual. Estos diversos si _kritis_ en boca de la mujer en el momento del goce se asemejarán, respectivamente, al sonido de la codorniz ( _lava_ ), del cuclillo indio _(kokila),_ de la paloma de cuello oscuro _(kapota),_ del ganso _(hansa)_ y del pavo real.
 
 ##### **_Hinkriti_**
 
-Sonido grave y profundo, tal como "¡Hun! ¡Hun! ¡Hun! Hin! ¡Hin! ¡Hin!"; se producen con un mínimo esfuerzo de la nariz y también por la boca.
+Sonido grave y profundo, tal como “¡Hun! ¡Hun! ¡Hun! Hin! ¡Hin! ¡Hin!"; se producen con un mínimo esfuerzo de la nariz y también por la boca.
 
 ##### **_Sikriti_**
 
-El aliento se espira como el silbido de una serpiente. Lo expresa el sonido "¡Sh! ¡Sh!" producido sólo con la boca.
+El aliento se espira como el silbido de una serpiente. Lo expresa el sonido “¡Sh! ¡Sh!” producido sólo con la boca.
 
 ##### **_Stanita_**
 
-Rumor sordo, como el retumbar de un trueno lejano. Se expresa mediante los sonidos "¡Ha! ¡Ha! O ¡Ha! ¡Ha!", producido por la garganta, sin ayuda de los músculos nasales.
+Rumor sordo, como el retumbar de un trueno lejano. Se expresa mediante los sonidos "¡Ha! ¡Ha! O ¡Ha! ¡Ha!”, producido por la garganta, sin ayuda de los músculos nasales.
 
 ##### **_Utkriti_**
 
-Sonido crujiente, como el de un bambú que se rompe, expresado por "¡Dhat! ¡Dhat!", que se produce al golpear la punta de la lengua contra el paladar y moverla con rapidez mientras se lanza la interjección.
+Sonido crujiente, como el de un bambú que se rompe, expresado por “¡Dhat! ¡Dhat!", que se produce al golpear la punta de la lengua contra el paladar y moverla con rapidez mientras se lanza la interjección.
 
-Los sonidos se emiten especialmente mientras el esposo besa, muerde y masca el labio inferior de su esposa. La dulzura de la pronunciación
-
-130
-
-##### **_Ananga Ranga_**
-
-multiplica el goce y promueve la realización del acto sexual.
+Los sonidos se emiten especialmente mientras el esposo besa, muerde y masca el labio inferior de su esposa. La dulzura de la pronunciación multiplica el goce y promueve la realización del acto sexual.
 
 ### La mujer que bien ama _(nayika)_
 
@@ -3297,13 +2621,7 @@ Este término se aplica a la esposa cuando tras haber sido agraviada por su espo
 
 ##### **_Khanditanayika_**
 
-Cuando el hombre tiene en su cuerpo las marcas producidas por reposar con una esposa rival y, aún con los ojos enrojecidos por haber llegado tarde, retorna a su amada temeroso y agitado; la halaga y le habla con dulzura con el fin de seducirla, y ella, desde
-
-131
-
-##### **_Ananga Ranga_**
-
-luego, rehúsa a sus pretensiones, para ceder finalmente.
+Cuando el hombre tiene en su cuerpo las marcas producidas por reposar con una esposa rival y, aún con los ojos enrojecidos por haber llegado tarde, retorna a su amada temeroso y agitado; la halaga y le habla con dulzura con el fin de seducirla, y ella, desde luego, rehúsa a sus pretensiones, para ceder finalmente.
 
 ##### **_Svadhinapurvapatika_**
 
@@ -3319,13 +2637,7 @@ Los iniciados designan así a la esposa que, habiendo dispuesto un lecho agradab
 
 ##### **_Vipralabdha_**
 
-Mujer decepcionada que, tras enviar una intermediaria para hacer una cita con un desconocido, se muestra confusa y agitada ante la perspectiva del goce, pero ve a la
-
-132
-
-##### **_Ananga Ranga_**
-
-mensajera regresar sin el amante y cae en un estado febril.
+Mujer decepcionada que, tras enviar una intermediaria para hacer una cita con un desconocido, se muestra confusa y agitada ante la perspectiva del goce, pero ve a la mensajera regresar sin el amante y cae en un estado febril.
 
 ##### **_Viyogini_**
 
@@ -3345,7 +2657,7 @@ _La pasión arrebataba y nos dejaba piel a piel los cuerpos entramados, batallan
 
 ## Los goces internos
 
-A los diversos preliminares externos descritos en el capítulo anterior les siguen los "goces internos"
+A los diversos preliminares externos descritos en el capítulo anterior les siguen los “goces internos"
 
 Los abrazos, besos, manipulaciones y caricias deben practicarse siempre conforme al gusto de esposo y esposa, y de persistir en ellos tal como indica el _Shastra_ excitarán lo suficiente las pasiones de la mujer, que suavizará y liberará su _yoni_ de manera de que esté a punto para la unión sexual.
 
@@ -3354,10 +2666,6 @@ Las siguientes frases muestran cómo arte y ciencia encierran un asunto aparente
 _«¿Qué remedio existe cuando una mujer es más fuerte que un hombre?_
 
 _»Por fuerte que sea, tan pronto como abre sus piernas pierde la fortaleza de la pasión y queda satisfecha._
-
-134
-
-##### **_Ananga Ranga_**
 
 _»Así el yoni, siendo estrecho y firme, se vuelve laxo y holgado. El esposo debe por tanto juntar los muslos de su esposa, para que pueda luchar en un plano de igualdad durante la unión sexual»._
 
@@ -3373,13 +2681,7 @@ Boca arriba/arrodillado: La mujer se recuesta sobre sus espaldas y el hombre se 
 
 ##### **_Samapada-uttana-bandha_**
 
-Posición de las piernas alzadas: la mujer se recuesta sobre su espalda y el hombre se arrodilla. Luego la levanta ligeramente tomándola por la cintura; al mismo tiempo, las piernas femeninas se elevan para quedar sobre los hombros masculinos. En el momento de
-
-135
-
-##### **_Ananga Ranga_**
-
-efectuarse la penetración, él se arrodilla y la toma con las dos manos por la cintura.
+Posición de las piernas alzadas: la mujer se recuesta sobre su espalda y el hombre se arrodilla. Luego la levanta ligeramente tomándola por la cintura; al mismo tiempo, las piernas femeninas se elevan para quedar sobre los hombros masculinos. En el momento de efectuarse la penetración, él se arrodilla y la toma con las dos manos por la cintura.
 
 Es importante que los dos se miren y se hablen.
 
@@ -3396,10 +2698,6 @@ Se sentirá más descansada si mantiene los pies sobre los hombros masculinos, m
 Con los pies en alto: el hombre recoge las piernas femeninas hasta su cintura, sin dejar de estar de rodillas. Enseguida, introduce su _linga_ en el _yoni_ Como los dos se están mirando, les resulta bastante sencillo balancearse; al mismo tiempo él presiona o acá ricia los pechos. También pueden besarse.
 
 Se hallan tan juntos, que "casi respiran el aire que expulsa el otro". El palpitar como un solo corazón los anima a buscar la mayor conjunción.
-
-136
-
-##### **_Ananga Ranga_**
 
 En esta posición la _linga_ es capaz de llegar al fondo del _yoni,_ donde las mujeres más expertas saben que se esconde un punto que puede ofrecerle mucho placer, más que cuando se le frota hábilmente el clítoris.
 
@@ -3418,10 +2716,6 @@ Cada vez que él arremete, la pierna elevada de ella se mueve, con lo que se alt
 _Estimulación mutua_
 
 Sea cual fuere el ritmo con el que ella cambia de posición las piernas, se trata de un ciclo estimulante para ambos.
-
-137
-
-##### **_Ananga Ranga_**
 
 ##### **_Vyomapada-uttana-bandha_**
 
@@ -3445,10 +2739,6 @@ Luego de penetrarla, en el continuo vaivén nunca deja de mirarla. Toma sus tobi
 
 ##### **_Smarachakrasana_**
 
-138
-
-##### **_Ananga Ranga_**
-
 Posición de la rueda del kama: ideal para las parejas voluptuosas. El hombre se sienta entre las piernas de la mujer y luego extiende totalmente los brazos para rodearla por el cuerpo. Así da comienzo el coito.
 
 Ella busca montar sus muslos sobre los masculinos y, a la vez, sujeta los hombros de su hombre, pero echando la cabeza hacia atrás, ya que cuenta con mejor apoyo.
@@ -3463,15 +2753,9 @@ De frente y con los ojos bien abiertos, para poder contemplar la excitación del
 
 ##### **_Avidarita_**
 
-Conocida como "la posición exquisita": el hombre coloca a su amada de espalda; luego se acomoda entre las piernas deseadas, las lleva a la altura de sus caderas y, por último, efectúan la penetración.
+Conocida como "la posición exquisita”: el hombre coloca a su amada de espalda; luego se acomoda entre las piernas deseadas, las lleva a la altura de sus caderas y, por último, efectúan la penetración.
 
-Ella cuenta con tres puntos de apoyo: la parte alta de la espalda, sus glúteos sobre los muslos masculinos y los pies. Esta posición es
-
-139
-
-##### **_Ananga Ranga_**
-
-considerada muy refinada, porque era la preferida de los grandes amantes. Permite unos suaves balanceos, cuyo ritmo marcará la cadencia del coito.
+Ella cuenta con tres puntos de apoyo: la parte alta de la espalda, sus glúteos sobre los muslos masculinos y los pies. Esta posición es considerada muy refinada, porque era la preferida de los grandes amantes. Permite unos suaves balanceos, cuyo ritmo marcará la cadencia del coito.
 
 Durante el primer orgasmo, ella se toma de los brazos o de los hombros de él y eleva su cuerpo en busca del beso.
 
@@ -3515,13 +2799,7 @@ Esta posición tiene la gran ventaja de que ambos están un mismo plano; de esa 
 
 ##### **_Veshtita-asana_**
 
-La "posición circular": la mujer acostada sobre su espalda, el hombre se arrodilla, coloca sus manos
-
-141
-
-##### **_Ananga Ranga_**
-
-alrededor de la espalda de ella y realiza un abrazo muy estrecho. Su amada lo corresponde recogiendo las piernas y entrecruzando los pies junto al vientre masculino.
+La “posición circular": la mujer acostada sobre su espalda, el hombre se arrodilla, coloca sus manos alrededor de la espalda de ella y realiza un abrazo muy estrecho. Su amada lo corresponde recogiendo las piernas y entrecruzando los pies junto al vientre masculino.
 
 De esta forma, dan inicio al coito.
 
@@ -3539,15 +2817,11 @@ Se la llama "intacta" por lo mucho que beneficia al hombre; sin embargo, no se h
 
 _Mejora la excitación (él)_
 
-142
-
-##### **_Ananga Ranga_**
-
 En las embestidas de la penetración, con los muslos oprimidos, se mejora la excitación si se acaricia su vientre y sus pechos.
 
 ##### **_Sphutma-uttana-bandha_**
 
-La "posición de la rajadura": la mujer se coloca acostada sobre varios cojines teniendo cuidado ubicar algunos debajo de sus caderas. De esta manera, su cuerpo queda formando un gran arco.
+La “posición de la rajadura”: la mujer se coloca acostada sobre varios cojines teniendo cuidado ubicar algunos debajo de sus caderas. De esta manera, su cuerpo queda formando un gran arco.
 
 Enseguida, el hombre se arrodilla, levanta los dos pies femeninos y los deja sobre su hombro derecho. Así la _linga_ entra en el _yo_ ni con la inclinación adecuada.
 
@@ -3559,17 +2833,13 @@ Según apriete o abra las rodillas y los muslos, ella consigue que el _yoni_ apr
 
 ##### **_Tiryak-bandha (lado a lado)_**
 
-143
-
-##### **_Ananga Ranga_**
-
 La postura oblicua o sesgada ( _tiryak_ ) consiste esencialmente en que la esposa esté recostada de lado.
 
 Hay tres subdivisiones:
 
 ##### **_Vinaka-tiryak-bandha_**
 
-La "posición del abrazo del cangrejo". Sólo es apta para amantes maduros o muy expertos. El hombre recostado de lado junto a la mujer coloca una de sus piernas, según sea la posición, sobre la cadera izquierda o derecha, a la vez que deja la otra pierna en la cama para que los dos amantes puedan mover los pies a su antojo, siempre en beneficio del coito.
+La "posición del abrazo del cangrejo”. Sólo es apta para amantes maduros o muy expertos. El hombre recostado de lado junto a la mujer coloca una de sus piernas, según sea la posición, sobre la cadera izquierda o derecha, a la vez que deja la otra pierna en la cama para que los dos amantes puedan mover los pies a su antojo, siempre en beneficio del coito.
 
 Como el cangrejo, la misma tarea cumplen los brazos al estrecharse.
 
@@ -3580,10 +2850,6 @@ También se aconseja cambiar la posición de acuerdo con la mano que él habitua
 Otra de las peculiaridades de esta posición es que la pareja debe ser delgada o hallarse en su peso justo, pues se requieren vientres planos y pelvis hábiles.
 
 Lógicamente, es la más descansada, por eso resulta ideal para los amantes entrados en años. _Posición de las rodillas_
-
-144
-
-##### **_Ananga Ranga_**
 
 Simplemente se doblan las rodillas; así ambos se proporcionan mayor placer al lograr una mejor penetración.
 
@@ -3597,13 +2863,7 @@ El nombre de la "cítara oblicua" obedece a que las piernas se comportan como si
 
 ##### **_Karkata-tiryak-bandha_**
 
-Ambos sobre sus costados, el hombre se coloca entre los muslos de la mujer, uno de los cuales está debajo de él y el otro sobre su flanco. Después, la mujer levanta ligeramente su pierna para permitir la penetración; deberá reposar su muslo sobre el costado de él. Si el hombre se
-
-145
-
-##### **_Ananga Ranga_**
-
-impulsa hacia arriba, fraccionará su _linga_ contra el _yoni_ de ella, estimulan do el clítoris.
+Ambos sobre sus costados, el hombre se coloca entre los muslos de la mujer, uno de los cuales está debajo de él y el otro sobre su flanco. Después, la mujer levanta ligeramente su pierna para permitir la penetración; deberá reposar su muslo sobre el costado de él. Si el hombre se impulsa hacia arriba, fraccionará su _linga_ contra el _yoni_ de ella, estimulan do el clítoris.
 
 _La pierna de arriba_ (ella)
 
@@ -3621,13 +2881,7 @@ También se pueden mordisquear, arañarse con delicadeza o practicar otros juego
 
 En esta posición el propio peso de ella ayuda a que la cópula sea muy honda; por eso le corresponde servirse de las plantas de los pies, como base, y de sus manos, al ajustarse a los hombros o brazos del amado para alzarse lo suficiente, con el propósito de facilitar los recorridos de la _linga._
 
-También le ofrecen a él la posibilidad de besar, acariciar, lamer y hasta mordisquear desde
-
-146
-
-##### **_Ananga Ranga_**
-
-la boca hasta los senos; esto puede desencadenar el orgasmo.
+También le ofrecen a él la posibilidad de besar, acariciar, lamer y hasta mordisquear desde la boca hasta los senos; esto puede desencadenar el orgasmo.
 
 _Labios satisfechos (él)_
 
@@ -3643,17 +2897,13 @@ Las piernas bien manejadas pueden ser las llaves del coito.
 
 ##### **_Upapad-asana_**
 
-La "posición de la culminación". Los dos permanecen sentados: la mujer levanta ligeramente una de sus piernas y, luego, coloca sus manos sobre las rodillas masculinas en un gesto de entrega. Ya pueden dar comienzo a las penetraciones. Es una refinada consumación.
+La "posición de la culminación”. Los dos permanecen sentados: la mujer levanta ligeramente una de sus piernas y, luego, coloca sus manos sobre las rodillas masculinas en un gesto de entrega. Ya pueden dar comienzo a las penetraciones. Es una refinada consumación.
 
 En esta variante de la "posición del loto" se debe prevenir que, al encontrarse tan juntos, puede llegar mucho antes el desenlace. Los amantes deben ser muy expertos para evitar que broten los orgasmos en un momento no deseado. Además, el hombre sentirá tal opresión alrededor de su _linga_ , debido a lo mucho que se estrechan las paredes del _yoni,_ que le costará realizar los desplazamientos de abajo hacia arriba.
 
-147
-
-##### **_Ananga Ranga_**
-
 ##### **_Vaidhurit-asana_**
 
-La "posición de la igualdad": abrazados mutuamente por el cuerpo, ella con las piernas extendidas alrededor de la cintura del hombre se encuentra a la vez sentada sobre los muslos de él. Como ha dejado los brazos echados hacia atrás, para sujetar los pies de él, se inicia el coito con una cierta agresividad, que, lentamente, puede irse aliviando.
+La “posición de la igualdad": abrazados mutuamente por el cuerpo, ella con las piernas extendidas alrededor de la cintura del hombre se encuentra a la vez sentada sobre los muslos de él. Como ha dejado los brazos echados hacia atrás, para sujetar los pies de él, se inicia el coito con una cierta agresividad, que, lentamente, puede irse aliviando.
 
 Posición considerada la más equilibrada a la hora de valorar el placer de ambos, unida a las posibilidades de intercambiar los papeles de activo o pasivo: si él puede acariciar y besar, ella cuenta con las mismas oportunidades y, además, vuelve a disponer de la llave del coito: la presión de sus pies al juntarse o separarse o el empuje que consigue cuando empuja con su pubis, gracias a la base que le brindan sus propias manos.
 
@@ -3664,10 +2914,6 @@ Al echar el cuerpo hacia atrás y suponer que se está remando se incremento el 
 ##### **_Phanipash-asana_**
 
 La "trampa de la serpiente". El hombre y la mujer sujetan sus respectivos pies. Sin embargo, ella sigue sentada sobre los muslos masculinos, a la vez que pasa sus piernas por la cintura del amado mientras permanecen mirándose.
-
-148
-
-##### **_Ananga Ranga_**
 
 Para el _Ananga Ranga_ el _yoni_ es la trampa en la que se deja apresar gozosamente la _linga_ o la serpiente. Ambos pueden empezar a balancearse en un vaivén estimulante en el instante mismo de haber completado la penetración.
 
@@ -3681,17 +2927,11 @@ Mirarse fijamente implica lo mucho que se desean y lo bien que va el coito. No s
 
 ##### **_Sanyaman-asana_**
 
-"Posición de los pies enlazados": la mujer pasa sus pies por debajo de los brazos del hombre, con las piernas recogidas. Enseguida, éste la abraza con fuerza por las rodillas, con lo que logra un enlazamiento ideal para que las embestidas de su _linga_ alcancen una profundidad pocas veces conquistada.
+“Posición de los pies enlazados": la mujer pasa sus pies por debajo de los brazos del hombre, con las piernas recogidas. Enseguida, éste la abraza con fuerza por las rodillas, con lo que logra un enlazamiento ideal para que las embestidas de su _linga_ alcancen una profundidad pocas veces conquistada.
 
 Estas penetraciones, en una horizontal perfecta, son sublimes si los amantes no dejan de mirarse a los ojos mientras se goza.
 
-Si bien los dos amantes están muy limitados a la hora de realizar los movimientos propios de la cópula, pueden hablarse, sobre todo ella debe
-
-149
-
-##### **_Ananga Ranga_**
-
-hacerlo, al ser **la** más beneficiada por los excitantes confrontamientos que está recibiendo su _yoni._
+Si bien los dos amantes están muy limitados a la hora de realizar los movimientos propios de la cópula, pueden hablarse, sobre todo ella debe hacerlo, al ser **la** más beneficiada por los excitantes confrontamientos que está recibiendo su _yoni._
 
 _Los muslos se rozan (él)_
 
@@ -3703,17 +2943,13 @@ No importa estar relajada; ella deja caer sobre los codos parte del peso del cue
 
 ##### **_Kaurmak-asana_**
 
-La "posición de la tortuga": hombre y mujer se sientan de tal manera que sus brazos, piernas y bocas permanecen en contacto, bien unidos, mientras se realiza el coito.
+La "posición de la tortuga”: hombre y mujer se sientan de tal manera que sus brazos, piernas y bocas permanecen en contacto, bien unidos, mientras se realiza el coito.
 
 Ella recoge lentamente las rodillas y se incorpora, y deja sus piernas entre el costado y los brazos masculinos, en una maniobra que no interrumpe el coito en ningún momento.
 
 Debido a que él sostiene a su amada por el cuerpo, teniéndola de frente, puede levantarla mientras se realiza el coito.
 
 Como se puede ver, ésta es una posición sólo apta para amantes flexibles, lo que no impide que los demás puedan intentarla; no se mortifique si no llegara a completarla adecuadamente.
-
-150
-
-##### **_Ananga Ranga_**
 
 ##### **_Parivartit-asana_**
 
@@ -3733,13 +2969,7 @@ Esta posición, por ser relajada, permite a la pareja tomar el control sobre la 
 
 ##### **_Vinardit-asana_**
 
-La "posición del señuelo". Posición sólo posible para un hombre muy fuerte con una mujer liviana. Él la levanta pasando sus brazos, a la
-
-151
-
-##### **_Ananga Ranga_**
-
-altura de los codos, por debajo de sus piernas y luego la mueve de izquierda a derecha, hasta que llega el momento del orgasmo.
+La “posición del señuelo". Posición sólo posible para un hombre muy fuerte con una mujer liviana. Él la levanta pasando sus brazos, a la altura de los codos, por debajo de sus piernas y luego la mueve de izquierda a derecha, hasta que llega el momento del orgasmo.
 
 _Ella es liviana (él)_
 
@@ -3747,11 +2977,11 @@ Como él tiene que levantarla y moverla sobre su _linga,_ ella deber ser menuda.
 
 ##### **_Markat-asana_**
 
-La "posición del mono"; parecida a la anterior, pero aquí el hombre mueve a la mujer de atrás hacia adelante en lugar de hacerlo de un lado a otro. Se pueden combinar ambos movimientos al ir acelerando gradualmente el ritmo, el cual estará marcado por la pasión.
+La “posición del mono"; parecida a la anterior, pero aquí el hombre mueve a la mujer de atrás hacia adelante en lugar de hacerlo de un lado a otro. Se pueden combinar ambos movimientos al ir acelerando gradualmente el ritmo, el cual estará marcado por la pasión.
 
 _Una tregua_
 
-Para evitar el cansancio, ambos plantean una "tregua", durante la cual los besos y las caricias mantendrán el deseo entre los dos.
+Para evitar el cansancio, ambos plantean una “tregua", durante la cual los besos y las caricias mantendrán el deseo entre los dos.
 
 #### **_Uthita-bandha (parados)_**
 
@@ -3759,13 +2989,7 @@ Tanto el _Kama Sutra_ como el _Ananga Ranga_ dan mucha importancia a las postura
 
 ##### **_Janu-kuru-uthita-bandha_**
 
-Se traduce como "forma de pie con la rodilla y el codo"; esta posición requiere una gran fuerza física de parte del hombre. Ambos de pie, uno enfrente de otro. El hombre pasa los dos brazos bajo las rodillas de su mujer, sosteniéndola sobre
-
-152
-
-##### **_Ananga Ranga_**
-
-la parte interior de sus rodillas. Luego la levanta hasta su cintura y la goza; ella se prende de su cuello con ambas manos.
+Se traduce como "forma de pie con la rodilla y el codo"; esta posición requiere una gran fuerza física de parte del hombre. Ambos de pie, uno enfrente de otro. El hombre pasa los dos brazos bajo las rodillas de su mujer, sosteniéndola sobre la parte interior de sus rodillas. Luego la levanta hasta su cintura y la goza; ella se prende de su cuello con ambas manos.
 
 _Posición de transición (él)_
 
@@ -3791,13 +3015,7 @@ Si el muslo rodea la pierna del hombre, ella logra una penetración más profund
 
 También requiere fuerza en el hombre, aunque no tanta como la primera subdivisión.
 
-La mujer, tomada de la cintura de su hombre con brazos y piernas, se cuelga, por así graficarlo,
-
-153
-
-##### **_Ananga Ranga_**
-
-de él; él la sostiene colocando sus antebrazos bajo las caderas. Si la mujer es liviana él podrá sostenerla con un brazo alrededor de la cintura y usará la otra mano para acariciarla.
+La mujer, tomada de la cintura de su hombre con brazos y piernas, se cuelga, por así graficarlo, de él; él la sostiene colocando sus antebrazos bajo las caderas. Si la mujer es liviana él podrá sostenerla con un brazo alrededor de la cintura y usará la otra mano para acariciarla.
 
 _Apretar_ (ella)
 
@@ -3819,13 +3037,7 @@ Aferrado a sus caderas y cintura, se moverá a su propio ritmo.
 
 ##### **_Aybha-vyanta-bandha_**
 
-La "postura del elefante": la mujer yace de tal manera que su cara, pecho, vientre y muslos
-
-154
-
-##### **_Ananga Ranga_**
-
-tocan el lecho o alfombra, y el hombre, extendiéndose sobre ella y doblándose como un, elefante, con la parte inferior de su espalda muy curvada, la toma por debajo hasta lograr la penetración.
+La "postura del elefante": la mujer yace de tal manera que su cara, pecho, vientre y muslos tocan el lecho o alfombra, y el hombre, extendiéndose sobre ella y doblándose como un, elefante, con la parte inferior de su espalda muy curvada, la toma por debajo hasta lograr la penetración.
 
 _Empinar y comprimir (ella)_
 
@@ -3851,13 +3063,7 @@ Y el poeta respondió:
 
 #### **_Purushayita-bandha (ella arriba)_**
 
-Esta posición es contraria a aquella que los hombres practican habitualmente. En este caso
-
-155
-
-##### **_Ananga Ranga_**
-
-el hombre se recuesta sobre su espalda, coloca a su mujer encima suyo y así la goza. Resuelta especialmente útil cuando él está cansado y no es capaz de esfuerzo muscular, mientras que ella no se ha satisfecho y está todavía llena de ansias de amor.
+Esta posición es contraria a aquella que los hombres practican habitualmente. En este caso el hombre se recuesta sobre su espalda, coloca a su mujer encima suyo y así la goza. Resuelta especialmente útil cuando él está cansado y no es capaz de esfuerzo muscular, mientras que ella no se ha satisfecho y está todavía llena de ansias de amor.
 
 La mujer lleva a su hombre a la posición boca arriba sobre el lecho, se monta sobre él y satisface sus deseos.
 
@@ -3873,13 +3079,7 @@ En el _Ananga Ranga_ se recomienda: la mujer debe recordar que el placer de la r
 
 Por ello, debe cerrar su _yoni_ para apresar la _linga_ , asegurarla dentro de sí y manejarla a voluntad, sin impedir sus movimientos.
 
-Para ayudar a estos movimientos, abre o cierra la gruta del paraíso a voluntad; al tiempo
-
-156
-
-##### **_Ananga Ranga_**
-
-que maneja la mano como la pastora que ordeña la vaca.
+Para ayudar a estos movimientos, abre o cierra la gruta del paraíso a voluntad; al tiempo que maneja la mano como la pastora que ordeña la vaca.
 
 Esto se aprende con mucha práctica y, sobre todo, concentrándose en las zonas que se verán más beneficiadas, de una forma similar a como los hombres se esmeran en mejorar sus otros sentidos.
 
@@ -3893,13 +3093,7 @@ Esta posición posibilita que ambos conserven una gran amplitud de movimientos, 
 
 ##### **_Uthita-uttana-bandha_**
 
-La "posición elevada": la mujer, insatisfecha por la unión sexual anterior, pone a su hombre de espaldas y se sienta con las piernas cruzadas
-
-157
-
-##### **_Ananga Ranga_**
-
-sobre sus muslos, aprisiona su _linga,_ la conduce a la inserción y comienza a moverse de arriba hacia abajo y de atrás hacia adelante.
+La "posición elevada": la mujer, insatisfecha por la unión sexual anterior, pone a su hombre de espaldas y se sienta con las piernas cruzadas sobre sus muslos, aprisiona su _linga,_ la conduce a la inserción y comienza a moverse de arriba hacia abajo y de atrás hacia adelante.
 
 Al igual que el _Kama Sutra_ , el _Ananga Ranga_ aconseja estas posiciones donde la mujer aparece como la "dominadora"; ésta es una de las maneras de reactivar la sexualidad del hombre, que ya ha liberado el néctar de su _linga_ una o dos veces.
 
@@ -3915,13 +3109,7 @@ _Todo está permitido (ella)_
 
 Si lo desea, ella puede intentar acariciar su clítoris, aun cuando esté realizando un coito muy apretado. Nada está prohibido, lo que se busca es excitar todavía más al amante.
 
-Además de las caricias que pueden prodigarse los amantes, además de los besos y otras caricias deben jugar a lo que propone el autor del _Ananga Ranga:_ compartir el aliento mientras ella se
-
-158
-
-##### **_Ananga Ranga_**
-
-ruboriza, como si fuera una doncella que se ha atrevido a estar gozando de una experiencia tan comprometedora.
+Además de las caricias que pueden prodigarse los amantes, además de los besos y otras caricias deben jugar a lo que propone el autor del _Ananga Ranga:_ compartir el aliento mientras ella se ruboriza, como si fuera una doncella que se ha atrevido a estar gozando de una experiencia tan comprometedora.
 
 Estas formas de unión sexual invierten el orden natural; por ello la mujer aspira- su aliento del modo llamado _sitkara,_ sonríe dulcemente y se muestra un poco avergonzada, con semblante tan atractivo que resultaría imposible describirlo, tras lo cual dirá a su hombre:
 
@@ -3935,13 +3123,7 @@ Debe esforzarse por ensanchar y apretar el _yoni_ como quien abre y cierra una f
 
 Esto se aprende sólo mediante una larga práctica y, especialmente, volcando toda la voluntad sobre la parte interesada, como los hombres cuando se esfuerzan por agudizar su sentido del oído y su sentido del tacto.
 
-Mientras lo hace, repite mentalmente: _¡Kamadeva, Kamadeva!,_ así obtiene bendiciones
-
-159
-
-##### **_Ananga Ranga_**
-
-para sus fines, y se alegra al saber que esta técnica, una vez aprendida, ya nunca se olvida.
+Mientras lo hace, repite mentalmente: _¡Kamadeva, Kamadeva!,_ así obtiene bendiciones para sus fines, y se alegra al saber que esta técnica, una vez aprendida, ya nunca se olvida.
 
 Su hombre la valora entonces por encima del resto de las mujeres, y no la cambia por la más bella _rani_ (reina) de los tres mundos.
 
@@ -3969,10 +3151,6 @@ Si un hombre y una mujer conviven de mutuo acuerdo, como un alma en un solo cuer
 
 ### La pareja unida
 
-160
-
-##### **_Ananga Ranga_**
-
 Como nunca se escribió un libro que evite la separación de la pareja casada y le enseñe el modo de vivir unida, he redactado este tratado y se lo ofrecí al dios Pandurang.
 
 La razón primordial para la separación de la pareja casada, y la causa que conduce al esposo a los brazos de otras mujeres, y a la esposa a los de otros hombres, es la necesidad de la variedad en el placer y la monotonía que sigue a la posesión. Sobre esto no hay duda.
@@ -3986,11 +3164,6 @@ No es frecuente que ambos se amen y desean con intensidad semejante, por los que
 Las separaciones generan poligamia, adulterios, abortos y toda suerte de vicios; cuando esto sucede no son sólo el esposo y la esposa extraviados quienes se deslizan al abismo. Arrastran con ellos los nombres de sus antepasados difuntos del sitio de los mortales elegidos al infierno o de regreso a este mundo.
 
 Consciente de las causas que suscitan estas querellas, he escrito este libro para mostrar cómo el esposo, mediante la variedad en el goce de su
-
-161
-
-##### **_Ananga Ranga_**
-
 esposa, puede vivir con ella como treinta y dos mujeres diferentes, cambiando siempre de procedimientos para hacer imposible la saciedad.
 
 También he indicado con precisión toda clase de misterios y artes útiles para que ella pueda presentarse ante los ojos de él: pura, hermosa y placentera.
@@ -4007,4 +3180,4 @@ _oh, su ritmo, ese placer desatado... Conservo en mi piel su ardor infinito. ¡C
 
 _Pero para qué seguir hablando si aún la llevo en mi piel._
 
-162
+[^1]: Estas antiguas recetas no gozan de ninguna comprobación científica ni se pueden garantizar como inocuas. Incluidas en el texto original, simplemente se las consigna como parte de él, aunque el editor no se hace responsable por su eventual aplicación por parte de algún lector.
