@@ -52,17 +52,17 @@ Traducción de Héctor Arnau
 
 ## Galería de Imágenes
 
-![Retrato de Alce Negro](/media/alce-negro-habla/alce_negro.webp)
+![Retrato de Alce Negro](@/media/alce-negro-habla/alce_negro.webp)
 _Lo que hay de bueno en este libro se restituye a los Seis Antepasados y a los grandes hombres de mi pueblo_  
 _Alce Negro_
 
-![El mundo de los lakotas ca. 1860-1890](/media/alce-negro-habla/el_mundo_de_los_lakotas.webp)
+![El mundo de los lakotas ca. 1860-1890](@/media/alce-negro-habla/el_mundo_de_los_lakotas.webp)
 _El mundo de los lakotas ca. 1860-1890_
 
-![La gran región de las Black Hills ca. 1880-1890](/media/alce-negro-habla/la_gran_región_de_las_black_hills_ca._1880-1890.webp)
+![La gran región de las Black Hills ca. 1880-1890](@/media/alce-negro-habla/la_gran_región_de_las_black_hills_ca._1880-1890.webp)
 _La gran región de las Black Hills ca. 1880-1890_
 
-![Reserva de Pine Ridge ca. 1930](/media/alce-negro-habla/reserva_de_pine_ridge_ca._1930.webp)
+![Reserva de Pine Ridge ca. 1930](@/media/alce-negro-habla/reserva_de_pine_ridge_ca._1930.webp)
 _Reserva de Pine Ridge ca. 1930_
 
 ## Prólogo
@@ -2675,33 +2675,33 @@ El anciano estuvo callado durante varios minutos, con la cara levantada, llorand
 
 ### Apéndice 1. Fotografías
 
-![Alce Negro y Alce ](/media/alce-negro-habla/alce_negro_y_alce.webp)
+![Alce Negro y Alce ](@/media/alce-negro-habla/alce_negro_y_alce.webp)
 _Alce Negro y Alce tal como aparecían durante su gira por Europa con el espectáculo del Salvaje Oeste de Buffalo Bill._  
 _Fotografías reproducidas con el permiso del Instituto Smithsoniano, Archivo Nacional de Antropología. Negativo SI n.º 72-7106._
 
-![Enid Neihardt, Nick Alce Negro, Ben Alce Negro, Oso Erecto y John G. Neihardt.](/media/alce-negro-habla/enid_neihardt,_nick_alce_negro,_ben_alce_negro,_oso_erecto_y_john_g._neihardt.webp)
+![Enid Neihardt, Nick Alce Negro, Ben Alce Negro, Oso Erecto y John G. Neihardt.](@/media/alce-negro-habla/enid_neihardt,_nick_alce_negro,_ben_alce_negro,_oso_erecto_y_john_g._neihardt.webp)
 _Enid Neihardt, Nick Alce Negro, Ben Alce Negro, Oso Erecto y John G. Neihardt. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![John G. Neihardt](/media/alce-negro-habla/john_g._neihardt.webp)
+![John G. Neihardt](@/media/alce-negro-habla/john_g._neihardt.webp)
 _John G. Neihardt en el estudio de su casa en Branson (Misuri) a principios de la década de 1930._
 
-![Alce Negro con su pandero y Oso Erecto con la pipa de Alce Negro](/media/alce-negro-habla/alce_negro_con_su_pandero_y_oso_erecto_con_la_pipa_de_alce_negro.webp)
+![Alce Negro con su pandero y Oso Erecto con la pipa de Alce Negro](@/media/alce-negro-habla/alce_negro_con_su_pandero_y_oso_erecto_con_la_pipa_de_alce_negro.webp)
 _Alce Negro con su pandero y Oso Erecto con la pipa de Alce Negro, con una manta del tipo jefe Joseph en primer plano. Fotografía tomada por John G. Neihardt durante las entrevistas para Alce Negro habla. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![Alce Negro en un banquete](/media/alce-negro-habla/alce_negro_en_un_banquete.webp)
+![Alce Negro en un banquete](@/media/alce-negro-habla/alce_negro_en_un_banquete.webp)
 _Alce Negro en un banquete celebrado en honor de John G. Neihardt en mayo de 1931. Fotografía tomada por John G. Neihardt. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![Oso Erecto en ese mismo banquete](/media/alce-negro-habla/oso_erecto_en_ese_mismo_banquete.webp)
+![Oso Erecto en ese mismo banquete](@/media/alce-negro-habla/oso_erecto_en_ese_mismo_banquete.webp)
 _Oso Erecto en ese mismo banquete. Fotografía tomada por John G. Neihardt. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![Hilda Neihardt, Alce Negro, Caza-en-la-Mañana, y John G. Neihardt](/media/alce-negro-habla/hilda_neihardt,_alce_negro,_caza-en-la-mañana,_y_john_g._neihardt.webp)
+![Hilda Neihardt, Alce Negro, Caza-en-la-Mañana, y John G. Neihardt](@/media/alce-negro-habla/hilda_neihardt,_alce_negro,_caza-en-la-mañana,_y_john_g._neihardt.webp)
 _Hilda Neihardt, Alce Negro, Caza-en-la-Mañana, y John G. Neihardt preparados para un juego de puntería con la lanza._  
 _Fotografía tomada enfrente de la casa de Alce Negro en mayo de 1931. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![Alce Negro y Neihardt](/media/alce-negro-habla/alce_negro_y_neihardt.webp)
+![Alce Negro y Neihardt](@/media/alce-negro-habla/alce_negro_y_neihardt.webp)
 _Alce Negro y Neihardt en la celebración de la victoria sioux en Pine Ridge en septiembre de 1945. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
-![John G. Neihardt con el pandero de Alce Negro](/media/alce-negro-habla/john_g._neihardt_con_el_pandero_de_alce_negro.webp)
+![John G. Neihardt con el pandero de Alce Negro](@/media/alce-negro-habla/john_g._neihardt_con_el_pandero_de_alce_negro.webp)
 _John G. Neihardt con el pandero de Alce Negro en la biblioteca de Skyrim, su casa en Columbia (Misuri), en 1958 o 1959._
 
 ## Apéndice 2
@@ -3072,9 +3072,9 @@ Durante las entrevistas con Alce Negro, tal y como John Neihardt describe en el 
 
 La comparación de la transcripción y el manuscrito revela que Neihardt suprimió detalles innecesarios, modificó expresiones extrañas e introdujo un tono de reverencia y solemnidad que convirtió el relato oral en literatura. Para el lector general los detalles omitidos emborronarían la historia, dificultando su seguimiento; pero para los antropólogos, los folkloristas y los estudiantes de religión algunos de estos detalles pueden ser importantes. Por ejemplo, desde el principio de la historia la mujer es vista cargando con algo, y cuando llega al campamento primero deja su carga mirando al este. Una docena de detalles específicos de este tipo que no aparecen en la historia se encuentran en la transcripción.
 
-![Ejemplos del borrador manuscrito de Neihardt - 5a](/media/alce-negro-habla/ejemplos_del_borrador_manuscrito_de_neihardt_-_5a.webp)
+![Ejemplos del borrador manuscrito de Neihardt - 5a](@/media/alce-negro-habla/ejemplos_del_borrador_manuscrito_de_neihardt_-_5a.webp)
 
-![Ejemplos del borrador manuscrito de Neihardt - 6a](/media/alce-negro-habla/ejemplos_del_borrador_manuscrito_de_neihardt_-_6a.webp)
+![Ejemplos del borrador manuscrito de Neihardt - 6a](@/media/alce-negro-habla/ejemplos_del_borrador_manuscrito_de_neihardt_-_6a.webp)
 _10 y 11. Ejemplos del borrador manuscrito de Neihardt. Cortesía de la Colección de Manuscritos Históricos del Oeste en Columbia, archivos de John G. Neihardt (1881-1973), ca. 1858-1974._
 
 ### La Transcripción

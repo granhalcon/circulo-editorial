@@ -54,7 +54,7 @@ license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   - 7 — _Ishna ta awi cha lowan_: PREPARACIÓN DE LA MUCHACHA PARA LOS DEBERES DE MUJER
   - 8 — _Tapa wanka yap_: EL LANZAMIENTO DE LA PELOTA
 
-![grabado](/media/la-pipa-sagrada/fig_1.webp)
+![grabado](@/media/la-pipa-sagrada/fig_1.webp)
 
 ## PRÓLOGO
 
@@ -149,13 +149,13 @@ Lo que acabamos de decir permitirá comprender por qué la naturaleza —paisaje
 
 ## LA PIPA SAGRADA
 
-![grabado](/media/la-pipa-sagrada/alce_negro.webp)
+![grabado](@/media/la-pipa-sagrada/alce_negro.webp)
 _HEHAKA SAPA (ALCE N EGRO)  
 (Fotografía de J. E. Brown, 1947.)_
 
 ## PREFACIO DE HEHAKA SAPA
 
-![grabado](/media/la-pipa-sagrada/fig_2.webp)
+![grabado](@/media/la-pipa-sagrada/fig_2.webp)
 
 En la gran visión que me sobrevino en el alba de mi vida, cuando había conocido apenas nueve inviernos, había algo cuya importancia se me ha ido revelando a medida que las lunas pasaban. Quiero hablar de nuestra Pipa sagrada y de lo que significa para nuestro pueblo.
 
@@ -174,7 +174,7 @@ Debemos comprender que todas las cosas son obra del Gran Espíritu. Debemos sabe
 
 ## 1 — EL DESCENSO DE LA PIPA SAGRADA
 
-![grabado](/media/la-pipa-sagrada/fig_3.webp)
+![grabado](@/media/la-pipa-sagrada/fig_3.webp)
 
 Muchos inviernos han pasado desde que esto sucedió: dos lakotas[^1-1] habían salido de caza y estaban al acecho sobre una colina; entonces vieron a lo lejos, en el mismo instante en que salía el sol, algo que avanzaba en su dirección de un modo extraño y maravilloso. Cuando se hubo aproximado, vieron que era una mujer muy bella, vestida con blancas pieles de gamo, y que llevaba sobre la espalda una bolsa con flecos. Entonces uno de los hombres tuvo pensamientos impuros y se los comunicó a su amigo; pero éste le dijo que no tuviera tales pensamientos, pues seguramente aquélla era una mujer _wakan_, una mujer sagrada[^1-2]. Pronto esta mujer estuvo cerca; y después de soltar su bolsa, pidió al que tenía intenciones impuras que se acercara a ella. Cuando el joven se aproximó a la mujer misteriosa, una gran nube les envolvió a los dos, y cuando, poco después, se disipó, la mujer seguía de pie y en el suelo yacía el hombre malo reducido a la condición de un esqueleto, y unas serpientes le roían[^1-3]. La mujer dijo entonces al otro, al ho mbre bueno: «¡Considera eso que ves! Voy al encuentro de tu pueblo y deseo hablar a tu jefe _Hehloghecha Najin_, Cuerno Hueco De Pie. Regresa junto a él y dile que prepare una tienda espaciosa en la que reunirá a todo su pueblo y preparará mi llegada. Quiero deciros algo muy importante.»
 
@@ -212,7 +212,7 @@ Después de dar la vuelta a la tienda siguiendo el movimiento del sol, la mujer 
 
 ## 2 — LA CUSTODIA DEL ALMA
 
-![grabado](/media/la-pipa-sagrada/fig_4.webp)
+![grabado](@/media/la-pipa-sagrada/fig_4.webp)
 
 ### 1
 
@@ -442,7 +442,7 @@ Así terminó el rito; en todo el campamento la gente era feliz y manifestaba su
 
 ## 3 — _Inipi:_ EL RITO DE LA PURIFICACIÓN
 
-![grabado](/media/la-pipa-sagrada/fig_5.webp)
+![grabado](@/media/la-pipa-sagrada/fig_5.webp)
 
 En el rito del _onikaghe_ —la cabaña de sudar— intervienen todos los Poderes del Universo: la Tierra y todo lo que nace de ella; el agua, el fuego y el aire. El agua representa a los Seres del Trueno, que aparecen de una manera terrible pero traen beneficios: pues el vapor que sale de los peñascos en los que yace el fuego es pavoroso, pero nos purifica y nos permite así vivir como el Gran Espíritu quiere. Si nos volvemos realmente puros, puede ser incluso que el Gran Espíritu nos envíe una visión.
 
@@ -452,10 +452,10 @@ La cabaña de sudar se construye con doce o dieciséis sauces jóvenes; también
 
 Los sauces que forman el armazón de la cabaña de sudar se clavan en el suelo de m anera que indiquen las cuatro Direcciones del Universo; de este modo en el conjunto de la cabaña está el Universo en imagen, y ella cobija a los pueblos bípedos, cuadrúpedos y alados y a todas las cosas del mundo; todos estos pueblos y todas estas cosas deben ser purificados antes de poder enviar una voz al Gran Espíritu.
 
-![grabado](/media/la-pipa-sagrada/fig_6.webp)
+![grabado](@/media/la-pipa-sagrada/fig_6.webp)
 _INIPI: LA CABAÑA DE PURIFICACION_
 
-![grabado](/media/la-pipa-sagrada/fig_7.webp)
+![grabado](@/media/la-pipa-sagrada/fig_7.webp)
 
 Las piedras que empleamos en este rito representan a nuestra Abuela Tierra, de la que provienen todos los frutos; pero las piedras representan también la Naturaleza indestructible y eterna del Gran Espíritu.
 
@@ -979,7 +979,7 @@ Debo explicaros ahora que, al edificar el pabellón de la danza del sol, constru
 
 Los guerreros se vistieron y se peinaron. Entraron en el recinto y danzaron alrededor del árbol central; de este modo el suelo se purificaba y se nivelaba. Los jefes se reunieron y escogieron a los valientes, uno de los cuales iba a ser el director de la danza. Estos hombres escogidos danzaron avanzando primero hacia el Oeste y volviendo al centro,
 
-![grabado](/media/la-pipa-sagrada/fig_8.webp)
+![grabado](@/media/la-pipa-sagrada/fig_8.webp)
 _CABAÑA DE LA DANZA DEL SOL_
 
 luego hacia el Norte y de nuevo al centro, después hacia el Este y regresando otra vez al centro, y finalmente hacia el Sur y de nuevo al centro; de este modo hicieron un recorrido en forma de cruz.
