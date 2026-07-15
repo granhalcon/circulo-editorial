@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %} {{ config.title }} {% endblock title %}</title>
+    <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
+
+    <script>
+      const savedTheme = localStorage.getItem("theme") || "mocha";
+      document.documentElement.dataset.theme = savedTheme;
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <div class="theme-switcher">
+        <button
+          id="theme-button"
+          class="theme-button"
+          aria-label="Cambiar tema"
+        ></button>
+
+        <div id="theme-menu" class="theme-menu">
+          <button data-theme="mocha">Mocha</button>
+          <button data-theme="macchiato">Macchiato</button>
+          <button data-theme="frappe">Frappé</button>
+          <button data-theme="latte">Latte</button>
+        </div>
+      </div>
+
+      <h1>
+        <a href="{{ config.base_url }}"> {{ config.title }} </a>
+      </h1>
+    </header>
+
+    <main>{% block content %} {% endblock content %}</main>
+
+    <footer>
+      <p>{{ config.title }}</p>
+    </footer>
+
+    <script>
+      const button = document.getElementById("theme-button");
+      const menu = document.getElementById("theme-menu");
+
+      button.addEventListener("click", (e) => {
+        e.stopPropagation(); // Evita interferencias con otros elementos del header
+        menu.classList.toggle("open");
+      });
+
+      // Cerrar el menú si hacen clic fuera de él
+      document.addEventListener("click", (e) => {
+        if (!menu.contains(e.target) && e.target !== button) {
+          menu.classList.remove("open");
+        }
+      });
+
+      document.querySelectorAll("#theme-menu button").forEach((item) => {
+        item.addEventListener("click", () => {
+          const theme = item.dataset.theme;
+          document.documentElement.dataset.theme = theme;
+          localStorage.setItem("theme", theme);
+          menu.classList.remove("open");
+        });
+      });
+    </script>
+  </body>
+</html>

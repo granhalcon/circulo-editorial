@@ -1,0 +1,13 @@
+{% extends "base.html" %} {% block content %}
+<h1>{{ section.title }}</h1>
+
+<ol class="lista-libros">
+  {% for ruta_libro in section.subsections %} {% set libro =
+  get_section(path=ruta_libro) %}
+  <li>
+    <a href="{{ libro.permalink }}">{{ libro.title }}</a>
+  </li>
+  {% endfor %}
+</ol>
+
+{% endblock content %}

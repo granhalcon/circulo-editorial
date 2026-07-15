@@ -1,0 +1,62 @@
+{% extends "base.html" %} {% block content %} {# Obtenemos el índice del libro
+usando el primer ancestro en la jerarquía #} {% if section.ancestors %} {% set
+path_indice = section.ancestors | last %} {% set indice =
+get_section(path=path_indice) %}
+<div class="nav-back">
+  <a href="{{ indice.permalink }}" class="btn-back">← Volver al Índice</a>
+</div>
+{% endif %}
+
+<h1>{{ section.title }}</h1>
+
+{% set portada = "media/" ~ section.path ~ section.extra.cover %}
+
+<img
+  class="portada"
+  src="{{ get_url(path=portada) }}"
+  alt="{{ section.extra.cover_alt }}"
+/>
+
+<p>{{ section.description }}</p>
+
+{% if section.toc %}
+<nav class="toc">
+  <h2>Contenido</h2>
+
+  <ul>
+    {% for h1 in section.toc %}
+    <li>
+      <a href="#{{ h1.id }}">{{ h1.title }}</a>
+
+      {% if h1.children %}
+      <ul>
+        {% for h2 in h1.children %}
+        <li>
+          <a href="#{{ h2.id }}">{{ h2.title }}</a>
+
+          {% if h2.children %}
+          <ul>
+            {% for h3 in h2.children %}
+            <li>
+              <a href="#{{ h3.id }}">{{ h3.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
+
+<article>{{ section.content | safe }}</article>
+
+{# Botón al final del libro #} {% if section.ancestors %}
+<div class="nav-back text-center" style="margin-top: 3rem">
+  <a href="{{ indice.permalink }}" class="btn-back">← Volver al Índice</a>
+</div>
+{% endif %} {% endblock content %}

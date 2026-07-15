@@ -1,0 +1,21 @@
+# Archivos temporales de trabajo
+__scratch__/
+
+# Scripts locales de procesamiento
+__scripts__/
+
+# Fuentes originales (PDFs, documentos, material base)
+**/__fuentes__/
+
+# Salida generada por Zola
+public/
+
+# Entorno Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

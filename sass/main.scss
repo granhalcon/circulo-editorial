@@ -1,0 +1,318 @@
+:root {
+  --bg: #1e1e2e;
+  --surface: #313244;
+  --text: #cdd6f4;
+  --subtext: #a6adc8;
+  --accent: #89b4fa;
+  --border: #45475a;
+}
+
+[data-theme="latte"] {
+  --bg: #eff1f5;
+  --surface: #ccd0da;
+  --text: #4c4f69;
+  --subtext: #6c6f85;
+  --accent: #1e66f5;
+  --border: #bcc0cc;
+}
+
+[data-theme="frappe"] {
+  --bg: #303446;
+  --surface: #414559;
+  --text: #c6d0f5;
+  --subtext: #a5adce;
+  --accent: #8caaee;
+  --border: #51576d;
+}
+
+[data-theme="macchiato"] {
+  --bg: #24273a;
+  --surface: #363a4f;
+  --text: #cad3f5;
+  --subtext: #a5adcb;
+  --accent: #8aadf4;
+  --border: #494d64;
+}
+
+[data-theme="mocha"] {
+  --bg: #1e1e2e;
+  --surface: #313244;
+  --text: #cdd6f4;
+  --subtext: #a6adc8;
+  --accent: #89b4fa;
+  --border: #45475a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+  padding: 1rem;
+
+  background: var(--bg);
+
+  color: var(--text);
+
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent);
+}
+
+header,
+footer {
+  padding: 1rem 0;
+
+  text-align: center;
+}
+
+main {
+  max-width: 900px;
+
+  margin: auto;
+}
+
+.libros {
+  display: grid;
+
+  gap: 1rem;
+}
+
+.libro {
+  background: var(--surface);
+
+  border: 1px solid var(--border);
+
+  padding: 1rem;
+
+  border-radius: 12px;
+}
+
+/* PORTADAS */
+
+.portada {
+  display: block;
+
+  width: 100%;
+
+  max-width: 750px;
+
+  height: auto;
+
+  margin: 2rem auto;
+
+  border-radius: 8px;
+}
+/* ARTICLE IMG */
+
+article img {
+  display: block;
+
+  width: 100%;
+
+  max-width: 750px;
+
+  height: auto;
+
+  margin: 2rem auto;
+}
+
+/* TEXTO */
+
+article {
+  max-width: 750px;
+
+  margin: auto;
+
+  font-size: 1.1rem;
+
+  line-height: 1.8;
+}
+
+.toc {
+  background: var(--surface);
+
+  padding: 1rem;
+
+  border-radius: 12px;
+
+  margin: 2rem 0;
+}
+
+/* =========================
+   Theme Switcher (Corregido Definitivo)
+   ========================= */
+
+.theme-switcher {
+  position: relative;
+  display: inline-flex; /* Cambiado a inline-flex para que no ocupe todo el ancho del header */
+  margin: 1rem auto;
+  z-index: 1000;
+}
+
+/* =========================
+   Theme Switcher - Botón Círculo
+   ========================= */
+
+.theme-button {
+  width: 28px;
+  height: 28px;
+
+  /* --- ESTO QUITA EL BORDE POR DEFECTO --- */
+  border: none !important; /* Quita el borde físico */
+  outline: none !important; /* Quita el borde de enfoque (focus) resaltado por el navegador */
+  /* -------------------------------------- */
+
+  padding: 0;
+  border-radius: 50%; /* Mantiene la forma circular */
+  background: var(--accent); /* Usa el color de acento del tema activo */
+  cursor: pointer;
+
+  /* Asegura una transición suave al hacer hover, pero sin bordes */
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+/* Opcional: Un ligero efecto de sombra en hover en lugar de borde */
+.theme-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 8px var(--accent); /* Una sombra suave del mismo color */
+}
+
+/* Asegura que no aparezca el borde azul por defecto del navegador al hacer focus */
+.theme-button:focus {
+  outline: none !important;
+  box-shadow: 0 0 0 3px rgba(137, 180, 250, 0.5); /* Opcional: una sombra de enfoque sutil y estética */
+}
+.theme-menu {
+  position: absolute;
+  top: 36px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-10px); /* Centrado perfecto respecto al botón azul */
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.6rem;
+  border-radius: 12px;
+
+  /* Uso estricto de las variables del tema */
+  background-color: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease;
+  width: 120px; /* Ancho fijo para consistencia */
+}
+
+.theme-menu.open {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* Forzado absoluto en los botones del menú */
+.theme-menu button {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--surface) !important; /* Forzado al fondo de la tarjeta */
+  color: var(--text) !important; /* Forzado al color de texto activo */
+  border: 1px solid var(--border) !important;
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  width: 100%;
+  display: block;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition:
+    background 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s;
+}
+
+/* Hover de las opciones del menú */
+.theme-menu button:hover {
+  background: var(
+    --bg
+  ) !important; /* Usa el color de fondo general al pasar el cursor */
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+}
+/* MOVIL */
+
+@media (max-width: 600px) {
+  body {
+    padding: 0.8rem;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  .portada {
+    width: 260px;
+
+    max-width: 80vw;
+  }
+
+  article {
+    font-size: 1rem;
+
+    line-height: 1.7;
+  }
+
+  .theme-button {
+    width: 28px;
+
+    height: 28px;
+  }
+}
+/* =========================
+   Botón de Regreso (Back Button)
+   ========================= */
+
+.nav-back {
+  margin: 1rem 0 2rem 0;
+}
+
+.btn-back {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  background: var(--surface);
+  color: var(--text) !important;
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.btn-back:hover {
+  background: var(--bg);
+  border-color: var(--accent);
+  color: var(--accent) !important;
+}
+
+.text-center {
+  display: flex;
+  justify-content: center;
+}
