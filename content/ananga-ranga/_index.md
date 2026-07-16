@@ -79,7 +79,7 @@ DIVISION ARTE LONGSELLER DIRECCION DE ARTE: Adriana Llano COORDINACION GENERAL: 
 
 Longseller S.A. Casa matriz: Avda. San Juan 777 (C1147AAF) Buenos Aires República Argentina Internet: www.longseller.com.ar E-mail: ventas@longseller.com.ar
 
-Kalyana Malla Ananga Ranga. – 1<sup>a</sup> ed.- Buenos Aires: longseller, 2004. 256 p.; 18x11 cm (Clásicos de Siempre) ISBN 987-550-424-6 1. Autoayuda. I. Título CDO 158.1
+Kalyana Malla Ananga Ranga. – 1ª ed.- Buenos Aires: longseller, 2004. 256 p.; 18x11 cm (Clásicos de Siempre) ISBN 987-550-424-6 1. Autoayuda. I. Título CDO 158.1
 
 Queda hecho el depósito que marca la ley 11.723.
 
@@ -631,7 +631,6 @@ _En la intrigante oscuridad, ella me miró con sus ojos ansiosos lleno de pasió
 
 _de sus túnicas y en su desnudez, vi los destellos de su cuerpo._
 
-27
 
 ## _Capítulo 3_
 
@@ -791,7 +790,7 @@ Por esta razón, una _linga_ pequeña no satisface a la mujer; por otra parte, u
 
 Entonces la proporción del goce deriva de la adaptación exacta de la _linga,_ especialmente cuando el diámetro concuerda con la longitud.
 
-#### **_Otras caracteristicas de la unión amorosa_**
+#### _Otras caracteristicas de la unión amorosa_
 
 Las nueve formas de unión sexual señaladas anteriormente se subdividen en otras nueve clases.
 
@@ -833,31 +832,22 @@ En síntesis: hay veintisiete clases de unión sexual. Si a éstas las multiplic
 
 _Tus ojos lascivos me llamaban, tus labios rojos dibujaban mi deseo; acepté la invitación de tu cuerpo, y me perdí, en el azafrán aromado de tus brazos._
 
-38
-
-## **_Capítulo 4_**
+## _Capítulo 4_
 
 _Todavía recuerdo su cuerpo horadado por del deseo y cómo su ímpetu irresistible me arrastró; aún la siento, como una gacela ansiosa, respirando cerca de mi piel_
 
-## Cualidades, características y temperamentos de las mujeres
+### Cualidades, características y temperamentos de las mujeres
 
 Las cualidades que debe presentar la mujer para considerarse lista para la unión sexual, de acuerdo con los cuatro períodos de su vida (incluyendo las preferencias en cuanto al día o la noche y medios de seducción), son los siguientes:
 
-_Bala_ (de 13 a 16 años)
-
-Ya está apta para la unión sexual. Se debe abordar preferentemente en la oscuridad. La seducción se realiza por medio de flores, algún pequeño regalo y cosas por el estilo.
-
-_Taruni_ (de 16 a 30 años)
-
-Apta para la unión sexual. Se debe abordar con preferencia durante el día. La seducción es por medio de vestidos, perlas y adornos.
-
-_Prandha_ (de 30 a 55 años)
-
-Apta para la unión sexual. Se puede realizar el acto tanto en la oscuridad como en la luz. En este caso las atenciones, la bondad y el amor son las herramientas de seducción.
-
-_Vriddha_ (55 años o más)
-
-No apta para la unión sexual. Generalmente está enferma o indispuesta. Solamente las lisonjas funcionan como arma de seducción.
+- _Bala_ (de 13 a 16 años)  
+  Ya está apta para la unión sexual. Se debe abordar preferentemente en la oscuridad. La seducción se realiza por medio de flores, algún pequeño regalo y cosas por el estilo.
+- _Taruni_ (de 16 a 30 años)  
+  Apta para la unión sexual. Se debe abordar con preferencia durante el día. La seducción es por medio de vestidos, perlas y adornos.
+- _Prandha_ (de 30 a 55 años)  
+  Apta para la unión sexual. Se puede realizar el acto tanto en la oscuridad como en la luz. En este caso las atenciones, la bondad y el amor son las herramientas de seducción.
+- _Vriddha_ (55 años o más)  
+  No apta para la unión sexual. Generalmente está enferma o indispuesta. Solamente las lisonjas funcionan como arma de seducción.
 
 Desde el nacimiento hasta los ocho años **la** mujer recibe el nombre de _kanya._ Es el período de la infancia o _balyavashta_ ; desde entonces hasta los once años, se las llama _gauri,_ en homenaje a la diosa blanca. Cuando alcanza la edad del matrimonio: _Parvati, Tarunyavashta,_ y luego, _yavavashta,_ mientras es joven, y _vreuddavashta_ cuando envejece.
 
@@ -1071,9 +1061,7 @@ _y del moño, que cargado de flores, sostenía,_
 
 _como una caracola, sus cabellos._
 
-50
-
-## **_Capítulo 5_**
+## _Capítulo 5_
 
 _Llevo en mi piel el recuerdo_
 
@@ -1145,9 +1133,7 @@ _Guardo en la memoria de mi mano la tersura de su vientre, la sombra de su vello
 
 _de Champaka, relajada e indolente, tras los torbellinos del amor._
 
-56
-
-## **_Capítulo 6_**
+## _Capítulo 6_
 
 _Aunque tuviera ante mí su fino cuerpo consumido por la ardorosa pasión y contemplara la sinuosidad de sus pechos voluptuosos, mi deseo se abocaría a la luna llena de sus nalgas._
 
@@ -1161,239 +1147,224 @@ Es evidente que por ser la mujer de sangre más fría y menos excitable, su orga
 
 De ahí resulta que uno de los principales deberes del hombre en esta vida es el de aprender a retardar su propia eyaculación tanto como le sea posible y, al mismo tiempo, acelerar el orgasmo de su compañera.
 
-#### _Cómo acelerar el orgasmo_
+### _Cómo acelerar el orgasmo_
 
 Nota [^1]
 
-##### **• 1º** **_prayoga_**
+#### • 1º _prayoga_
 
 Tome _shopa_ o anís, _anethumsowa (pimpinella anisium),_ reducida a polvo impalpable. Colar y hacer una mezcla con miel.
 
 En la unión sexual, se aplica a la _linga_ de modo que penetre en el _yoni_ lo más adentro posible. Inducirá a la mujer al deleite sexual y la someterá al poder del hombre.
 
-##### **• 2º** **_prayoga_**
+#### • 2º _prayoga_
 
-Las semillas del _rui_ (cosmópida gigante, asclepias o _callotropis gigantea),_ molidas, pulverizadas y mezcladas con hojas de _dejai_ (jazmines grandes y
+Las semillas del _rui_ (cosmópida gigante, asclepias o _callotropis gigantea),_ molidas, pulverizadas y mezcladas con hojas de _dejai_ (jazmines grandes y dobles) hasta que se empapen bien del jugo, se aplican de la misma forma que la anterior.
 
-dobles) hasta que se empapen bien del jugo, se aplican de la misma forma que la anterior.
-
-##### **• 3º** **_prayoga_**
+#### • 3º _prayoga_
 
 Se pulveriza en un mortero la fruta de tamarindo (tamarindo indica) con miel y _sindura_ (plomo rojo o sulfato rojo de mercurio) y se aplica de igual forma que las dos anteriores.
 
-##### **• 4º** **_prayoga_**
+#### • 4º _prayoga_
 
 Se mezcla en partes iguales _sama-bhaga_ (alcanfor), _tankan_ (bórax en bruto) y azogue purificado. Mezclada con miel, se utiliza en la forma acostumbrada.
 
-##### **• 5º** **_prayoga_**
+#### • 5º _prayoga_
 
 Macerar pimienta negra en granos, semilla de manzana y vaina de la planta de la pimienta larga _(piper longum,_ que también se aplica a las vainas de la pimienta de betel) en miel blanca. Esta medicina de soberana virtud se emplea como ya se indicó en las situaciones anteriores.
 
-##### **• 6º** **_prayoga_**
+#### • 6º _prayoga_
 
 Mezclar en partes iguales _gur_ viejo (también llamado melaza o guarapo, depurado por ebullición), semilla de tamarindo y polvo de anís. Pulverizado, se aplica como antes.
 
-##### **• 7º** **_prayoga_**
+#### • 7º _prayoga_
 
 Se mezcla en partes iguales miel con _ghee_ (mantequilla derretida), bórax en bruto y jugo de las hojas del árbol del _agasta (eschynomene grandiflora)._ Se aplica como se indicó.
 
-#### **_Cómo retrasar la eyaculación_**
+### _Cómo retrasar la eyaculación_
 
 Si la eyaculación se produce muy deprisa, el deseo sexual queda insatisfecho. En consecuencia, y en compasión por esa frecuente debilidad humana, se recomiendan las siguientes recetas:
 
-##### **• 1º** **_prayoga_**
+#### • 1º _prayoga_
 
 Se pulveriza la raíz de la _lajijalu_ o planta sensitiva _(mimosa pudica)_ y se la rocía con leche de vaca. Si no se dispone de ella, con el jugo de la _panja-dhari nivarung_ o planta de leche de bordes finos. El hombre se lo debe aplicar en las plantas de los pies antes de la unión sexual; así, sus abrazos y caricias se prolongarán extraordinariamente.
 
-##### **• 2º** **_prayoga_**
+#### **• 2º** **_prayoga_**
 
 El hombre se unta bien con el aceite de la semilla y la raíz pulverizada del _rui_ y del azafrán _(kardai carthamus inctorius)._
 
-##### **• 3º** **_prayoga_**
+#### • 3º _prayoga_
 
 Se mezclan en partes iguales corteza de _sishu (dalbergia sissoo),_ alcanfor y azogue. Esta poción se aplica en el ombligo del hombre.
 
-##### **• 4º** **_prayoga_**
+#### • 4º _prayoga_
 
 La raíz del _kang_ o pánico blanco _(italicum)_ y los filamentos de flores de loto, rociados con miel, surten iguales efectos.
 
-##### **• 5º** **_prayoga_**
+#### • 5º _prayoga_
 
 Se toman semillas de la _tal-nlakhana_ blan _ca (berleria longifolia,_ hierba medicinal); se colocan sobre la _puchya-nakshatra_ u octava mansión lunar y se atan luego alrededor de la cintura con una vuelta de hilo rojo. La aplicación de esta receta también provee los efectos deseados.
 
-##### **• 6º** **_prayoga_**
+#### • 6º _prayoga_
 
 Después de la oración del sábado, se coloca en la boca la _saptaparna_ (escolaris de siete hojas) durante el día domingo. Su eficacia es inmediata.
 
-##### **• 7º** **_prayoga_**
+#### • 7º _prayoga_
 
 Se toman las semillas de la _anvalli_ anca, en el _ushyanakshatra;_ luego se sujetan alrededor de la cintura con hebras tejidas por una virgen. Los resultados son realmente convincentes.
 
-##### **• 8º** **_prayoga_**
+#### • 8º _prayoga_
 
 La semilla de la _tal-makhana,_ rociada con la savia del _banyan (ficus indica)_ y mezclada con las semillas del _karanj (galedupa arborea),_ se coloca en la boca. En muy poco instantes se nota su influencia.
 
-#### **_Excitar el deseo sexual_**
+### _Excitar el deseo sexual_
 
 Las _vajikarana_ (o excitación del deseo sexual) fueron descubiertas por los _Acharyas_ de la Antigüedad. Su propósito es restaurar la fuerza y el vigor físico.
 
 Las anteriores recetas no tienen ningún sentido si el hombre es débil o impotente; por eso es necesario disponer de medicamentos que consuelen el corazón, aviven el deseo y otorguen satisfacción.
 
-##### **• 1º** **_vajikarana_**
+#### • 1º _vajikarana_
 
 El jugo del _Bhuyako-hali_ (el _solarum jacquini,_ planta espinosa) se pone al sol hasta que se seca; luego, cuando se ha secado, se mezcla con mantequilla clarificada y dulce de azúcar. Esta mezcla provee la fuerza de diez hombres y permite que uno solo conquiste diez mujeres.
 
-##### **• 2º** **_vajikarana_**
+#### • 2º _vajikarana_
 
 Se expone al sol hasta que se seque la savia de la corteza del _anvalli_ (nuez astringente), luego se mezcla con polvo del mismo árbol y, antes de la unión sexual, se ingiere este polvo mezclado con manteca diluida, dulce de azúcar y miel. Los resultados serán maravillosos; hasta el hombre viejo actuará con la potencia de un joven.
 
-##### **• 3º** **_vajikarana_**
+#### • 3º _vajikarana_
 
 Se remojan los granos de la _urid (phaseolus radiata)_ en leche y azúcar, y se exponen durante tres días al sol. Se pulverizan y se hace una torta que se fríe con manteca. Como alimento en las mañanas, aumenta el vigor y permite disfrutar de cien mujeres.
 
-##### **• 4º** **_vajikarana_**
+#### • 4º _vajikarana_
 
 Mezclar en un mortero diez _mashas_ (150 g) de la corteza del árbol de _moh (bassia latifolia),_ cuyas flores ofrecen un licor espirituoso. El hombre que beba esto y luego leche de vaca verá cómo aumenta su vigor de forma extraordinaria.
 
-##### **• 5º** **_vajikarana_**
+#### • 5º _vajikarana_
 
 Unir diez mashas de semillas de _tal-makhana_ blanco y otras diez de arroz silvestre que crece cerca de los pantanos y ciénagas junto a igual cantidad de miel. Esta infusión se toma de noche y su efecto es sorprendente.
 
-##### **• 6º** **_vajikarana_**
+#### • 6º _vajikarana_
 
 El polvo del _kuili_ (picazón de vaca o _dolichos pruriens)_ del _kanta-gokhry (tribulus lauginosus),_ o pepino, de la _bhikana (hedysarum)_ de la _lechi_ y de la _lagahushatavari (esparagus racemusus),_ mezclado todo en partes iguales con leche, otorga sin demora gran vigor.
 
-##### **• 7º** **_vajikarana_**
+#### • 7º _vajikarana_
 
 Mézclense bien partes iguales del jugo del _kantesevati_ (rosa gandulijera), extraído de las hojas, y mantequilla darificada. Se hierve con tres partes de leche, azúcar y miel. Tomado con asiduidad, ofrece una gran fortaleza de espaldas.
 
-##### **• 8º** **_vajikarana_**
+#### • 8º _vajikarana_
 
 La _loha-bhasma_ (una preparación de óxido de hierro) y el polvo de _triphala_ se mezclan con mantequilla clarificada y miel. Se toma diariamente a la puesta del sol. Proporciona la virilidad del gorrión, pajarilla que disfruta de la hembra diez hasta veinte veces seguidas.
 
-#### **_Recetas que aumentan el largo y ancho de la linga_**
+### _Recetas que aumentan el largo y ancho de la linga_
 
 Cuando la _linga_ es floja o pequeña no es efectiva a la hora de satisfacer el _yoni_ de la esposa, por lo que ella no puede amar y respetar al esposo. En consecuencia, es imprescindible ofrecer recetas para aumentar el volumen y tamaño del miembro, haciéndolo sano y fuerte, duro y efectivo.
 
-##### **• 1º** **_prayoga_**
+#### • 1º _prayoga_
 
 Macerar partes iguales de _chikana (hedysarum lagopodioides), kosht (costus specicosus o Arabicus), vekhand_ (raíz de _liro), ashhand (physahs flexuosa)_ en varillas y de raíz de _kanher (adelfa nerium odorum);_ rociar con mantequilla. Aplicada a la _linga,_ tras dos _ghari_ (48'), ésta adquiere proporciones equinas.
 
-##### **• 2º** **_prayoga_**
+#### • 2º _prayoga_
 
 _Rakta-bol_ en polvo (mirra), _manashil_ (sulfuro rojo de arsénico), _arabicus costos, karvi-dorki_ y bórax, en partes iguales, se trabajan con aceite de sésamo oriental. Con él se unge el miembro y al instante se producirá la erección deseada.
 
-##### **• 3º** **_prayoga_**
+#### • 3º _prayoga_
 
 Macerar con miel, partes iguales de _saindhava_ (sal de roca), pimienta, costos, raíz de _ringami_ (nocturna picante), más filamentos de _aghara (achyranthes aspera),_ cebada, de _urid (phaseus mungo),_ pimienta larga, _shiras_ blancas (especie de mostaza) y de til (sésamo). Se aplica a toda la _linga._ Con este medicamento se produce un desarrollo enorme. En la mujer aumenta el tamaño de sus senos.
 
-##### **• 4º** **_prayoga_**
+#### • 4º _prayoga_
 
 Se toman nueces de marcar _(semicarpus anacardium),_ sal negra y hojas de flor de loto y se las reduce a cenizas; luego se humedece con el jugo de la nocturna picante _(solanum jacquini)._ Untar la _linga_ con excremento del _mahishi_ o búfalo hembra y luego aplicar las cenizas. Al instante aumentará de tamaño y se hará tan fuerte como un mazo de madera. Esta mezcla es considerada muy eficaz.
 
-##### **• 5º** **_prayoga_**
+#### • 5º _prayoga_
 
 Corteza de _ladra, hirakas_ (vitriolo verde o sulfato de hierro), _gajapimpili (photos occialis) y chikaana (heysarum lagopodiodes)_ se mezclan con aceite de sésamo. Se aplica a la _linga_ , que aumenta de tamaño y volumen. En la mujer se obtiene el mismo efecto en los labios mayores y menores.
 
-##### **• 6º** **_prayoga_**
+#### • 6º _prayoga_
 
 Mezclar la fruta de _dorli (solanummacrorrhizon)_ , nueces de marcar y cáscara de granada con aceite amargo (de la mostaza, empleados principalmente para quemar) y aplíquese al miembro, que aumentará de tamaño.
 
 Además de aumentar el largo y el ancho de la _linga,_ es necesario estrechar y cerrar el _yoni._
 
-#### **_Recetas que estrechan y cierran el yoni_**
+### _Recetas que estrechan y cierran el yoni_
 
 Con los años, y especialmente después de los partos, las mujeres experimentan cierta dilatación en el _yoni._ A esto se continúa cierta blandura y flaccidez. Por lo tanto, es necesario dar recetas para que recupere su estado de firmeza y estrechez, con lo que se incremento el goce del esposo, sobre todo si éste está en la flor de la edad.
 
-##### **• 1º** **_prayoga_**
+#### • 1º _prayoga_
 
 Macerar el tallo y la flor del loto en leche.
 
 Con esta masa se forman bolitas que se colocan dentro del _yoni._ Con ello se consigue que hasta una mujer de cincuenta años parezca virgen.
 
-##### **• 2º** **_prayoga_**
+#### • 2º _prayoga_
 
 Se macera corteza de abeto _(pinus deodaru)_ con _turmerico_ y los filamentos del loto en flor. Se coloca en el _yoni,_ lo que provoca una gran contracción y estrechamiento de los tejidos.
 
-##### **• 3º** **_prayoga_**
+#### • 3º _prayoga_
 
 Tanto dentro como fuera del _yoni_ se colocan semillas de _tal-makhana_ maceradas con el jugo de la misma semilla. De esta manera se produce un inmediato estrechamiento de los tejidos.
 
-##### **• 4º** **_prayoga_**
+#### • 4º _prayoga_
 
 Se mezclan partes iguales de la flor de _dhavati (grislea tormentosa),_ del cuerpo interno del _jambhuli_ (manzana rosa) y del árbol del _sanvart_ (algodón-seda _, bombax heptaphylium),_ y se maceran con miel. Se aplica dentro del _yoni_ y el efecto será que éste semeje el de una virgen.
 
-##### **• 5º** **_prayoga_**
+#### • 5º _prayoga_
 
 La mezcla de semillas del _karu-bhonpali_ (pompión amargo o calabaza) y la corteza del árbol de lodhra macerada se aplica dentro del _yoni_ para eliminar al instante la sensación de vacío que siente la mujer después del parto.
 
-##### **• 6º** **_prayoga_**
+#### • 6º _prayoga_
 
 Una receta para usar diariamente: maceración de partes iguales de capullos de _askhand, chikana, onva,_ celodario, loto azul y vala o _khaskhas_ -la hierba cuyas raíces se utilizan como encajes-.
 
 Con ella se logra la contracción o estrechez deseada.
 
-##### **• 7º** **_prayoga_**
+#### • 7º _prayoga_
 
 De la ebullición de la corteza del árbol de _moh (oassia latifolia)_ se obtiene una sal que luego se mezcla con miel. Se aplica a diario como una pastilla en el _yoni._ El resultado es sorprendente.
 
-#### **_Recetas para perfumar el yoni_**
+### _Recetas para perfumar el yoni_
 
 - Con aceite de _shiras_ y extracto de flor de jazmín, calentados a fuego lento, se forma una pasta que se aplica diariamente en el _yoni._ De esta manera, no se percibirá olor desagradable alguno ni antes ni después de la unión sexual.
-
 - Igual resultado se logra con aceite de corteza de pino, _shegwa_ o rábano picante, corteza del granado y del árbol _nim_ amargo (la lila persa) y de las flores de la _champaca_ amarilla. Todo esto se mezcla con aceite de sésamo y luego se aplica en la parte interna del _yoni._
 
-#### **_Receta para depilar el vello_**
+### _Receta para depilar el vello_
 
 - Diluir óxido de plomo pulverizado en aceite amargo. Se expone al sol durante siete días y se aplica. En pocos días, desaparece todo el vello indeseable.
-
 - Dejar al sol durante siete días el polvo de una concha marina diluida en jugo de plátano _(musa paradisiaco y sapientum);_ se mezcla con un poco de _harital_ (sulfuro de arsénico) y se aplica al _yoni._ Desaparecerá todo el vello.
+- Empapar el _harital_ y la madera del _palasha (bucea frondosa)_ en el jugo del árbol del banano y luego se aplican a las partes pilosas: no volverá a crecer jamás vello alguno.
 
-Empapar el _harital_ y la madera del _palasha (bucea frondosa)_ en el jugo del árbol del banano y luego se aplican a las partes pilosas: no volverá a crecer jamás vello alguno.
-
-#### **_Recomendación para normalizar el flujo menstrual_**
+### _Recomendación para normalizar el flujo menstrual_
 
 Si la menstruación o flujo mensual se suspende de modo violento, por accidente o enfermedad, se producen grandes males; para eliminarlos se puede recurrir a los remedios siguientes:
 
 - La mujer debe beber una infusión resultante de hojas caídas del _pingavi o karadkangoni (celastrus panicolata)_ y flores del _javad_ (flor del zapato) colocadas en agua. De esta manera, se consigue la rápida aparición del flujo natural.
-
 - Para que el flujo menstrual regrese, la mujer debe tomar partes iguales de _tandul (agrestis lincaris)_ y madera de pino, pulverizados y mezclados con agua.
 
 La aparición irregular o una exagerada secreción del flujo también produce trastornos, por lo que se puede apelar a los siguientes remedios:
 
 - La mujer debe tomar partes iguales de una bebida a base de agua donde se sumergen _hidra-dadal_ (corteza del mirobálano amarillo), corteza de _nim_ amarga y _anwalkathi_ (mirobálanos secos). Debe beberlo durante seis días seguidos, con lo que conseguirá el efecto deseado.
+- También es muy eficaz tomar, en partes iguales, jugo de la fruta _kapiya_ (manzana elefante) y de la _chiva_ (mabú pequeña) mezcladas con miel; esta receta es realmente eficaz.
 
-También es muy eficaz tomar, en partes iguales, jugo de la fruta _kapiya_ (manzana elefante) y de la _chiva_ (mabú pequeña) mezcladas con miel; esta receta es realmente eficaz.
-
-#### **_Recetas para quedar embarazada_**
+### _Recetas para quedar embarazada_
 
 Para concebir y quedar encinta, estas recetas resultan muy valiosas. Pero primero es necesario limpiar el campo (útero) o matriz por medio de las siguientes recetas.
 
 - Mezclar óxido de hierro con oro calcinado y cobre, y transformar la mezcla añadiéndole miel. La mujer toma este brebaje desde el cuarto (tiempo del baño y de la purificación) hasta el sexto día después de la menstruación.
-
 - Si la mujer come durante tres días consecutivos los capullos pulverizados de _nagakessar_ (pequeña pulpa) con mantequilla a la vez que se abstiene de todo otro alimento, excepto _dughdanu;_ es decir que lo debe tomar con leche. El resultado de la próxima unión sexual tendrá resultados positivos y quedará embarazada.
-
 - Al cuarto día la mujer deberá tomar un cocimiento de _askhand (physalis flexuosa), gulvel (cocculus cordifolius)_ y resina _laghu-ral._
-
 - Ateniéndose también a la dieta de la leche, la mujer ha de tomar con miel la raíz del _jatwand_ (flor de zapato) cortada por su esposo durante el _Pushya Nakshtra._
-
 - También se consigue quedar preñada tomando durante tres días después de la menstruación la raíz del _mahalug_ (limón), hervida en leche durante mucho rato y después untada en mantequilla.
-
 - La propia mujer debe macerar raíz de _chikana_ blanca, recogida durante el _Pushya-Nakshtra_ y la mezcla con diez _mashas_ de la misma raíz macerada y una parte igual de raíz pulverizada de _kicoriza_ y cuarenta _mashas_ de azúcar-roca. La toma tras el flujo menstrual, con leche de una vaca que haya parido un becerro blanco. El día en que se ingiera, no come otra cosa y, al siguiente, tras la unión sexual con el esposo -que se debe efectuar por la noche-, se limitará a tomar arroz con leche.
+- También efectiva es la receta de una bebida hecha con partes iguales de jengibre seco pulverizado, pimienta, sombra nocturna picante y capullos de _casia,_ empapados en leche. Concebirá y parirá un hijo, sin que importe el tiempo que haya sido estéril.
 
-También efectiva es la receta de una bebida hecha con partes iguales de jengibre seco pulverizado, pimienta, sombra nocturna picante y capullos de _casia,_ empapados en leche. Concebirá y parirá un hijo, sin que importe el tiempo que haya sido estéril.
-
-#### **_Prevenciones contra el aborto_**
+### _Prevenciones contra el aborto_
 
 La mujer embarazada debe protegerse contra los abortos y otros percances. Las siguientes recetas son muy efectivas para la futura madre:
 
 - Es muy importante que la mujer tome leche de cabra mezclada con la arcilla fina que adhiere a las manos del alfarero cuando está en plena labor. Esta infusión protege de toda lesión o accidentes.
-
 - En aquellos casos en que se detecta que el feto está en mala colocación, se aconseja comer durante seis días seguidos partes iguales de _kicoriza_ en polvo, corteza de _lodhara_ y mirobálanos _emblicos_ secos, todos mezclados con abundante leche. Se puede producir el descenso de **la** matriz.
-
 - Hervir durante un buen rato en leche mantequilla, miel y la raíz de **la** flor del loto rojo. Luego se deja enfriar y se bebe durante siete días consecutivos. Esta preparación impide el vómito, los deseos y las ansias normales, así como la corrupción de los tres humores: la bilis, la sangre y la flema.
 
-#### **_Un parto sin problemas_**
+### _Un parto sin problemas_
 
 Los siguientes preparados aseguran un trabajo de parto sencillo y un alumbramiento feliz, sin complicaciones ni peligros.
 
@@ -1405,61 +1376,49 @@ Los siguientes preparados aseguran un trabajo de parto sencillo y un alumbramien
 
 - Un hombre sabio o místico recita sobre un recipiente de agua un mantra o salmo de encantamiento con cuyos misterios está familiarizado. Luego la mujer bebe esta agua.
 
-#### **_Para evitar embarazos indeseables_**
+### _Para evitar embarazos indeseables_
 
 A veces es necesario o aconsejable reducir o limitar el número de nacimientos en la familia. Para ello resultan muy útiles las siguientes recetas:
 
 - La mujer debe tomar durante tres días consecutivos después del cuarto día o de la purificación un brebaje de _chitraka (plumbago zeylonica),_ hervido con agua de arroz.
-
 - Evitará el embarazo aquella mujer que durante tres días consecutivos, después del cuarto día o de la purificación, tome un brebaje preparado con la planta _kallambha (nauclea cadamba)_ y patas de mosca selvática.
-
 - Esterilidad definitiva. Se pulverizan veinte _mashas_ de nuez _(semicarpus anacardium)_ y se hierven con _dhun_ o con agua del lavado del arroz. La mujer debe tomar la mezcla durante siete días, en los que debe producirse el flujo menstrual. Cuando éste concluya, quedará estéril de manera irreversible.
 
-#### **_Consejos para embellecer el cabello_**
+### _Consejos para embellecer el cabello_
 
 El cabello es un centro de excitación, por lo que su cuidado y belleza son vitales para incentivar las relaciones sanas. Estas recetas son muy útiles como cosméticos:
 
-Con flores de sésamo y un _caltropo (tributos lanuginosus)_ entero, se forma un pasta que se mezcla con leche de vaca. Se aplica esta mezcla durante siete días sobre el cabello. Por fino y quebradizo que fuese, se volverá grueso, firme y largo.
+- Con flores de sésamo y un _caltropo (tributos lanuginosus)_ entero, se forma un pasta que se mezcla con leche de vaca. Se aplica esta mezcla durante siete días sobre el cabello. Por fino y quebradizo que fuese, se volverá grueso, firme y largo.
+- Aplicar en el cabello semillas pulverizadas de _croto (tiglium)_ y de _sambhar_ o cuerno de alce, todo hervido con aceite de sésamo. Así se volverá tan negro como las alas de un cuervo. Por débil y propenso a caerse que sea, recobrará su vigor y belleza originales.
+- El polvo de las vainas de _gunj (abrus precatorius)_ mezclado con miel se unta en el cabello. Evitará su caída o terminará con la enfermedad conocida como _indra-luptaroga;_ es decir, calvicie de la coronilla.
+- Se conseguirá que el cabello renazca si se aplica a la cabeza marfil quemado diluido en agua.
 
-Aplicar en el cabello semillas pulverizadas de _croto (tiglium)_ y de _sambhar_ o cuerno de alce, todo hervido con aceite de sésamo. Así se volverá tan negro como las alas de un cuervo. Por débil y propenso a caerse que sea, recobrará su vigor y belleza originales.
-
-El polvo de las vainas de _gunj (abrus precatorius)_ mezclado con miel se unta en el cabello. Evitará su caída o terminará con la enfermedad conocida como _indra-luptaroga;_ es decir, calvicie de la coronilla.
-
-Se conseguirá que el cabello renazca si se aplica a la cabeza marfil quemado diluido en agua.
-
-#### **_Consejos para teñir el cabello_**
+### _Consejos para teñir el cabello_
 
 - El elixir más potente para teñir el cabello de negro se elabora con flores del árbol del mango, frutas de los tres mirobálanos, la corteza de _arjuna-virksha (pentapatera arjuna)_ y la cáscara del arbusto _péndure,_ todo bien molido y hervido en aceite de sésamo y aceite de índigo de color oscuro. Es tal su poder que si el ala de un ganso blanco salvaje se sumerge en él, se vuelve oscura como la noche.
-
 - El polvo de nuez persa mezclado con pimienta larga, hojas de índigo y sal de roca, con el agregado de puré dulce de tri90, ofrece un tinte oscuro y brillante.
-
-Tomando diariamente, a lo largo de todo un mes, cuarenta _mashas_ de aceite del árbol _nim (melim),_ el pelo cambia gradualmente de color: se vuelve negro como el ala de la _bhramara_ (abeja de la India).
-
+- Tomando diariamente, a lo largo de todo un mes, cuarenta _mashas_ de aceite del árbol _nim (melim),_ el pelo cambia gradualmente de color: se vuelve negro como el ala de la _bhramara_ (abeja de la India).
 - También se ennegrecerá el cabello si se _le aplica gorochana_ macerada con semilla de sésamo blanco, _katajangha_ (guisante conocido como "muslo de cuervo") y _shatavari (asparagus racemosus)._
 
-#### **_Consejos para aclarar el cabello_**
+### _Consejos para aclarar el cabello_
 
 Se deja en remojo el grano de sésamo con zumo de _vivarung (euphorbia pentagonia)._ Se deja al sol y luego se extrae el aceite. En cualquier zona del cuerpo a la que se aplique esa mezcla, el cabello allí quedará blanco y brillante como el cristal.
 
-#### **_Consejo para renovar el cabello_**
+### _Consejo para renovar el cabello_
 
 Con este propósito, aplicar sobre el pelo una maceración de zumo de _euforbia_ con _pentagonia_ secada al sol.
 
-#### **_Consejos para la piel_**
+### _Consejos para la piel_
 
 Las manchas o puntos negros en la cara son contrarios a la excitación amorosa. Por ello, es bueno observarlos y evitarlos. Las siguientes recetas son muy útiles para tener una piel saludable:
 
-El acné, erupción muy frecuente en la cara de los jóvenes de ambos sexos, desaparece rápidamente si se aplican sobre éste, durante tres días consecutivos una mezcla bien macerada de _vekhand,_ cuerno de alce y semilla de coriandro.
+- El acné, erupción muy frecuente en la cara de los jóvenes de ambos sexos, desaparece rápidamente si se aplican sobre éste, durante tres días consecutivos una mezcla bien macerada de _vekhand,_ cuerno de alce y semilla de coriandro.
+- La espina pulverizada del árbol de algodón _(bombax heptaphyllum)_ mezclada con leche también es muy efectiva para eliminar este tipo de impurezas que afectan tanto el carácter de las personas.
+- Con sal de roca, _shiras_ blancas (mostaza) _y vekhand_ humedecido todo con agua, se forma una pasta, con la que se frota la piel. Es frecuente la aparición de un tinte negro de la epidermis. Estas mezclas le devuelven su antiguo tono claro.
+- Aplicar en el cuerpo, siete días seguidos, el ungüento formado por semillas de sésamo, coriandro, _shajajire_ (comino) con leche, y las semillas de _shiras._ La piel tomará un aspecto claro y brillante como el de la luna.
+- Tomar madera de sándalo, _tetvi_ (la madera amarilla de la _bignomia chelonoides),_ raíces bulbáceas de hierba olorosa y dul _ce (cyperus juncisolius), dicoriza, tumérico y zeodaria,_ y mezclar con zumo de bananos frescos o de tallos de esa planta. Se debe aplicar a las zonas negras durante siete días seguidos.
 
-La espina pulverizada del árbol de algodón _(bombax heptaphyllum)_ mezclada con leche también es muy efectiva para eliminar este tipo de impurezas que afectan tanto el carácter de las personas.
-
-Con sal de roca, _shiras_ blancas (mostaza) _y vekhand_ humedecido todo con agua, se forma una pasta, con la que se frota la piel. Es frecuente la aparición de un tinte negro de la epidermis. Estas mezclas le devuelven su antiguo tono claro.
-
-Aplicar en el cuerpo, siete días seguidos, el ungüento formado por semillas de sésamo, coriandro, _shajajire_ (comino) con leche, y las semillas de _shiras._ La piel tomará un aspecto claro y brillante como el de la luna.
-
-Tomar madera de sándalo, _tetvi_ (la madera amarilla de la _bignomia chelonoides),_ raíces bulbáceas de hierba olorosa y dul _ce (cyperus juncisolius), dicoriza, tumérico y zeodaria,_ y mezclar con zumo de bananos frescos o de tallos de esa planta. Se debe aplicar a las zonas negras durante siete días seguidos.
-
-#### **_Senos firmes y lozanos_**
+### _Senos firmes y lozanos_
 
 A continuación, dos preparados muy efectivos para aumentar el tamaño de los senos de la mujer:
 
@@ -1473,123 +1432,121 @@ Por muy fláccidos que estén al iniciarse el tratamiento dará resultado la apl
 
 - Rociar con _chikana tridhar_ (hojas de índigo), _onva,_ mimosa, _tumérico y zeodaria,_ el zumo de _rui_ (asclepias). Se hierve la mezcla en aceite de sésamo o mantequilla de vaca, cuidando que el contenido de la jarra no hierva demasiado. Si se aplica este ungüento a una mujer, sus senos se volverán erectos. Es más, si se mezcla con agua en la que se haya lavado arroz, y se da a beber a una jovencita, sus senos crecerán, se pondrán erectos y nunca se marchitarán.
 
-#### **_Recetas para inspirar amor_**
+#### _Recetas para inspirar amor_
 
 Se puede inspirar amor en forma natural y espontánea. Para ello es necesario seguir estos pasos y preparar estos ungüentos:
 
 - Pulverícense con mucho cuidado madera de sándalo, _vala (andropogon muricatum), lodhra_ y cáscara de mango, todo mezclado con agua de _harda._ Al aplicarse, da una fragancia encantadora.
 
-#### **_Para quitar el olor del cuerpo_**
+#### _Para quitar el olor del cuerpo_
 
 Seis ungüentos muy útiles para quitar el olor agrio que desprende el cuerpo cuando hay mucho sol:
 
-##### **1**<sup>**a**</sup> **receta**
+#### 1ª receta
 
 Hojas de _nim y lodhra,_ mezcladas con cáscara de granada y corteza del _salvani, di_ sueltas en agua de _harda._
 
-##### **2**<sup>**a**</sup> **receta**
+#### 2ª receta
 
 Para refrescar la axila: maceración de semillas de tamarindo y de _karanj (galedupa_ arbórea), con _roxb (pongamia glabra), grati (bonducilla),_ grey y la raíz del árbol del _bel,_ mezclada con agua de _harda._
 
-##### **3**<sup>**a**</sup> **receta**
+#### 3ª receta
 
 Usadas para el mismo fin, hojas de _nim_ , _ladhra,_ raíz de loto y corteza de granado bien macerados.
 
-##### **4**<sup>**a**</sup> **receta**
+#### 4ª receta
 
 Macerar madera de aloe y madera de sándalo en savia extraída de la corteza interior del _jujube._ Ideal para combatir el sudor.
 
-##### **5ª receta**
+#### 5ª receta
 
 Evita el sudor durante el acto amoroso una maceración en partes iguales de las flores caídas del nogal (salvadera pérsica) y la fruta del _jambalt_ (manzana rosa).
 
-##### **6ª receta**
+#### 6ª receta
 
 La maceración de filamentos de flores del árbol de _shiras (minosa shirisa)_ y de _lodhra_ forma un ungüento para aplicar en el cuerpo o para comer.
 
-#### **_Recetas para después del baño_**
+### _Recetas para después del baño_
 
 Nueve preparados de perfume agradable para ser utilizados después del baño:
 
-##### **1ª receta**
+#### 1ª receta
 
 Empapar en aceite de sésamo hojas de _bel_ y exponer al sol hasta que se sequen. Sucesivamente, se les añaden _bakul (mimusops elengi) mrava,_ mejorana dulce _(origanum marjorana),_ flores de _ashoka (jonesia asoca)_ y las flores de _kevala (pendamuso deratissimus)._ Tiene una fragancia muy valorada por los voluptuosos.
 
-##### **2ª receta**
+#### 2ª receta
 
 Maceración de semillas de cardamomo enano, _nagarmotha_ (hierba de olor dulce), _nakna (ungis odoratus), jatamansi_ (nardo) _y tamalpatra (laurus cassia)._ Al aplicarlo al cuerpo y al cabello en el momento del baño, produce un delicioso aroma.
 
-##### **3ª receta**
+#### 3ª receta
 
 _Anvalkathi, sona-kevada, vala y jatamansi_ mezcladas constituyen un perfume que cada vez que se aplica, logra resultados muy persistentes.
 
-##### **4ª receta**
+#### 4ª receta
 
 Macerando partes iguales de madera de sándalo, _eladana_ (semillas de cardamomo), _kachora, tamal_ patra, y las semillas o granos de la _shegva_ se consigue un ungüento muy oloroso.
 
-##### **5ª receta**
+#### 5ª receta
 
 Mezclar partes iguales de _kapura_ (alcan _for), kunkumager, lodhra, nagar-motha y kalavala_ (variedad oscura de la _andropogon muricatum_ ); luego batir. Se obtiene un maravilloso ungüento.
 
-##### **6ª receta**
+#### 6ª receta
 
 Sobre todo el cuerpo, aplicar un compuesto de _tamal-patra, vala,_ madera de sánda _lo, kala-vala y krishna-grau (aqualaria ageqochum)._
 
-##### **7ª receta**
+#### 7ª receta
 
 Macérense una parte de _nakhla, harda, jatimansi_ y semillas de _karanj,_ dos partes _de sona-kevada_ y tres de alcanfor, musgo, nuez moscada y _jatamansi._ Como todos estos ingredientes son difíciles de obtener, se trata de una receta sumamente cara y estimada.
 
-##### **8ª receta**
+#### 8ª receta
 
 Mezcla de proporciones: una parte de _nagarmotha,_ dos de _costus, lebhan y kapur,_ cuatro partes de _harada,_ cinco partes de _shilaras_ y nueve de _nakhl (ungus odaratus)._ A este ungüento se lo llama _kasturi-dul_ (un trozo de musgo) y quizás sea el más indicado para un rajá.
 
-##### **9ª receta**
+#### 9ª receta
 
 Primero, rallar y pulverizar _kasturi_ (mus _go), nagakeshar, vishesha-dhup, shilaras_ (alcanfor), nuez moscada y _lobhan;_ luego mezclar con el zumo de las hojas de betel. Perfume digno de un rajá y, por tanto, conveniente a todos los hombres.
 
-#### **_Para tener la boca perfumada_**
+### _Para tener la boca perfumada_
 
-##### **1ª receta**
+#### 1ª receta
 
 Píldoras de pasta formada por la maceración de canela fina, granos de cardamomo pulverizados, _sona-kevada_ y nuez moscada, que se comerán con hojas de betel.
 
-##### **2ª receta**
+#### 2ª receta
 
 Macerar _kesar_ (azafrán), _kankoi (myrtus pimenia), lobhan,_ nuez moscada y semillas de coriandro. Hacer una pasta y formar pastillas que se disuelven en la boca.
 
-##### **3ª receta**
+#### 3ª receta
 
 Todas las mañanas y las noches, durante quince días, tomar un polvo compuesto de _ekangi-mura_ (mejorana), _nagakesa y costus._
 
-##### **4ª receta**
+#### 4ª receta
 
 Para convertir el aliento en perfume de _pandanus odoratissimus,_ se mezclan quilates (granos de _abrus) y costus_ pulverizado con miel.
 
-##### **5ª receta**
+#### 5ª receta
 
 Después de comer, purificar el aliento con una mezcla de cenizas de la _apamargavriksh (acepranthes aspera)_ con zumo de hojas de mango. Se deja secar al sol, y tras las comidas, se toma reteniendo el líquido en la boca unos instantes.
 
 _Allí estaba ella, mi amada, destilando de su cuerpo el licor erótico, y yo... bebiendo sorbo a sorbo en la copa de sus senos._
 
-83
-
-## **_Capítulo 7_**
+## _Capítulo 7_
 
 _Invoco con temblor_ la _marca de sus uñas en mi piel y el arrastrar de sus dientes en_ la _espalda.... y tendidos, como tras_ la _batalla, quedamos vencidos, uno en brazos del otro._
 
-## Cuando someter a un hombre o a una mujer es un arte
+### Cuando someter a un hombre o a una mujer es un arte
 
 El arte del que se sirve quien desea someter a un hombre o una mujer es el _vashikarana._ A través de él se puede tenerlos -como con ciertas drogas o encantamientos- totalmente sujetos a la voluntad y lograr los propósitos.
 
-##### **• Primera fórmula**
+#### • Primera fórmula
 
 El santo y sabio Vatsyayana Muni dice que aquel que mezcle el polvo de la sensitiva, raíz de las flores del loto verde, la _bassia latifolia_ y la flor de la malta con su propio _kama-salila,_ y luego se lo aplique en forma de marca sectaria sobre la frente, dominará el mundo femenino, y toda mujer que mire sus ojos no podrá evitar sentir por él deseos incontrolables.
 
-##### **• Segunda fórmula**
+#### • Segunda fórmula
 
 Cuando el hombre mezcla íntimamente la raíz de la asclepia gigante, la _jayamansi_ o nardo, el _vekhan,_ la hierba de dulce olor _negar-motha (cyperus pertenuis)_ y el _costus,_ con un poco de sangre del _yoni_ y se lo coloca en la frente, será exitoso en el amor, y podrá disfrutar seguramente de largos períodos de felicidad.
 
-##### **• Tercera fórmula**
+#### • Tercera fórmula
 
 Finalmente, para dominar y subyugar a las mujeres, el hombre tomará partes iguales de _tagar (taberna montana)_ , de _pimpalimull_ (raíz de la _piper dichotomum)_ , de _mandha-shinghi_ y de nardo indio, mezcladas y convertidas en una pasta, a la que agregará miel, su _kama-salila_ u otra cualquiera de las cinco _malas_ (secreciones del cuerpo) y se las aplica en la frente.
 
@@ -1603,19 +1560,19 @@ Humedecer _gorochana_ en la sangre menstrual y aplicarla con un _tilak_ . Mientr
 
 Éstos son _anjan,_ o colirios mágicos muy útiles para ganar amor y amistad:
 
-##### **• Primero**
+#### • Primero
 
 En el octavo día de la quincena lunar del séptimo mes de _Shvini_ (septiembre-octubre) se consigue una calavera humana en el cementerio o el crematorio. Se pone al fuego hasta que se consuma, y después se recogen las cenizas y se aplican en la cara interna de los párpados; con esto, se fascinará a todos.
 
-##### **• Segundo**
+#### • Segundo
 
 Los ojos de quien se aplique el colirio formado por maná de _mambu, korphad (aloe perfoliata) y mashila_ (sulfato de arsénico) atraen a todo el mundo.
 
-##### **• Tercero**
+#### • Tercero
 
 Colocar un buen pedazo de _sede_ sumergida en el agua de la madera de la palma _tad_ y las raíces de _tagar._ Después se convierte ese telar en mechas, con aceite de _shiras,_ se la quema y con las cenizas, regar un cráneo humano que luego se coloca por encima de la antorcha. Todo esto proporcionará colirio para embellecer los ojos, a fin de que cuantos lo vean se conviertan en esclavos o servidores.
 
-##### **• Cuarto**
+#### • Cuarto
 
 También incremento decididamente el amor el colirio fabricado con _manshil, kala-umbar_ (frutos del _ficus glomerosa) y_ azúcar de bambú, cuando la _Pushyaasterism_ coincide con el domingo.
 
@@ -1623,25 +1580,25 @@ También incremento decididamente el amor el colirio fabricado con _manshil, kal
 
 El sabio _Vatsyayana_ indica la forma de conseguir un amor eterno, así como la sumisión del ser amado.
 
-##### **• Pastilla de filtro** **_(vatika)_**
+#### • Pastilla de filtro _(vatika)_
 
 Se le extraen las tripas a un ruiseñor (tiene que ser un día martes) y en su lugar se coloca un poco de _kama-salila_ Luego, se deja el cuerpo en una vasija de barro y se tapa con otra mayor, boca abajo.
 
 Se cubre con tela y arcilla y se guarda en un lugar solitario durante una semana. Luego se retira el contenido, se macera bien hasta que se haga polvo, y se hacen pastillas que se dejan secar. Si una mujer toma una, quedará prendada del hombre que se la ha dado, y viceversa.
 
-##### **• Otro sortilegio**
+#### • Otro sortilegio
 
 El hombre, luego de gozar de su esposa, debe tomar un poco de su _kama-salila_ con la mano izquierda y aplicarlo en el pie izquierdo de la cónyuge. Así, la tendrá totalmente rendida a su voluntad.
 
-##### **• Otro sortilegio**
+#### • Otro sortilegio
 
 La mujer que, antes de la unión sexual, toque con el pie izquierdo la _linga_ del esposo y convierta este acto en una costumbre, lo tendrá convertido para siempre en esclavo de su voluntad.
 
-##### **• Otro sortilegio**
+#### • Otro sortilegio
 
 Para tener dominada a una mujer, el esposo debe mezclar excrementos de una paloma de cuello manchado con sal de roca y hojas de _bassia latifolia,_ en partes iguales. Pulveriza la mezcla y la unta en la _linda_ antes de la unión sexual.
 
-##### **• Incienso supremo**
+#### • Incienso supremo
 
 Esta mezcla se conoce como _chinta-manidhupa_ o como "incienso que domina el pensamiento".
 
@@ -1651,15 +1608,15 @@ Una vez reducida esta mezcla a polvo muy fino, se le agrega miel y se deja secar
 
 Este incienso supremo, usado según las ceremonias prescritas, logra someter a todo el mundo.
 
-##### **• Otro incienso**
+#### • Otro incienso
 
 Se maceran y luego se mezclan semillas de cardamomo, olíbano, la planta medicinal conocida como _garur-wel-seed (monispermun glabrum),_ madera de sándalo, flores de jazmín y tortórico de Bengala. Con esto se consigue un incienso tan poderoso como el anterior.
 
-### **Mantras**
+### Mantras
 
 Los mantras o versos mágicos siguientes tienen el poder de la fascinación:
 
-##### **•** **_Kamesshwar mantra_**
+#### • _Kamesshwar mantra_
 
 ¡Oh, Kameshwar, supedita a mi voluntad a tal y cual mujer!
 
@@ -1673,25 +1630,25 @@ El sacrificio u ofrenda consiste en quemar las mismas clases de flores, contando
 
 Finalmente, se da una de las flores, que ha sido encantada recitando ese verso sobre ella, a la mujer cuyo nombre se ha pronunciado, con lo cual se consigue subyugarla.
 
-##### **•** **_Chamunda mantra_**
+#### • _Chamunda mantra_
 
 Repítase mentalmente el _mantra_ cien veces con el _pravana._ Luego se sacrifican diez mil flores de butea frondosa, al tiempo que se ofrece la _tarpana_ (satisfacción). También el agua puede ser objeto de adoración.
 
 Cuando se hayan realizado las ceremonias y los trabajos propiciatorios, el _Mantra-devata_ queda subyugado y la mujer fascinada por el obsequio de una flor sobre la cual se ha repetido siete veces el versículo.
 
-##### **•** **_Mantra que conquista a la_ padmini**
+#### • _Mantra que conquista a la_ padmini
 
 Escribir este _Kameshvara-mantra_ sobre una hoja de betel, con la flor sumergida en miel. Luego, tras repetir el mismo mantra durante cien veces, se dará la flor a la _padmini_ , que quedará subyugada al instante.
 
-##### **•** **_Mantra que conquista a la_ chitrini**
+#### • _Mantra que conquista a la_ chitrini
 
 Entre diez mil y un millón de veces se repite este mantra con _pravana_ hasta que la deidad que contiene quede dominada. Entonces, se humedece polvo de nuez moscada en el zumo extraído de la raíz del banano, se introduce en un rollo de hojas de betel, repitiendo el _mantra_ en domingo y se da a comer a la _chitrini,_ la cual quedará subyugada al instante.
 
-##### **•** **_Mantra que conquista a la_ shankhini**
+#### • _Mantra que conquista a la_ shankhini
 
 Han dicho los sabios de antaño, expertos en las artes del encantamiento, que este mantra resulta muy eficaz. Después de dominar el _Mantradevata_ en la forma usual, se someterá a encantamiento la raíz del _tagar_ y del cocotero o bien de la fruta _bel (aegle marmaros),_ árbol sagrado ante los ojos de Siva, y se ofrecerá a la _shankhini._ Al comer una parte, quedará reducida a la obediencia.
 
-##### **_• Mantra que somete a la_ hastini**
+#### _• Mantra que somete a la_ hastini
 
 Tras dominar al _Mantra-devata,_ macere el ala izquierda de una paloma en miel, haga pastillas y adminístrelas a la _hastini:_ en el momento quedará fascinada.
 
@@ -1701,15 +1658,13 @@ _y su cuerpo estremecido aún de placer... y sus senos abiertos, pidiendo mordis
 
 _entregándose toda._
 
-91
-
-## **_Capítulo 8_**
+## _Capítulo 8_
 
 _El balanceo de sus caderas y su mirada prometedora palpitan en mi recuerdo_ … _también su belleza que me esperaba, lánguida y ansiosa, bajo los fulgores temblorosos de una lámpara._
 
-## El matrimonio y otros temas
+### El matrimonio y otros temas
 
-#### **_Sobre las características de la mujer_**
+#### _Sobre las características de la mujer_
 
 La mujer que se toma por esposa debe tener las siguientes características.
 
@@ -1739,7 +1694,7 @@ La mujer que tiene la voz ronca y la risa muy estentórea; que camina rápido y 
 
 Una dama así, sobre todo de mal genio violenta; si come y duerme de más; si está siempre azorada, preocupada, intolerable y sin reposo; si sabe poco de todo lo que sucede; si no tiene pudor y es viciosa; una mujer así debe ser evitada por aquel que se dice prudente.
 
-#### **_Sobre las características del hombre_**
+#### _Sobre las características del hombre_
 
 El hombre, como el oro, también debe ser probado:
 
@@ -1807,7 +1762,7 @@ El hombre debe reunir varias condiciones, algunas de las cuales son:
 
 Aquel que combine estas veintiuna cualidades será, en verdad, un excelente hombre.
 
-**_Sobre las características de un yerno_**
+#### _Sobre las características de un yerno_
 
 Aquel que debe hacer la selección de un yerno debe fijarse en los aspectos que siguen:
 
@@ -1815,11 +1770,11 @@ Tiene que provenir de una buena familia, que no ha conocido pecado ni pobreza; d
 
 Un hombre así, según la descripción de los sabios, es el que conviene para dar a una oven en matrimonio.
 
-##### **Defectos y malas cualidades de un yerno:**
+#### Defectos y malas cualidades de un yerno:
 
 Aquel hombre nacido en una mala familia; que es vicioso, licencioso, descreído; que tiene enfermedades infecciosas; que es desleal y cruel, pobre y mezquino; impotente, inclinado a ocultar virtudes y a divulgar los vicios de otros; que viaja permanentemente, que no suele estar en casa vive fuera; que pide prestado y no tiene amigos entre la gente de bien. Un padre precavido no puede elegir a ese hombre para yerno.
 
-#### **_Sobre los buenos y malos augurios_**
+#### _Sobre los buenos y malos augurios_
 
 Los _Samadrika-laskshana_ o signos quirománticos, buenos o malos, que afectan la dicha son las siguientes.
 
@@ -1883,7 +1838,7 @@ En el libro _Naradokta_ está escrito que no se deberá jamás desposar a una jo
 
 su familia, uno tras otro. El hombre que la despose morirá muy pronto y le seguirá toda su familia, y así, las dos familias quedarán destruidas.
 
-#### **_Acerca del adulterio y la seducción_**
+#### _Acerca del adulterio y la seducción_
 
 Las relaciones sexuales con la esposa de otro hombre generan siete clases de dificultades:
 
@@ -2231,13 +2186,11 @@ El hombre, ascendiendo al trono del amor, gozará de la mujer a plena satisfacci
 
 _Ella estaba allí, abandonada al gozo, preñada de deseos y ruegos_ ... _cómo olvidar sus palabras, azoradas, tan mías, repitiéndose en los ecos de su cuerpo._
 
-113
-
-## **_Capítulo 9_**
+## _Capítulo 9_
 
 _La miro al despertar, eclipsando con sus manos los rasguños que, embriagado por el licor de su lengua, yo mismo dibujé en sus pechos; ¡cómo ardieron nuestras pieles al encontrarse, desnudas!_
 
-## Los placeres externos
+### Los placeres externos
 
 Los "goces o placeres externos" preceden siempre al goce interno o unión sexual.
 
@@ -2247,7 +2200,7 @@ Esta clase de caricias afectan los sentidos y apartan la mente de la timidez y l
 
 Tras estos juegos y artificios, el amante procederá a tomar posesión de las ansias de su amada.
 
-### Los abrazos
+#### Los abrazos
 
 Son ocho las _alinganas,_ o modos de abrazar. A continuación se describen:
 
@@ -2277,11 +2230,7 @@ Los pezones tocan el otro cuerpo; el hombre, inmóvil, cierra los ojos, mientras
 
 ##### _Urupagudha_
 
-Llamado así porque se usan los muslos. Ambos están de pie, se ciñen mutuamente. El hombre coloca las piernas de la mujer entre las suyas de modo que el interior de sus muslos esté en contacto con el exterior de los de ella. En todos estos casos, se besan de vez
-
-116
-
-**_Ananga Ranga_** en cuando. Éste es un procedimiento característico de todos los enamorados.
+Llamado así porque se usan los muslos. Ambos están de pie, se ciñen mutuamente. El hombre coloca las piernas de la mujer entre las suyas de modo que el interior de sus muslos esté en contacto con el exterior de los de ella. En todos estos casos, se besan de vez en cuando. Éste es un procedimiento característico de todos los enamorados.
 
 ##### _Dughdanir-alingana_
 
@@ -2319,47 +2268,47 @@ Sin embargo, esto dista de ser habitual entre los hombres de nuestro país o del
 
 Existen además diez clases diferentes de besos, cada una de las cuales tiene su propio nombre, y se las describirá en su debido orden:
 
-##### **_Milita_**
+##### _Milita_
 
 Este término significa _mishrita_ (mezcla o conciliación). Cuando la esposa está enfadada, no importa hasta qué punto, el esposo no la debe besar en la cara; por tanto, éste aplicará con fuerza sus labios sobre los de ella y mantendrá las bocas unidas hasta que pase el enfado.
 
-##### **_Sphurita_**
+##### _Sphurita_
 
 Este beso está vinculado con el estremecimiento espasmódico. La esposa acerca su boca a la del esposo, y cuando éste besa su labio inferior, se aparta de un salto, por expresarle de alguna manera, sin retomar al beso.
 
-##### **_Ghatika_**
+##### _Ghatika_
 
 Palabra usada por los poetas para designar el beso en la nuca. Lo da la esposa, quien, excitada por la pasión, cubre los ojos de su esposo con las manos y cerrando sus propios ojos, introduce la lengua en su boca, moviéndola de un lado a otro de modo tan pausado y placentero que de inmediato sugiere otra forma de goce.
 
-##### **_Tiryak_**
+##### _Tiryak_
 
 También conocido como beso oblicuo; el esposo, situado detrás o al costado de su esposa, coloca la mano bajo su mentón y lo levanta hasta que su cara queda contemplando el cielo. Luego, atrapa su labio inferior y lo muerde y rumia suavemente.
 
-##### **_Uttaroshtha_**
+##### _Uttaroshtha_
 
 Llamado "beso en el labio superior". Cuando la esposa está llena de deseo, debe tomar el labio inferior del esposo entre sus dientes y morderlo con suavidad, mientras él hace lo mismo con su labio superior. Así ambos alcanzan la cumbre de la pasión.
 
-##### **_Pindita_**
+##### _Pindita_
 
 En el "beso del terrón”, la esposa toma los labios del esposo con los dedos, pasa su lengua sobre ellos y los muerde.
 
-##### **_Samputa_**
+##### _Samputa_
 
 Es decir, "beso del estuche". En este caso el esposo besa el interior de la boca de su esposa; ella lo imita.
 
-##### **_Hanuvatra_**
+##### _Hanuvatra_
 
 No se besa de inmediato. Se comienza moviendo los labios de manera provocativa, antojadiza, pícara y traviesa. Después de jugar durante algún tiempo, deben aproximarse las bocas e intercambiarse los besos.
 
-##### **_Pratibodha_**
+##### _Pratibodha_
 
 El llamado "beso despertador" es cuando el esposo, ausente durante largo tiempo, vuelve a su casa y descubre a su esposa durmiendo sobre la alfombra en un dormitorio solitario: aplica sus labios sobre los suyos y aumenta gradualmente la presión hasta que ella despierta. Ésta es, sin lugar a dudas, la clase más encantadora de beso, y deja el más delicioso recuerdo.
 
-##### **_Samaushta_**
+##### _Samaushta_
 
 La esposa toma la boca y labios del esposo entre los suyos, los oprime con la lengua y baila a su alrededor.
 
-### Los rasguños
+#### Los rasguños
 
 En general, la pareja no sabe cuáles son los lugares del cuerpo más apropiados para esta clase de caricias. Entonces hay que comentar que existen once partes del cuerpo sobre las cuales puede usarse la presión con las uñas. Éste debe aplicarse con fuerzas muy graduadas.
 
@@ -2427,27 +2376,27 @@ Hay siete formas diferentes de aplicar las unas:
 
 Es el nombre que se da a los tres rasguños o marcas hechas con las uñas de los tres prnneros dedos sobre la espalda, los senos Y las partes de alrededor del _yoni._ Este _nakhadana_ es recomendable antes de un viaje a un país distante; sirve como recordatorio.
 
-##### **_Ardhachandra_**
+##### _Ardhachandra_
 
 Se imprime una marca semejante a una medialuna sobre el cuello y los senos.
 
-##### **_Churit-nakhandana_**
+##### _Churit-nakhandana_
 
 Las uñas se aplican sobre las mejillas, labio inferior y senos de modo que no dejen marcas pero provoquen cosquilleo, hasta que el vello del cuerpo se eriza y un estremecimiento recorre los muslos de la mujer.
 
-##### **_Mandalaka_**
+##### _Mandalaka_
 
 Consiste en aplicar las uñas durante algún tiempo sobre la cara hasta dejar un señal en ella.
 
-##### **_Mayurapada_**
+##### _Mayurapada_
 
 "Pisada del pavo real": estriba en colocar el pulgar sobre el pezón y los cuatro dedos sobre el seno contiguo, ejerciendo una compresión con las uñas hasta que la marca semeje la huella que un pavo real deja al caminar sobre el barro.
 
-##### **_Shasha-pluta_**
+##### _Shasha-pluta_
 
 El llamado "salto del conejo" es la marca hecha sobre la parte más oscura del seno cuando ninguna otra porción resulta afectada. Al fijar las uñas con amor y afecto, el hombre experto, enloquecido por la furia de la pasión, proporciona la mayor satisfacción a los deseos sexuales de la mujer.
 
-##### **_Tarunabhava_**
+##### _Tarunabhava_
 
 Los hombres conocedores del _Kama Sutra_ la llaman rekha (línea). Consiste en una marca de uñas de más de dos o tres dedos de longitud sobre la cabeza, los muslos y los senos de la mujer.
 
@@ -2463,35 +2412,35 @@ Los dientes más apreciados en el esposo son aquellos de color rosado, no totalm
 
 Al igual que las uñas, son siete los _dashanas_ o formas de aplicar los dientes.
 
-##### **_Bindu-dashana_**
+##### _Bindu-dashana_
 
 El "mordisco de la gota" consiste en que los dientes frontales del esposo dejen una marca sobre el labio inferior de la mujer.
 
-##### **_Bindu-mala_**
+##### _Bindu-mala_
 
 Llamado "un rosario de puntos o gotas"; igual al anterior, salvo que se usan todos los dientes frontales para crear una marca regular.
 
-##### **_Gudhaka-dashana_**
+##### _Gudhaka-dashana_
 
 El "mordisco oculto”, consiste en aplicar los dientes sobre la parte interior de los labios de la mujer sin dejar marca exterior que pueda ser vista por otros.
 
-##### **_Khandabhrak_**
+##### _Khandabhrak_
 
 Ramillete o multitud de marcas formado por las huellas de los dientes sobre la frente y la mejilla, el cuello y el pecho de la esposa. Cuando se lo dispone sobre el cuerpo como el _mandala, o dashanagramandal_ con el rectángulo en forma de boca en la parte superior, multiplicará su belleza.
 
-##### **_Koiacharca_**
+##### _Koiacharca_
 
 Nombre dado por los sabios a las marcas penetrantes y duraderas que el esposo, en el ardor de la pasión y el dolor de la separación cuando está por iniciar un viaje hacia tierra lejana, deja sobre el cuerpo de su esposa. Tras su partida, ella mirará esas marcas, y lo recordará con el corazón anhelante.
 
-##### **_Pravalamani-dashana_**
+##### _Pravalamani-dashana_
 
 El llamado "mordisco de coral" consiste en la unión de los dientes del hombre y los labios de la mujer que convierte el deseo en una llama abrasadora. No puede describirse, sólo se alcanza mediante la experiencia y no por la breve práctica de unos pocos días.
 
-##### **_Uchun-dashana_**
+##### _Uchun-dashana_
 
 Este término define el mordisco en cualquier parte de los labios o mejillas de una mujer.
 
-### El cabello
+#### El cabello
 
 Las diferentes formas de _keshagrahana, o_ sea, la manipulación del cabello femenino. Éste debe ser suave, abundante, negro y ondulado; nunca, crespo o lacio.
 
@@ -2499,29 +2448,29 @@ Las ocasiones más apropiadas para activar el deseo de una mujer es el momento e
 
 Hay cuatro clases de _keshagrahana:_
 
-##### **_Bhujangavallika_**
+##### _Bhujangavallika_
 
 "La jugada del dragón”: cuando el esposo, excitado por la vecindad de la unión sexual, toma con amor el lazo posterior del cabello de su esposa y la abraza estrechamente. Esto se hace de pie y con las piernas entrecruzadas. Es uno de los juegos más excitantes.
 
-##### **_Kamavatanansa-keshagrahana_**
+##### _Kamavatanansa-keshagrahana_
 
 “Sujetar el mechón del amor": el esposo sujeta con ambas manos el cabello de su esposa por encima de las orejas ella hace lo mismo, intercambiando besos en la boca.
 
-##### **_Tarangaranga-keshagrahana_**
+##### _Tarangaranga-keshagrahana_
 
 "Besar el cabello de forma ondulada o sinuosa": el esposo atrae a la esposa por la extremidad del cabello y simultáneamente la besa.
 
-##### **_Samahastaka-keshagrahana_**
+##### _Samahastaka-keshagrahana_
 
 "Sujetar el cabello con ambas manos": el esposo lo toma entre sus palmas por detrás de la cabeza de su esposa y al mismo tiempo la besa en su labio inferior.
 
 Aquí sólo se mencionan aquellas prácticas ampliamente conocidas. Se han omitido muchas otras no tan populares, ya que eso haría inacabable este trabajo.
 
-### Los golpes
+#### Los golpes
 
 En el combate de los juegos amorosos triunfa el más fuerte. A fin de presentar batalla, hay dos formas de ataque, conocidas como _karatadana y sitkreutodesha._
 
-##### **_Karatadana_**
+##### _Karatadana_
 
 Viene de _kara_ (mano) y _tadana_ (golpear). Según indica la palabra, consiste en golpear levemente, tanto por el hombre como por la mujer, sobre ciertos miembros de la otra persona.
 
@@ -2549,43 +2498,43 @@ Ahora especificaremos los diversos miembros sobre los cuales se debe operar:
 
 La mujer también aplica al hombre otras cuatro prácticas:
 
-##### **_Bindumala_**
+##### _Bindumala_
 
 Cuando la esposa, en el momento de la unión sexual, excita el cuerpo de su esposo sólo con los pulgares.
 
-##### **_Kundala_**
+##### _Kundala_
 
 Los poetas antiguos señalaban así a la acción de la mujer, que durante la unión sexual, excita el cuerpo de su esposo con el pulgar y el índice, no con el resto de la mano.
 
-##### **_Pataka_**
+##### _Pataka_
 
 Durante la unión sexual, la esposa golpea suavemente a su esposo con la mano abierta.
 
-##### **_Santanika_**
+##### _Santanika_
 
 Una esposa golpea suavemente con el puño la cabeza de su esposo, cuando los dos ya se han convertido en uno. Aumenta el placer.
 
-### Las expresiones sonoras del goce
+#### Las expresiones sonoras del goce
 
 Se llama _sikriti_ a los sonidos inarticulados que se producen al aspirar con los dientes cerrados. Están consideradas expresiones propias de mujeres, y los sabios los dividen en cinco clases:
 
-##### **_Bhavakriti_**
+##### _Bhavakriti_
 
 Un golpeteo martilleante, como cuando caen grandes gotas de lluvia. Se expresan como "¡Phap! ¡Phap!", y son generados por los labios, aunque sólo se emiten durante la unión sexual. Estos diversos si _kritis_ en boca de la mujer en el momento del goce se asemejarán, respectivamente, al sonido de la codorniz ( _lava_ ), del cuclillo indio _(kokila),_ de la paloma de cuello oscuro _(kapota),_ del ganso _(hansa)_ y del pavo real.
 
-##### **_Hinkriti_**
+##### _Hinkriti_
 
 Sonido grave y profundo, tal como “¡Hun! ¡Hun! ¡Hun! Hin! ¡Hin! ¡Hin!"; se producen con un mínimo esfuerzo de la nariz y también por la boca.
 
-##### **_Sikriti_**
+##### _Sikriti_
 
 El aliento se espira como el silbido de una serpiente. Lo expresa el sonido “¡Sh! ¡Sh!” producido sólo con la boca.
 
-##### **_Stanita_**
+##### _Stanita_
 
 Rumor sordo, como el retumbar de un trueno lejano. Se expresa mediante los sonidos "¡Ha! ¡Ha! O ¡Ha! ¡Ha!”, producido por la garganta, sin ayuda de los músculos nasales.
 
-##### **_Utkriti_**
+##### _Utkriti_
 
 Sonido crujiente, como el de un bambú que se rompe, expresado por “¡Dhat! ¡Dhat!", que se produce al golpear la punta de la lengua contra el paladar y moverla con rapidez mientras se lanza la interjección.
 
@@ -2595,35 +2544,35 @@ Los sonidos se emiten especialmente mientras el esposo besa, muerde y masca el l
 
 Las ocho grandes formas de _nayika, o ashtamanayika,_ deben ser conocidas por los hombres:
 
-##### **_Abhisarika_**
+##### _Abhisarika_
 
 La mujer dominada por sus pasiones sexuales se viste desvergonzadamente, y sale licenciosamente hacia la casa de algún extraño con la esperanza de tener relaciones.
 
-##### **_Kalakantarita_**
+##### _Kalakantarita_
 
 Este término se aplica a la esposa cuando tras haber sido agraviada por su esposo, éste cae a sus pies y le suplica su perdón, y ella le responde con gritos, lo expulsa de su presencia y decide no volver a verlo. Aunque luego, llena de remordimientos, expresa de diversas maneras el dolor y la angustia de la separación y finalmente se consuela con la esperanza de la reconciliación.
 
-##### **_Khanditanayika_**
+##### _Khanditanayika_
 
 Cuando el hombre tiene en su cuerpo las marcas producidas por reposar con una esposa rival y, aún con los ojos enrojecidos por haber llegado tarde, retorna a su amada temeroso y agitado; la halaga y le habla con dulzura con el fin de seducirla, y ella, desde luego, rehúsa a sus pretensiones, para ceder finalmente.
 
-##### **_Svadhinapurvapatika_**
+##### _Svadhinapurvapatika_
 
 Se designa así a la esposa cuyo esposo, en vez de satisfacer sus necesidades camales y sus deseos amorosos, se consagra a la búsqueda del conocimiento filosófico derivado de la meditación.
 
-##### **_Utkhanthita_**
+##### _Utkhanthita_
 
 La mujer que ama a su esposo intensamente. Así, sus ojos se iluminan; se adorna con joyas y guirnaldas. Es la que conoce los deseos de su esposo e, inflamada de pasión, espera su regreso apoyada sobre cojines en un dormitorio apropiado para el placer y suntuosamente adornado con espejos y pinturas.
 
-##### **_Vasakasajjita_**
+##### _Vasakasajjita_
 
 Los iniciados designan así a la esposa que, habiendo dispuesto un lecho agradable y blando en una alcoba seductora, llegada la noche se sienta sobre él y aguarda a su esposo con ansiedad, entrecerrando sus ojos y mirando hacia la puerta.
 
-##### **_Vipralabdha_**
+##### _Vipralabdha_
 
 Mujer decepcionada que, tras enviar una intermediaria para hacer una cita con un desconocido, se muestra confusa y agitada ante la perspectiva del goce, pero ve a la mensajera regresar sin el amante y cae en un estado febril.
 
-##### **_Viyogini_**
+##### _Viyogini_
 
 Durante el viaje de su esposo a alguna región remota, la mujer melancólica huele los excitantes perfumes del sándalo y otras esencias aromáticas y, al ver la flor del loto y la luz de la luna, cae en un arrebato de dolor.
 
@@ -2633,13 +2582,11 @@ _¡cómo olvidar el perfume que resbalaba_
 
 _de su sexo!_
 
-133
-
-## **_Capítulo 10_**
+## _Capítulo 10_
 
 _La pasión arrebataba y nos dejaba piel a piel los cuerpos entramados, batallando sin armas_ ... _nos diluíamos entre el morder de unos labios y el leve frenesí del rasguño._
 
-## Los goces internos
+### Los goces internos
 
 A los diversos preliminares externos descritos en el capítulo anterior les siguen los “goces internos"
 
@@ -2655,15 +2602,15 @@ _»Así el yoni, siendo estrecho y firme, se vuelve laxo y holgado. El esposo de
 
 Si la doncella tiene doce o trece años, y en cambio el hombre es adulto y ha perdido su vigor juvenil, ¿qué debe hacerse para igualarlos? En tal caso, se debe abrir las piernas de la mujer al máximo; de esa manera se la debilita, y así el hombre estará en igualdad.
 
-### **Las posturas** **_(bandhas)_**
+#### Las posturas _(bandhas)_
 
 Hay cinco _bandhas o asanas_ principales (posturas para la unión sexual), cada una de las cuales requiere su propia descripción, sucesivamente y en el orden debido.
 
-#### **_Uttana-bandha_**
+##### _Uttana-bandha_
 
 Boca arriba/arrodillado: La mujer se recuesta sobre sus espaldas y el hombre se arrodilla entre sus piernas. Allí la penetra. Pero ¿es esto todo lo que puede decirse? ¡De ninguna manera! Hay once subdivisiones:
 
-##### **_Samapada-uttana-bandha_**
+###### _Samapada-uttana-bandha_
 
 Posición de las piernas alzadas: la mujer se recuesta sobre su espalda y el hombre se arrodilla. Luego la levanta ligeramente tomándola por la cintura; al mismo tiempo, las piernas femeninas se elevan para quedar sobre los hombros masculinos. En el momento de efectuarse la penetración, él se arrodilla y la toma con las dos manos por la cintura.
 
@@ -2677,7 +2624,7 @@ _Colocación de los pies (ella)_
 
 Se sentirá más descansada si mantiene los pies sobre los hombros masculinos, muy cerca del cuello. Los muslos deben actuar como la llave del _yoni,_ pues al abrirlos o cerrarlos estará colaborando al mejor desplazamiento de la _linga._
 
-##### **_Nagara-uttana-bandha_**
+###### _Nagara-uttana-bandha_
 
 Con los pies en alto: el hombre recoge las piernas femeninas hasta su cintura, sin dejar de estar de rodillas. Enseguida, introduce su _linga_ en el _yoni_ Como los dos se están mirando, les resulta bastante sencillo balancearse; al mismo tiempo él presiona o acá ricia los pechos. También pueden besarse.
 
@@ -2689,7 +2636,7 @@ _Manos traviesas (él)_
 
 El hombre debe ser el escultor que modela las zonas del cuerpo que están a su alcance, como los pechos, los hombros y el rostro. También, con los labios se pueden crear verdaderas obras de arte.
 
-##### **_Traivikrama-uttana-bandha_**
+###### _Traivikrama-uttana-bandha_
 
 Una de las piernas de la mujer descansa sobre el lecho y la otra sobre la cabeza del hombre, que se apoya en el lecho con ambas manos. Esta posición permite la máxima penetración, pero ella debe estar completamente excitada para que la _linga_ penetre con un solo impulso. Esta forma es sencillamente admirable. Estas posiciones se idearon para hacer del juego amoroso un acto agradable.
 
@@ -2701,7 +2648,7 @@ _Estimulación mutua_
 
 Sea cual fuere el ritmo con el que ella cambia de posición las piernas, se trata de un ciclo estimulante para ambos.
 
-##### **_Vyomapada-uttana-bandha_**
+###### _Vyomapada-uttana-bandha_
 
 La mujer recostada sobre su espalda eleva ambas piernas ayudada por sus manos, luego las retrae hasta su cabeza, mientras el hombre, inclinándose sobre ella, coloca ambas manos sobre sus senos y la goza.
 
@@ -2721,7 +2668,7 @@ _Mirada mutua (él)_
 
 Luego de penetrarla, en el continuo vaivén nunca deja de mirarla. Toma sus tobillos y marca el ritmo.
 
-##### **_Smarachakrasana_**
+###### _Smarachakrasana_
 
 Posición de la rueda del kama: ideal para las parejas voluptuosas. El hombre se sienta entre las piernas de la mujer y luego extiende totalmente los brazos para rodearla por el cuerpo. Así da comienzo el coito.
 
@@ -2735,7 +2682,7 @@ _Mirándose a la cara_
 
 De frente y con los ojos bien abiertos, para poder contemplar la excitación del otro. Algo que se debe premiar con unos besos apasionados.
 
-##### **_Avidarita_**
+###### _Avidarita_
 
 Conocida como "la posición exquisita”: el hombre coloca a su amada de espalda; luego se acomoda entre las piernas deseadas, las lleva a la altura de sus caderas y, por último, efectúan la penetración.
 
@@ -2747,7 +2694,7 @@ _Manos traviesas (ella)_
 
 Las manos deben juguetear en el tórax, los brazos y la cara del amado.
 
-##### **_Saumaya-bandha_**
+###### _Saumaya-bandha_
 
 El "abrazo placentero": nombre dado a un tipo de unión muy apreciada entre los expertos del _Kama Sutra._
 
@@ -2761,13 +2708,9 @@ _El cuello es la mejor contención (ella)_
 
 Con las dos manos se sujeta al cuello, sin presionar. Sólo para sentirlo "más suyo" _Sosteniendo a quien deseas (él)_
 
-Al sostenerla por la espalda, se la puede alzar un poco o bien dejarla caer lentamente, ello de
+Al sostenerla por la espalda, se la puede alzar un poco o bien dejarla caer lentamente, ello de acuerdo con la intensidad de las penetraciones.
 
-140
-
-**_Ananga Ranga_** acuerdo con la intensidad de las penetraciones.
-
-##### **_Jrimbhita-asana_**
+##### _Jrimbhita-asana_
 
 La "posición de la hendedura": la mujer levanta sus pies hasta dejar las rodillas a la altura de la cintura del hombre y, después, los baja para poner las plantas en las sábanas o en el colchón.
 
@@ -2781,7 +2724,7 @@ El uso de algunas almohadillas o almohadas permite asegurar la penetración hori
 
 Esta posición tiene la gran ventaja de que ambos están un mismo plano; de esa manera, los sexos de ambos se acoplan adecuadamente.
 
-##### **_Veshtita-asana_**
+###### _Veshtita-asana_
 
 La “posición circular": la mujer acostada sobre su espalda, el hombre se arrodilla, coloca sus manos alrededor de la espalda de ella y realiza un abrazo muy estrecho. Su amada lo corresponde recogiendo las piernas y entrecruzando los pies junto al vientre masculino.
 
@@ -2793,7 +2736,7 @@ _Aliviar la presión (él)_
 
 La mejor manera de aligerar la presión sobre las piernas de la mujer es apoyarse en las palmas de la mano.
 
-##### **_Venuvidarita_**
+###### _Venuvidarita_
 
 La posición "intacta": en el momento del coito, la mujer pasa sus piernas entre los brazos masculinos, al tiempo que recoge las rodillas; así ofrece su _yoni._ El hombre, arrodillado, sujeta los pies y acaricia el vientre de la mujer. Pueden balancearse mientras practican los juegos que facilitarán la mejor comunión de sus sexos.
 
@@ -2803,7 +2746,7 @@ _Mejora la excitación (él)_
 
 En las embestidas de la penetración, con los muslos oprimidos, se mejora la excitación si se acaricia su vientre y sus pechos.
 
-##### **_Sphutma-uttana-bandha_**
+###### _Sphutma-uttana-bandha_
 
 La “posición de la rajadura”: la mujer se coloca acostada sobre varios cojines teniendo cuidado ubicar algunos debajo de sus caderas. De esta manera, su cuerpo queda formando un gran arco.
 
@@ -2815,13 +2758,13 @@ El hecho de que los pies de la mujer pasen de un hombro a otro mientras se reali
 
 Según apriete o abra las rodillas y los muslos, ella consigue que el _yoni_ aprisione a la _linga_ con más fuerza. Pronto él suplica que se cierre más intensamente.
 
-##### **_Tiryak-bandha (lado a lado)_**
+###### _Tiryak-bandha (lado a lado)_
 
 La postura oblicua o sesgada ( _tiryak_ ) consiste esencialmente en que la esposa esté recostada de lado.
 
 Hay tres subdivisiones:
 
-##### **_Vinaka-tiryak-bandha_**
+##### _Vinaka-tiryak-bandha_
 
 La "posición del abrazo del cangrejo”. Sólo es apta para amantes maduros o muy expertos. El hombre recostado de lado junto a la mujer coloca una de sus piernas, según sea la posición, sobre la cadera izquierda o derecha, a la vez que deja la otra pierna en la cama para que los dos amantes puedan mover los pies a su antojo, siempre en beneficio del coito.
 
@@ -2837,7 +2780,7 @@ Lógicamente, es la más descansada, por eso resulta ideal para los amantes entr
 
 Simplemente se doblan las rodillas; así ambos se proporcionan mayor placer al lograr una mejor penetración.
 
-##### **_Samputa-tiryak-bandha_**
+##### _Samputa-tiryak-bandha_
 
 La "posición de la cítara oblicua" La pareja tendida de costado, antes de dar comienzo al coito, entrelaza las piernas para conseguir la mayor proximidad. Una vez realizada la penetración, las mismas piernas les sirven para fortalecer esta unión.
 
@@ -2845,7 +2788,7 @@ El nombre de la "cítara oblicua" obedece a que las piernas se comportan como si
 
 Él puede servirse de una mano para estimular el clítoris. Además, los amantes más atrevidos llegan a excitarse los esfínteres con manipulaciones apropiadas.
 
-##### **_Karkata-tiryak-bandha_**
+##### _Karkata-tiryak-bandha_
 
 Ambos sobre sus costados, el hombre se coloca entre los muslos de la mujer, uno de los cuales está debajo de él y el otro sobre su flanco. Después, la mujer levanta ligeramente su pierna para permitir la penetración; deberá reposar su muslo sobre el costado de él. Si el hombre se impulsa hacia arriba, fraccionará su _linga_ contra el _yoni_ de ella, estimulan do el clítoris.
 
@@ -2853,11 +2796,11 @@ _La pierna de arriba_ (ella)
 
 Colocar la pierna de arriba descansando el arco sobre la cadera del hombre.
 
-#### **_Upavishta-bandha (sentados)_**
+#### _Upavishta-bandha (sentados)_
 
 La postura sentada _(upavishta)_ puede ofrecer cariño o estar llena de erotismo, acrobacia o diversión, según la mentalidad de la pareja. Existen diez subdivisiones.
 
-##### **_Padmasana_**
+##### _Padmasana_
 
 La posición del loto: el hombre se sienta sobre el lecho, recoge sus pies, coloca a la mujer sobre las piernas y la sujeta por las caderas. Cuando da inicio el coito, ambos gozan de una profunda intimidad, lo que los invita a besarse en el cuello, la boca, los pechos, etc.
 
@@ -2879,13 +2822,13 @@ _Usar bien las piernas (ella)_
 
 Las piernas bien manejadas pueden ser las llaves del coito.
 
-##### **_Upapad-asana_**
+##### _Upapad-asana_
 
 La "posición de la culminación”. Los dos permanecen sentados: la mujer levanta ligeramente una de sus piernas y, luego, coloca sus manos sobre las rodillas masculinas en un gesto de entrega. Ya pueden dar comienzo a las penetraciones. Es una refinada consumación.
 
 En esta variante de la "posición del loto" se debe prevenir que, al encontrarse tan juntos, puede llegar mucho antes el desenlace. Los amantes deben ser muy expertos para evitar que broten los orgasmos en un momento no deseado. Además, el hombre sentirá tal opresión alrededor de su _linga_ , debido a lo mucho que se estrechan las paredes del _yoni,_ que le costará realizar los desplazamientos de abajo hacia arriba.
 
-##### **_Vaidhurit-asana_**
+##### _Vaidhurit-asana_
 
 La “posición de la igualdad": abrazados mutuamente por el cuerpo, ella con las piernas extendidas alrededor de la cintura del hombre se encuentra a la vez sentada sobre los muslos de él. Como ha dejado los brazos echados hacia atrás, para sujetar los pies de él, se inicia el coito con una cierta agresividad, que, lentamente, puede irse aliviando.
 
@@ -2895,7 +2838,7 @@ Posición considerada la más equilibrada a la hora de valorar el placer de ambo
 
 Al echar el cuerpo hacia atrás y suponer que se está remando se incremento el goce. Las paladas de los dedos sobre los pies masculinos deben ser cortas.
 
-##### **_Phanipash-asana_**
+##### _Phanipash-asana_
 
 La "trampa de la serpiente". El hombre y la mujer sujetan sus respectivos pies. Sin embargo, ella sigue sentada sobre los muslos masculinos, a la vez que pasa sus piernas por la cintura del amado mientras permanecen mirándose.
 
@@ -2909,7 +2852,7 @@ _Mirarse a los ojos_
 
 Mirarse fijamente implica lo mucho que se desean y lo bien que va el coito. No se debe silenciar la satisfacción que se está sintiendo.
 
-##### **_Sanyaman-asana_**
+##### _Sanyaman-asana_
 
 “Posición de los pies enlazados": la mujer pasa sus pies por debajo de los brazos del hombre, con las piernas recogidas. Enseguida, éste la abraza con fuerza por las rodillas, con lo que logra un enlazamiento ideal para que las embestidas de su _linga_ alcancen una profundidad pocas veces conquistada.
 
@@ -2925,7 +2868,7 @@ _Dispuesta a lo mejor_ (ella)
 
 No importa estar relajada; ella deja caer sobre los codos parte del peso del cuerpo. Pero se debe seguir apretando con los muslos.
 
-##### **_Kaurmak-asana_**
+##### _Kaurmak-asana_
 
 La "posición de la tortuga”: hombre y mujer se sientan de tal manera que sus brazos, piernas y bocas permanecen en contacto, bien unidos, mientras se realiza el coito.
 
@@ -2935,7 +2878,7 @@ Debido a que él sostiene a su amada por el cuerpo, teniéndola de frente, puede
 
 Como se puede ver, ésta es una posición sólo apta para amantes flexibles, lo que no impide que los demás puedan intentarla; no se mortifique si no llegara a completarla adecuadamente.
 
-##### **_Parivartit-asana_**
+##### _Parivartit-asana_
 
 Con el contacto mutuo de boca, brazos y piernas, el hombre pasa ambas piernas de la mujer bajo sus brazos, a la altura de los codos. La mujer recostada se sienta a horcajadas sobre el regazo de su hombre y éste le acomoda las piernas hasta la posición adecuada, pero en el calor de la pasión cualquiera de los dos puede hacer los ajustes necesarios.
 
@@ -2943,7 +2886,7 @@ _Los ojos apoyan_
 
 Mirarse sostenidamente u observar la acción que transcurre abajo.
 
-##### **_Yugmapad-asana_**
+##### _Yugmapad-asana_
 
 Nombre con que los poetas designan la posición en la cual el hombre se sienta con las piernas abiertas y, tras la inserción y penetración, su mujer cruza las piernas por detrás de su espalda. En esta posición, como en las anteriores, se necesita tiempo para despertar y provocar los sentidos, por lo que no es conveniente agotarse tratando el coito como si fuera un ejercicio o una competencia.
 
@@ -2951,7 +2894,7 @@ _Tomarse los tiempos_
 
 Esta posición, por ser relajada, permite a la pareja tomar el control sobre la tensión sexual.
 
-##### **_Vinardit-asana_**
+##### _Vinardit-asana_
 
 La “posición del señuelo". Posición sólo posible para un hombre muy fuerte con una mujer liviana. Él la levanta pasando sus brazos, a la altura de los codos, por debajo de sus piernas y luego la mueve de izquierda a derecha, hasta que llega el momento del orgasmo.
 
@@ -2959,7 +2902,7 @@ _Ella es liviana (él)_
 
 Como él tiene que levantarla y moverla sobre su _linga,_ ella deber ser menuda.
 
-##### **_Markat-asana_**
+##### _Markat-asana_
 
 La “posición del mono"; parecida a la anterior, pero aquí el hombre mueve a la mujer de atrás hacia adelante en lugar de hacerlo de un lado a otro. Se pueden combinar ambos movimientos al ir acelerando gradualmente el ritmo, el cual estará marcado por la pasión.
 
@@ -2967,11 +2910,11 @@ _Una tregua_
 
 Para evitar el cansancio, ambos plantean una “tregua", durante la cual los besos y las caricias mantendrán el deseo entre los dos.
 
-#### **_Uthita-bandha (parados)_**
+#### _Uthita-bandha (parados)_
 
 Tanto el _Kama Sutra_ como el _Ananga Ranga_ dan mucha importancia a las posturas de pie, llamadas _uthita,_ las cuales admiten tres subdivisiones:
 
-##### **_Janu-kuru-uthita-bandha_**
+##### _Janu-kuru-uthita-bandha_
 
 Se traduce como "forma de pie con la rodilla y el codo"; esta posición requiere una gran fuerza física de parte del hombre. Ambos de pie, uno enfrente de otro. El hombre pasa los dos brazos bajo las rodillas de su mujer, sosteniéndola sobre la parte interior de sus rodillas. Luego la levanta hasta su cintura y la goza; ella se prende de su cuello con ambas manos.
 
@@ -2979,7 +2922,7 @@ _Posición de transición (él)_
 
 Como el hombre necesita mucha fuerza para sostenerla y estar en movimiento, esta posición es considerada sólo de transición. El puede recargarse en la pared para un mejor equilibrio. Después, la traslada con cuidado al lecho sin dejar de penetraría.
 
-##### **_Hari-vikrama-uthita-bandha_**
+##### _Hari-vikrama-uthita-bandha_
 
 El hombre levanta sólo una pierna de su mujer, quien con la otra se apoya en el suelo. Es una posición deliciosa para las mujeres jóvenes.
 
@@ -2995,7 +2938,7 @@ _La profundidad (ella)_
 
 Si el muslo rodea la pierna del hombre, ella logra una penetración más profunda.
 
-##### **_Kirti-uthita-bandha_**
+##### _Kirti-uthita-bandha_
 
 También requiere fuerza en el hombre, aunque no tanta como la primera subdivisión.
 
@@ -3005,13 +2948,13 @@ _Apretar_ (ella)
 
 Puede apretar su cintura con los muslos y tratar de enlazar los tobillos en su espalda.
 
-#### **_Vyanta-bandha (boca abajo)_**
+#### _Vyanta-bandha (boca abajo)_
 
 Este término implica unión sexual con una mujer cuando ella está boca abajo, es decir, con el pecho y el vientre sobre el lecho.
 
 De este _asana_ existen dos subdivisiones bien conocidas:
 
-##### **_Dhenuka-vyanta-bandha_**
+##### _Dhenuka-vyanta-bandha_
 
 La palabra "de la vaca": la mujer imita a un cuadrúpedo, apoyada sobre sus manos y pies (o sobre sus rodillas). El hombre, desde atrás, la toma por la cintura y la goza como si fuese un toro. Esta postura tiene un gran mérito religioso. _Buena apoyatura (él)_
 
@@ -3019,7 +2962,7 @@ Las piernas deben estar bien separadas y las palmas de las manos extendidas sobr
 
 Aferrado a sus caderas y cintura, se moverá a su propio ritmo.
 
-##### **_Aybha-vyanta-bandha_**
+##### _Aybha-vyanta-bandha_
 
 La "postura del elefante": la mujer yace de tal manera que su cara, pecho, vientre y muslos tocan el lecho o alfombra, y el hombre, extendiéndose sobre ella y doblándose como un, elefante, con la parte inferior de su espalda muy curvada, la toma por debajo hasta lograr la penetración.
 
@@ -3045,7 +2988,7 @@ Y el poeta respondió:
 
 -¡Escucha, oh, rajá! mientras relato todo lo que merece conocerse de esa clase de unión sexual.
 
-#### **_Purushayita-bandha (ella arriba)_**
+#### _Purushayita-bandha (ella arriba)_
 
 Esta posición es contraria a aquella que los hombres practican habitualmente. En este caso el hombre se recuesta sobre su espalda, coloca a su mujer encima suyo y así la goza. Resuelta especialmente útil cuando él está cansado y no es capaz de esfuerzo muscular, mientras que ella no se ha satisfecho y está todavía llena de ansias de amor.
 
@@ -3053,7 +2996,7 @@ La mujer lleva a su hombre a la posición boca arriba sobre el lecho, se monta s
 
 De esta clase de unión surgen otras tres subdivisiones.
 
-##### **_Viparita-bandha_**
+##### _Viparita-bandha_
 
 "Brazo opuesto": la mujer se recuesta sobre el hombre, que permanece totalmente extendido y relajado. El contacto es total: los pechos femeninos cumplen un papel inicial de excitación, preparando el momento en que ella tome la _linga_ y la lleve a su _yoni._
 
@@ -3067,7 +3010,7 @@ Para ayudar a estos movimientos, abre o cierra la gruta del paraíso a voluntad;
 
 Esto se aprende con mucha práctica y, sobre todo, concentrándose en las zonas que se verán más beneficiadas, de una forma similar a como los hombres se esmeran en mejorar sus otros sentidos.
 
-##### **_Purushayita-bhramara-bandha_**
+##### _Purushayita-bhramara-bandha_
 
 La "posición de la gran abeja": la mujer se sienta en cuclillas sobre el hombre, cierra los muslos con firmeza y, en el momento que se introduce la _linga_ , empieza a controlar todas las acciones.
 
