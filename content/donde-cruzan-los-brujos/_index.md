@@ -27,14 +27,13 @@ tags = [
 license = "CC BY-NC-SA 4.0"
 license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 +++
+## Portadilla
 
-# Donde cruzan los brujos
+**Donde cruzan los brujos**
 
-### Taisha Abelar
+_Taisha Abelar_
 
 _Biblioteca Nueva Era — Rosario, Argentina_
-
----
 
 ## Índice
 
@@ -62,11 +61,9 @@ _Biblioteca Nueva Era — Rosario, Argentina_
 - Capítulo 20
 - Capítulo 21
 
----
+## Epigrafé
 
 > _Con afecto para todos los viajeros que se adentran a lo desconocido_
-
----
 
 ## Introducción de Carlos Castaneda
 
@@ -92,8 +89,6 @@ En el mundo de don Juan los brujos, de acuerdo con su temperamento básico, se d
 
 Si bien todos los miembros del grupo de brujos encabezado por don Juan tenían un conocimiento global de ambas artes, eran asignados a un bando o al otro. Taisha Abelar fue adscrita a los acechadores e instruida por ellos. Su libro porta el sello de su estupenda preparación como acechadora.
 
----
-
 ## Prefacio
 
 He dedicado mi vida a la práctica de una rigurosa disciplina que llamamos "brujería", por falta de un nombre más apropiado. También soy antropóloga, campo de estudios en el que ostento el doctorado. He puesto mis dos áreas de conocimiento en este orden particular porque primero me involucré con la brujería. Normalmente uno llega a ser antropólogo y luego realiza trabajos de campo sobre algún aspecto cultural, las prácticas de brujería, por ejemplo. En mi caso sucedió al revés: como estudiosa de la brujería fui a estudiar antropología.
@@ -117,8 +112,6 @@ Tras examinar cuidadosamente mis objetivos finales he llegado -junto con mis com
 Los sucesos narrados por mí en este texto tratan sobre las etapas iniciales del entrenamiento de un brujo acechador. Esta fase entraña depurar las maneras habituales de pensar, actuar y sentir por medio de una empresa tradicional de la brujería llamada la "recapitulación", que todos los neófitos deben llevar a cabo. Como complemento de la recapitulación se me enseñó una serie de prácticas llamadas "pases brujos", combinación de movimiento y respiración. A fin de dar a dichas prácticas la coherencia adecuada, mi instrucción incluyó las explicaciones de las premisas filosóficas correspondientes.
 
 El objetivo de todo lo que aprendí fue redistribuir y aumentar mi energía normal con el fin de realizar con ella la percepción fuera de lo ordinario que es parte del entrenamiento en la brujería. Este entrenamiento se basa en la idea de que, una vez roto, por medio de la recapitulación, el patrón compulsivo de los hábitos, pensamientos, expectativas y sentimientos, uno se encuentra, de manera indisputable, en situación de acumular energía suficiente para vivir de acuerdo con las premisas brindadas por la tradición de la brujería, así como para probar dichas premisas mediante la percepción directa de una realidad diferente.
-
----
 
 ## Capítulo 1
 
@@ -354,7 +347,6 @@ Tuve que aceptar que sólo otorgaba sentido a mi monótona existencia, además d
 
 Se subió a su coche y con la mano me señaló que la siguiera. En ese momento me di cuenta de que Clara no me había preguntado si llevaba pasaporte, ropa o dinero suficientes, o si tenía otras obligaciones. El hecho no me asustó ni me desalentó. No sé por qué, pero al soltar el freno de mano y ponerme en movimiento, estaba segura de haber tomado la decisión correcta. Quizá mi vida iba a cambiar después de todo.
 
----
 
 ## Capítulo 2
 
@@ -636,7 +628,6 @@ La encontré en la sala, acomodando flores en un florero chino blanco y azul. La
 
 -Te ves fresca y lozana -indicó-. Come un sandwich. Pronto llegará el crepúsculo y no tenemos tiempo que perder.
 
----
 
 ## Capítulo 3
 
@@ -840,7 +831,6 @@ Las sombras oscilaron cuando bajé la mecha de la lámpara, al desvanecerse el �
 
 Al mirar el espacio oscuro delante de mí, observé que el aire del cuarto se tornaba efervescente. Recordé las palabras de Clara acerca de la carga de energía imperceptible que llenaba la casa, como una corriente eléctrica que fluía por sus cables. Debido a toda nuestra actividad, no me había dado cuenta de ello antes. No obstante, ahora, en el silencio total, claramente escuché un suave zumbido. Luego vi unas minúsculas burbujas saltar por todo el cuarto a una velocidad tremenda. Chocaban frenéticamente unas con otras, despidiendo un zumbido monótono igual al de miles de abejas. La habitación y toda la casa parecían cargadas de una sutil corriente eléctrica que llenaba por completo mi ser.
 
----
 
 ## Capítulo 4
 
@@ -1106,7 +1096,6 @@ Pregunté si el orden en que se recuerda el pasado importa. Replicó que lo impo
 
 -No -contestó solemnemente-. Forma parte de otra tradición. Algún día, pronto, te enterarás de qué tradición se trata.
 
----
 
 ## Capítulo 5
 
@@ -1270,7 +1259,6 @@ Me senté nuevamente para calmarme. Al tomar unos sorbos de té, se me ocurrió 
 
 Clara fijó en mí una mirada tan esperanzada que tomé el lápiz para escribir la promesa, repasando las palabras deliberadamente para que no hubiese confusión acerca del plazo de un mes. Regateó conmigo para que en ese mes no incluyera el tiempo que requiriese para hacer la lista de nombres. Accedí y agregué un apéndice en este sentido; a continuación y a pesar de lo que me decía mi propio juicio, firmé.
 
----
 
 ## Capítulo 6
 
@@ -1480,8 +1468,6 @@ Clara explicó que la expresión en los ojos de un gallo de pelea no es la expre
 
 "El ojo que contempla el interior es inconmovible -prosiguió Clara- No refleja preocupaciones ni temores humanos, sino la inmensidad. Los videntes que han mirado el infinito dan fe de que el infinito devuelve la mirada con una inconmovible y fría indiferencia.
 
----
-
 ## Capítulo 7
 
 Una tarde, poco antes de que oscureciera, Clara y yo regresábamos a la casa desde la cueva por la larga ruta escénica cuando sugirió que nos sentáramos a descansar a la sombra de unos árboles. Estábamos observando las sombras proyectadas por los árboles en el suelo cuando de súbito una ráfaga de viento estremeció las hojas que empezaron a centellear formando una conmoción de luz y oscuridad. Pequeñas olas recorrieron los dibujos en el suelo. Cuando hubo pasado el viento, las hojas de nuevo se aquietaron, y también las sombras.
@@ -1665,8 +1651,6 @@ Clara se rió hasta que parecía a punto de caerse de la roca en la que estaba s
 -Quizá -respondió vagamente-. O tal vez incluso veas a las personas a quienes pertenecen las sombras y las voces.
 
 Quería saber a qué personas se refería, pero se negó a decir más al respecto. Se puso de pie en forma abrupta y anunció que quería volver a la casa para prender el dínamo antes de que oscureciera demasiado.
-
----
 
 ## Capítulo 8
 
@@ -1857,8 +1841,6 @@ Indicó que en ese momento el no hacer sería, por ejemplo, obligarme a contener
 -No finjas confiar, mientras que en secreto albergas dudas -advirtió Clara-. Sólo cuando tus fuerzas positivas y negativas se encuentren en perfecta armonía serás capaz de sentir o ver la abertura en la energía a tu alrededor, o de caminar con los ojos cerrados y tener el éxito asegurado.
 
 Respiré hondo varias veces y empecé a caminar, sin mirar el piso pero con las manos estiradas delante de mí, por si chocaba con algo. Por un rato seguí dando traspiés y en cierto momento tropecé con una maceta y me hubiera caído, de no sujetarme Clara del brazo. Poco a poco empecé a tropezar menos, hasta que ya no me causó ningún trabajo caminar en forma ininterrumpida. Era como si mis pies pudiesen distinguir claramente todo lo que había en el patio y supiesen con exactitud dónde pisar y dónde no pisar.
-
----
 
 ## Capítulo 9
 
@@ -2142,8 +2124,6 @@ De súbito Clara se puso de pie y agarró su bulto.
 
 -No me preguntes más al respecto -pidió, categórica-. Más luego averiguarás todo lo que quieras saber, pero alguien con mayor capacidad que yo para explicar estas cosas te lo dirá.
 
----
-
 ## Capítulo 10
 
 Clara estaba sentada en el sillón de ratán a la orilla del patio, cepillándose su lustroso cabello negro. Lo acomodó con las puntas de los dedos hasta que todo quedó en su lugar. Al terminar de arreglarse, se llevó la palma de la mano izquierda a la frente y la frotó suavemente con un movimiento circular. Luego se pasó la mano por encima de la cabeza y hasta la base de la nuca, para finalmente sacudir las muñecas y los dedos en el aire. Repitió esta secuencia de frotar y sacudir varias veces más.
@@ -2404,8 +2384,6 @@ Quedé horrorizada. Era la primera vez que Clara me revelaba algo acerca de su p
 
 -Sólo tienes tiempo para luchar por la libertad, Taisha -indicó, dándome un empujoncito-. Ahora es ahora.
 
----
-
 ## Capítulo 11
 
 Estaba oscureciendo y cada vez me preocupaba más terminar mi tarea. Clara me había pedido rastrillar las hojas en el claro detrás de la casa y que subiera unas piedras del arroyo, para bordear por ambos lados el camino que conducía del huerto a la parte de atrás del patio. Había rastrillado las hojas y estaba colocando apresuradamente las piedras del río a lo largo del camino, cuando Clara salió de la casa para ver cómo iba.
@@ -2634,8 +2612,6 @@ Clara asintió con la cabeza.
 
 -Hoy has aprendido algo de auténtico valor, Taisha. ¡En los mundos fuera de éste no existen las sombras!
 
----
-
 ## Capítulo 12
 
 Después de más de ocho meses de practicar la recapitulación fielmente, ya lo podía hacer durante todo el día sin irritarme ni distraerme. Un día me estaba representando mentalmente los edificios, salones y maestros de mi último año de preparatoria. Me dejé llevar tanto por mi recorrido a lo largo de los pasillos y por ver dónde se sentaban mis compañeros que terminé hablando conmigo misma.
@@ -2863,8 +2839,6 @@ No podía ni siquiera concebir cómo dirigir mi intento con mi intento. El seño
 Con voz suave, el señor Abelar me recordó que fijara la atención en el calor externo de mi cuerpo y que tratara de extenderlo, empujándolo hacia afuera desde el interior y permitiendo que se expandiera.
 
 Me concentré en mi respiración hasta que todo vestigio de tensión desapareció dentro de mí. Al relajarme más aún, dejé que el calor hormigueante buscara su propio curso; no se movió hacia afuera ni se expandió; en cambio, se contrajo, hasta que tuve la sensación de estar acostada sobre un globo gigantesco que flotaba en el espacio. Experimenté un momento de pánico; dejé de respirar y por un instante empecé a asfixiarme. Entonces algo afuera de mí se hizo cargo y empezó a respirar por mí. Me envolvieron olas de energía arrulladora que se expandieron y contrajeron hasta que todo oscureció a mi alrededor y ya no pude fijar la conciencia en nada. Desperté con la voz de Clara, que me decía que me incorporara. Tardé mucho tiempo en reaccionar; en primer lugar, porque estaba totalmente desorientada, y en segundo, porque tenía las piernas dormidas. Al notar mis dificultades, Clara me sujetó de los brazos, me jaló al frente y me metió unas almohadas detrás de la espalda, para que pudiera mantenerme sentada sin su ayuda. Me encontraba en mi cama y traía puesto mi camisón. Por la luz supe que la tarde ya estaba avanzada.
-
----
 
 ## Capítulo 13
 
@@ -3114,8 +3088,6 @@ No entendí si quería que asintiera por causa de Manfredo, quien se había inco
 
 Entró corriendo a la casa, con Manfredo pisándole los talones.
 
----
-
 ## Capítulo 14
 
 Transcurrieron semanas, luego meses. En realidad no ponía atención a las fechas ni al paso del tiempo. Clara, Manfredo y yo vivíamos en perfecta armonía. Clara dejó de insultarme, o quizá fui yo la que dejé de sentirme ofendida. Dedicaba todo mi tiempo a recapitular y a practicar kung fu con Clara y con Manfredo, quien con sus cuarenta y cinco kilogramos de puro hueso y músculo era un adversario sumamente peligroso. Estaba segura de que una embestida de su cabeza equivalía al golpe de un boxeador profesional.
@@ -3337,8 +3309,6 @@ Clara se puso de pie y me dio un pañuelo.
 -La única manera de sacarte de esta tristeza es haciéndote enojar o pensar -indicó-. Haré las dos cosas contándote lo siguiente. No sólo supe dónde encontrarte en el desierto, sino que ¿te acuerdas del departamentito caliente y sofocante del que me pediste que sacara tus cosas? Bueno, pues, mi primo es dueño del edificio.
 
 Miré a Clara escandalizada, incapaz de pronunciar una sola palabra. La risa de Clara y del señor Abelar fue como una gigantesca explosión que reverberaba dentro de mi cabeza. Ninguna cosa que dijeran o me revelaran hubiera podido sorprenderme más. Al desvanecerse mi estupor inicial, en lugar de ofenderme por haber sido manejada de ese modo, me llené de admiración ante la increíble precisión de sus maniobras y la inmensidad de su control, que por fin comprendí no era control sobre mí sino sobre sí mismos.
-
----
 
 ## Capítulo 15
 
@@ -3596,8 +3566,6 @@ Sin responder, Nélida se dio la vuelta y se encaminó a la casa. Al llegar a la
 
 Quise correr detrás de ella, pero no pude moverme. Empecé a lloriquear y de repente me salió un gemido extrañísimo, un sonido que no era del todo humano. Comprendí por qué Clara me había amarrado su faja protectora en el estómago: para defenderme de ese golpe. Me acosté boca abajo sobre el montón de hojas y dentro de ellas solté el grito animal que me sofocaba. No alivió mi angustia. Saqué los cristales, los acomodé entre mis dedos e hice girar los brazos en círculos cada vez más pequeños, contra el sentido del reloj. Apunté los cristales a mi indolencia, mi cobardía y mi inútil autocompasión.
 
----
-
 ## Capítulo 16
 
 Nélida me esperaba con paciencia en la puerta trasera. Había tardado horas en calmarme. La tarde estaba avanzada. La seguí al interior de la casa. En el pasillo, justo delante de la sala, se detuvo de manera tan brusca que casi choqué con ella.
@@ -3765,8 +3733,6 @@ Se puso detrás de mí y me volvió en dirección del pasillo.
 Grité intento tres veces. En esta ocasión mi voz no me salió chillona sino resonó fuertemente, más allá de los muros de la casa. Al sonar el tercer grito, el aire del pasillo empezó a chisporrotear. Miles de millones de diminutas burbujas relumbraron y brillaron, como si todas se hubieran encendido en el mismo instante. Escuché un suave zumbido que me recordó el sonido amortiguado de un generador. Su ronroneo hipnótico me jaló al interior, cruzando el umbral sobre el que Nélida y yo estábamos paradas. Tenía los oídos tapados y tuve que tragar saliva varias veces para destaparlos. Luego el zumbido paró y me encontré en el centro de un pasillo que era la imagen exacta del pasillo en el lado derecho de la casa, donde estaba mi cuarto. Sólo que este pasillo estaba lleno de gente. Todos habían salido de sus cuartos y me estaban mirando fijamente, como si hubiese caído de otro planeta y materializado justo delante de sus ojos.
 
 Entre ellos, en el extremo más alejado del pasillo, vi a Clara. Esbozaba una sonrisa radiante y abrió los brazos, invitándome a abrazarla. Luego vi a Manfredo, que rascaba el piso. Estaba tan feliz de verme como Clara. Eché a correr hacia ellos, pero en lugar de sentir mis pasos sobre el piso de madera fui lanzada al aire. Desesperada, observé que pasaba por encima de Clara y Manfredo y todas las demás personas en el pasillo. No pude controlar mis movimientos; sólo pude gritar angustiada los nombres de Clara y de Manfredo, al pasar volando por encima de ellos hasta más allá del pasillo y de la casa, más allá de los árboles y los cerros, hacia un fulgor deslumbrante y, finalmente, una quietud totalmente negra.
-
----
 
 ## Capítulo 17
 
@@ -3973,8 +3939,6 @@ La oscuridad era total. Escuché los grillos y el murmullo del arroyo a la dista
 El miedo invadió mi cuerpo, en forma de un temblor en los dedos de los pies. La vibración me subió a los pies y de ahí a las piernas, hasta que todo mi cuerpo de la cintura para abajo se sacudía, fuera de control. Empecé a sentirme amodorrada y desorientada. No sabía dónde quedaban la puerta ni la lámpara sorda. Comencé a percatarme de que la casa se ladeaba. Fue un movimiento casi imperceptible al principio, pero se hizo más considerable, hasta que el piso parecía estar inclinado en un ángulo de cuarenta y cinco grados. Lancé un grito al sentir que la plataforma se ladeaba más aún. La idea de tener que descender por medio de las poleas me paralizaba. Estaba segura de que moriría cayéndome del árbol. La sensación de estar de lado era tan intensa que cobré la certeza de que me caería de la plataforma y me resbalaría por la puerta. En cierto momento la inclinación era tan aguda que de hecho tenía la impresión de estar de pie y no acostada.
 
 Grité a cada movimiento repentino, sujetándome de una de las vigas laterales para no resbalarme. Toda la casa del árbol parecía estarse deshaciendo. Sentí náuseas con el movimiento. La oscilación y los crujidos se tornaron tan intensos que supe que sería la última noche de mi vida. Justo en el instante en que abandoné por completo toda esperanza de sobrevivir, algo inconcebible acudió a salvarme. Una luz emanó de mi interior. Brotó por todas las aberturas de mi cuerpo. La luz era un pesado líquido luminoso que me clavó sobre la plataforma, cubriéndome como una armadura resplandeciente. Me apretó la laringe y calmó mis gritos, pero también me despejó el pecho, me permitió respirar mejor. Me calmó el estómago nervioso y cortó el temblor de mis piernas. La luz iluminó todo el cuarto, de modo que pude distinguir la puerta a poca distancia de mí. Asoleándome en su brillo, me tranquilicé. Se desvanecieron todos mis temores y preocupaciones, ya no importaba nada. Permanecí tendida, totalmente quieta y serena, hasta que rompió el alba. Completamente restablecida bajé por medio de las poleas y me dirigí a la cocina para preparar el desayuno.
-
----
 
 ## Capítulo 18
 
@@ -4224,8 +4188,6 @@ Para mí estaba perfecto, le dije, porque nunca me había gustado mucho comer.
 
 Sus declaraciones le parecieron tan desmedidamente graciosas que se dobló de la risa. Sin dejar de reírse, se volteó y me dejó a solas para meditar su filosofía.
 
----
-
 ## Capítulo 19
 
 Esa noche llovió y hubo truenos y relámpagos. Pero no habría forma alguna de explicar lo que significó estar en una casa de árbol mientras un rayo tras otro desgarraba el cielo y caía sobre los árboles a mi alrededor. Mi miedo fue indescriptible. Grité incluso más fuerte que la primera noche, cuando sentía que se ladeaba la cama de la plataforma. Era un miedo animal que me paralizó. Lo único que se me ocurrió pensar fue que siendo por naturaleza una cobarde, afortunadamente siempre pierdo el conocimiento cuando la tensión aumenta demasiado.
@@ -4411,8 +4373,6 @@ Esbozó una sonrisa lasciva que me dio escalofríos. No obstante, antes de que p
 -Sacar al doble de manera fácil y armoniosa y desplazar a él nuestra conciencia de la vida cotidiana es algo que no tiene igual -indicó con voz suave-. Hacer eso es inconcebible.
 
 "Ahora hagamos algo totalmente concebible. Vayamos a desayunar.
-
----
 
 ## Capítulo 20
 
@@ -4633,8 +4593,6 @@ Sólo pude devolver su mirada con la boca abierta. Había repetido mi pensamient
 Se volteó y se alejó de la casa.
 
 -Aún no ha llegado el momento de enseñarte lo que tenía pensado -dijo-. No. Necesitas trabajar mucho más en corregirte. Mucho más. Y de aquí en adelante tendrás que proceder con mucho más cuidado; tendrás que esforzarte muchísimo, porque no puedes permitirte más errores.
-
----
 
 ## Capítulo 21
 
